@@ -1,5 +1,8 @@
 # Canadian laws: update log
 
+## 2026-11-23
+* **Update**: [Canada (federal)](federal/): 120 laws added, changed or removed.
+
 ## 2026-11-16
 * **Update**: [ns](ns/): 2024 laws added, changed or removed.
 * **Update**: [nl](nl/): 2068 laws added, changed or removed.

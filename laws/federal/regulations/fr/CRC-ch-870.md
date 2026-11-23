@@ -8,30 +8,30 @@ jurisdiction: "federal"
 language: "fr"
 number: "C.R.C., ch. 870"
 source_id: "C.R.C.,_ch._870"
-current_to: "2026-06-17"
-last_amended: "2026-06-17"
+current_to: "2026-10-19"
+last_amended: "2026-10-01"
 in_force: true
 translation: "../en/CRC-c-870.md"
 status: "stable"
-generated: { by: process:canada-laws-federal-converter, at: 2026-06-17T00:00:00Z }
+generated: { by: process:canada-laws-federal-converter, at: 2026-10-19T00:00:00Z }
 sources:
   - id: "justice-xml"
     resource: "https://github.com/justicecanada/laws-lois-xml/blob/main/fra/reglements/C.R.C.,_ch._870.xml"
     title: "Justice Canada consolidated XML (laws-lois-xml)"
     author: "org:justice-canada"
-    last_modified: "2026-06-17T00:00:00Z"
+    last_modified: "2026-10-19T00:00:00Z"
   - id: "justice-laws"
     resource: "https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._870/"
     title: "Justice Laws Website"
     author: "org:justice-canada"
-    last_modified: "2026-06-17T00:00:00Z"
+    last_modified: "2026-10-01T00:00:00Z"
 ---
 
 # Règlement sur les aliments et drogues
 
 *Règlement concernant les aliments et drogues*
 
-C.R.C., ch. 870 · Codification: 2026-06-17 · Dernière modification: 2026-06-17
+C.R.C., ch. 870 · Codification: 2026-10-19 · Dernière modification: 2026-10-01
 
 Autorité habilitante: [LOI SUR LES ALIMENTS ET DROGUES](../../acts/fr/F-27.md)
 
@@ -75,7 +75,7 @@ Autorité habilitante: [LOI SUR LES ALIMENTS ET DROGUES](../../acts/fr/F-27.md)
 
 ***Liste des drogues sur ordonnance*** Liste établie par le ministre en vertu de l’article 29.1 de la Loi; (***Prescription Drug List***)
 
-***Loi*** Sauf pour l’application des parties G et J, la [Loi sur les aliments et drogues](../../acts/fr/F-27.md); (***Act***)
+***Loi*** La [Loi sur les aliments et drogues](../../acts/fr/F-27.md); (***Act***)
 
 ***méthode acceptable*** Méthode d’analyse ou d’examen désignée par le ministre comme étant acceptable aux fins de l’application de la Loi et du présent règlement; (***acceptable method***)
 
@@ -83,7 +83,7 @@ Autorité habilitante: [LOI SUR LES ALIMENTS ET DROGUES](../../acts/fr/F-27.md)
 
 ***numéro de lot*** désigne toute combinaison de lettres, de chiffres ou de lettres et de chiffres au moyen de laquelle tout aliment ou une drogue peut être retracé au cours de la fabrication et identifié au cours de la distribution. (***Lot number***)
 
-<sub>Historique: DORS/84-300, art. 1(F); DORS/85-141, art. 1; DORS/89-455, art. 1; DORS/97-12, art. 1; DORS/2000-353, art. 1; DORS/2001-272, art. 5; DORS/2003-135, art. 1; DORS/2013-122, art. 1; DORS/2018-69, art. 1 et 27; DORS/2022-197, art. 1</sub>
+<sub>Historique: DORS/84-300, art. 1(F); DORS/85-141, art. 1; DORS/89-455, art. 1; DORS/97-12, art. 1; DORS/2000-353, art. 1; DORS/2001-272, art. 5; DORS/2003-135, art. 1; DORS/2013-122, art. 1; DORS/2018-69, art. 1 et 27; DORS/2022-197, art. 1; DORS/2025-246, art. 1</sub>
 
 **A.01.011** Le ministre doit, sur demande, fournir des exemplaires des méthodes officielles.
 
@@ -4921,29 +4921,29 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 <sub>Historique: DORS/88-336, art. 3; DORS/2024-244, art. 51</sub>
 
-**B.08.016** DORS/2024-244, art. 52
+**B.08.016** \[Abrogé, DORS/2024-244, art. 52\]
 
-**B.08.017** DORS/2024-244, art. 52
+**B.08.017** \[Abrogé, DORS/2024-244, art. 52\]
 
-**B.08.018** DORS/2024-244, art. 52
+**B.08.018** \[Abrogé, DORS/2024-244, art. 52\]
 
-**B.08.019** DORS/2024-244, art. 52
+**B.08.019** \[Abrogé, DORS/2024-244, art. 52\]
 
-**B.08.020** DORS/2024-244, art. 52
+**B.08.020** \[Abrogé, DORS/2024-244, art. 52\]
 
-**B.08.021** DORS/2024-244, art. 52
+**B.08.021** \[Abrogé, DORS/2024-244, art. 52\]
 
-**B.08.022** DORS/2024-244, art. 52
+**B.08.022** \[Abrogé, DORS/2024-244, art. 52\]
 
-**B.08.023** DORS/2024-244, art. 52
+**B.08.023** \[Abrogé, DORS/2024-244, art. 52\]
 
 **B.08.024** Est interdite la vente de lait aux fins de fabrication de produits laitiers, sauf s’il contient une quantité de sédiments égale ou inférieure à celle figurant à la colonne 3 du Tableau des caractéristiques chimiques, physiques et nutritionnelles des aliments, déterminée selon la méthode correspondante figurant à la colonne 4.
 
 <sub>Historique: DORS/82-768, art. 18; DORS/2024-244, art. 52</sub>
 
-**B.08.025** DORS/2024-244, art. 53
+**B.08.025** \[Abrogé, DORS/2024-244, art. 53\]
 
-**B.08.026** DORS/2024-244, art. 53
+**B.08.026** \[Abrogé, DORS/2024-244, art. 53\]
 
 **B.08.027** Malgré toute autre disposition du présent règlement, nul n’est tenu d’ajouter des vitamines aux produits laitiers ci-après, à l’égard desquels une norme est prévue dans le volume 7 du Document sur les normes de composition des aliments, s’ils sont utilisés ou vendus aux fins de fabrication d’autres aliments :
 
@@ -4971,7 +4971,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 <sub>Historique: DORS/78-656, art. 13; DORS/2024-244, art. 53</sub>
 
-**B.08.028** DORS/2024-244, art. 53
+**B.08.028** \[Abrogé, DORS/2024-244, art. 53\]
 
 #### Lait de chèvre
 
@@ -5125,17 +5125,17 @@ pour chaque lot de fromage vendu.
 
 **B.08.053** Tout produit laitier employé dans la préparation du fromage cottage doit avoir été pasteurisé.
 
-**B.08.054** DORS/2024-244, art. 58
+**B.08.054** \[Abrogé, DORS/2024-244, art. 58\]
 
-**B.08.056** DORS/2024-244, art. 58
+**B.08.056** \[Abrogé, DORS/2024-244, art. 58\]
 
-**B.08.057** DORS/2024-244, art. 58
+**B.08.057** \[Abrogé, DORS/2024-244, art. 58\]
 
-**B.08.061** DORS/2024-244, art. 58
+**B.08.061** \[Abrogé, DORS/2024-244, art. 58\]
 
-**B.08.062** DORS/2024-244, art. 58
+**B.08.062** \[Abrogé, DORS/2024-244, art. 58\]
 
-**B.08.063** DORS/2024-244, art. 58
+**B.08.063** \[Abrogé, DORS/2024-244, art. 58\]
 
 #### Mélange pour crème glacée et mélange pour lait glacé
 
@@ -5143,11 +5143,11 @@ pour chaque lot de fromage vendu.
 
 <sub>Historique: DORS/92-400, art. 14; DORS/97-543, art. 4(F); DORS/2007-302, art. 4(F); DORS/2024-244, art. 58</sub>
 
-**B.08.072** DORS/2024-244, art. 58
+**B.08.072** \[Abrogé, DORS/2024-244, art. 58\]
 
 **B.08.073** \[Abrogé, DORS/92-626, art. 13\]
 
-**B.08.074** DORS/2024-244, art. 58
+**B.08.074** \[Abrogé, DORS/2024-244, art. 58\]
 
 **B.08.075** \[Abrogé, DORS/2024-244, art. 59\]
 
@@ -5161,7 +5161,7 @@ pour chaque lot de fromage vendu.
 
 ### TITRE 9 — Graisses et huiles
 
-**B.09.001** DORS/2024-244, art. 60
+**B.09.001** \[Abrogé, DORS/2024-244, art. 60\]
 
 **B.09.002** Est interdite la vente de graisses et d’huiles d’origine animale obtenues d’animaux qui ont été abattus, sauf si elles proviennent d’animaux qui étaient sains au moment de l’abattage.
 
@@ -7799,11 +7799,11 @@ auxquels du chlorure de sodium a été ajouté.
 
 ***hôpital*** S’entend au sens de l’article B.24.001; (***hospital***)
 
-***infirmier praticien*** S’entend au sens de l’article 1 du [Règlement sur les nouvelles catégories de praticiens](DORS-2012-230.md); (***nurse practitioner***)
+***infirmier praticien*** S’entend au sens du paragraphe 1(1) du [Règlement sur les substances désignées](DORS-2025-242.md); (***nurse practitioner***)
 
 ***médecin*** S’entend au sens de l’article B.24.001. (***physician***)
 
-<sub>Historique: DORS/2021-57, art. 13</sub>
+<sub>Historique: DORS/2021-57, art. 13; DORS/2025-246, art. 2</sub>
 
 **B.25.020** **(1)** L’étiquette extérieure d’un fortifiant pour lait humain porte les renseignements suivants :
 
@@ -9958,15 +9958,17 @@ auxquels du chlorure de sodium a été ajouté.
 
 - **b)** sur le quart supérieur gauche de l’espace principal :
 
-  - **(i)** le symbole « Pr », s’il s’agit d’une drogue sur ordonnance, lequel symbole ne peut figurer sur l’étiquette d’aucune autre drogue,
+  - **(i)** s’agissant d’une drogue sur ordonnance, le symbole « Pr », qui ne peut figurer sur l’étiquette d’aucune autre drogue,
 
-  - **(ii)** le symbole « *[Image: Symbole qui consiste en un losange dans lequel un C majuscule est centré.]* » inscrit clairement, d’une couleur et de dimensions bien visibles, s’il s’agit d’une drogue contrôlée autre qu’une drogue contrôlée contenue dans un implant agricole et mentionnée à la partie III de l’annexe de la partie G,
+  - **(ii)** s’agissant d’une *drogue contrôlée* au sens du paragraphe 1(1) du [Règlement sur les substances désignées](DORS-2025-242.md), autre que celle contenue dans un produit fini visé à l’article 3 de ce règlement, le symbole ci-après qui paraît clairement et qui est d’une couleur et de dimensions le mettant en évidence :
 
-  - **(iii)** le symbole « N » d’une couleur faisant contraste avec le reste de l’étiquette ou en caractères d’au moins la moitié de la taille de toute autre lettre utilisée sur l’étiquette, s’il s’agit d’un stupéfiant au sens du [Règlement sur les stupéfiants](CRC-ch-1041.md),
+    *[Image: Symbole qui consiste en un losange dont la plus longue diagonale est verticale et au centre duquel figure un C majuscule.]*
 
-  - **(iv)** s’il s’agit d’une substance ciblée au sens de l’article 1 du [Règlement sur les benzodiazépines et autres substances ciblées](DORS-2000-217.md), le symbole suivant, d’une couleur contrastant avec le reste de l’étiquette et en caractères d’au moins la moitié de la taille de toute autre lettre utilisée sur l’espace principal :
+  - **(iii)** s’agissant d’un *stupéfiant* au sens du paragraphe 1(1) du [Règlement sur les substances désignées](DORS-2025-242.md), le symbole « N » d’une couleur faisant contraste avec le reste de l’étiquette ou en caractères d’une taille au moins égale à la moitié de celle de toute autre lettre figurant sur l’étiquette,
 
-    *[Image: Symbole qui consiste en un carré divisé en deux à partir du coin supérieur gauche au coin inférieur droit. La moitié supérieure droite a un C majuscule à l’intérieur et la moitié inférieure gauche a un T majuscule à l’intérieur.]*
+  - **(iv)** s’agissant d’une *substance ciblée* au sens du paragraphe 1(1) du [Règlement sur les substances désignées](DORS-2025-242.md), le symbole ci-après, d’une couleur faisant contraste avec le reste de l’étiquette ou en caractères d’une taille au moins égale à la moitié de celle de toute autre lettre figurant sur l’espace principal :
+
+    *[Image: Image montrant le symbole bilingue associé à une substance ciblée. La version textuelle suit.]* Symbole qui consiste en un carré divisé en deux par la diagonale reliant le coin supérieur gauche au coin inférieur droit. La moitié supérieure droite montre l’image d’un C majuscule. La moitié inférieure gauche montre l’image d’un T majuscule.
 
 - **c)** sur une partie quelconque :
 
@@ -10028,7 +10030,7 @@ auxquels du chlorure de sodium a été ajouté.
 
 - **c)** celles visées à l’annexe D de la Loi.
 
-<sub>Historique: DORS/80-543, art. 2; DORS/81-334, art. 1(A); DORS/85-715, art. 2; DORS/89-229, art. 1; DORS/90-216, art. 1; DORS/90-586, art. 1; DORS/92-654, art. 2; DORS/93-202, art. 2; DORS/97-228, art. 1; DORS/97-515, art. 1; DORS/2000-219, art. 1; DORS/2001-181, art. 4; DORS/2010-105, art. 2; DORS/2011-88, art. 1; DORS/2013-122, art. 4 et 5; DORS/2014-158, art. 3; DORS/2019-170, art. 18; DORS/2023-247, art. 2; DORS/2024-238, art. 3</sub>
+<sub>Historique: DORS/80-543, art. 2; DORS/81-334, art. 1(A); DORS/85-715, art. 2; DORS/89-229, art. 1; DORS/90-216, art. 1; DORS/90-586, art. 1; DORS/92-654, art. 2; DORS/93-202, art. 2; DORS/97-228, art. 1; DORS/97-515, art. 1; DORS/2000-219, art. 1; DORS/2001-181, art. 4; DORS/2010-105, art. 2; DORS/2011-88, art. 1; DORS/2013-122, art. 4 et 5; DORS/2014-158, art. 3; DORS/2019-170, art. 18; DORS/2023-247, art. 2; DORS/2024-238, art. 3; DORS/2025-246, art. 3</sub>
 
 **C.01.004.01** **(1)** Toute étiquette d’une drogue pour usage humain sous forme posologique porte ce qui suit :
 
@@ -10924,9 +10926,9 @@ Les doses exactes peuvent être exprimées en unités métriques ou en unités i
 
 - **b)** à une drogue délivrée sur ordonnance;
 
-- **c)** à une drogue sur ordonnance ou à une drogue qui doit être vendue conformément à une ordonnance aux termes de la partie G, du [Règlement sur les benzodiazépines et autres substances ciblées](DORS-2000-217.md) ou du [Règlement sur les stupéfiants](CRC-ch-1041.md).
+- **c)** à une drogue sur ordonnance, à une *drogue contrôlée*, à un *stupéfiant* ou à une *substance ciblée* au sens du paragraphe 1(1) du [Règlement sur les substances désignées](DORS-2025-242.md) qui doit être vendu selon ce règlement conformément à une *prescription* au sens de ce paragraphe.
 
-<sub>Historique: DORS/86-93, art. 2; DORS/88-323, art. 2(F); DORS/93-411, art. 2; DORS/2013-122, art. 7</sub>
+<sub>Historique: DORS/86-93, art. 2; DORS/88-323, art. 2(F); DORS/93-411, art. 2; DORS/2013-122, art. 7; DORS/2025-246, art. 4</sub>
 
 **C.01.029** **(1)** Sous réserve des paragraphes C.01.031.2(1) et (2), une mise en garde spécifiant qu’il faut conserver la drogue hors de la portée des enfants doit figurer sur les étiquettes intérieure et extérieure d’une drogue :
 
@@ -10986,9 +10988,9 @@ Les doses exactes peuvent être exprimées en unités métriques ou en unités i
 
 **C.01.031.1** \[Abrogé, DORS/87-484, art. 3\]
 
-**C.01.031.2** **(1)** Les articles C.01.029 à C.01.031 ne s’appliquent pas à :
+**C.01.031.2** **(1)** Les articles C.01.029 à C.01.031 ne s’appliquent pas aux drogues suivantes :
 
-- **a)** une drogue sur ordonnance ou une drogue qui doit être vendue conformément à une ordonnance aux termes de la partie G, du [Règlement sur les benzodiazépines et autres substances ciblées](DORS-2000-217.md) ou du [Règlement sur les stupéfiants](CRC-ch-1041.md);
+- **a)** une drogue sur ordonnance, une *drogue contrôlée*, un *stupéfiant* ou une *substance ciblée* au sens du paragraphe 1(1) du [Règlement sur les substances désignées](DORS-2025-242.md) qui doit être vendu selon ce règlement conformément à une *prescription* au sens de ce paragraphe;
 
 - **b)** une drogue destinée exclusivement à l’usage parentéral;
 
@@ -11012,7 +11014,7 @@ Les doses exactes peuvent être exprimées en unités métriques ou en unités i
 
 - **c)** une drogue réservée à l’usage des cabinets de dentiste ou présentée dans un emballage destiné uniquement aux hôpitaux.
 
-<sub>Historique: DORS/86-93, art. 2; DORS/87-484, art. 4; DORS/88-323, art. 5(F); DORS/93-468, art. 3; DORS/2013-122, art. 8</sub>
+<sub>Historique: DORS/86-93, art. 2; DORS/87-484, art. 4; DORS/88-323, art. 5(F); DORS/93-468, art. 3; DORS/2013-122, art. 8; DORS/2025-246, art. 5</sub>
 
 **C.01.032** Est interdite la vente de toute drogue corticostéroïde pour usage ophtalmique, à moins
 
@@ -11504,13 +11506,13 @@ Les doses exactes peuvent être exprimées en unités métriques ou en unités i
 
 **C.01.048** **(1)** La personne qui reçoit une commande signée par un praticien ou un pharmacien peut distribuer ou faire distribuer à celui-ci, à titre d’échantillon, une drogue sous forme posologique, autre que celles mentionnées ci-après, dont le nom propre ou le nom usuel, la marque nominative et la quantité sont précisés dans la commande, si la drogue est conforme aux exigences du présent règlement :
 
-- **a)** un *stupéfiant* au sens du [Règlement sur les stupéfiants](CRC-ch-1041.md);
+- **a)** une *drogue contrôlée* ou un *stupéfiant* au sens du paragraphe 1(1) du [Règlement sur les substances désignées](DORS-2025-242.md);
 
-- **b)** une *drogue contrôlée* au sens de l’article G.01.001;
+- **b)** une *drogue sur ordonnance* au sens du paragraphe 1(2) du [Règlement sur le cannabis](DORS-2018-144.md).
 
 - **c)** \[Abrogé, DORS/2020-74, art. 3\]
 
-- **d)** une *drogue sur ordonnance* au sens du paragraphe 1(2) du [Règlement sur le cannabis](DORS-2018-144.md).
+- **d)** \[Abrogé, DORS/2025-246, art. 6\]
 
 **(1.1)** Il n’est permis, en vertu du paragraphe (1), de distribuer ou de faire distribuer une drogue sur ordonnance, à titre d’échantillon, à un praticien ou à un pharmacien que si celui-ci est autorisé à prescrire ou à dispenser la drogue en vertu des lois de la province où il exerce.
 
@@ -11528,7 +11530,7 @@ Les doses exactes peuvent être exprimées en unités métriques ou en unités i
 
 - **c)** la drogue est conforme aux exigences du présent règlement.
 
-<sub>Historique: DORS/93-202, art. 9; DORS/97-228, art. 2; DORS/2018-144, art. 366; DORS/2019-171, art. 24; DORS/2020-74, art. 3</sub>
+<sub>Historique: DORS/93-202, art. 9; DORS/97-228, art. 2; DORS/2018-144, art. 366; DORS/2019-171, art. 24; DORS/2020-74, art. 3; DORS/2025-246, art. 6</sub>
 
 **C.01.049** La personne qui, au titre du paragraphe C.01.048(1), reçoit une commande à l’égard d’une drogue et la distribue ou la fait distribuer, à titre d’échantillon, doit :
 
@@ -11580,7 +11582,7 @@ Les doses exactes peuvent être exprimées en unités métriques ou en unités i
 
 - **a)** les drogues sur ordonnance;
 
-- **b)** les drogues qui doivent être vendues conformément à une ordonnance aux termes de la partie G, du [Règlement sur les benzodiazépines et autres substances ciblées](DORS-2000-217.md) ou du [Règlement sur les stupéfiants](CRC-ch-1041.md);
+- **b)** les *drogues contrôlées*, les *stupéfiants* ou les *substances ciblées* au sens du paragraphe 1(1) du [Règlement sur les substances désignées](DORS-2025-242.md) qui doivent être vendus selon ce règlement conformément à une *prescription* au sens de ce paragraphe;
 
 - **c)** les drogues qui peuvent être vendues sans ordonnance, mais à administrer uniquement sous la surveillance d’un praticien.
 
@@ -11592,7 +11594,7 @@ Les doses exactes peuvent être exprimées en unités métriques ou en unités i
 
 **(6)** Au présent article, ***autorité réglementaire étrangère*** s’entend de tout organisme gouvernemental ou de toute autre entité, ailleurs qu’au Canada, qui est habilité à contrôler la fabrication, l’utilisation ou la vente de drogues sur le territoire relevant de sa compétence et qui peut prendre des mesures d’exécution pour veiller à ce que les drogues qui y sont commercialisées satisfassent aux exigences légales qui s’appliquent.
 
-<sub>Historique: DORS/2018-84, art. 2; DORS/2020-262, art. 2(F)</sub>
+<sub>Historique: DORS/2018-84, art. 2; DORS/2020-262, art. 2(F); DORS/2025-246, art. 7</sub>
 
 #### Rapports sur les rappels
 
@@ -11788,7 +11790,7 @@ Les doses exactes peuvent être exprimées en unités métriques ou en unités i
 
 - **b)** aucun emballage ne peut contenir un nombre d’unités posologiques inférieur à celui indiqué sur l’étiquette, sous réserve des écarts prévus au tableau du présent article;
 
-- **c)** dans le cas d’une drogue contrôlée au sens de l’article G.01.001 ou d’un stupéfiant au sens du [Règlement sur les stupéfiants](CRC-ch-1041.md), aucun emballage ne peut contenir un nombre d’unités posologiques supérieur à celui indiqué sur l’étiquette, sous réserve des écarts prévus au tableau du présent article.
+- **c)** s’agissant d’une *drogue contrôlée* ou d’un *stupéfiant* au sens du paragraphe 1(1) du [Règlement sur les substances désignées](DORS-2025-242.md), aucun emballage ne peut contenir un nombre d’unités posologiques supérieur à celui qui est indiqué sur l’étiquette, sous réserve des écarts prévus au tableau du présent article.
 
 **TABLEAU**
 
@@ -11804,7 +11806,7 @@ Les doses exactes peuvent être exprimées en unités métriques ou en unités i
 </tbody>
 </table>
 
-<sub>Historique: DORS/82-429, art. 4; DORS/89-455, art. 4; DORS/97-228, art. 3; DORS/2019-171, art. 24</sub>
+<sub>Historique: DORS/82-429, art. 4; DORS/89-455, art. 4; DORS/97-228, art. 3; DORS/2019-171, art. 24; DORS/2025-246, art. 8</sub>
 
 **C.01.062** **(1)** Sous réserve des paragraphes (2) à (5), le fabricant ne peut vendre une drogue sous forme posologique lorsque la quantité de tout ingrédient médicinal qu’elle contient, déterminée selon une méthode acceptable, représente :
 
@@ -12286,11 +12288,11 @@ Les doses exactes peuvent être exprimées en unités métriques ou en unités i
 
 ***grossiste*** Personne, autre qu’un distributeur visé à l’article C.01A.003, qui vend une ou plusieurs des drogues ci-après autrement qu’au détail :
 
-- **a)** toute drogue sous forme posologique visée aux annexes C ou D de la Loi, toute drogue qui est une drogue sur ordonnance ou toute drogue contrôlée au sens de l’article G.01.001;
+- **a)** toute drogue sous forme posologique visée aux annexes C ou D de la Loi ou toute drogue sur ordonnance;
 
 - **b)** un ingrédient actif;
 
-- **c)** un stupéfiant au sens du [Règlement sur les stupéfiants](CRC-ch-1041.md);
+- **c)** une *drogue contrôlée* ou un *stupéfiant* au sens du paragraphe 1(1) du [Règlement sur les substances désignées](DORS-2025-242.md);
 
 - **d)** une drogue contenant du *cannabis* au sens du paragraphe 2(1) de la [Loi sur le cannabis](../../acts/fr/C-24.5.md).
 
@@ -12344,7 +12346,7 @@ L’expression « vendre en gros » a un sens correspondant. (***wholesaler***
 
 **(3)** Lorsque le ministre désigne d’autres classes de formes posologiques, il met la liste de ces classes à la disposition de quiconque en fait la demande.
 
-<sub>Historique: DORS/97-12, art. 5; DORS/98-7, art. 1; DORS/2000-120, art. 1; DORS/2002-368, art. 1; DORS/2004-282, art. 1; DORS/2013-74, art. 2; DORS/2013-122, art. 14; DORS/2017-76, art. 7; DORS/2018-144, art. 367; DORS/2019-171, art. 24; DORS/2020-73, art. 1; DORS/2024-132, art. 86; DORS/2024-132, art. 87</sub>
+<sub>Historique: DORS/97-12, art. 5; DORS/98-7, art. 1; DORS/2000-120, art. 1; DORS/2002-368, art. 1; DORS/2004-282, art. 1; DORS/2013-74, art. 2; DORS/2013-122, art. 14; DORS/2017-76, art. 7; DORS/2018-144, art. 367; DORS/2019-171, art. 24; DORS/2020-73, art. 1; DORS/2024-132, art. 86; DORS/2024-132, art. 87; DORS/2025-246, art. 9</sub>
 
 #### Application
 
@@ -12426,13 +12428,13 @@ L’expression « vendre en gros » a un sens correspondant. (***wholesaler***
 
 **(3)** Il est interdit d’exercer une activité visée au paragraphe (1), à moins d’être titulaire de l’une ou l’autre des licences suivantes :
 
-- **a)** s’agissant d’un *stupéfiant* au sens du [Règlement sur les stupéfiants](CRC-ch-1041.md), la licence prévue pour ce stupéfiant dans ce même règlement;
+- **a)** s’agissant d’une activité à l’égard d’une *drogue contrôlée* ou d’un *stupéfiant* au sens du paragraphe 1(1) du [Règlement sur les substances désignées](DORS-2025-242.md), la licence de distributeur autorisé délivrée en application du paragraphe 12(1) de ce règlement;
 
-- **b)** s’agissant d’une *drogue contrôlée* au sens de l’article G.01.001, la licence prévue pour cette drogue à la partie G;
+- **b)** s’agissant d’une activité à l’égard d’une drogue contenant du *cannabis* au sens du paragraphe 2(1) de la [Loi sur le cannabis](../../acts/fr/C-24.5.md), la licence délivrée en vertu de cette loi pour l’exercice de cette activité conformément au [Règlement sur le cannabis](DORS-2018-144.md).
 
-- **c)** s’agissant d’une drogue contenant du *cannabis* au sens du paragraphe 2(1) de la [Loi sur le cannabis](../../acts/fr/C-24.5.md), la licence prévue pour cette drogue afin d’exercer cette activité au titre du [Règlement sur le cannabis](DORS-2018-144.md).
+- **c)** \[Abrogé, DORS/2025-246, art. 10\]
 
-<sub>Historique: DORS/97-12, art. 5; DORS/2002-368, art. 3; DORS/2013-74, art. 4; DORS/2017-259, art. 13; DORS/2018-144, art. 368; DORS/2019-171, art. 24; DORS/2022-100, art. 3</sub>
+<sub>Historique: DORS/97-12, art. 5; DORS/2002-368, art. 3; DORS/2013-74, art. 4; DORS/2017-259, art. 13; DORS/2018-144, art. 368; DORS/2019-171, art. 24; DORS/2022-100, art. 3; DORS/2025-246, art. 10</sub>
 
 #### Demande
 
@@ -12460,7 +12462,7 @@ L’expression « vendre en gros » a un sens correspondant. (***wholesaler***
 
 - **j)** l’identification numérique, le cas échéant, ou le nom qui identifie clairement la drogue s’il s’agit :
 
-  - **(i)** d’un *stupéfiant* au sens du [Règlement sur les stupéfiants](CRC-ch-1041.md), d’une *drogue contrôlée* au sens de l’article G.01.001 ou d’une drogue contenant du *cannabis* au sens du paragraphe 2(1) de la [Loi sur le cannabis](../../acts/fr/C-24.5.md), pour lequel la licence est demandée,
+  - **(i)** d’une drogue visée par la demande qui est soit une *drogue contrôlée* ou un *stupéfiant* au sens du paragraphe 1(1) du [Règlement sur les substances désignées](DORS-2025-242.md), soit une drogue contenant du *cannabis* au sens du paragraphe 2(1) de la [Loi sur le cannabis](../../acts/fr/C-24.5.md),
 
   - **(ii)** de toute autre drogue d’une catégorie visée par la demande, à moins que la licence ne vise les analyses effectuées conformément au titre 2, la distribution à titre de distributeur visé à l’alinéa C.01A.003a) ou la vente en gros;
 
@@ -12490,7 +12492,7 @@ L’expression « vendre en gros » a un sens correspondant. (***wholesaler***
 
 **(2)** La demande de licence d’établissement présentée relativement à l’une ou plusieurs des activités qui figurent au tableau I de l’article C.01A.008 et que le demandeur prévoit d’exercer à l’égard d’une catégorie de drogues figurant au tableau II de cet article et incluant une drogue manufacturée ou vendue en vue d’être utilisée relativement à une affection décrite dans la *Liste d’affections qui menacent la santé publique* au sens de l’article C.08.001.1, ou présentée comme pouvant l’être, peut contenir une mention à cet égard.
 
-<sub>Historique: DORS/97-12, art. 5; DORS/2000-120, art. 2; DORS/2002-368, art. 4; DORS/2011-81, art. 2; DORS/2013-74, art. 5; DORS/2018-144, art. 369; DORS/2019-171, art. 24; DORS/2021-45, art. 3; DORS/2024-238, art. 9</sub>
+<sub>Historique: DORS/97-12, art. 5; DORS/2000-120, art. 2; DORS/2002-368, art. 4; DORS/2011-81, art. 2; DORS/2013-74, art. 5; DORS/2018-144, art. 369; DORS/2019-171, art. 24; DORS/2021-45, art. 3; DORS/2024-238, art. 9; DORS/2025-246, art. 11</sub>
 
 **C.01A.006** **(1)** Toute demande de modification d’une licence d’établissement est présentée au ministre, en la forme établie par celui-ci, et contient les renseignements et documents visés à l’article C.01A.005 relativement à la modification demandée.
 
@@ -12576,10 +12578,10 @@ L’expression « vendre en gros » a un sens correspondant. (***wholesaler***
 | 3 | \[Abrogé, DORS/2013-179, art. 2\] |
 | 4 | Drogue, autre qu’un vaccin, visée à l’annexe D de la Loi |
 | 5 | Drogue visée à l’annexe C de la Loi |
-| 6 | Drogue qui est une drogue sur ordonnance, *drogue contrôlée* au sens de l’article G.01.001, *stupéfiant* au sens du [Règlement sur les stupéfiants](CRC-ch-1041.md), et drogue contenant du *cannabis* au sens du paragraphe 2(1) de la [Loi sur le cannabis](../../acts/fr/C-24.5.md) |
+| 6 | Drogue sur ordonnance, drogue qui est une *drogue contrôlée* ou un *stupéfiant* au sens du paragraphe 1(1) du [Règlement sur les substances désignées](DORS-2025-242.md) et drogue contenant du *cannabis* au sens du paragraphe 2(1) de la [Loi sur le cannabis](../../acts/fr/C-24.5.md) |
 | 7 | Ingrédient actif pharmaceutique figurant dans la Liste A qui est destiné à un usage vétérinaire |
 
-<sub>Historique: DORS/97-12, art. 5; DORS/2000-120, art. 3; DORS/2002-368, art. 5; DORS/2013-74, art. 6; DORS/2013-122, art. 15; DORS/2013-179, art. 2; DORS/2017-76, art. 9; DORS/2017-259, art. 14; DORS/2018-144, art. 370; DORS/2019-171, art. 24; DORS/2021-45, art. 6; DORS/2021-46, art. 11(A); DORS/2022-100, art. 4; DORS/2024-238, art. 11</sub>
+<sub>Historique: DORS/97-12, art. 5; DORS/2000-120, art. 3; DORS/2002-368, art. 5; DORS/2013-74, art. 6; DORS/2013-122, art. 15; DORS/2013-179, art. 2; DORS/2017-76, art. 9; DORS/2017-259, art. 14; DORS/2018-144, art. 370; DORS/2019-171, art. 24; DORS/2021-45, art. 6; DORS/2021-46, art. 11(A); DORS/2022-100, art. 4; DORS/2024-238, art. 11; DORS/2025-246, art. 12</sub>
 
 #### Examen annuel de la licence
 
@@ -16385,13 +16387,15 @@ le ministre doit délivrer le certificat d’études expérimentales pour la con
 
 #### Médicaments vendus sans ordonnance
 
-**C.09.001** Le présent titre ne s’applique pas
+**C.09.001** Le présent titre ne s’applique pas aux drogues suivantes :
 
-- **a)** à une drogue qui doit être vendue sur ordonnance aux termes du présent règlement ou du [Règlement sur les stupéfiants](CRC-ch-1041.md); ni
+- **a)** la drogue qui doit être vendue selon le présent règlement conformément à une ordonnance;
 
-- **b)** à une drogue destinée exclusivement aux animaux.
+- **b)** la drogue qui est un *stupéfiant* au sens du paragraphe 1(1) du [Règlement sur les substances désignées](DORS-2025-242.md) et qui doit être vendue selon ce règlement conformément à une *prescription* au sens de ce paragraphe;
 
-<sub>Historique: DORS/84-145, art. 4</sub>
+- **c)** la drogue destinée exclusivement aux animaux.
+
+<sub>Historique: DORS/84-145, art. 4; DORS/2025-246, art. 13</sub>
 
 #### Analgésiques
 
@@ -17939,277 +17943,41 @@ dans chaque forme posologique individuelle, s’il porte une étiquette indiquan
 
 <sub>Historique: DORS/78-422, art. 4; DORS/2016-74, art. 16</sub>
 
-## PARTIE G — Drogues contrôlées
+## PARTIE G — \[Abrogée, DORS/2025-242, art. 237\]
 
-### TITRE 1 — Dispositions générales
+**G.01.001** \[Abrogé, DORS/2025-242, art. 237\]
 
-#### Définitions
-
-##### Définitions
-
-**G.01.001** Les définitions qui suivent s’appliquent à la présente partie.
-
-***autorité compétente*** Organisme public d’un pays étranger qui est habilité, au titre des lois du pays, à consentir à l’importation ou à l’exportation de drogues contrôlées. (***competent authority***)
-
-***composé*** Vise notamment les préparations. (***compound***)
-
-***destruction*** S’agissant d’une drogue contrôlée, le fait de l’altérer ou de la dénaturer au point d’en rendre la consommation impossible ou improbable. (***destroy***)
-
-***Directive en matière de sécurité*** La Directive sur les exigences en matière de sécurité physique pour les substances désignées et les drogues contenant du cannabis, avec ses modifications successives, publiée par le gouvernement du Canada sur son site Web. (***Security Directive***)
-
-***distributeur autorisé*** Titulaire d’une licence délivrée au titre de l’article G.02.007. (***licensed dealer***)
-
-***drogue contrôlée*** S’entend de l’une des substances suivantes :
-
-- **a)** toute substance désignée qui est visée à l’annexe de la présente partie;
-
-- **b)** s’agissant d’une sage-femme, d’un infirmier praticien ou d’un podiatre, toute substance désignée qui est visée à l’annexe de la présente partie et que ce praticien peut, au titre des articles 3 et 4 du [Règlement sur les nouvelles catégories de praticiens](DORS-2012-230.md), prescrire ou avoir en sa possession ou relativement à laquelle il peut, au titre de ces articles, se livrer à toute autre opération. (***controlled drug***)
-
-***emballage*** Vise notamment toute chose dans laquelle une drogue contrôlée est, en tout ou en partie, contenue, placée ou empaquetée. (***package***)
-
-***étiquette*** S’entend au sens de l’article 2 de la [Loi sur les aliments et drogues](../../acts/fr/F-27.md). (***label***)
-
-***hôpital*** L’établissement, selon le cas :
-
-- **a)** qui peut, au titre d’une licence, d’une autorisation ou d’une désignation délivrée par une province sous le régime de ses lois, fournir des soins ou des traitements aux personnes ou aux animaux atteints d’une maladie ou d’une affection;
-
-- **b)** qui fournit des services de santé et qui soit appartient au gouvernement du Canada ou au gouvernement d’une province, soit est exploité par lui. (***hospital***)
-
-***infirmier praticien*** S’entend au sens de l’article 1 du [Règlement sur les nouvelles catégories de praticiens](DORS-2012-230.md). (***nurse practitioner***)
-
-***infraction désignée en matière criminelle*** S’entend des infractions suivantes :
-
-- **a)** infraction relative au financement du terrorisme visée aux articles 83.02 à 83.04 du [Code criminel](../../acts/fr/C-46.md);
-
-- **b)** infraction de fraude visée à l’un des articles 380 à 382 du [Code criminel](../../acts/fr/C-46.md);
-
-- **c)** infraction de recyclage des produits de la criminalité visée à l’article 462.31 du [Code criminel](../../acts/fr/C-46.md);
-
-- **d)** infraction relative à une organisation criminelle visée à l’un des articles 467.11 à 467.13 du [Code criminel](../../acts/fr/C-46.md);
-
-- **e)** tentative ou complot en vue de commettre une infraction visée aux alinéas a) à d), complicité après le fait à son égard ou fait de conseiller de la commettre. (***designated criminal offence***)
-
-***Loi*** La [Loi réglementant certaines drogues et autres substances](../../acts/fr/C-38.8.md). (***Act***)
-
-***nécessaire d’essai*** Nécessaire qui a les caractéristiques suivantes :
-
-- **a)** il contient d’une part une drogue contrôlée et d’autre part un réactif ou une substance tampon;
-
-- **b)** il est utilisé dans un processus chimique ou analytique de dépistage ou de quantification d’une drogue contrôlée à des fins médicales, industrielles, éducatives, pour des travaux de laboratoire ou de recherche ou pour l’application ou l’exécution de la loi;
-
-- **c)** son contenu n’est pas destiné à être consommé par une personne ou un animal, ni à leur être administré, et il n’est pas susceptible de l’être. (***test kit***)
-
-***obligation internationale*** Toute obligation relative à une drogue contrôlée prévue par une convention, un traité ou un autre instrument multilatéral ou bilatéral que le Canada a ratifié ou auquel il adhère. (***international obligation***)
-
-***ordonnance*** À l’égard d’une drogue contrôlée, l’autorisation d’un praticien d’en dispenser une quantité déterminée pour la personne qui y est nommée ou pour l’animal qui y est identifié. (***prescription***)
-
-***pharmacien*** Personne qui est autorisée en vertu des lois d’une province à exercer la profession de pharmacien et qui l’y exerce. (***pharmacist***)
-
-***podiatre*** S’entend au sens de l’article 1 du [Règlement sur les nouvelles catégories de praticiens](DORS-2012-230.md). (***podiatrist***)
-
-***préparation*** Drogue qui contient d’une part une drogue contrôlée et d’autre part un ingrédient actif de nature médicinale en dose thérapeutique reconnue qui n’est pas une drogue contrôlée. (***preparation***)
-
-***publicité*** S’entend notamment de la présentation, par tout moyen, d’une drogue contrôlée en vue d’en promouvoir directement ou indirectement la disposition, notamment par vente. (***advertisement***)
-
-***responsable principal*** L’individu désigné en application de l’article G.02.003. (***senior person in charge***)
-
-***responsable qualifié*** L’individu désigné en application du paragraphe G.02.004(1). (***qualified person in charge***)
-
-***sage-femme*** S’entend au sens de l’article 1 du [Règlement sur les nouvelles catégories de praticiens](DORS-2012-230.md). (***midwife***)
-
-<sub>Historique: DORS/78-220, art. 1; DORS/85-550, art. 1; DORS/86-91, art. 1; DORS/90-261, art. 1(F); DORS/92-386, art. 1; DORS/97-228, art. 7; DORS/97-515, art. 2; DORS/2003-135, art. 2; DORS/2004-238, art. 1; DORS/2012-230, art. 6; DORS/2018-147, art. 29; DORS/2019-171, art. 1</sub>
-
-#### Application
-
-##### Implants agricoles
-
-**G.01.002** **(1)** La Loi et la présente partie ne s’appliquent pas aux drogues contrôlées contenues dans des implants agricoles et mentionnées à la partie III de l’annexe de la présente partie. Le présent article n’a toutefois pas pour effet d’exempter ces drogues de l’application de la partie C.
-
-<em>Définition de *implant agricole*</em>
-
-**(2)** Dans le présent article, ***implant agricole*** s’entend d’un produit qui est présenté sous une forme permettant la libération prolongée d’un ingrédient actif dans un délai donné et qui est destiné à être inséré sous la peau d’un animal producteur de denrées alimentaires aux fins de l’accroissement du gain pondéral et de l’indice de consommation.
-
-<sub>Historique: DORS/97-515, art. 3; DORS/99-125, art. 1; DORS/2003-34, art. 1; DORS/2003-413, art. 1; DORS/2018-69, art. 67 et 68; DORS/2019-171, art. 1</sub>
+**G.01.002** \[Abrogé, DORS/2025-242, art. 237\]
 
 **G.01.002.1** \[Abrogé, DORS/2019-171, art. 1\]
 
-##### Membre d’un corps policier
+**G.01.003** \[Abrogé, DORS/2025-242, art. 237\]
 
-**G.01.003** Le membre d’un corps policier ou la personne agissant sous son autorité et sa supervision qui, à l’égard de l’une de ses activités, est soustrait à l’application du paragraphe 4(2) ou des articles 5, 6, ou 7 de la Loi en vertu du [Règlement sur l’exécution policière de la Loi réglementant certaines drogues et autres substances](DORS-97-234.md) est, à l’égard de cette activité, soustrait à l’application de la présente partie.
+**G.01.004** \[Abrogé, DORS/2025-242, art. 237\]
 
-<sub>Historique: DORS/80-543, art. 11; DORS/2004-238, art. 2(F); DORS/2019-171, art. 1</sub>
+**G.01.005** \[Abrogé, DORS/2025-242, art. 237\]
 
-##### Application des parties C et D
+**G.01.006** \[Abrogé, DORS/2025-242, art. 237\]
 
-**G.01.004** Sauf disposition contraire de la présente partie, il est interdit de vendre ou de fournir une drogue contrôlée ou une préparation qui n’est pas conforme à toutes les dispositions des parties C et D qui s’y appliquent.
+**G.01.007** \[Abrogé, DORS/2025-242, art. 237\]
 
-<sub>Historique: DORS/92-386, art. 2; DORS/97-228, art. 8; DORS/2019-171, art. 1</sub>
+**G.01.008** \[Abrogé, DORS/2025-242, art. 237\]
 
-#### Possession
-
-##### Personnes autorisées
-
-**G.01.005** **(1)** Toute personne est autorisée à avoir en sa possession une drogue contrôlée mentionnée à l’un des articles 1 à 3, 8 à 10, 12 à 14, 16 et 17 de la partie I de l’annexe de la présente partie si elle l’obtient soit en vertu du présent règlement, soit lors d’une activité se rapportant à l’application ou à l’exécution d’une loi ou d’un règlement, soit d’une personne bénéficiant d’une exemption accordée en vertu de l’article 56 de la Loi relativement à l’application du paragraphe 5(1) de la Loi à cette drogue, et si elle remplit l’une des conditions suivantes :
-
-- **a)** elle a besoin de la drogue contrôlée pour son entreprise ou sa profession et est :
-
-  - **(i)** soit un distributeur autorisé,
-
-  - **(ii)** soit un pharmacien,
-
-  - **(iii)** soit un praticien inscrit et autorisé à exercer dans la province où il a la drogue en sa possession;
-
-- **b)** elle est un praticien inscrit et autorisé à exercer dans une province autre que la province où elle a la drogue contrôlée en sa possession seulement pour des urgences médicales;
-
-- **c)** elle est un employé d’un hôpital ou un praticien y exerçant;
-
-- **d)** elle obtient la drogue contrôlée pour son utilisation personnelle de l’une des façons suivantes :
-
-  - **(i)** d’un praticien,
-
-  - **(ii)** en vertu d’une ordonnance qui n’a pas été faite ou obtenue en contravention du présent règlement;
-
-- **e)** elle est un médecin qui a reçu la drogue contrôlée au titre des paragraphes G.06.003(1) ou (2) et qui l’a en sa possession pour la fournir ou la livrer à l’une des personnes visées au paragraphe G.06.003(3);
-
-- **f)** elle est un mandataire d’un médecin qui a reçu la drogue contrôlée au titre du paragraphe G.06.003(1) et qui l’a en sa possession pour la fournir ou la livrer à l’une des personnes visées au paragraphe G.06.003(2);
-
-- **g)** elle est employée à titre d’inspecteur, de membre de la Gendarmerie royale du Canada, d’agent de police, d’agent de la paix ou de membre du personnel technique ou scientifique du gouvernement du Canada, du gouvernement d’une province ou d’une université au Canada et elle a la drogue contrôlée en sa possession dans le cadre de ses fonctions;
-
-- **h)** elle n’est pas un médecin visé à l’alinéa e) ni un mandataire visé à l’alinéa f), elle bénéficie d’une exemption relative à la possession de la drogue contrôlée et accordée en vertu de l’article 56 de la Loi et elle en a la possession aux fins énoncées dans l’exemption;
-
-- **i)** elle est le ministre.
-
-*Mandataires*
-
-**(2)** Toute personne est autorisée à avoir une drogue contrôlée visée au paragraphe (1) en sa possession si elle agit comme mandataire d’une personne autorisée à en avoir la possession au titre de l’un des alinéas (1)a) à e), h) et i).
-
-*Mandataires — personne visée à l’alinéa (1)g)*
-
-**(3)** Toute personne est autorisée à avoir une drogue contrôlée visée au paragraphe (1) en sa possession si les conditions ci-après sont réunies :
-
-- **a)** elle agit comme mandataire d’une personne dont elle a des motifs raisonnables de croire que celle-ci est une personne visée à l’alinéa (1)g);
-
-- **b)** la possession de la drogue contrôlée a pour but d’aider la personne dont elle est mandataire dans l’application ou l’exécution d’une loi ou d’un règlement.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-#### Nécessaires d’essai
-
-##### Opérations autorisées
-
-**G.01.006** Toute personne peut vendre un nécessaire d’essai, en avoir un en sa possession ou effectuer toute autre opération relative à celui-ci si les conditions ci-après sont remplies :
-
-- **a)** un numéro d’enregistrement a été attribué au nécessaire d’essai au titre de l’article G.01.008 et n’a pas été annulé en application de l’article G.01.009;
-
-- **b)** le nécessaire d’essai porte, sur sa surface extérieure, les renseignements suivants :
-
-  - **(i)** le nom du fabricant,
-
-  - **(ii)** le nom commercial ou la marque de commerce,
-
-  - **(iii)** le numéro d’enregistrement;
-
-- **c)** le nécessaire d’essai sera utilisé à des fins médicales, industrielles ou éducatives, pour des travaux de laboratoire ou de recherche ou pour l’application ou l’exécution de la loi.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Numéro d’enregistrement — demande
-
-**G.01.007** **(1)** Le fabricant d’un nécessaire d’essai peut obtenir un numéro d’enregistrement en présentant au ministre une demande qui contient les renseignements suivants :
-
-- **a)** une description détaillée de la conception et de la fabrication du nécessaire d’essai;
-
-- **b)** une description détaillée de la drogue contrôlée et, le cas échéant, des autres substances que contient le nécessaire d’essai, ainsi que la description qualitative et quantitative de chacun des composants;
-
-- **c)** une description de l’utilisation à laquelle est destiné le nécessaire d’essai.
-
-*Signature et attestation*
-
-**(2)** La demande satisfait aux exigences suivantes :
-
-- **a)** elle est signée et datée par la personne autorisée à cette fin par le demandeur;
-
-- **b)** elle comprend une attestation de celle-ci portant qu’à sa connaissance, tous les renseignements fournis à l’appui de la demande sont exacts et complets.
-
-*Renseignements et documents complémentaires*
-
-**(3)** Le demandeur fournit au ministre, au plus tard à la date précisée dans la demande écrite de celui-ci à cet effet, tout renseignement ou document que le ministre juge nécessaire pour compléter l’examen de la demande du numéro d’enregistrement.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Numéro d’enregistrement — attribution
-
-**G.01.008** Le ministre, au terme de l’examen de la demande de numéro d’enregistrement, attribue un numéro d’enregistrement précédé des lettres « TK » au nécessaire d’essai s’il établit que ce dernier satisfait à l’une des exigences ci-après et sera utilisé seulement à des fins médicales, industrielles ou éducatives, pour des travaux de laboratoire ou de recherche ou pour l’application ou l’exécution de la loi :
-
-- **a)** il contient une drogue contrôlée et un agent d’adultération ou un dénaturant, mélangés de telle manière et en quantités, proportions ou concentrations telles que la préparation ou le mélange ne présente pas un risque notable de toxicomanie;
-
-- **b)** il contient des quantités ou des concentrations d’une drogue contrôlée si infimes qu’il ne présente pas un risque notable de toxicomanie.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Numéro d’enregistrement — annulation
-
-**G.01.009** Le ministre annule le numéro d’enregistrement d’un nécessaire d’essai dans les cas suivants :
-
-- **a)** le fabricant retire le nécessaire d’essai du marché;
-
-- **b)** le ministre a des motifs raisonnables de croire que le nécessaire d’essai n’est pas utilisé à des fins médicales, industrielles ou éducatives, pour des travaux de laboratoire ou de recherche ou pour l’application ou l’exécution de la loi, ou qu’il est susceptible de ne pas l’être;
-
-- **c)** le ministre a des motifs raisonnables de croire que l’annulation est nécessaire pour protéger la sécurité ou la santé publiques, notamment pour prévenir le détournement d’une drogue contrôlée vers un marché ou un usage illicites.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
+**G.01.009** \[Abrogé, DORS/2025-242, art. 237\]
 
 **G.01.010** \[Abrogé, DORS/2019-171, art. 1\]
 
-### TITRE 2 — Distributeurs autorisés
-
-#### Opérations autorisées
-
-##### Général
-
-**G.02.001** **(1)** Le distributeur autorisé peut produire, assembler, vendre, fournir, transporter, expédier, livrer, importer ou exporter une drogue contrôlée s’il se conforme à la présente partie ainsi qu’aux conditions de sa licence de distributeur autorisé et de tout permis délivré en vertu de la présente partie.
-
-*Présence d’un responsable qualifié*
-
-**(2)** Le distributeur autorisé ne peut effectuer à son installation une opération relative à une drogue contrôlée que si le responsable qualifié ou un responsable qualifié suppléant est présent à l’installation.
-
-*Permis — importation et exportation*
-
-**(3)** Le distributeur autorisé est tenu d’obtenir un permis pour importer ou exporter une drogue contrôlée.
-
-*Possession à des fins d’exportation*
-
-**(4)** Le distributeur autorisé peut avoir en sa possession une drogue contrôlée en vue de son exportation s’il l’a obtenue conformément à la présente partie.
-
-<sub>Historique: DORS/2004-238, art. 3; DORS/2019-171, art. 1</sub>
+**G.02.001** \[Abrogé, DORS/2025-242, art. 237\]
 
 **G.02.001.1** \[Abrogé, DORS/2019-171, art. 1\]
 
 **G.02.001.2** \[Abrogé, DORS/2019-171, art. 1\]
 
-#### Licences de distributeur autorisé
-
-##### Exigences préalables
-
-###### Personnes admissibles
-
-**G.02.002** Les personnes ci-après peuvent demander une licence de distributeur autorisé :
-
-- **a)** l’individu qui réside de façon habituelle au Canada;
-
-- **b)** la personne morale qui a son siège social au Canada ou qui y exploite une succursale;
-
-- **c)** le titulaire d’un poste qui est responsable des questions relatives aux drogues contrôlées pour le compte du gouvernement du Canada ou d’un gouvernement provincial, d’un service de police, d’un hôpital ou d’une université au Canada.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
+**G.02.002** \[Abrogé, DORS/2025-242, art. 237\]
 
 **G.02.002.1** \[Abrogé, DORS/2019-171, art. 1\]
 
-###### Responsable principal
-
-**G.02.003** La personne qui demande une licence de distributeur autorisé désigne un seul individu à titre de responsable principal, le demandeur pouvant se désigner lui-même s’il est un individu, qui est responsable de la gestion de l’ensemble des opérations relatives aux drogues contrôlées précisées dans la demande de licence.
-
-<sub>Historique: DORS/2004-238, art. 4; DORS/2010-222, art. 2; DORS/2012-230, art. 8; DORS/2014-260, art. 1 et 16(F); DORS/2019-171, art. 1</sub>
+**G.02.003** \[Abrogé, DORS/2025-242, art. 237\]
 
 **G.02.003.1** \[Abrogé, DORS/2019-171, art. 1\]
 
@@ -18231,2173 +17999,241 @@ dans chaque forme posologique individuelle, s’il porte une étiquette indiquan
 
 **G.02.003.91** \[Abrogé, DORS/2019-171, art. 1\]
 
-###### Responsable qualifié
+**G.02.004** \[Abrogé, DORS/2025-242, art. 237\]
 
-**G.02.004** **(1)** La personne qui demande une licence de distributeur autorisé désigne un seul individu à titre de responsable qualifié, le demandeur pouvant se désigner lui-même s’il est un individu, qui est à la fois responsable de superviser les opérations relatives aux drogues contrôlées précisées dans la demande de licence et de veiller à la conformité de ces opérations avec la présente partie.
+**G.02.005** \[Abrogé, DORS/2025-242, art. 237\]
 
-*Responsable qualifié suppléant*
+**G.02.006** \[Abrogé, DORS/2025-242, art. 237\]
 
-**(2)** La personne qui demande une licence de distributeur autorisé peut désigner un individu à titre de responsable qualifié suppléant, le demandeur pouvant se désigner lui-même s’il est un individu, qui est autorisé à remplacer le responsable qualifié lorsque celui-ci est absent.
+**G.02.007** \[Abrogé, DORS/2025-242, art. 237\]
 
-*Qualifications*
+**G.02.008** \[Abrogé, DORS/2025-242, art. 237\]
 
-**(3)** Seul l’individu qui satisfait aux exigences ci-après peut être désigné à titre de responsable qualifié ou de responsable qualifié suppléant :
+**G.02.009** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **a)** il travaille à l’installation précisée dans la licence de distributeur autorisé;
+**G.02.010** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **b)** il est :
-
-  - **(i)** soit une personne autorisée ou, le cas échéant, inscrite et autorisée, par une autorité provinciale attributive de licences en matière d’activités professionnelles ou par une association professionnelle au Canada, à exercer sa profession dans un domaine lié à ses fonctions, notamment celle de pharmacien, de praticien, de technicien en pharmacie ou de technicien de laboratoire,
-
-  - **(ii)** soit titulaire d’un diplôme, d’un certificat ou d’une attestation décerné par un établissement d’enseignement postsecondaire au Canada dans un domaine qui est lié à ses fonctions, notamment la pharmacie, la médecine, la dentisterie, la médecine vétérinaire, la pharmacologie, la chimie, la biologie, la réglementation pharmaceutique, la sécurité ou la gestion des chaînes d’approvisionnement, les techniques en pharmacie ou les techniques de laboratoire,
-
-  - **(iii)** soit titulaire d’un diplôme, d’un certificat ou d’une attestation décerné par un établissement d’enseignement étranger dans l’un des domaines visés au sous-alinéa (ii) et titulaire de l’une des attestations suivantes :
-
-    - **(A)** une *attestation d’équivalence*, au sens du paragraphe 73(1) du [Règlement sur l’immigration et la protection des réfugiés](DORS-2002-227.md),
-
-    - **(B)** une attestation d’équivalence délivrée par une institution ou une organisation chargée de faire de telles attestations et reconnue par une province;
-
-- **c)** il possède des connaissances et une expérience relatives à l’utilisation et à la manutention des drogues contrôlées précisées dans la licence de distributeur autorisé qui sont suffisantes pour lui permettre de bien exercer ses fonctions;
-
-- **d)** il possède une connaissance suffisante des dispositions de la Loi et de la présente partie s’appliquant aux opérations précisées dans la licence de distributeur autorisé pour lui permettre de bien exercer ses fonctions.
-
-*Exception*
-
-**(4)** La personne qui demande une licence de distributeur autorisé peut désigner à titre de responsable qualifié ou de responsable qualifié suppléant un individu qui ne satisfait à aucune des exigences prévues à l’alinéa (3)b) si les conditions ci-après sont réunies :
-
-- **a)** aucun autre individu travaillant à l’installation ne satisfait à l’une de ces exigences;
-
-- **b)** ces exigences ne sont pas nécessaires pour effectuer les opérations précisées dans la licence;
-
-- **c)** l’individu possède des connaissances suffisantes acquises par la combinaison de ses études, de sa formation ou de son expérience de travail pour lui permettre de bien exercer ses fonctions.
-
-<sub>Historique: DORS/2004-238, art. 4; DORS/2019-171, art. 1</sub>
-
-###### Inadmissibilité
-
-**G.02.005** Ne peut être désigné à titre de responsable principal, de responsable qualifié ou de responsable qualifié suppléant l’individu qui, dans les dix années précédant la date de présentation de la demande de licence de distributeur autorisé :
-
-- **a)** à l’égard d’une infraction désignée, d’une infraction désignée en matière criminelle ou d’une *infraction désignée*, au sens du paragraphe 2(1) de la [Loi sur le cannabis](../../acts/fr/C-24.5.md) :
-
-  - **(i)** soit a été condamné en tant qu’adulte,
-
-  - **(ii)** soit s’est vu imposer en tant qu’*adolescent*, au sens du paragraphe 2(1) de la [Loi sur le système de justice pénale pour les adolescents](../../acts/fr/Y-1.5.md), une *peine applicable aux adultes*, au sens de ce paragraphe;
-
-- **b)** à l’égard d’une infraction commise dans un pays étranger qui, si elle avait été commise au Canada, aurait constitué une infraction désignée, une infraction désignée en matière criminelle ou une *infraction désignée*, au sens du paragraphe 2(1) de la [Loi sur le cannabis](../../acts/fr/C-24.5.md) :
-
-  - **(i)** soit a été condamné en tant qu’adulte,
-
-  - **(ii)** soit s’est vu imposer, pour une infraction commise alors qu’il avait au moins quatorze ans et moins de dix-huit ans, une peine plus longue que la peine maximale prévue par la *peine spécifique*, au sens du paragraphe 2(1) de la [Loi sur le système de justice pénale pour les adolescents](../../acts/fr/Y-1.5.md) pour une telle infraction.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Délivrance d’une licence
-
-###### Demande
-
-**G.02.006** **(1)** La personne qui prévoit d’effectuer l’une des opérations visées à l’article G.02.001 doit obtenir une licence de distributeur autorisé pour chaque installation où elle prévoit d’effectuer celle-ci en présentant au ministre une demande qui contient les renseignements suivants :
-
-- **a)** les précisions ci-après à l’égard de la personne qui demande la licence :
-
-  - **(i)** s’agissant d’un individu, son nom,
-
-  - **(ii)** s’agissant d’une personne morale, sa dénomination sociale et toute autre dénomination enregistrée dans une province sous laquelle elle entend s’identifier ou effectuer les opérations précisées dans la licence,
-
-  - **(iii)** s’agissant du titulaire d’un poste visé à l’alinéa G.02.002c), son nom et le titre de son poste;
-
-- **b)** l’adresse municipale, le numéro de téléphone et, le cas échéant, l’adresse électronique de l’installation de même que, si elle diffère de l’adresse municipale, son adresse postale;
-
-- **c)** les nom, numéro de téléphone et adresse électronique du responsable principal proposé ainsi que sa date de naissance;
-
-- **d)** à l’égard du responsable qualifié et de tout responsable qualifié suppléant proposés :
-
-  - **(i)** leurs nom, numéro de téléphone et adresse électronique ainsi que leur date de naissance,
-
-  - **(ii)** le titre de leur poste à l’installation,
-
-  - **(iii)** les nom et titre du poste de leur supérieur immédiat à l’installation,
-
-  - **(iv)** le cas échéant, la profession exercée qui est liée à leurs fonctions, le nom de la province les autorisant à l’exercer et le numéro de cette autorisation,
-
-  - **(v)** leurs études, formation et expérience de travail liées à l’exercice de leurs fonctions;
-
-- **e)** les opérations proposées et les drogues contrôlées visées par chacune de celles-ci;
-
-- **f)** si la demande vise la fabrication ou l’assemblage d’un produit ou d’un composé contenant une drogue contrôlée, sauf si elle vise la fabrication ou l’assemblage d’un nécessaire d’essai, une liste qui contient les précisions ci-après pour chaque produit ou composé :
-
-  - **(i)** la marque nominative du produit ou le nom du composé,
-
-  - **(ii)** l’identification numérique qui a été attribuée au produit aux termes de l’article C.01.014.2, s’il y a lieu,
-
-  - **(iii)** le nom de la drogue contrôlée qu’il contient,
-
-  - **(iv)** la concentration de la drogue contrôlée qu’il contient dans chacune de ses unités, le nombre d’unités contenues dans son emballage et le nombre d’emballages,
-
-  - **(v)** s’il est fabriqué ou assemblé sur mesure aux termes d’une commande spéciale pour un autre distributeur autorisé ou s’il l’est par un distributeur autorisé différent, les nom, adresse municipale et numéro de licence de celui-ci,
-
-  - **(vi)** si le nom du demandeur figure sur l’étiquette du produit ou du composé, une copie de l’étiquette intérieure;
-
-- **g)** si la demande vise la production d’une drogue contrôlée, exception faite des produits ou composés contenant une drogue contrôlée, les précisions ci-après concernant cette drogue :
-
-  - **(i)** son nom,
-
-  - **(ii)** la quantité que le demandeur prévoit de produire en vertu de la licence et la période prévue pour la production,
-
-  - **(iii)** si elle est produite sur mesure aux termes d’une commande spéciale pour un autre distributeur autorisé, les nom, adresse municipale et numéro de licence de celui-ci;
-
-- **h)** si la demande vise une opération qui n’est pas visée par les alinéas f) et g), le nom de la drogue contrôlée qui fera l’objet de l’opération et le but de cette dernière;
-
-- **i)** la description détaillée des mesures de sécurité mises en place à l’installation et établies conformément à la Directive en matière de sécurité;
-
-- **j)** la description détaillée de la méthode de consignation des renseignements que le demandeur prévoit d’utiliser en application de l’article G.02.071.
-
-*Documents*
-
-**(2)** La demande est accompagnée des documents suivants :
-
-- **a)** dans le cas où le demandeur est une personne morale :
-
-  - **(i)** une copie de son certificat de constitution ou de tout autre acte constitutif,
-
-  - **(ii)** une copie de tout document déposé auprès de la province où se trouve son installation et qui indique sa dénomination sociale et tout autre nom enregistré dans la province sous lequel elle entend s’identifier ou effectuer les opérations précisées dans la licence;
-
-- **b)** les déclarations individuelles signées et datées par le responsable principal, le responsable qualifié et tout responsable qualifié suppléant proposés attestant que le signataire n’est pas visé par l’article G.02.005;
-
-- **c)** à l’égard de chaque personne visée à l’alinéa b), un document délivré par un corps policier canadien précisant si, au cours des dix années précédant la présentation de la demande, elle a fait l’objet d’une condamnation visée au sous-alinéa G.02.005a)(i) ou s’est vu imposer une peine visée au sous-alinéa G.02.005a)(ii);
-
-- **d)** à l’égard de chaque personne visée à l’alinéa b) qui a résidé de façon habituelle dans un pays étranger au cours des dix années précédant la présentation de la demande, un document délivré par un corps policier de ce pays précisant si elle a fait l’objet d’une condamnation visée au sous-alinéa G.02.005b)(i) ou s’est vu imposer une peine visée au sous-alinéa G.02.005b)(ii) dans ce pays au cours de cette période;
-
-- **e)** une déclaration, signée et datée par le responsable principal, attestant que le responsable qualifié et tout responsable qualifié suppléant proposés ont les connaissances et l’expérience exigées aux alinéas G.02.004(3)c) et d);
-
-- **f)** dans le cas où le responsable qualifié ou tout responsable qualifié suppléant proposé ne satisfait pas à l’exigence visée au sous-alinéa G.02.004(3)b)(i) :
-
-  - **(i)** une copie du diplôme, du certificat ou de l’attestation visé aux sous-alinéas G.02.004(3)b)(ii) ou (iii),
-
-  - **(ii)** une description détaillée des études, de la formation et de l’expérience de travail visées à l’alinéa G.02.004(4)c), accompagnée de pièces justificatives telle une copie des relevés de notes ou de l’attestation faite par la personne qui a donné la formation.
-
-*Signature et attestation*
-
-**(3)** La demande satisfait aux exigences suivantes :
-
-- **a)** elle est signée et datée par le responsable principal proposé;
-
-- **b)** elle comprend une attestation de celui-ci portant sur les faits suivants :
-
-  - **(i)** à sa connaissance, tous les renseignements et documents fournis à l’appui de la demande sont exacts et complets,
-
-  - **(ii)** il est habilité à lier le demandeur.
-
-*Renseignements et documents complémentaires*
-
-**(4)** Le demandeur fournit au ministre, au plus tard à la date précisée dans la demande écrite de celui-ci à cet effet, tout renseignement ou document que le ministre juge nécessaire pour compléter l’examen de la demande de licence.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-###### Délivrance
-
-**G.02.007** Le ministre, au terme de l’examen de la demande de licence et sous réserve de l’article G.02.009, délivre une licence de distributeur autorisé, avec ou sans conditions, qui contient les renseignements suivants :
-
-- **a)** le numéro de la licence;
-
-- **b)** le nom du distributeur, sa dénomination sociale ou le titre de son poste;
-
-- **c)** les opérations autorisées et le nom des drogues contrôlées visées par chacune de celles-ci;
-
-- **d)** l’adresse municipale de l’installation où le distributeur peut effectuer les opérations autorisées;
-
-- **e)** le niveau de sécurité applicable à l’installation, établi conformément à la Directive en matière de sécurité;
-
-- **f)** la date de prise d’effet de la licence;
-
-- **g)** la date d’expiration de la licence, qui ne peut être postérieure à la troisième année suivant sa date de prise d’effet;
-
-- **h)** toute condition que le ministre estime nécessaire, sur le fondement de motifs raisonnables, pour atteindre l’une des fins suivantes :
-
-  - **(i)** le respect d’une obligation internationale,
-
-  - **(ii)** la conformité aux exigences associées au niveau de sécurité visé à l’alinéa e),
-
-  - **(iii)** la réduction d’un risque d’atteinte à la sécurité ou à la santé publiques, notamment le risque de détournement d’une drogue contrôlée vers un marché ou un usage illicites;
-
-- **i)** si le distributeur produit une drogue contrôlée, la quantité qu’il peut produire et la période de production autorisée.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-###### Validité
-
-**G.02.008** La licence de distributeur autorisé est valide jusqu’à la date d’expiration qui y est indiquée ou, si elle est antérieure, jusqu’à la date de sa suspension ou de sa révocation au titre des articles G.02.027 ou G.02.028.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-###### Refus
-
-**G.02.009** **(1)** Le ministre refuse de délivrer une licence de distributeur autorisé dans les cas suivants :
-
-- **a)** le demandeur ne peut pas demander une licence en vertu de l’article G.02.002;
-
-- **b)** le demandeur a contrevenu, dans les dix années précédant la présentation de la demande de licence :
-
-  - **(i)** soit à une disposition de la Loi, de la [Loi sur le cannabis](../../acts/fr/C-24.5.md) ou de leurs règlements,
-
-  - **(ii)** soit à une condition d’une licence ou d’un permis qui lui a été délivré en vertu d’un règlement pris en vertu de la Loi ou qui lui a été délivré en vertu de la [Loi sur le cannabis](../../acts/fr/C-24.5.md) ou de ses règlements;
-
-- **c)** dans les dix années précédant la présentation de la demande de licence, le responsable principal, le responsable qualifié ou tout responsable qualifié suppléant proposé a fait l’objet d’une condamnation visée aux sous-alinéas G.02.005a)(i) ou b)(i) ou s’est vu imposer une peine visée aux sous-alinéas G.02.005a)(ii) ou b)(ii);
-
-- **d)** l’une des opérations pour lesquelles la licence est demandée entraînerait la violation d’une obligation internationale;
-
-- **e)** le demandeur n’a pas mis en place à l’installation les mesures de sécurité prévues dans la Directive en matière de sécurité à l’égard d’une opération pour laquelle il demande la licence;
-
-- **f)** la méthode visée à l’alinéa G.02.006(1)j) ne permet pas la consignation des renseignements conformément à l’article G.02.071;
-
-- **g)** soit le demandeur ne s’est pas conformé aux exigences prévues au paragraphe G.02.006(4), soit il s’y est conformé, mais les renseignements ou documents fournis sont insuffisants pour terminer l’examen de la demande de licence;
-
-- **h)** le ministre a des motifs raisonnables de croire que le demandeur a fourni, dans sa demande de licence ou à l’appui de celle-ci, des renseignements faux ou trompeurs ou des documents faux ou falsifiés;
-
-- **i)** le ministre a des motifs raisonnables de croire, sur le fondement de renseignements reçus d’une autorité compétente ou de l’Organisation des Nations Unies, que le demandeur a participé au détournement d’une drogue contrôlée vers un marché ou un usage illicites ou qu’il a participé à des opérations qui ont entraîné la violation d’une obligation internationale;
-
-- **j)** le ministre a des motifs raisonnables de croire que la délivrance de la licence risquerait vraisemblablement de porter atteinte à la sécurité ou à la santé publiques, notamment en raison du risque de détournement d’une drogue contrôlée vers un marché ou un usage illicites.
-
-*Exceptions*
-
-**(2)** Le ministre ne peut, dans les cas visés aux alinéas (1)b) ou h), refuser de délivrer la licence si le demandeur remplit les conditions ci-après, sauf s’il a des motifs raisonnables de croire que le refus est nécessaire pour protéger la sécurité ou la santé publiques, notamment pour prévenir le détournement d’une drogue contrôlée vers un marché ou un usage illicites :
-
-- **a)** le demandeur n’a pas d’antécédents de contravention à la Loi, à la [Loi sur le cannabis](../../acts/fr/C-24.5.md) ou à leurs règlements;
-
-- **b)** il a soit pris les mesures correctives nécessaires pour veiller à respecter la Loi, la [Loi sur le cannabis](../../acts/fr/C-24.5.md) et leurs règlements, soit signé un engagement à cet effet.
-
-*Préavis*
-
-**(3)** Le ministre, avant de refuser de délivrer la licence, envoie au demandeur un préavis motivé l’informant qu’il peut présenter ses observations à cet égard.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Renouvellement de la licence
-
-###### Demande
-
-**G.02.010** **(1)** Le distributeur autorisé présente au ministre, pour obtenir le renouvellement de sa licence de distributeur autorisé, une demande qui contient les renseignements et documents visés aux paragraphes G.02.006(1) et (2).
-
-*Signature et attestation*
-
-**(2)** La demande satisfait aux exigences suivantes :
-
-- **a)** elle est signée et datée par le responsable principal de l’installation précisée dans la demande;
-
-- **b)** elle comprend une attestation de celui-ci portant sur les faits suivants :
-
-  - **(i)** à sa connaissance, tous les renseignements et documents fournis à l’appui de la demande sont exacts et complets,
-
-  - **(ii)** il est habilité à lier le distributeur autorisé.
-
-*Renseignements et documents complémentaires*
-
-**(3)** Le distributeur autorisé fournit au ministre, au plus tard à la date précisée dans la demande écrite de celui-ci à cet effet, tout renseignement ou document que le ministre juge nécessaire pour compléter l’examen de la demande de renouvellement.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-###### Renouvellement
-
-**G.02.011** **(1)** Le ministre, au terme de l’examen de la demande de renouvellement et sous réserve de l’article G.02.013, renouvelle la licence de distributeur autorisé, qui contient les renseignements visés à l’article G.02.007.
-
-*Conditions*
-
-**(2)** Le ministre peut, lorsqu’il renouvelle la licence du distributeur autorisé, ajouter toute condition à la licence, en modifier les conditions ou supprimer l’une de celles-ci s’il a des motifs raisonnables de le croire nécessaire pour atteindre l’une des fins suivantes :
-
-- **a)** le respect d’une obligation internationale;
-
-- **b)** la conformité aux exigences associées au niveau de sécurité précisé dans la licence ou à tout nouveau niveau qui s’impose à la suite du renouvellement;
-
-- **c)** la réduction d’un risque d’atteinte à la sécurité ou à la santé publiques, notamment le risque de détournement d’une drogue contrôlée vers un marché ou un usage illicites.
-
-<sub>Historique: DORS/2004-238, art. 5; DORS/2010-222, art. 7; DORS/2019-171, art. 1</sub>
+**G.02.011** \[Abrogé, DORS/2025-242, art. 237\]
 
 **G.02.011.1** \[Abrogé, DORS/2019-171, art. 1\]
 
 **G.02.011.2** \[Abrogé, DORS/2019-171, art. 1\]
 
-###### Validité
+**G.02.012** \[Abrogé, DORS/2025-242, art. 237\]
 
-**G.02.012** La licence de distributeur autorisé renouvelée est valide jusqu’à la date d’expiration qui y est indiquée ou, si elle est antérieure, jusqu’à la date de sa suspension ou de sa révocation au titre des articles G.02.027 ou G.02.028.
+**G.02.013** \[Abrogé, DORS/2025-242, art. 237\]
 
-<sub>Historique: DORS/2004-238, art. 5; DORS/2019-171, art. 1</sub>
+**G.02.014** \[Abrogé, DORS/2025-242, art. 237\]
 
-###### Refus
+**G.02.015** \[Abrogé, DORS/2025-242, art. 237\]
 
-**G.02.013** **(1)** Le ministre refuse de renouveler la licence de distributeur autorisé dans les cas suivants :
+**G.02.016** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **a)** le distributeur autorisé ne peut plus demander une licence en vertu de l’article G.02.002;
+**G.02.017** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **b)** le distributeur autorisé a contrevenu, dans les dix années précédant la présentation de la demande de renouvellement :
+**G.02.018** \[Abrogé, DORS/2025-242, art. 237\]
 
-  - **(i)** soit à une disposition de la Loi, de la [Loi sur le cannabis](../../acts/fr/C-24.5.md) ou de leurs règlements,
+**G.02.019** \[Abrogé, DORS/2025-242, art. 237\]
 
-  - **(ii)** soit à une condition d’une licence ou d’un permis qui lui a été délivré en vertu d’un règlement pris en vertu de la Loi ou qui lui a été délivré en vertu de la [Loi sur le cannabis](../../acts/fr/C-24.5.md) ou de ses règlements;
+**G.02.020** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **c)** dans les dix années précédant la présentation de la demande de renouvellement, le responsable principal, le responsable qualifié ou tout responsable qualifié suppléant proposé a fait l’objet d’une condamnation visée aux sous-alinéas G.02.005a)(i) ou b)(i) ou s’est vu imposer une peine visée aux sous-alinéas G.02.005a)(ii) ou b)(ii);
+**G.02.021** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **d)** l’une des opérations pour lesquelles le renouvellement est demandé entraînerait la violation d’une obligation internationale;
+**G.02.022** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **e)** le distributeur autorisé n’a pas mis en place à l’installation les mesures de sécurité prévues dans la Directive en matière de sécurité à l’égard d’une opération pour laquelle il demande le renouvellement;
+**G.02.023** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **f)** la méthode visée à l’alinéa G.02.006(1)j) ne permet pas la consignation des renseignements conformément à l’article G.02.071;
-
-- **g)** soit le distributeur autorisé ne s’est pas conformé aux exigences prévues au paragraphe G.02.010(3), soit il s’y est conformé, mais les renseignements ou documents fournis sont insuffisants pour terminer l’examen de la demande de renouvellement;
-
-- **h)** le ministre a des motifs raisonnables de croire que le distributeur autorisé a fourni, dans sa demande de renouvellement ou à l’appui de celle-ci, des renseignements faux ou trompeurs ou des documents faux ou falsifiés;
-
-- **i)** le ministre a des motifs raisonnables de croire, sur le fondement de renseignements reçus d’une autorité compétente ou de l’Organisation des Nations Unies, que le distributeur autorisé a participé au détournement d’une drogue contrôlée vers un marché ou un usage illicites ou qu’il a participé à des opérations qui ont entraîné la violation d’une obligation internationale;
-
-- **j)** le ministre a des motifs raisonnables de croire que le renouvellement de la licence risquerait vraisemblablement de porter atteinte à la sécurité ou à la santé publiques, notamment en raison du risque de détournement d’une drogue contrôlée vers un marché ou un usage illicites.
-
-*Exceptions*
-
-**(2)** Le ministre ne peut, dans les cas visés aux alinéas (1)b) ou h), refuser de renouveler la licence si le distributeur autorisé remplit les conditions ci-après, sauf s’il a des motifs raisonnables de croire que le refus est nécessaire pour protéger la sécurité ou la santé publiques, notamment pour prévenir le détournement d’une drogue contrôlée vers un marché ou un usage illicites :
-
-- **a)** le distributeur autorisé n’a pas d’antécédents de contravention à la Loi, à la [Loi sur le cannabis](../../acts/fr/C-24.5.md) ou à leurs règlements;
-
-- **b)** il a soit pris les mesures correctives nécessaires pour veiller à respecter la Loi, la [Loi sur le cannabis](../../acts/fr/C-24.5.md) et leurs règlements, soit signé un engagement à cet effet.
-
-*Préavis*
-
-**(3)** Le ministre, avant de refuser de renouveler la licence, envoie au distributeur autorisé un préavis motivé l’informant qu’il peut présenter ses observations à cet égard.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Modification de la licence
-
-###### Demande
-
-**G.02.014** **(1)** Le distributeur autorisé présente au ministre, avant d’apporter un changement ayant une incidence sur tout renseignement visé à l’article G.02.007 figurant sur sa licence de distributeur autorisé, une demande de modification de sa licence qui contient la description du changement prévu ainsi que les renseignements et documents pertinents visés à l’article G.02.006.
-
-*Signature et attestation*
-
-**(2)** La demande satisfait aux exigences suivantes :
-
-- **a)** elle est signée et datée par le responsable principal de l’installation précisée dans la demande;
-
-- **b)** elle comprend une attestation de celui-ci portant sur les faits suivants :
-
-  - **(i)** à sa connaissance, tous les renseignements et documents fournis à l’appui de la demande sont exacts et complets,
-
-  - **(ii)** il est habilité à lier le distributeur autorisé.
-
-*Renseignements et documents complémentaires*
-
-**(3)** Le distributeur autorisé fournit au ministre, au plus tard à la date précisée dans la demande écrite de celui-ci à cet effet, tout renseignement ou document que le ministre juge nécessaire pour compléter l’examen de la demande de modification.
-
-<sub>Historique: DORS/78-427, art. 1; DORS/97-228, art. 10; DORS/2004-238, art. 6; DORS/2010-222, art. 8(A); DORS/2019-171, art. 1</sub>
-
-###### Modification
-
-**G.02.015** **(1)** Le ministre, au terme de l’examen de la demande de modification et sous réserve de l’article G.02.017, modifie la licence de distributeur autorisé.
-
-*Conditions*
-
-**(2)** Le ministre peut, lorsqu’il modifie la licence du distributeur autorisé, ajouter toute condition à la licence, en modifier les conditions ou supprimer l’une de celles-ci s’il a des motifs raisonnables de le croire nécessaire pour atteindre l’une des fins suivantes :
-
-- **a)** le respect d’une obligation internationale;
-
-- **b)** la conformité aux exigences associées au niveau de sécurité précisé dans la licence ou à tout nouveau niveau qui s’impose à la suite de la modification;
-
-- **c)** la réduction d’un risque d’atteinte à la sécurité ou à la santé publiques, notamment le risque de détournement d’une drogue contrôlée vers un marché ou un usage illicites.
-
-<sub>Historique: DORS/78-427, art. 2; DORS/2004-238, art. 7; DORS/2010-222, art. 9; DORS/2019-171, art. 1</sub>
-
-###### Validité
-
-**G.02.016** La licence de distributeur autorisé modifiée est valide jusqu’à la date d’expiration qui y est indiquée ou, si elle est antérieure, jusqu’à la date de sa suspension ou de sa révocation au titre des articles G.02.027 ou G.02.028.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-###### Refus
-
-**G.02.017** **(1)** Le ministre refuse de modifier la licence de distributeur autorisé dans les cas suivants :
-
-- **a)** l’une des opérations pour lesquelles la modification est demandée entraînerait la violation d’une obligation internationale;
-
-- **b)** le distributeur autorisé n’a pas mis en place à l’installation les mesures de sécurité prévues dans la Directive en matière de sécurité à l’égard d’une opération pour laquelle il demande la modification;
-
-- **c)** la méthode visée à l’alinéa G.02.006(1)j) ne permet pas la consignation des renseignements conformément à l’article G.02.071;
-
-- **d)** soit le distributeur autorisé ne s’est pas conformé aux exigences prévues au paragraphe G.02.014(3), soit il s’y est conformé, mais les renseignements ou documents fournis sont insuffisants pour terminer l’examen de la demande de modification;
-
-- **e)** le ministre a des motifs raisonnables de croire que le distributeur autorisé a fourni, dans sa demande de modification ou à l’appui de celle-ci, des renseignements faux ou trompeurs ou des documents faux ou falsifiés;
-
-- **f)** le ministre a des motifs raisonnables de croire que la modification de la licence risquerait vraisemblablement de porter atteinte à la sécurité ou à la santé publiques, notamment en raison du risque de détournement d’une drogue contrôlée vers un marché ou un usage illicites.
-
-*Exceptions*
-
-**(2)** Le ministre ne peut, dans le cas visé à l’alinéa (1)e), refuser de modifier la licence si le distributeur autorisé remplit les conditions ci-après, sauf s’il a des motifs raisonnables de croire que le refus est nécessaire pour protéger la sécurité ou la santé publiques, notamment pour prévenir le détournement d’une drogue contrôlée vers un marché ou un usage illicites :
-
-- **a)** le distributeur autorisé n’a pas d’antécédents de contravention à la Loi, à la [Loi sur le cannabis](../../acts/fr/C-24.5.md) ou à leurs règlements;
-
-- **b)** il a soit pris les mesures correctives nécessaires pour veiller à respecter la Loi, la [Loi sur le cannabis](../../acts/fr/C-24.5.md) et leurs règlements, soit signé un engagement à cet effet.
-
-*Préavis*
-
-**(3)** Le ministre, avant de refuser de modifier la licence, envoie au distributeur autorisé un préavis motivé l’informant qu’il peut présenter ses observations à cet égard.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Changements exigeant une approbation préalable du ministre
-
-###### Demande
-
-**G.02.018** **(1)** Le distributeur autorisé doit obtenir l’approbation du ministre, en lui présentant une demande écrite, avant de procéder à l’un des changements suivants :
-
-- **a)** toute modification ayant une incidence sur les mesures de sécurité mises en place à l’installation précisée dans sa licence;
-
-- **b)** le remplacement du responsable principal;
-
-- **c)** le remplacement du responsable qualifié;
-
-- **d)** le remplacement ou l’adjonction de tout responsable qualifié suppléant.
-
-*Renseignements et documents*
-
-**(2)** Le distributeur autorisé fournit au ministre, pour tout changement visé au paragraphe (1), ce qui suit :
-
-- **a)** les précisions concernant la modification ayant une incidence sur les mesures de sécurité mises en place à l’installation précisée dans sa licence;
-
-- **b)** s’agissant du responsable principal :
-
-  - **(i)** les renseignements visés à l’alinéa G.02.006(1)c),
-
-  - **(ii)** la déclaration visée à l’alinéa G.02.006(2)b) et les documents visés aux alinéas G.02.006(2)c) et d);
-
-- **c)** s’agissant du responsable qualifié ou d’un responsable qualifié suppléant :
-
-  - **(i)** les renseignements visés à l’alinéa G.02.006(1)d),
-
-  - **(ii)** les déclarations visées aux alinéas G.02.006(2)b) et e) ainsi que les documents visés aux alinéas G.02.006(2)c), d) et f).
-
-*Renseignements et documents complémentaires*
-
-**(3)** Le distributeur autorisé fournit au ministre, au plus tard à la date précisée dans la demande écrite de celui-ci à cet effet, tout renseignement ou document que le ministre juge nécessaire pour compléter l’examen de la demande d’approbation.
-
-<sub>Historique: DORS/2004-238, art. 8; DORS/2010-222, art. 10; DORS/2019-171, art. 1</sub>
-
-###### Approbation
-
-**G.02.019** **(1)** Le ministre, au terme de l’examen de la demande d’approbation et sous réserve de l’article G.02.020, approuve le changement.
-
-*Conditions*
-
-**(2)** Le ministre peut, lorsqu’il approuve le changement, ajouter toute condition à la licence de distributeur autorisé, en modifier les conditions ou supprimer l’une de celles-ci s’il a des motifs raisonnables de le croire nécessaire pour atteindre l’une des fins suivantes :
-
-- **a)** le respect d’une obligation internationale;
-
-- **b)** la conformité aux exigences associées au niveau de sécurité précisé dans la licence;
-
-- **c)** la réduction d’un risque d’atteinte à la sécurité ou à la santé publiques, notamment le risque de détournement d’une drogue contrôlée vers un marché ou un usage illicites.
-
-<sub>Historique: DORS/88-482, art. 2(F); DORS/2019-171, art. 1</sub>
-
-###### Refus
-
-**G.02.020** **(1)** Le ministre refuse d’approuver le changement dans les cas suivants :
-
-- **a)** dans les dix années précédant la présentation de la demande d’approbation de changement, le responsable principal, le responsable qualifié ou tout responsable qualifié suppléant proposé a fait l’objet d’une condamnation visée aux sous-alinéas G.02.005a)(i) ou b)(i) ou s’est vu imposer une peine visée aux sous-alinéas G.02.005a)(ii) ou b)(ii);
-
-- **b)** soit le distributeur autorisé ne s’est pas conformé aux exigences prévues au paragraphe G.02.018(3), soit il s’y est conformé, mais les renseignements ou documents fournis sont insuffisants pour terminer l’examen de la demande d’approbation de changement;
-
-- **c)** le ministre a des motifs raisonnables de croire que le distributeur autorisé a fourni, dans sa demande d’approbation de changement ou à l’appui de celle-ci, des renseignements faux ou trompeurs ou des documents faux ou falsifiés;
-
-- **d)** le ministre a des motifs raisonnables de croire que le changement risquerait vraisemblablement de porter atteinte à la sécurité ou à la santé publiques, notamment en raison du risque de détournement d’une drogue contrôlée vers un marché ou un usage illicites.
-
-*Exceptions*
-
-**(2)** Le ministre ne peut, dans le cas visé à l’alinéa (1)c), refuser d’approuver le changement si le distributeur autorisé a pris les mesures correctives nécessaires pour veiller à respecter la Loi, la [Loi sur le cannabis](../../acts/fr/C-24.5.md) et leurs règlements ou a signé un engagement à cet effet, sauf s’il a des motifs raisonnables de croire que le refus est nécessaire pour protéger la sécurité ou la santé publiques, notamment pour prévenir le détournement d’une drogue contrôlée vers un marché ou un usage illicites.
-
-*Préavis*
-
-**(3)** Le ministre, avant de refuser d’approuver le changement, envoie au distributeur autorisé un préavis motivé l’informant qu’il peut présenter ses observations à cet égard.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Changements exigeant un avis au ministre
-
-###### Avis préalable
-
-**G.02.021** **(1)** Le distributeur autorisé avise le ministre par écrit avant de faire l’un des changements suivants :
-
-- **a)** la fabrication ou l’assemblage d’un produit ou d’un composé qui ne figure pas sur la plus récente version de la liste visée à l’alinéa G.02.006(1)f) qui a été présentée au ministre;
-
-- **b)** la modification d’un produit ou d’un composé qui figure sur cette liste, si la modification a une incidence sur les renseignements déjà fournis à son égard.
-
-*Renseignements et liste*
-
-**(2)** L’avis contient les précisions visées à l’alinéa G.02.006(1)f) qui sont nécessaires pour mettre à jour la liste et est accompagné de la version révisée de celle-ci.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-###### Avis — cinq jours
-
-**G.02.022** Le distributeur autorisé avise le ministre par écrit du fait que le responsable qualifié ou tout responsable qualifié suppléant cesse d’exercer cette fonction dans les cinq jours suivant la cessation.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-###### Avis — dix jours
-
-**G.02.023** **(1)** Le distributeur autorisé avise le ministre par écrit de l’un des changements ci-après dans les dix jours suivant celui-ci :
-
-- **a)** le responsable principal visé par sa licence cesse d’exercer cette fonction;
-
-- **b)** le distributeur autorisé cesse de fabriquer ou d’assembler un produit ou un composé qui figure sur la plus récente version de la liste visée à l’alinéa G.02.006(1)f) qui a été présentée au ministre.
-
-*Renseignements et liste*
-
-**(2)** L’avis prévu à l’alinéa (1)b) contient les précisions visées à l’alinéa G.02.006(1)f) qui font l’objet du changement et est accompagné de la version révisée de la liste.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-###### Avis — cessation des opérations
-
-**G.02.024** **(1)** Le distributeur autorisé qui entend cesser les opérations à son installation avant l’expiration de sa licence ou à l’expiration de celle-ci en avise le ministre par écrit au moins trente jours avant la cessation.
-
-*Contenu de l’avis*
-
-**(2)** L’avis est signé et daté par le responsable principal et contient les renseignements suivants :
-
-- **a)** la date prévue de la cessation des opérations à l’installation;
-
-- **b)** la description de la façon dont le distributeur autorisé disposera de la totalité des drogues contrôlées restant à l’installation à cette date, notamment les précisions suivantes :
-
-  - **(i)** dans le cas où elles seront en tout ou en partie vendues ou fournies à un autre distributeur autorisé qui effectuera des opérations à la même installation, le nom de celui-ci,
-
-  - **(ii)** dans le cas où elles seront en tout ou en partie vendues ou fournies à un autre distributeur autorisé qui n’effectuera pas d’opérations à la même installation, le nom de celui-ci et l’adresse municipale de son installation,
-
-  - **(iii)** dans le cas où elles seront en tout ou en partie détruites, la date de la destruction et l’adresse municipale du lieu de la destruction;
-
-- **c)** l’adresse municipale du lieu où les documents du distributeur autorisé seront conservés après la cessation des opérations;
-
-- **d)** les nom, adresse municipale, numéro de téléphone et, le cas échéant, l’adresse électronique de la personne que le ministre pourra contacter après la cessation des opérations pour obtenir plus amples renseignements.
-
-*Mise à jour*
-
-**(3)** Une fois que les opérations ont cessé, le distributeur autorisé présente au ministre une mise à jour détaillée, signée et datée par le responsable principal, des renseignements visés au paragraphe (2), s’ils diffèrent de ceux indiqués sur l’avis.
-
-<sub>Historique: DORS/78-220, art. 3; DORS/85-550, art. 2; DORS/99-125, art. 2; DORS/2004-238, art. 9; DORS/2010-222, art. 11; DORS/2012-230, art. 9; DORS/2019-171, art. 1</sub>
+**G.02.024** \[Abrogé, DORS/2025-242, art. 237\]
 
 **G.02.024.1** \[Abrogé, DORS/2019-171, art. 1\]
 
 **G.02.024.2** \[Abrogé, DORS/2019-171, art. 1\]
 
-##### Changement des conditions de la licence
+**G.02.025** \[Abrogé, DORS/2025-242, art. 237\]
 
-###### Ajout ou modification de conditions
+**G.02.026** \[Abrogé, DORS/2025-242, art. 237\]
 
-**G.02.025** **(1)** Le ministre peut, à un moment autre que celui de la délivrance, du renouvellement ou de la modification de la licence du distributeur autorisé, ajouter toute condition à la licence ou en modifier les conditions s’il a des motifs raisonnables de le croire nécessaire pour atteindre l’une des fins suivantes :
+**G.02.027** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **a)** le respect d’une obligation internationale;
+**G.02.028** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **b)** la conformité aux exigences associées au niveau de sécurité précisé dans la licence;
+**G.02.029** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **c)** la réduction d’un risque d’atteinte à la sécurité ou à la santé publiques, notamment le risque de détournement d’une drogue contrôlée vers un marché ou un usage illicites.
+**G.02.030** \[Abrogé, DORS/2025-242, art. 237\]
 
-*Préavis*
+**G.02.031** \[Abrogé, DORS/2025-242, art. 237\]
 
-**(2)** Le ministre, avant d’ajouter une condition à la licence ou d’en modifier les conditions, envoie au distributeur autorisé un préavis motivé l’informant qu’il peut présenter ses observations à cet égard.
+**G.02.032** \[Abrogé, DORS/2025-242, art. 237\]
 
-*Urgence*
+**G.02.033** \[Abrogé, DORS/2025-242, art. 237\]
 
-**(3)** Malgré le paragraphe (2), le ministre peut ajouter toute condition à la licence ou en modifier les conditions sans préavis s’il a des motifs raisonnables de le croire nécessaire pour protéger la sécurité ou la santé publiques, notamment pour prévenir le détournement d’une drogue contrôlée vers un marché ou un usage illicites.
+**G.02.034** \[Abrogé, DORS/2025-242, art. 237\]
 
-*Urgence — avis*
+**G.02.035** \[Abrogé, DORS/2025-242, art. 237\]
 
-**(4)** L’ajout ou la modification d’une condition en vertu du paragraphe (3) prend effet dès que le ministre envoie au distributeur autorisé un avis à cet égard qui contient les précisions suivantes :
+**G.02.036** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **a)** les motifs de l’ajout ou de la modification;
+**G.02.037** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **b)** le fait que le distributeur autorisé a la possibilité de présenter ses observations à cet égard;
+**G.02.038** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **c)** les mesures correctives à prendre et le délai accordé à cette fin, s’il y a lieu.
+**G.02.039** \[Abrogé, DORS/2025-242, art. 237\]
 
-<sub>Historique: DORS/78-220, art. 4; DORS/78-427, art. 4; DORS/85-550, art. 3; DORS/88-482, art. 3(F); DORS/90-261, art. 2(F); DORS/97-228, art. 11; DORS/2004-238, art. 11; DORS/2010-222, art. 12; DORS/2012-230, art. 10; DORS/2014-260, art. 6(A) et 14(F); DORS/2019-171, art. 1</sub>
+**G.02.040** \[Abrogé, DORS/2025-242, art. 237\]
 
-###### Suppression d’une condition
+**G.02.041** \[Abrogé, DORS/2025-242, art. 237\]
 
-**G.02.026** **(1)** Le ministre peut supprimer toute condition qu’il ne juge plus nécessaire de la licence de distributeur autorisé.
+**G.02.042** \[Abrogé, DORS/2025-242, art. 237\]
 
-*Avis*
+**G.02.043** \[Abrogé, DORS/2025-242, art. 237\]
 
-**(2)** La suppression prend effet dès que le ministre envoie un avis de suppression au distributeur autorisé.
+**G.02.044** \[Abrogé, DORS/2025-242, art. 237\]
 
-<sub>Historique: DORS/2004-238, art. 12; DORS/2010-222, art. 13(F); DORS/2014-260, art. 7; DORS/2019-171, art. 1</sub>
+**G.02.045** \[Abrogé, DORS/2025-242, art. 237\]
 
-##### Suspension et révocation de la licence
+**G.02.046** \[Abrogé, DORS/2025-242, art. 237\]
 
-###### Suspension
+**G.02.047** \[Abrogé, DORS/2025-242, art. 237\]
 
-**G.02.027** **(1)** Le ministre suspend sans préavis la licence d’un distributeur autorisé s’il a des motifs raisonnables de le croire nécessaire pour protéger la sécurité ou la santé publiques, notamment pour prévenir le détournement d’une drogue contrôlée vers un marché ou un usage illicites.
+**G.02.048** \[Abrogé, DORS/2025-242, art. 237\]
 
-*Avis*
+**G.02.049** \[Abrogé, DORS/2025-242, art. 237\]
 
-**(2)** La suspension prend effet dès que le ministre envoie au distributeur autorisé un avis de suspension qui contient les précisions suivantes :
+**G.02.050** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **a)** les motifs de la suspension;
+**G.02.051** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **b)** le fait que le distributeur autorisé a la possibilité de présenter ses observations à cet égard;
+**G.02.052** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **c)** les mesures correctives à prendre et le délai accordé à cette fin, s’il y a lieu.
+**G.02.053** \[Abrogé, DORS/2025-242, art. 237\]
 
-*Rétablissement de la licence*
+**G.02.054** \[Abrogé, DORS/2025-242, art. 237\]
 
-**(3)** Le ministre rétablit la licence s’il a des motifs raisonnables de croire que la suspension n’est plus nécessaire.
+**G.02.055** \[Abrogé, DORS/2025-242, art. 237\]
 
-<sub>Historique: DORS/2019-171, art. 1</sub>
+**G.02.056** \[Abrogé, DORS/2025-242, art. 237\]
 
-###### Révocation
+**G.02.057** \[Abrogé, DORS/2025-242, art. 237\]
 
-**G.02.028** **(1)** Le ministre, sous réserve du paragraphe (2), révoque la licence de distributeur autorisé dans les cas suivants :
+**G.02.058** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **a)** le distributeur autorisé ne peut plus demander une licence en vertu de l’article G.02.002;
+**G.02.059** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **b)** le distributeur autorisé lui en fait la demande ou l’informe de la perte, du vol ou de toute utilisation non autorisée de la licence, que celle-ci soit réelle ou potentielle;
+**G.02.060** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **c)** le distributeur autorisé cesse ses opérations à son installation avant l’expiration de sa licence;
+**G.02.061** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **d)** le distributeur autorisé ne prend pas les mesures correctives précisées dans un engagement ou un avis;
+**G.02.062** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **e)** le distributeur autorisé a contrevenu :
+**G.02.063** \[Abrogé, DORS/2025-242, art. 237\]
 
-  - **(i)** soit à une disposition de la Loi, de la [Loi sur le cannabis](../../acts/fr/C-24.5.md) ou de leurs règlements,
+**G.02.064** \[Abrogé, DORS/2025-242, art. 237\]
 
-  - **(ii)** soit à une condition d’une licence ou d’un permis qui lui a été délivré en vertu d’un règlement pris en vertu de la Loi ou qui lui a été délivré en vertu de la [Loi sur le cannabis](../../acts/fr/C-24.5.md) ou de ses règlements;
+**G.02.065** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **f)** dans les dix années précédant la révocation, le responsable principal, le responsable qualifié ou tout responsable qualifié suppléant a fait l’objet d’une condamnation visée aux sous-alinéas G.02.005a)(i) ou b)(i) ou s’est vu imposer une peine visée aux sous-alinéas G.02.005a)(ii) ou b)(ii);
+**G.02.066** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **g)** le ministre a des motifs raisonnables de croire que le distributeur autorisé a fourni, dans toute demande relative à la licence ou à l’appui de celle-ci, des renseignements faux ou trompeurs ou des documents faux ou falsifiés;
+**G.02.067** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **h)** le ministre a des motifs raisonnables de croire, sur le fondement de renseignements reçus d’une autorité compétente ou de l’Organisation des Nations Unies, que le distributeur autorisé a participé au détournement d’une drogue contrôlée vers un marché ou un usage illicites.
+**G.02.068** \[Abrogé, DORS/2025-242, art. 237\]
 
-*Exceptions*
+**G.02.069** \[Abrogé, DORS/2025-242, art. 237\]
 
-**(2)** Le ministre ne peut, dans les cas visés aux alinéas (1)e) ou g), révoquer la licence si le distributeur autorisé remplit les conditions ci-après, sauf s’il a des motifs raisonnables de croire que la révocation est nécessaire pour protéger la sécurité ou la santé publiques, notamment pour prévenir le détournement d’une drogue contrôlée vers un marché ou un usage illicites :
+**G.02.070** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **a)** le distributeur autorisé n’a pas d’antécédents de contravention à la Loi, à la [Loi sur le cannabis](../../acts/fr/C-24.5.md) ou à leurs règlements;
+**G.02.071** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **b)** il a soit pris les mesures correctives nécessaires pour veiller à respecter la Loi, la [Loi sur le cannabis](../../acts/fr/C-24.5.md) et leurs règlements, soit signé un engagement à cet effet.
+**G.02.072** \[Abrogé, DORS/2025-242, art. 237\]
 
-*Préavis*
+**G.02.073** \[Abrogé, DORS/2025-242, art. 237\]
 
-**(3)** Le ministre, avant de révoquer la licence, envoie au distributeur autorisé un préavis motivé l’informant qu’il peut présenter ses observations à cet égard.
+**G.02.074** \[Abrogé, DORS/2025-242, art. 237\]
 
-<sub>Historique: DORS/2019-171, art. 1</sub>
+**G.02.075** \[Abrogé, DORS/2025-242, art. 237\]
 
-###### Retour de la licence
+**G.02.076** \[Abrogé, DORS/2025-242, art. 237\]
 
-**G.02.029** Le distributeur autorisé retourne au ministre l’original de la licence dans les quinze jours suivant la date de prise d’effet de la révocation.
+**G.02.077** \[Abrogé, DORS/2025-242, art. 237\]
 
-<sub>Historique: DORS/2019-171, art. 1</sub>
+**G.02.078** \[Abrogé, DORS/2025-242, art. 237\]
 
-#### Permis d’importation
+**G.02.079** \[Abrogé, DORS/2025-242, art. 237\]
 
-##### Demande
+**G.03.001** \[Abrogé, DORS/2025-242, art. 237\]
 
-**G.02.030** **(1)** Le distributeur autorisé présente au ministre, pour chaque importation prévue de drogues contrôlées, une demande de permis d’importation qui contient les renseignements suivants :
+**G.03.002** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **a)** ses nom, adresse municipale et numéro de licence de distributeur autorisé;
+**G.03.002.1** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **b)** les précisions ci-après concernant la drogue contrôlée qu’il prévoit d’importer :
+**G.03.002.2** \[Abrogé, DORS/2025-242, art. 237\]
 
-  - **(i)** son nom, tel qu’il figure sur la licence de distributeur autorisé,
+**G.03.003** \[Abrogé, DORS/2025-242, art. 237\]
 
-  - **(ii)** s’agissant d’un sel, son nom,
+**G.03.004** \[Abrogé, DORS/2025-242, art. 237\]
 
-  - **(iii)** sa quantité,
+**G.03.005** \[Abrogé, DORS/2025-242, art. 237\]
 
-  - **(iv)** s’agissant d’une matière première, son degré de pureté et son contenu anhydre;
+**G.03.006** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **c)** si la drogue contrôlée est contenue dans un produit qu’il prévoit d’importer, les précisions ci-après concernant ce produit :
+**G.03.007** \[Abrogé, DORS/2025-242, art. 237\]
 
-  - **(i)** sa marque nominative,
+**G.03.008** \[Abrogé, DORS/2025-242, art. 237\]
 
-  - **(ii)** l’identification numérique qui lui a été attribuée aux termes de l’article C.01.014.2, s’il y a lieu,
+**G.03.009** \[Abrogé, DORS/2025-242, art. 237\]
 
-  - **(iii)** la concentration de la drogue contrôlée qu’il contient dans chacune de ses unités, le nombre d’unités contenues dans son emballage et le nombre d’emballages;
+**G.03.010** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **d)** les nom et adresse municipale, dans le pays d’exportation, de l’exportateur duquel il obtient la drogue contrôlée;
+**G.03.011** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **e)** le nom du bureau de douane où est prévue l’importation;
+**G.03.012** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **f)** les modes de transport prévus et chaque pays de transit ou de transbordement prévu.
+**G.03.013** \[Abrogé, DORS/2025-242, art. 237\]
 
-*Signature et attestation*
+**G.03.014** \[Abrogé, DORS/2025-242, art. 237\]
 
-**(2)** La demande satisfait aux exigences suivantes :
+**G.03.015** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **a)** elle est signée et datée par le responsable qualifié ou un responsable qualifié suppléant;
+**G.03.016** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **b)** elle comprend une attestation de celui-ci portant qu’à sa connaissance, tous les renseignements fournis à l’appui de la demande sont exacts et complets.
+**G.03.017** \[Abrogé, DORS/2025-242, art. 237\]
 
-*Renseignements et documents complémentaires*
+**G.03.017.1** \[Abrogé, DORS/2025-242, art. 237\]
 
-**(3)** Le distributeur autorisé fournit au ministre, au plus tard à la date précisée dans la demande écrite de celui-ci à cet effet, tout renseignement ou document que le ministre juge nécessaire pour compléter l’examen de la demande de permis d’importation.
+**G.03.017.2** \[Abrogé, DORS/2025-242, art. 237\]
 
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Délivrance
-
-**G.02.031** Le ministre, au terme de l’examen de la demande de permis d’importation et sous réserve de l’article G.02.034, délivre au distributeur autorisé un permis d’importation qui contient les renseignements suivants :
-
-- **a)** le numéro du permis;
-
-- **b)** les renseignements visés au paragraphe G.02.030(1);
-
-- **c)** la date de prise d’effet du permis;
-
-- **d)** la date d’expiration du permis, qui correspond à celle des dates ci-après qui est antérieure aux autres :
-
-  - **(i)** la date précisée par le ministre, qui ne peut être postérieure au cent quatre-vingtième jour suivant sa date de prise d’effet,
-
-  - **(ii)** la date d’expiration de la licence du distributeur autorisé;
-
-- **e)** toute condition que le ministre estime nécessaire, sur le fondement de motifs raisonnables, pour atteindre l’une des fins suivantes :
-
-  - **(i)** le respect d’une obligation internationale,
-
-  - **(ii)** la réduction d’un risque d’atteinte à la sécurité ou à la santé publiques, notamment le risque de détournement d’une drogue contrôlée vers un marché ou un usage illicites.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Validité
-
-**G.02.032** Le permis d’importation est valide jusqu’à celle des dates ci-après qui est antérieure aux autres :
-
-- **a)** la date d’expiration qui y est indiquée;
-
-- **b)** la date de sa suspension ou de sa révocation au titre des articles G.02.037 ou G.02.038;
-
-- **c)** la date de suspension ou de révocation, au titre des articles G.02.027 ou G.02.028, de la licence du distributeur autorisé;
-
-- **d)** la date de suspension ou de révocation du permis d’exportation délivré par l’autorité compétente du pays d’exportation à l’égard de la drogue contrôlée à importer.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Retour du permis
-
-**G.02.033** Le distributeur autorisé dont le permis d’importation expire retourne l’original de celui-ci au ministre dans les quinze jours suivant la date d’expiration.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Refus
-
-**G.02.034** **(1)** Le ministre refuse de délivrer un permis d’importation dans les cas suivants :
-
-- **a)** la licence du distributeur autorisé ne l’autorise pas à importer la drogue contrôlée visée ou elle expirera avant la date d’importation;
-
-- **b)** le ministre a des motifs raisonnables de croire que l’importation entraînerait la violation d’une obligation internationale;
-
-- **c)** le distributeur autorisé n’a pas mis en place à l’installation les mesures de sécurité prévues dans la Directive en matière de sécurité à l’égard de l’importation;
-
-- **d)** soit le distributeur autorisé ne s’est pas conformé aux exigences prévues au paragraphe G.02.030(3), soit il s’y est conformé, mais les renseignements ou documents fournis sont insuffisants pour terminer l’examen de la demande de permis;
-
-- **e)** le ministre a des motifs raisonnables de croire que le distributeur autorisé a fourni, dans sa demande de permis ou à l’appui de celle-ci, des renseignements faux ou trompeurs ou des documents faux ou falsifiés;
-
-- **f)** le distributeur autorisé a été avisé que la demande de renouvellement de sa licence de distributeur autorisé ou la demande de modification de celle-ci sera refusée;
-
-- **g)** le ministre a des motifs raisonnables de croire que l’importation contreviendrait aux règles de droit du pays d’exportation, de tout pays de transit ou de tout pays de transbordement;
-
-- **h)** le ministre a des motifs raisonnables de croire que la délivrance du permis risquerait vraisemblablement de porter atteinte à la sécurité ou à la santé publiques, notamment en raison du risque de détournement d’une drogue contrôlée vers un marché ou un usage illicites.
-
-*Préavis*
-
-**(2)** Le ministre, avant de refuser de délivrer le permis d’importation, envoie au distributeur autorisé un préavis motivé l’informant qu’il peut présenter ses observations à cet égard.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Production d’une copie du permis
-
-**G.02.035** Le titulaire du permis d’importation en produit une copie au bureau de douane lors de l’importation.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Déclaration
-
-**G.02.036** Le titulaire du permis d’importation fournit au ministre, dans les quinze jours suivant la date du dédouanement de la drogue contrôlée visée par le permis conformément à la [Loi sur les douanes](../../acts/fr/C-52.6.md), une déclaration comprenant les renseignements suivants :
-
-- **a)** son nom ainsi que les numéros de sa licence de distributeur autorisé et de son permis d’importation relatifs à la drogue contrôlée;
-
-- **b)** les précisions ci-après concernant la drogue contrôlée :
-
-  - **(i)** son nom, tel qu’il figure sur la licence de distributeur autorisé,
-
-  - **(ii)** s’agissant d’un sel, son nom,
-
-  - **(iii)** sa quantité;
-
-- **c)** si la drogue contrôlée est contenue dans un produit qu’il a importé, les précisions ci-après concernant ce produit :
-
-  - **(i)** sa marque nominative,
-
-  - **(ii)** l’identification numérique qui lui a été attribuée aux termes de l’article C.01.014.2, s’il y a lieu,
-
-  - **(iii)** la concentration de la drogue contrôlée qu’il contient dans chacune de ses unités, le nombre d’unités par emballage et le nombre d’emballages;
-
-- **d)** le nom du bureau de douane où a eu lieu le dédouanement et la date de celui-ci.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Suspension
-
-**G.02.037** **(1)** Le ministre suspend sans préavis le permis d’importation dans les cas suivants :
-
-- **a)** la licence du distributeur autorisé est suspendue;
-
-- **b)** il a des motifs raisonnables de le croire nécessaire pour protéger la sécurité ou la santé publiques, notamment pour prévenir le détournement d’une drogue contrôlée vers un marché ou un usage illicites;
-
-- **c)** l’importation contreviendrait aux règles de droit du pays d’exportation, de tout pays de transit ou de tout pays de transbordement.
-
-*Avis*
-
-**(2)** La suspension prend effet dès que le ministre envoie au distributeur autorisé un avis de suspension qui contient les précisions suivantes :
-
-- **a)** les motifs de la suspension;
-
-- **b)** le fait que le distributeur autorisé a la possibilité de présenter ses observations à cet égard;
-
-- **c)** les mesures correctives à prendre et le délai accordé à cette fin, s’il y a lieu.
-
-*Rétablissement du permis*
-
-**(3)** Le ministre rétablit le permis d’importation s’il a des motifs raisonnables de croire que la suspension n’est plus nécessaire.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Révocation
-
-**G.02.038** **(1)** Le ministre, sous réserve du paragraphe (2), révoque le permis d’importation dans les cas suivants :
-
-- **a)** le distributeur autorisé lui en fait la demande ou l’informe de la perte, du vol ou de toute utilisation non autorisée du permis, que celle-ci soit réelle ou potentielle;
-
-- **b)** le distributeur autorisé ne prend pas les mesures correctives précisées par le ministre en vertu de l’alinéa G.02.037(2)c) dans le délai imparti;
-
-- **c)** le distributeur autorisé a contrevenu à une condition de son permis;
-
-- **d)** le ministre a des motifs raisonnables de croire que le distributeur autorisé a fourni, dans sa demande de permis ou à l’appui de celle-ci, des renseignements faux ou trompeurs ou des documents faux ou falsifiés;
-
-- **e)** le ministre a des motifs raisonnables de croire, sur le fondement de renseignements reçus d’une autorité compétente ou de l’Organisation des Nations Unies, que le distributeur autorisé a participé au détournement d’une drogue contrôlée vers un marché ou un usage illicites;
-
-- **f)** la licence du distributeur autorisé a été révoquée.
-
-*Exceptions*
-
-**(2)** Le ministre ne peut, dans les cas visés aux alinéas (1)d) ou G.02.028(1)e) ou g), révoquer le permis d’importation si le distributeur autorisé remplit les conditions ci-après, sauf s’il a des motifs raisonnables de croire que la révocation est nécessaire pour protéger la sécurité ou la santé publiques, notamment pour prévenir le détournement d’une drogue contrôlée vers un marché ou un usage illicites :
-
-- **a)** le distributeur autorisé n’a pas d’antécédents de contravention à la Loi, à la [Loi sur le cannabis](../../acts/fr/C-24.5.md) ou à leurs règlements;
-
-- **b)** il a soit pris les mesures correctives nécessaires pour veiller à respecter la Loi, la [Loi sur le cannabis](../../acts/fr/C-24.5.md) et leurs règlements, soit signé un engagement à cet effet.
-
-*Préavis*
-
-**(3)** Le ministre, avant de révoquer le permis d’importation, envoie au distributeur autorisé un préavis motivé l’informant qu’il peut présenter ses observations à cet égard.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Retour du permis
-
-**G.02.039** Le distributeur autorisé retourne au ministre l’original du permis d’importation dans les quinze jours suivant la date de prise d’effet de la révocation.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-#### Permis d’exportation
-
-##### Demande
-
-**G.02.040** **(1)** Le distributeur autorisé présente au ministre, pour chaque exportation prévue de drogues contrôlées, une demande de permis d’exportation qui contient les renseignements et documents suivants :
-
-- **a)** ses nom, adresse municipale et numéro de licence de distributeur autorisé;
-
-- **b)** les précisions ci-après concernant la drogue contrôlée qu’il prévoit d’exporter :
-
-  - **(i)** son nom, tel qu’il figure sur la licence de distributeur autorisé,
-
-  - **(ii)** s’agissant d’un sel, son nom,
-
-  - **(iii)** sa quantité,
-
-  - **(iv)** s’agissant d’une matière première, son degré de pureté et son contenu anhydre;
-
-- **c)** si la drogue contrôlée est contenue dans un produit qu’il prévoit d’exporter, les précisions ci-après concernant ce produit :
-
-  - **(i)** sa marque nominative,
-
-  - **(ii)** l’identification numérique qui lui a été attribuée aux termes de l’article C.01.014.2, s’il y a lieu,
-
-  - **(iii)** la concentration de la drogue contrôlée qu’il contient dans chacune de ses unités, le nombre d’unités par emballage et le nombre d’emballages;
-
-- **d)** les nom et adresse municipale, dans le pays de destination finale, de l’importateur;
-
-- **e)** le nom du bureau de douane où est prévue l’exportation;
-
-- **f)** les modes de transport prévus et chaque pays de transit ou de transbordement prévu;
-
-- **g)** une copie du permis d’importation délivré par l’autorité compétente du pays de destination finale précisant le nom de l’importateur et l’adresse municipale de son installation située dans ce pays.
-
-*Signature et attestation*
-
-**(2)** La demande satisfait aux exigences suivantes :
-
-- **a)** elle est signée et datée par le responsable qualifié ou un responsable qualifié suppléant;
-
-- **b)** elle comprend une attestation de celui-ci portant sur les faits suivants :
-
-  - **(i)** à sa connaissance, l’exportation prévue ne contrevient à aucune règle de droit du pays de destination finale, de tout pays de transit ou de tout pays de transbordement,
-
-  - **(ii)** à sa connaissance, tous les renseignements et documents fournis à l’appui de la demande sont exacts et complets.
-
-*Renseignements et documents complémentaires*
-
-**(3)** Le distributeur autorisé fournit au ministre, au plus tard à la date précisée dans la demande écrite de celui-ci à cet effet, tout renseignement ou document que le ministre juge nécessaire pour compléter l’examen de la demande de permis d’exportation.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Délivrance
-
-**G.02.041** Le ministre, au terme de l’examen de la demande de permis d’exportation et sous réserve de l’article G.02.044, délivre au distributeur autorisé un permis d’exportation qui contient les renseignements suivants :
-
-- **a)** le numéro du permis;
-
-- **b)** les renseignements visés aux alinéas G.02.040(1)a) à f);
-
-- **c)** la date de prise d’effet du permis;
-
-- **d)** la date d’expiration du permis, qui correspond à celle des dates ci-après qui est antérieure aux autres :
-
-  - **(i)** la date précisée par le ministre, qui ne peut être postérieure au cent quatre-vingtième jour suivant sa date de prise d’effet,
-
-  - **(ii)** la date d’expiration de la licence du distributeur autorisé,
-
-  - **(iii)** la date d’expiration du permis d’importation délivré par l’autorité compétente du pays de destination finale;
-
-- **e)** toute condition que le ministre estime nécessaire, sur le fondement de motifs raisonnables, pour atteindre l’une des fins suivantes :
-
-  - **(i)** le respect d’une obligation internationale,
-
-  - **(ii)** la réduction d’un risque d’atteinte à la sécurité ou à la santé publiques, notamment le risque de détournement d’une drogue contrôlée vers un marché ou un usage illicites.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Validité
-
-**G.02.042** Le permis d’exportation est valide jusqu’à celle des dates ci-après qui est antérieure aux autres :
-
-- **a)** la date d’expiration qui y est indiquée;
-
-- **b)** la date de sa suspension ou de sa révocation au titre des articles G.02.047 ou G.02.048;
-
-- **c)** la date de suspension ou de révocation, au titre des articles G.02.027 ou G.02.028, de la licence du distributeur autorisé;
-
-- **d)** la date d’expiration, de suspension ou de révocation du permis d’importation délivré par l’autorité compétente du pays de destination finale à l’égard de la drogue contrôlée à exporter.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Retour du permis
-
-**G.02.043** Le distributeur autorisé dont le permis d’exportation expire retourne l’original de celui-ci au ministre dans les quinze jours suivant la date d’expiration.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Refus
-
-**G.02.044** **(1)** Le ministre refuse de délivrer un permis d’exportation dans les cas suivants :
-
-- **a)** la licence du distributeur autorisé ne l’autorise pas à exporter la drogue contrôlée visée ou elle expirera avant la date d’exportation;
-
-- **b)** le ministre a des motifs raisonnables de croire que l’exportation entraînerait la violation d’une obligation internationale;
-
-- **c)** soit le distributeur autorisé ne s’est pas conformé aux exigences prévues au paragraphe G.02.040(3), soit il s’y est conformé, mais les renseignements ou documents fournis sont insuffisants pour terminer l’examen de la demande de permis;
-
-- **d)** le ministre a des motifs raisonnables de croire que le distributeur autorisé a fourni, dans sa demande de permis ou à l’appui de celle-ci, des renseignements faux ou trompeurs ou des documents faux ou falsifiés;
-
-- **e)** le distributeur autorisé a été avisé que la demande de renouvellement de sa licence de distributeur autorisé ou la demande de modification de celle-ci sera refusée;
-
-- **f)** le ministre a des motifs raisonnables de croire que l’exportation ne serait pas conforme au permis d’importation délivré par l’autorité compétente du pays de destination finale;
-
-- **g)** le ministre a des motifs raisonnables de croire que l’exportation contreviendrait aux règles de droit du pays de destination finale, de tout pays de transit ou de tout pays de transbordement;
-
-- **h)** le ministre a des motifs raisonnables de croire que la délivrance du permis risquerait vraisemblablement de porter atteinte à la sécurité ou à la santé publiques, notamment en raison du risque de détournement d’une drogue contrôlée vers un marché ou un usage illicites.
-
-*Préavis*
-
-**(2)** Le ministre, avant de refuser de délivrer le permis d’exportation, envoie au distributeur autorisé un préavis motivé l’informant qu’il peut présenter ses observations à cet égard.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Production d’une copie du permis
-
-**G.02.045** Le titulaire du permis d’exportation en produit une copie au bureau de douane lors de l’exportation.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Déclaration
-
-**G.02.046** Le titulaire du permis d’exportation fournit au ministre, dans les quinze jours suivant la date d’exportation de la drogue contrôlée visée par le permis, une déclaration comprenant les renseignements suivants :
-
-- **a)** son nom ainsi que les numéros de sa licence de distributeur autorisé et du permis d’exportation relatifs à la drogue contrôlée;
-
-- **b)** les précisions ci-après concernant la drogue contrôlée :
-
-  - **(i)** son nom, tel qu’il figure sur la licence de distributeur autorisé,
-
-  - **(ii)** s’agissant d’un sel, son nom,
-
-  - **(iii)** sa quantité;
-
-- **c)** si la drogue contrôlée est contenue dans un produit qu’il a exporté, les précisions ci-après concernant ce produit :
-
-  - **(i)** sa marque nominative,
-
-  - **(ii)** l’identification numérique qui lui a été attribuée aux termes de l’article C.01.014.2, s’il y a lieu,
-
-  - **(iii)** la concentration de la drogue contrôlée qu’il contient dans chacune de ses unités, le nombre d’unités par emballage et le nombre d’emballages;
-
-- **d)** le nom du bureau de douane où a eu lieu l’exportation et la date de celle-ci.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Suspension
-
-**G.02.047** **(1)** Le ministre suspend sans préavis le permis d’exportation dans les cas suivants :
-
-- **a)** la licence du distributeur autorisé est suspendue;
-
-- **b)** il a des motifs raisonnables de le croire nécessaire pour protéger la sécurité ou la santé publiques, notamment pour prévenir le détournement d’une drogue contrôlée vers un marché ou un usage illicites;
-
-- **c)** l’exportation contreviendrait aux règles de droit du pays de destination finale, de tout pays de transit ou de tout pays de transbordement.
-
-*Avis*
-
-**(2)** La suspension prend effet dès que le ministre envoie au distributeur autorisé un avis de suspension qui contient les précisions suivantes :
-
-- **a)** les motifs de la suspension;
-
-- **b)** le fait que le distributeur autorisé a la possibilité de présenter ses observations à cet égard;
-
-- **c)** les mesures correctives à prendre et le délai accordé à cette fin, s’il y a lieu.
-
-*Rétablissement du permis*
-
-**(3)** Le ministre rétablit le permis d’exportation s’il a des motifs raisonnables de croire que la suspension n’est plus nécessaire.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Révocation
-
-**G.02.048** **(1)** Le ministre, sous réserve du paragraphe (2), révoque le permis d’exportation dans les cas suivants :
-
-- **a)** le distributeur autorisé lui en fait la demande ou l’informe de la perte, du vol ou de toute utilisation non autorisée du permis, que celle-ci soit réelle ou potentielle;
-
-- **b)** le distributeur autorisé ne prend pas les mesures correctives précisées par le ministre en vertu de l’alinéa G.02.047(2)c) dans le délai imparti;
-
-- **c)** le distributeur autorisé a contrevenu à une condition de son permis;
-
-- **d)** le ministre a des motifs raisonnables de croire que le distributeur autorisé a fourni, dans sa demande de permis ou à l’appui de celle-ci, des renseignements faux ou trompeurs ou des documents faux ou falsifiés;
-
-- **e)** le ministre a des motifs raisonnables de croire, sur le fondement de renseignements reçus d’une autorité compétente ou de l’Organisation des Nations Unies, que le distributeur autorisé a participé au détournement d’une drogue contrôlée vers un marché ou un usage illicites;
-
-- **f)** la licence du distributeur autorisé a été révoquée.
-
-*Exceptions*
-
-**(2)** Le ministre ne peut, dans les cas visés aux alinéas (1)d) ou G.02.028(1)e) ou g), révoquer le permis d’exportation si le distributeur autorisé remplit les conditions ci-après, sauf s’il a des motifs raisonnables de croire que la révocation est nécessaire pour protéger la sécurité ou la santé publiques, notamment pour prévenir le détournement d’une drogue contrôlée vers un marché ou un usage illicites :
-
-- **a)** le distributeur autorisé n’a pas d’antécédents de contravention à la Loi, à la [Loi sur le cannabis](../../acts/fr/C-24.5.md) ou à leurs règlements;
-
-- **b)** il a soit pris les mesures correctives nécessaires pour veiller à respecter la Loi, la [Loi sur le cannabis](../../acts/fr/C-24.5.md) et leurs règlements, soit signé un engagement à cet effet.
-
-*Préavis*
-
-**(3)** Le ministre, avant de révoquer le permis d’exportation, envoie au distributeur autorisé un préavis motivé l’informant qu’il peut présenter ses observations à cet égard.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Retour du permis
-
-**G.02.049** Le distributeur autorisé retourne au ministre l’original du permis d’exportation dans les quinze jours suivant la date de prise d’effet de la révocation.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-#### Identification
-
-##### Nom
-
-**G.02.050** Le distributeur autorisé veille à ce que son nom, tel qu’il apparaît sur sa licence, figure sur tout ce qu’il utilise pour s’identifier lors de ses opérations à l’égard des drogues contrôlées, notamment les étiquettes, les bons de commande, les documents d’expédition, les factures et les publicités.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-#### Vente de drogues contrôlées
-
-##### Vente à un autre distributeur autorisé
-
-**G.02.051** Le distributeur autorisé peut vendre ou fournir une drogue contrôlée à un autre distributeur autorisé.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Vente à un pharmacien
-
-**G.02.052** **(1)** Le distributeur autorisé peut, sous réserve du paragraphe (2), vendre ou fournir une drogue contrôlée à un pharmacien.
-
-*Exception — pharmacien nommé dans un avis*
-
-**(2)** Le distributeur autorisé ne peut vendre ou fournir à un pharmacien nommé dans un avis donné conformément à l’article G.03.017.2 les drogues contrôlées visées par l’avis, sauf s’il reçoit l’avis de rétractation visé à l’article G.03.017.3.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Vente à un praticien
-
-**G.02.053** **(1)** Le distributeur autorisé peut, sous réserve du paragraphe (2), vendre ou fournir une drogue contrôlée à un praticien.
-
-*Exceptions — praticien nommé dans un avis*
-
-**(2)** Le distributeur autorisé ne peut vendre ou fournir à un praticien nommé dans un avis donné conformément à l’article G.04.004.2 les drogues contrôlées visées par l’avis, sauf s’il reçoit l’avis de rétractation visé à l’article G.04.004.3.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Fourniture à un employé d’un hôpital
-
-**G.02.054** Le distributeur autorisé peut fournir une drogue contrôlée à l’employé d’un hôpital.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Vente à une personne exemptée
-
-**G.02.055** Le distributeur autorisé peut vendre ou fournir une drogue contrôlée à une personne qui bénéficie d’une exemption relative à la possession de cette drogue et accordée en vertu de l’article 56 de la Loi.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Vente au ministre
-
-**G.02.056** Le distributeur autorisé peut vendre ou fournir une drogue contrôlée au ministre.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Commande écrite
-
-**G.02.057** Le distributeur autorisé peut vendre ou fournir une drogue contrôlée en vertu des articles G.02.051 à G.02.055 si les conditions ci-après sont remplies :
-
-- **a)** il reçoit une commande écrite qui précise le nom et la quantité de la drogue contrôlée commandée et qui est signée et datée conformément à ce qui suit :
-
-  - **(i)** si la drogue contrôlée doit être fournie à un employé d’un hôpital ou à un praticien exerçant dans un hôpital, par le pharmacien responsable de la pharmacie de l’hôpital ou par un praticien autorisé à signer la commande par le responsable de l’hôpital,
-
-  - **(ii)** dans tout autre cas, par la personne à qui est vendue ou fournie la drogue contrôlée;
-
-- **b)** il vérifie la signature s’il ne la reconnaît pas.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Commande verbale
-
-**G.02.058** **(1)** Le distributeur autorisé peut vendre ou fournir une drogue contrôlée mentionnée aux parties II ou III de l’annexe de la présente partie si les conditions ci-après sont remplies :
-
-- **a)** il reçoit une commande verbale qui précise le nom et la quantité de la drogue contrôlée commandée;
-
-- **b)** si la drogue contrôlée doit être fournie à un employé d’un hôpital ou à un praticien exerçant dans un hôpital, la commande a été faite par le pharmacien responsable de la pharmacie de l’hôpital ou par un praticien autorisé à faire la commande par le responsable de l’hôpital.
-
-*Reçu*
-
-**(2)** Le distributeur autorisé qui reçoit une commande verbale d’un pharmacien ou d’un praticien doit obtenir, dans les cinq jours ouvrables suivant l’exécution de la commande, un reçu qu’il conserve et qui satisfait aux exigences suivantes :
-
-- **a)** il est signé par le pharmacien ou le praticien qui a reçu la drogue contrôlée;
-
-- **b)** il précise la date de la réception de la drogue contrôlée par celui-ci;
-
-- **c)** il précise le nom ainsi que la quantité de la drogue contrôlée.
-
-*Interdiction de vente ultérieure sans reçu*
-
-**(3)** Le distributeur autorisé qui n’obtient pas le reçu dans les cinq jours ouvrables ne peut, à la réception d’une autre commande verbale du pharmacien ou du praticien, lui vendre ou fournir une autre drogue contrôlée jusqu’à ce qu’il obtienne ce reçu.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Ventes multiples prévues
-
-**G.02.059** **(1)** Le distributeur autorisé peut vendre ou fournir une drogue contrôlée plus d’une fois à l’égard de la même commande si la commande précise les renseignements suivants :
-
-- **a)** le nombre de ventes ou de fournitures, celui-ci ne dépassant pas quatre;
-
-- **b)** la quantité précise pour chaque vente ou fourniture;
-
-- **c)** les intervalles entre chacune d’elles.
-
-*Ventes multiples — quantité disponible insuffisante*
-
-**(2)** Le distributeur autorisé qui, lorsqu’il reçoit la commande, ne dispose pas temporairement de toute la quantité de la drogue contrôlée demandée peut vendre ou fournir la quantité de la drogue dont il dispose alors et livrer le reste par la suite.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-#### Emballage et transport
-
-##### Emballage — vente et fourniture
-
-**G.02.060** **(1)** Le distributeur autorisé qui vend ou fournit une drogue contrôlée l’emballe solidement dans un contenant immédiat qui est scellé de telle manière qu’il est impossible de l’ouvrir sans briser le sceau.
-
-*Emballage — transport et exportation*
-
-**(2)** Le distributeur autorisé qui transporte ou exporte une drogue contrôlée veille à ce que son emballage soit scellé de telle manière qu’il est impossible de l’ouvrir sans briser le sceau.
-
-*Exception*
-
-**(3)** Le paragraphe (1) ne s’applique pas au nécessaire d’essai qui contient une drogue contrôlée et auquel un numéro d’enregistrement a été attribué.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Transport
-
-**G.02.061** **(1)** Le distributeur autorisé qui prend livraison d’une drogue contrôlée qu’il a importée ou qui fait la livraison d’une drogue contrôlée satisfait aux exigences suivantes :
-
-- **a)** il prend les mesures nécessaires pour veiller à la sécurité de la drogue contrôlée durant son transport;
-
-- **b)** il utilise un moyen de transport qui permet, sous réserve du paragraphe (2), de consigner fidèlement toute manutention de la drogue contrôlée ainsi que la signature de toute personne ayant effectué cette manutention pendant la durée du transport, jusqu’à sa livraison au destinataire;
-
-- **c)** s’agissant d’une drogue contrôlée importée, il la transporte, après son dédouanement en vertu de la [Loi sur les douanes](../../acts/fr/C-52.6.md), directement à l’installation précisée dans sa licence;
-
-- **d)** s’agissant d’une drogue contrôlée qui doit être exportée, il la transporte directement de l’installation précisée dans sa licence au bureau de douane d’où la drogue sera exportée.
-
-*Exception*
-
-**(2)** Le distributeur autorisé peut faire transporter une préparation par un voiturier public.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-#### Pertes, vols et transactions douteuses
-
-##### Mesures de protection
-
-**G.02.062** Le distributeur autorisé prend toute mesure nécessaire pour veiller à la sécurité des drogues contrôlées, des licences et des permis qui sont en sa possession.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Pertes et vols — licences et permis
-
-**G.02.063** Le distributeur autorisé qui prend connaissance de la perte ou du vol de sa licence ou de son permis fournit un rapport écrit au ministre dans les soixante-douze heures suivantes.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Pertes inexplicables et vols — drogues contrôlées
-
-**G.02.064** Le distributeur autorisé qui prend connaissance d’une perte de drogues contrôlées ne pouvant pas s’expliquer dans le cadre des pratiques d’opération normalement acceptées ou d’un vol de drogues contrôlées se conforme aux exigences suivantes :
-
-- **a)** il fournit un rapport écrit à un membre d’un corps policier dans les vingt-quatre heures suivantes;
-
-- **b)** il fournit un rapport écrit au ministre dans les soixante-douze heures suivantes et lui confirme que le rapport prévu à l’alinéa a) a été fourni.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Transactions douteuses
-
-**G.02.065** **(1)** Le distributeur autorisé qui prend connaissance d’une transaction effectuée au cours de ses opérations à l’égard de laquelle il a des motifs raisonnables de soupçonner qu’elle pourrait être liée au détournement d’une drogue contrôlée vers un marché ou un usage illicites fournit au ministre, au plus tard soixante-douze heures après en avoir pris connaissance, un rapport écrit contenant les renseignements suivants :
-
-- **a)** ses nom, adresse municipale et numéro de téléphone ainsi que, si le distributeur autorisé est une personne morale, le poste de l’individu ayant fait le rapport;
-
-- **b)** les nom et adresse municipale de l’autre partie à la transaction;
-
-- **c)** les détails de la transaction, notamment ses date et heure, son type, le nom de la drogue contrôlée, la quantité en cause et, s’agissant d’un produit ou d’un composé, la quantité de toute drogue contrôlée qu’il contient;
-
-- **d)** exception faite d’un nécessaire d’essai, l’identification numérique qui a été attribuée au produit contenant la drogue contrôlée aux termes de l’article C.01.014.2, s’il y a lieu;
-
-- **e)** une description détaillée des motifs de ses soupçons.
-
-*Bonne foi*
-
-**(2)** Le distributeur autorisé ne peut faire l’objet d’une poursuite civile pour avoir fourni ce rapport de bonne foi.
-
-*Non-divulgation*
-
-**(3)** Le distributeur autorisé ne peut, dans l’intention de nuire à une enquête criminelle en cours ou à venir, révéler qu’il a fourni le rapport ou en dévoiler les détails.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Protection partielle contre l’auto-incrimination
-
-**G.02.066** Ni le rapport fourni en application de l’un des articles G.02.063 à G.02.065 ni aucune preuve qui en provient ne peuvent être utilisés ou admis pour incriminer le distributeur autorisé dans le cadre de poursuites criminelles intentées contre lui, sauf s’il s’agit de poursuites intentées en vertu des articles 132, 136 ou 137 du [Code criminel](../../acts/fr/C-46.md).
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-#### Destruction de drogues contrôlées
-
-##### Destruction à l’installation
-
-**G.02.067** Le distributeur autorisé qui prévoit de détruire une drogue contrôlée à l’installation précisée dans sa licence veille à ce que les conditions ci-après soient remplies :
-
-- **a)** il obtient au préalable l’approbation du ministre;
-
-- **b)** la destruction est effectuée en présence de deux personnes parmi les suivantes, dont au moins une est visée au sous-alinéa (i) :
-
-  - **(i)** le responsable principal, le responsable qualifié ou tout responsable qualifié suppléant,
-
-  - **(ii)** une personne qui travaille pour le distributeur autorisé ou qui lui fournit des services et qui occupe un poste de niveau supérieur;
-
-- **c)** la destruction est effectuée selon une méthode conforme à la législation fédérale, provinciale et municipale sur la protection de l’environnement applicable au lieu de destruction;
-
-- **d)** dès la destruction terminée, la personne qui l’a effectuée et les deux personnes visées à l’alinéa b) qui étaient présentes font une déclaration commune signée et datée qui atteste que la drogue contrôlée a été complètement détruite, chaque signataire ajoutant à la déclaration son nom en lettres moulées.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Destruction ailleurs qu’à l’installation
-
-**G.02.068** Le distributeur autorisé qui prévoit de détruire une drogue contrôlée ailleurs qu’à l’installation précisée dans sa licence veille à ce que les conditions ci-après soient remplies :
-
-- **a)** il obtient au préalable l’approbation du ministre;
-
-- **b)** il prend les mesures nécessaires pour veiller à la sécurité de la drogue contrôlée durant son transport afin de prévenir le détournement de celle-ci vers un marché ou un usage illicites;
-
-- **c)** la destruction est effectuée par une personne travaillant pour une entreprise spécialisée dans la destruction de marchandises dangereuses et en présence d’une autre personne travaillant pour cette entreprise;
-
-- **d)** la destruction est effectuée selon une méthode conforme à la législation fédérale, provinciale et municipale sur la protection de l’environnement applicable au lieu de destruction;
-
-- **e)** dès la destruction terminée, la personne qui l’a effectuée fournit au distributeur autorisé une déclaration datée qui atteste que la drogue contrôlée a été complètement détruite et qui contient les renseignements suivants :
-
-  - **(i)** l’adresse municipale du lieu où la destruction a été effectuée,
-
-  - **(ii)** le nom et la quantité de la drogue contrôlée et, le cas échéant, la marque nominative et la quantité du produit qui en contenait ou le nom et la quantité du composé qui en contenait,
-
-  - **(iii)** la méthode de destruction,
-
-  - **(iv)** la date de la destruction,
-
-  - **(v)** les nom en lettres moulées et signature de cette personne ainsi que de l’autre personne présente lors de la destruction.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Demande d’approbation préalable
-
-**G.02.069** **(1)** Le distributeur autorisé présente au ministre une demande qui contient les renseignements ci-après afin d’obtenir une approbation préalable à la destruction d’une drogue contrôlée :
-
-- **a)** ses nom, adresse municipale et numéro de licence de distributeur autorisé;
-
-- **b)** la date prévue de la destruction;
-
-- **c)** l’adresse municipale du lieu où la destruction sera effectuée;
-
-- **d)** une brève description de la méthode de destruction;
-
-- **e)** si la destruction doit être effectuée à l’installation précisée dans sa licence, le nom des personnes proposées pour l’application de l’alinéa G.02.067b) et des renseignements établissant que celles-ci remplissent les conditions visées à cet alinéa;
-
-- **f)** le nom de la drogue contrôlée et, le cas échéant, la marque nominative du produit qui en contient ou le nom du composé qui en contient;
-
-- **g)** la forme et la quantité soit de la drogue contrôlée, soit du produit ou du composé qui en contient et, le cas échéant, la concentration de la drogue contenue dans chaque unité, le nombre d’unités par emballage et le nombre d’emballages.
-
-*Signature et attestation*
-
-**(2)** La demande satisfait aux exigences suivantes :
-
-- **a)** elle est signée et datée par le responsable qualifié ou tout responsable qualifié suppléant;
-
-- **b)** elle comprend une attestation de celui-ci portant sur les faits suivants :
-
-  - **(i)** la méthode de destruction prévue est conforme à la législation fédérale, provinciale et municipale sur la protection de l’environnement applicable au lieu de destruction,
-
-  - **(ii)** à sa connaissance, tous les renseignements et documents fournis à l’appui de la demande sont exacts et complets.
-
-*Renseignements et documents complémentaires*
-
-**(3)** Le distributeur autorisé fournit au ministre, au plus tard à la date précisée dans la demande écrite de celui-ci à cet effet, tout renseignement ou document que le ministre juge nécessaire pour compléter l’examen de la demande d’approbation.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Approbation
-
-**G.02.070** Le ministre, au terme de l’examen de la demande d’approbation, approuve la destruction de la drogue contrôlée, sauf dans les cas suivants :
-
-- **a)** si la destruction doit être effectuée à l’installation précisée dans la licence du distributeur autorisé, les personnes proposées pour l’application de l’alinéa G.02.067b) ne remplissent pas les conditions visées à cet alinéa;
-
-- **b)** le ministre a des motifs raisonnables de croire que la drogue contrôlée ne serait pas détruite;
-
-- **c)** le ministre a des motifs raisonnables de croire que le distributeur autorisé a fourni, dans sa demande d’approbation ou à l’appui de celle-ci, des renseignements faux ou trompeurs ou des documents faux ou falsifiés;
-
-- **d)** la drogue contrôlée est, en tout ou en partie, nécessaire dans le cadre d’une enquête criminelle, administrative ou préliminaire, d’un procès ou d’une autre procédure engagée sous le régime d’une loi ou de ses règlements;
-
-- **e)** le ministre a des motifs raisonnables de croire que l’approbation risquerait vraisemblablement de porter atteinte à la sécurité ou à la santé publiques, notamment en raison du risque de détournement de la drogue contrôlée vers un marché ou un usage illicites.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-#### Documents
-
-##### Méthode de consignation
-
-**G.02.071** Le distributeur autorisé qui consigne des renseignements en application de la présente partie le fait selon une méthode qui en permet la vérification à tout moment.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Renseignements généraux
-
-**G.02.072** Le distributeur autorisé consigne les renseignements suivants :
-
-- **a)** le nom, la forme et la quantité de toute drogue contrôlée qu’il commande, le nom de la personne qui fait la commande pour son compte et la date de la commande;
-
-- **b)** le nom, la forme et la quantité de toute drogue contrôlée qu’il reçoit ainsi que les nom et adresse municipale de la personne qui la lui a vendue ou fournie et la date de réception;
-
-- **c)** s’agissant d’une drogue contrôlée qu’il vend ou fournit, les précisions ci-après la concernant :
-
-  - **(i)** la marque nominative du produit ou le nom du composé contenant la drogue contrôlée et le nom de celle-ci,
-
-  - **(ii)** l’identification numérique qui a été attribuée au produit aux termes de l’article C.01.014.2, s’il y a lieu,
-
-  - **(iii)** la forme et la quantité de la drogue contrôlée et, le cas échéant, la concentration de la drogue contenue dans chaque unité, le nombre d’unités par emballage et le nombre d’emballages,
-
-  - **(iv)** les nom et adresse municipale de la personne à laquelle il l’a vendue ou fournie,
-
-  - **(v)** la date de la vente ou de la fourniture;
-
-- **d)** le nom, la forme et la quantité de toute drogue contrôlée qu’il fabrique ou assemble ainsi que sa date d’entreposage et, le cas échéant, la concentration de la drogue contenue dans chaque unité, le nombre d’unités par emballage et le nombre d’emballages;
-
-- **e)** d’une part, le nom et la quantité de toute drogue contrôlée qu’il utilise dans la fabrication ou l’assemblage d’un produit ou d’un composé et, d’autre part, la marque nominative et la quantité de ce produit ou le nom et la quantité de ce composé ainsi que la date d’entreposage;
-
-- **f)** le nom, la forme et la quantité de toute drogue contrôlée entreposée à la fin de chaque mois;
-
-- **g)** le nom, la forme et la quantité de toute drogue contrôlée qu’il livre, transporte ou expédie, les nom et adresse municipale du destinataire ainsi que la date de la livraison, du transport ou de l’expédition;
-
-- **h)** le nom, la forme et la quantité de toute drogue contrôlée qu’il importe, la date de l’importation, les nom et adresse municipale de l’exportateur ainsi que le nom du pays d’exportation et de tout pays de transit ou de transbordement;
-
-- **i)** le nom, la forme et la quantité de toute drogue contrôlée qu’il exporte, la date de l’exportation, les noms et adresse municipale de l’importateur ainsi que le nom du pays de destination finale et de tout pays de transit ou de transbordement.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Commandes verbales
-
-**G.02.073** Le distributeur autorisé qui reçoit une commande verbale pour une drogue contrôlée mentionnée aux parties II ou III de l’annexe de la présente partie et qui vend ou fournit cette drogue à un pharmacien, à un praticien ou à un employé d’un hôpital consigne immédiatement les renseignements suivants :
-
-- **a)** le nom de la personne qui a fait la commande;
-
-- **b)** la date à laquelle il a reçu la commande;
-
-- **c)** le nom de la personne qui consigne la commande.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Pertes explicables de drogues contrôlées
-
-**G.02.074** Le distributeur autorisé qui prend connaissance d’une perte de drogues contrôlées pouvant s’expliquer dans le cadre des pratiques d’opération normalement acceptées consigne les renseignements suivants :
-
-- **a)** le nom de chaque drogue contrôlée perdue et, le cas échéant, la marque nominative du produit ou le nom du composé qui en contenait;
-
-- **b)** la forme et la quantité de cette drogue contrôlée et, le cas échéant, la forme du produit ou du composé qui en contenait, la concentration de la drogue contrôlée contenue dans chaque unité, le nombre d’unités par emballage et le nombre d’emballages;
-
-- **c)** la date à laquelle il a pris connaissance de la perte;
-
-- **d)** l’explication de la perte.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Destruction
-
-**G.02.075** Le distributeur autorisé consigne les renseignements ci-après concernant toute drogue contrôlée qu’il a détruite à l’installation précisée dans sa licence :
-
-- **a)** l’adresse municipale du lieu où la destruction a été effectuée;
-
-- **b)** le nom, la forme et la quantité de la drogue contrôlée et, le cas échéant, la marque nominative et la quantité du produit qui en contenait ou le nom et la quantité du composé qui en contenait;
-
-- **c)** la méthode de destruction;
-
-- **d)** la date de la destruction.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Rapport annuel
-
-**G.02.076** **(1)** Le distributeur autorisé fournit au ministre, sous réserve des paragraphes (2) et (3), un rapport annuel contenant les renseignements ci-après dans les trois mois suivant la fin de chaque année civile :
-
-- **a)** le nom, la forme et la quantité totale de chaque drogue contrôlée qu’il a reçue, produite, vendue, fournie, importée, exportée ou détruite au cours de l’année civile ainsi que le nom et la quantité totale de chaque drogue contrôlée utilisée pour la fabrication ou l’assemblage d’un produit ou d’un composé;
-
-- **b)** le nom, la forme et la quantité de chaque drogue contrôlée selon l’inventaire physique établi à la fin de l’année civile à l’installation précisée dans la licence;
-
-- **c)** le nom, la forme et la quantité de chaque drogue contrôlée perdue ou volée lors des opérations effectuées au cours de l’année civile.
-
-*Non-renouvellement ou révocation dans les trois premiers mois*
-
-**(2)** Le distributeur autorisé dont la licence expire sans être renouvelée ou est révoquée dans les trois premiers mois d’une année civile fournit au ministre les rapports ci-après dans les délais suivants :
-
-- **a)** dans les trois mois suivant la fin de l’année civile précédente, le rapport annuel pour celle-ci;
-
-- **b)** dans les trois mois suivant l’expiration ou la révocation, un rapport pour la période de l’année civile courante durant laquelle la licence était valide contenant les renseignements visés au paragraphe (1), la quantité devant être évaluée selon l’inventaire physique établi à la date d’expiration ou de révocation.
-
-*Non-renouvellement ou révocation après le troisième mois*
-
-**(3)** Le distributeur autorisé dont la licence expire sans être renouvelée ou est révoquée après le troisième mois d’une année civile fournit au ministre, dans les trois mois suivant l’expiration ou la révocation, un rapport pour la période de l’année civile durant lesquels la licence était valide contenant les renseignements visés au paragraphe (1), la quantité devant être évaluée selon l’inventaire physique établi à la date d’expiration ou de révocation.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Période de conservation
-
-**G.02.077** Le distributeur autorisé et l’ancien titulaire d’une licence de distributeur autorisé conservent tout document comprenant les renseignements consignés en application de la présente partie, notamment chaque déclaration ainsi qu’une copie de chaque rapport, pendant une période de deux ans suivant la date de la dernière consignation et selon une méthode qui permet la vérification du document à tout moment.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Lieu
-
-**G.02.078** Les documents sont conservés aux lieux suivants :
-
-- **a)** s’agissant d’un distributeur autorisé, à l’installation précisée dans sa licence;
-
-- **b)** s’agissant d’un ancien distributeur autorisé, en un lieu au Canada.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-##### Caractéristiques des documents
-
-**G.02.079** Les documents sont complets ainsi que facilement accessibles et les renseignements qui y figurent sont lisibles et indélébiles.
-
-<sub>Historique: DORS/2019-171, art. 1</sub>
-
-### TITRE 3 — Pharmaciens
-
-<sub>Historique: DORS/2019-171, art. 2(F)</sub>
-
-#### Consignation de drogues contrôlées reçues
-
-<sub>Historique: DORS/2019-171, art. 2</sub>
-
-##### Renseignements généraux
-
-**G.03.001** **(1)** Sur réception d’une drogue contrôlée provenant d’un distributeur autorisé ou d’un autre pharmacien, le pharmacien consigne le nom et la quantité de la drogue contrôlée reçue, les nom et adresse de celui qui la lui a vendue ou fournie et la date de réception.
-
-*Dossier*
-
-**(2)** Les renseignements visés au paragraphe (1) doivent être conservés
-
-- **a)** de manière à en permettre la vérification; et
-
-- **b)** sous réserve du paragraphe (3), dans un cahier, un registre ou un autre dossier semblable réservé exclusivement aux drogues contrôlées.
-
-*Exception*
-
-**(3)** Les renseignements visés au paragraphe (1) peuvent, dans le cas d’une drogue contrôlée mentionnée aux parties II ou III de l’annexe de la présente partie, être conservés sous une forme autre que celle précisée à l’alinéa (2)b).
-
-<sub>Historique: DORS/78-427, art. 5; DORS/85-550, art. 4; DORS/86-91, art. 2(F); DORS/90-261, art. 3(F); DORS/97-228, art. 12; DORS/2004-238, art. 13; DORS/2010-222, art. 14(A)</sub>
-
-#### Vente de drogues contrôlées
-
-<sub>Historique: DORS/2019-171, art. 3</sub>
-
-##### Interdiction de vente sans ordonnance
-
-**G.03.002** Il est interdit à tout pharmacien, sous réserve des autres dispositions de la présente partie, de vendre ou de fournir une drogue contrôlée à qui que ce soit, à moins d’avoir reçu au préalable une ordonnance à cet effet et d’avoir pris à son égard les mesures suivantes :
-
-- **a)** si l’ordonnance est écrite, s’assurer qu’elle est signée et datée par le praticien dont elle émane et vérifier lui-même toute signature qu’il ne connaît pas;
-
-- **b)** si l’ordonnance est verbale, prendre les précautions raisonnables pour s’assurer que la personne la prescrivant est bien un praticien.
-
-<sub>Historique: DORS/2004-238, art. 14</sub>
-
-##### Interdiction — pharmacien ou praticien nommé dans un avis
-
-**G.03.002.1** Sous réserve de l’article G.03.002.2 et nonobstant les articles G.03.002, G.03.003 et G.03.005, il est interdit à un pharmacien de
-
-- **a)** vendre ou fournir une drogue contrôlée, autre qu’une préparation, à un pharmacien nommé dans un avis communiqué par le ministre selon l’article G.03.017.2;
-
-- **b)** vendre ou fournir une préparation à un pharmacien nommé dans un avis communiqué par le ministre selon l’article G.03.017.2;
-
-- **c)** dispenser, vendre ou fournir une drogue contrôlée autre qu’une préparation, soit à un praticien, soit en vertu d’une ordonnance ou d’une commande faite par un praticien nommé dans un avis communiqué par le ministre en application de l’article G.04.004.2;
-
-- **d)** dispenser, vendre ou fournir une préparation soit à un praticien, soit en vertu d’une ordonnance ou d’une commande faite par un praticien nommé dans un avis communiqué par le ministre en application de l’article G.04.004.2.
-
-<sub>Historique: DORS/2003-135, art. 7 et 8; DORS/2004-238, art. 15; DORS/2019-171, art. 4(F)</sub>
-
-##### Exception — avis de rétractation
-
-**G.03.002.2** L’article G.03.002.1 ne s’applique pas au pharmacien auquel le ministre a donné un avis de rétractation de l’avis :
-
-- **a)** selon l’article G.03.017.3, à l’égard de tout pharmacien nommé dans un avis donné par le ministre selon l’article G.03.017.2;
-
-- **b)** selon l’article G.04.004.3, à l’égard de tout praticien nommé dans un avis donné par le ministre selon l’article G.04.004.2.
-
-<sub>Historique: DORS/2003-135, art. 4</sub>
-
-##### Vente à un praticien — commande
-
-**G.03.003** **(1)** Le pharmacien peut vendre ou fournir une drogue contrôlée à un praticien pour l’usage de sa pratique professionnelle dans l’une des circonstances suivantes :
-
-- **a)** sur réception d’une commande écrite, signée et datée par le praticien, pourvu qu’il vérifie la signature du praticien si elle lui est inconnue;
-
-- **b)** sur réception d’une commande verbale, précisant le nom et la quantité de la drogue, s’il prend les moyens raisonnables pour s’assurer que la personne qui fait la commande est un praticien.
-
-**(2)** \[Abrogé, DORS/2019-171, art. 5\]
-
-<sub>Historique: DORS/85-550, art. 5; DORS/2004-238, art. 16; DORS/2012-230, art. 11; DORS/2019-171, art. 5</sub>
-
-##### Registre des ordonnances
-
-**G.03.004** Tout pharmacien doit, à l’égard des drogues contrôlées vendues ou fournies à un praticien en vertu de l’article G.03.003, tenir un registre spécial des ordonnances, où seront consignés la date de l’ordonnance, les nom et adresse du praticien et la nature et la quantité de la drogue contrôlée vendue ou fournie.
-
-<sub>Historique: DORS/2004-238, art. 17</sub>
-
-##### Fourniture à un hôpital
-
-**G.03.005** Le pharmacien peut, à la réception d’une commande écrite datée et signée par le pharmacien responsable de la pharmacie d’un l’hôpital ou par un praticien autorisé à signer la commande par le responsable de l’hôpital, fournir une drogue contrôlée à l’employé d’un hôpital ou à un praticien exerçant dans l’hôpital si le pharmacien reconnaît la signature du pharmacien responsable ou du praticien ou, dans le cas contraire, qu’il l’a vérifiée.
-
-<sub>Historique: DORS/85-550, art. 6; DORS/2004-238, art. 18(A); DORS/2019-171, art. 6</sub>
-
-##### Renouvellement de l’ordonnance
-
-**G.03.006** Il est interdit à un pharmacien de remplir de nouveau une ordonnance pour une drogue contrôlée, à moins
-
-- **a)** que le praticien, au moment où il l’a prescrite, n’ait indiqué, par écrit dans le cas d’une drogue contrôlée mentionnée à la partie I de l’annexe de la présente partie, et par écrit ou verbalement dans le cas d’une drogue contrôlée mentionnée aux parties II ou III de cette annexe, que cette ordonnance est renouvelable pour un certain nombre de fois à des dates ou des intervalles précis;
-
-- **b)** que le pharmacien ne consigne au registre chaque renouvellement d’une ordonnance.
-
-<sub>Historique: DORS/78-427, art. 6; DORS/97-228, art. 13</sub>
-
-#### Dossiers
-
-##### Commandes et ordonnances écrites
-
-**G.03.007** Le pharmacien qui, conformément à une commande ou à une ordonnance écrites, dispense une drogue contrôlée mentionnée à la partie I de l’annexe de la présente partie, autre qu’une préparation, consigne immédiatement les renseignements ci-après dans un cahier, un registre ou un autre dossier réservé à cette fin :
-
-- **a)** ses nom ou initiales;
-
-- **b)** les nom, initiales et adresse municipale du praticien qui a fait la commande ou l’ordonnance;
-
-- **c)** les nom et adresse municipale de la personne nommée dans la commande ou l’ordonnance;
-
-- **d)** le nom, la forme et la quantité de la drogue contrôlée;
-
-- **e)** la date à laquelle il dispense la drogue;
-
-- **f)** le numéro attribué à la commande ou l’ordonnance.
-
-<sub>Historique: DORS/78-427, art. 7; DORS/81-359, art. 1(F); DORS/97-228, art. 14; DORS/2004-238, art. 19; DORS/2019-171, art. 7</sub>
-
-##### Commandes et ordonnances verbales
-
-**G.03.008** Le pharmacien consigne les renseignements ci-après dans un document écrit avant de dispenser une drogue contrôlée conformément à une commande ou une ordonnance verbales :
-
-- **a)** ses nom ou initiales;
-
-- **b)** les nom, initiales et adresse municipale du praticien qui a fait la commande ou l’ordonnance;
-
-- **c)** les nom et adresse municipale de la personne nommée dans l’ordonnance;
-
-- **d)** le nom, la forme et la quantité de la drogue contrôlée;
-
-- **e)** le mode d’emploi indiqué dans la commande ou l’ordonnance;
-
-- **f)** la date à laquelle il dispense la drogue contrôlée;
-
-- **g)** le numéro attribué à la commande ou à l’ordonnance.
-
-<sub>Historique: DORS/85-550, art. 7; DORS/2004-238, art. 20; DORS/2019-171, art. 7</sub>
-
-##### Classement par ordre chronologique et numérique
-
-**G.03.009** Le pharmacien tient un dossier spécial pour les ordonnances de drogues contrôlées dans lequel sont conservées, par ordre chronologique et numérique, chaque commande et ordonnance écrites relativement aux drogues contrôlées qu’il a dispensées ainsi que chaque document écrit comprenant les renseignements consignés relativement aux drogues contrôlées qu’il a dispensées conformément à une commande ou à une ordonnance verbales.
-
-<sub>Historique: DORS/2019-171, art. 7</sub>
-
-##### Période de conservation
-
-**G.03.010** Tout pharmacien doit conserver en sa possession durant au moins deux ans, tous les dossiers et registres dont la tenue est exigée par la présente partie.
-
-#### Obligations générales du pharmacien
-
-<sub>Historique: DORS/2019-171, art. 8</sub>
-
-##### Fourniture de renseignements et assistance à l’inspecteur
-
-**G.03.011** Tout pharmacien doit
-
-- **a)** fournir tout renseignement relatif aux transactions dudit pharmacien à l’égard de toute drogue contrôlée, dans la manière et au moment que peut fixer le ministre;
-
-- **b)** présenter à un inspecteur, sur demande, son registre spécial des ordonnances, ainsi que tout autre cahier, registre ou document qu’il est obligé de tenir;
-
-- **c)** permettre à l’inspecteur de prendre copie ou de noter des extraits de tous lesdits cahiers, registres, dossiers ou documents; et
-
-- **d)** permettre à l’inspecteur de vérifier tous les stocks de drogues contrôlées dans son établissement.
-
-##### Pertes et vols — mesures de protection
-
-**G.03.012** Le pharmacien doit prendre toutes les mesures raisonnables qui sont nécessaires pour protéger contre la perte et le vol les drogues contrôlées qui se trouvent dans son établissement ou dont il a la garde.
-
-<sub>Historique: DORS/85-550, art. 8</sub>
-
-##### Pertes et vols — avis
-
-**G.03.013** Tout pharmacien doit signaler au ministre toute perte ou tout vol d’une drogue contrôlée, 10 jours au plus après en avoir fait la découverte.
-
-#### Retour, vente et transfert
-
-<sub>Historique: DORS/2019-171, art. 9</sub>
-
-##### Commandes écrites
-
-**G.03.014** Le pharmacien peut, lorsqu’il reçoit une commande écrite pour une drogue contrôlée, signée et datée
-
-- **a)** par le distributeur autorisé qui lui a vendu ou fourni la drogue, lui retourner cette drogue;
-
-- **b)** par un autre pharmacien, lui vendre ou lui fournir la quantité de drogue demandée pour une urgence;
-
-- **c)** par le ministre, lui vendre ou lui fournir la quantité de drogue, précisée dans la commande, dont il a besoin dans l’exercice de ses fonctions;
-
-- **d)** par une personne qui bénéficie d’une exemption relative à cette drogue et accordée en vertu de l’article 56 de la Loi, lui vendre ou lui fournir la quantité précisée dans la commande.
-
-<sub>Historique: DORS/81-359, art. 2; DORS/85-550, art. 9; DORS/99-125, art. 3; DORS/2004-238, art. 21; DORS/2014-260, art. 8(A); DORS/2018-69, art. 65; DORS/2019-171, art. 10</sub>
-
-##### Dossier
-
-**G.03.015** Le pharmacien, immédiatement après avoir reçu, vendu ou fourni une drogue contrôlée conformément aux alinéas G.03.014b) ou c) ou au paragraphe G.05.003(4), consigne les détails de la transaction dans un cahier, un registre ou tout autre dossier approprié.
-
-<sub>Historique: DORS/85-550, art. 10; DORS/2004-238, art. 22</sub>
-
-##### Avis au ministre
-
-**G.03.016** Un pharmacien doit, immédiatement après avoir retiré, transporté ou transféré une drogue contrôlée de son établissement d’affaires à tout autre établissement d’affaires exploité par lui-même, avertir le ministre en précisant les détails.
-
-#### Renseignements fournis par le ministre aux autorités attributives de licences
-
-##### Contraventions par le pharmacien
-
-**G.03.017** Le ministre fournit par écrit les renseignements factuels sur un pharmacien qui ont été obtenus sous le régime de la Loi ou de la présente partie à une autorité provinciale attributive de licences en matière d’activités professionnelles qui est responsable d’autoriser les personnes à exercer leur profession dans les cas suivants :
-
-- **a)** s’agissant de l’autorité d’une province où le pharmacien est ou était autorisé à exercer :
-
-  - **(i)** soit l’autorité soumet au ministre une demande écrite qui précise les nom et adresse du pharmacien, la nature des renseignements demandés et une déclaration portant que les renseignements sont nécessaires pour l’aider à mener une enquête licite,
-
-  - **(ii)** soit le ministre a des motifs raisonnables de croire à l’existence de l’un des faits ci-après concernant le pharmacien :
-
-    - **(A)** il a contrevenu à une règle de conduite établie par l’autorité,
-
-    - **(B)** il a été condamné pour une infraction désignée,
-
-    - **(C)** il a contrevenu à la présente partie;
-
-- **b)** s’agissant de l’autorité d’une province où le pharmacien n’est pas autorisé à exercer, l’autorité soumet au ministre les documents suivants :
-
-  - **(i)** une demande écrite qui précise les nom et adresse du pharmacien ainsi que la nature des renseignements demandés,
-
-  - **(ii)** un document qui démontre :
-
-    - **(A)** soit que le pharmacien a demandé à l’autorité l’autorisation d’exercer dans cette province,
-
-    - **(B)** soit que l’autorité a des motifs raisonnables de croire que le pharmacien exerce dans cette province sans autorisation.
-
-<sub>Historique: DORS/86-881, art. 1; DORS/97-228, art. 15; DORS/2003-135, art. 5; DORS/2010-222, art. 15; DORS/2019-171, art. 11</sub>
-
-#### Avis d’interdiction de vente
-
-##### Demande du pharmacien
-
-**G.03.017.1** Tout pharmacien peut demander par écrit au ministre d’envoyer aux personnes et aux autorités visées au paragraphe G.03.017.2(3) un avis, émis conformément à l’article G.03.017.2, les informant que ne doivent pas lui être vendu ou fourni toute drogue contrôlée autre qu’une préparation, toute préparation, ou les deux.
-
-<sub>Historique: DORS/2003-135, art. 5</sub>
-
-##### Avis par le ministre
-
-**G.03.017.2** **(1)** Le ministre envoie, dans les cas prévus au paragraphe (2), un avis aux destinataires visés au paragraphe (3) les informant que les pharmaciens qui exercent dans les pharmacies ayant reçu l’avis et les distributeurs autorisés ne peuvent pas vendre ou fournir de drogues contrôlées autres que des préparations ou de préparations au pharmacien nommé dans l’avis.
-
-*Cas exigeant l’avis*
-
-**(2)** Les cas exigeant l’avis sont les suivants :
-
-- **a)** le pharmacien nommé dans l’avis en fait la demande au ministre en vertu de l’article G.03.017.1;
-
-- **b)** il a contrevenu à une règle de conduite établie par l’autorité provinciale attributive de licences en matière d’activités professionnelles de la province où il exerce et l’autorité a demandé au ministre par écrit d’envoyer l’avis;
-
-- **c)** il a été condamné pour une infraction désignée ou pour une contravention au présent règlement.
-
-*Destinataires*
-
-**(3)** Les destinataires de l’avis sont les suivants :
-
-- **a)** tous les distributeurs autorisés;
-
-- **b)** les pharmacies de la province où le pharmacien nommé dans l’avis, d’une part, est autorisé en vertu des lois de celle-ci à exercer sa profession et, d’autre part, l’y exerce;
-
-- **c)** l’autorité provinciale attributive de licences en matière d’activités professionnelles de la province où le pharmacien nommé dans l’avis est autorisé à exercer;
-
-- **d)** les pharmacies d’une province adjacente qui pourraient exécuter une commande faite par le pharmacien nommé dans l’avis;
-
-- **e)** l’autorité provinciale attributive de licences en matière d’activités professionnelles d’une autre province qui en a fait la demande par écrit au ministre.
-
-*Autres cas*
-
-**(4)** Le ministre peut envoyer l’avis visé au paragraphe (1) au destinataire visé au paragraphe (3) s’il a pris les mesures prévues au paragraphe (5) et s’il a des motifs raisonnables de croire que le pharmacien nommé dans l’avis se trouve dans l’un des cas suivants :
-
-- **a)** il a contrevenu à une disposition de la Loi ou du présent règlement;
-
-- **b)** il s’est administré à plus d’une reprise une drogue contrôlée autre qu’une préparation obtenue d’une façon non conforme aux pratiques pharmaceutiques reconnues;
-
-- **c)** il s’est administré à plus d’une reprise une préparation obtenue d’une façon non conforme aux pratiques pharmaceutiques reconnues;
-
-- **d)** il a, à plus d’une reprise, fourni ou administré une drogue contrôlée autre qu’une préparation à son époux ou conjoint de fait, à son père, à sa mère ou à son enfant, y compris un enfant adopté de fait, d’une façon non conforme aux pratiques pharmaceutiques reconnues;
-
-- **e)** il a, à plus d’une reprise, il a fourni ou administré une préparation à son époux ou conjoint de fait, à son père, à sa mère ou à son enfant, y compris un enfant adopté de fait, d’une façon non conforme aux pratiques pharmaceutiques reconnues;
-
-- **f)** il est dans l’impossibilité de rendre compte de la quantité d’une drogue contrôlée dont il avait la responsabilité en application de la présente partie.
-
-*Mesures préalables*
-
-**(5)** Les mesures que le ministre doit prendre avant d’envoyer un avis sont les suivantes :
-
-- **a)** consulter l’autorité provinciale attributive de licences en matière d’activités professionnelles de la province où le pharmacien est autorisé à exercer;
-
-- **b)** donner au pharmacien l’occasion de présenter ses observations à cet égard;
-
-- **c)** prendre en considération les éléments suivants :
-
-  - **(i)** les antécédents du pharmacien quant au respect de la Loi et de ses règlements,
-
-  - **(ii)** la question de savoir si la conduite du pharmacien représente un risque d’atteinte à la santé ou à la sécurité publiques, notamment un risque de détournement de la drogue contrôlée vers un marché ou un usage illicites.
-
-<sub>Historique: DORS/2003-135, art. 5; DORS/2010-222, art. 16 et 35(F); DORS/2019-171, art. 12</sub>
-
-##### Avis de rétractation
-
-**G.03.017.3** Le ministre envoie à tous les destinataires d’un avis visé au paragraphe G.03.017.2(1) un avis de rétractation de l’avis d’interdiction si les exigences ci-après sont respectées, selon le cas :
-
-- **a)** dans le cas visé à l’alinéa G.03.017.2(2)a), les conditions prévues aux sous-alinéas b)(i) et (ii) sont remplies et il s’est écoulé un an depuis l’envoi de l’avis d’interdiction;
-
-- **b)** dans les cas visés aux alinéas G.03.017.2(2)b) et c) et (4)a) à f), le pharmacien nommé dans l’avis a satisfait aux exigences suivantes :
-
-  - **(i)** il lui a demandé par écrit d’envoyer un avis de rétractation de l’avis,
-
-  - **(ii)** il lui a fourni une lettre de l’autorité provinciale attributive de licences en matière d’activités professionnelles de la province où il est autorisé à exercer, dans laquelle l’autorité accepte la rétractation de l’avis d’interdiction.
-
-<sub>Historique: DORS/2003-135, art. 5; DORS/2010-222, art. 17; DORS/2019-171, art. 12</sub>
+**G.03.017.3** \[Abrogé, DORS/2025-242, art. 237\]
 
 **G.03.017.4 et G.03.017.5** \[Abrogés, DORS/2003-135, art. 5\]
 
-### TITRE 4 — Praticiens
+**G.04.001** \[Abrogé, DORS/2025-242, art. 237\]
 
-#### Administration de drogues désignées et autres drogues contrôlées
+**G.04.002** \[Abrogé, DORS/2025-242, art. 237\]
 
-##### Restriction
-
-**G.04.001** **(1)** Le praticien ne peut, sous réserve des paragraphes (2) et (3) ainsi que d’une exemption relative à l’administration de la drogue contrôlée que l’exemption précise et accordée en vertu de l’article 56 de la Loi, administrer une drogue contrôlée à une personne ou à un animal.
-
-*Conditions*
-
-**(2)** Le praticien peut administrer à une personne ou à un animal une drogue contrôlée, autre qu’une drogue désignée, si les conditions ci-après sont remplies :
-
-- **a)** le praticien traite la personne ou l’animal à titre professionnel;
-
-- **b)** la drogue contrôlée est nécessaire pour traiter l’état de la personne ou de l’animal.
-
-*Fins visées*
-
-**(3)** Le médecin, le dentiste, le vétérinaire ou l’infirmier praticien peut administrer une drogue désignée à une personne ou à un animal qu’il traite à titre professionnel si la drogue est destinée au traitement de l’un des états suivants :
-
-- **a)** s’agissant d’une personne :
-
-  - **(i)** la narcolepsie,
-
-  - **(ii)** les troubles hypercinétiques chez l’enfant,
-
-  - **(iii)** l’épilepsie,
-
-  - **(iv)** le syndrome parkinsonien,
-
-  - **(v)** l’hypotension liée à l’anesthésie;
-
-- **b)** s’agissant d’un animal, la dépression des centres cardiaques et respiratoires.
-
-*Définitions*
-
-**(4)** Les définitions qui suivent s’appliquent au présent article.
-
-***administrer*** Est assimilé au fait d’administrer une drogue celui de la prescrire, de la vendre ou de la fournir. (***administer***)
-
-***drogue désignée*** S’entend des drogues contrôlées suivantes :
-
-- **a)** amphétamine et ses sels;
-
-- **b)** benzphétamine et ses sels;
-
-- **c)** méthamphétamine et ses sels;
-
-- **d)** phenmétrazine et ses sels;
-
-- **e)** phendimétrazine et ses sels. (***designated drug***)
-
-<sub>Historique: DORS/99-125, art. 4; DORS/2004-238, art. 23; DORS/2012-230, art. 12; DORS/2019-171, art. 13</sub>
-
-#### Documents
-
-##### Registre des drogues contrôlées vendues et fournies
-
-**G.04.002** **(1)** Tout praticien qui vend ou fournit à une personne une drogue contrôlée qu’elle s’administrera à elle-même ou qu’elle administrera à un animal, qu’il la facture ou non, consigne le nom et la quantité de la drogue contrôlée vendue ou fournie, les nom et adresse de la personne à laquelle elle l’a été et la date de la transaction, s’il s’agit d’une quantité :
-
-- **a)** supérieure à trois fois la dose quotidienne maximale recommandée par le fabricant ou l’assembleur de cette drogue contrôlée;
-
-- **b)** supérieure à trois fois la dose thérapeutique quotidienne maximale généralement admise pour cette drogue contrôlée, si le fabricant ou l’assembleur n’a pas spécifié de dose quotidienne maximale.
-
-*Accessibilité au registre*
-
-**(2)** Tout praticien qui est requis, par le présent article, de tenir un registre doit garder le registre en un endroit et le tenir sous une forme et d’une manière qui permettent à un inspecteur de l’examiner et d’y trouver des renseignements avec facilité.
-
-<sub>Historique: DORS/88-482, art. 4(F); DORS/2004-238, art. 24; DORS/2019-171, art. 14</sub>
-
-#### Obligations générales du praticien
-
-<sub>Historique: DORS/2019-171, art. 15</sub>
-
-##### Exigences
-
-**G.04.002A** Tout praticien doit
-
-- **a)** fournir au ministre, sur demande, tout renseignement concernant
-
-  - **(i)** l’usage que ce praticien fait des drogues contrôlées qu’il reçoit — y compris les cas où il les administre, les vend ou les fournit à une personne,
-
-  - **(ii)** les ordonnances de drogues contrôlées que délivre ce praticien,
-
-  selon que peut l’exiger le ministre;
-
-- **b)** présenter à un inspecteur, sur demande, tout registre que ce praticien est requis de tenir en vertu du présent règlement;
-
-- **c)** permettre à un inspecteur de prendre copie de ces registres ou de noter des extraits desdits registres;
-
-- **d)** permettre à un inspecteur de vérifier tous les stocks de drogues contrôlées dans les locaux de ce praticien;
-
-- **e)** conserver en sa possession durant au moins deux ans tout registre qu’il est requis de tenir en vertu du présent règlement;
-
-- **f)** prendre les mesures appropriées pour protéger les drogues contrôlées qu’il a en sa possession contre la perte ou le vol; et
-
-- **g)** signaler au ministre tout vol ou perte d’une drogue contrôlée au plus tard 10 jours après avoir constaté un tel vol ou une telle perte.
-
-<sub>Historique: DORS/2004-238, art. 25</sub>
+**G.04.002A** \[Abrogé, DORS/2025-242, art. 237\]
 
 **G.04.003** \[Abrogé, DORS/2010-222, art. 18\]
 
-#### Renseignements fournis par le ministre aux autorités attributives de licences
+**G.04.004** \[Abrogé, DORS/2025-242, art. 237\]
 
-##### Contraventions par le praticien
+**G.04.004.1** \[Abrogé, DORS/2025-242, art. 237\]
 
-**G.04.004** Le ministre fournit par écrit les renseignements factuels sur un praticien qui ont été obtenus sous le régime de la Loi ou de la présente partie à une autorité provinciale attributive de licences en matière d’activités professionnelles qui est responsable d’inscrire les personnes et de les autoriser à exercer leur profession dans les cas suivants :
+**G.04.004.2** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **a)** s’agissant de l’autorité d’une province où le praticien est ou était inscrit et autorisé à exercer :
-
-  - **(i)** soit l’autorité soumet au ministre une demande écrite qui précise les nom et adresse du praticien, la nature des renseignements demandés et une déclaration portant que les renseignements sont nécessaires pour l’aider à mener une enquête licite,
-
-  - **(ii)** soit le ministre a des motifs raisonnables de croire à l’existence de l’un des faits ci-après concernant le praticien :
-
-    - **(A)** il a contrevenu à une règle de conduite établie par l’autorité,
-
-    - **(B)** il a été condamné pour une infraction désignée,
-
-    - **(C)** il a contrevenu à la présente partie;
-
-- **b)** s’agissant de l’autorité d’une province où le praticien n’est pas inscrit ni autorisé à exercer, l’autorité soumet au ministre les documents suivants :
-
-  - **(i)** une demande écrite qui précise les nom et adresse du praticien ainsi que la nature des renseignements demandés,
-
-  - **(ii)** un document qui démontre :
-
-    - **(A)** soit que le praticien a demandé à cette autorité l’autorisation d’exercer dans cette province,
-
-    - **(B)** soit que cette autorité a des motifs raisonnables de croire que le praticien exerce dans cette province sans autorisation.
-
-<sub>Historique: DORS/86-881, art. 2; DORS/97-228, art. 17; DORS/2003-135, art. 6; DORS/2010-222, art. 19; DORS/2019-171, art. 16</sub>
-
-#### Avis d’interdiction de vente
-
-##### Demande du praticien
-
-**G.04.004.1** Tout praticien peut demander par écrit au ministre d’envoyer aux pharmacies et aux distributeurs autorisés un avis, émis conformément à l’article G.04.004.2, les informant de tout ou partie des exigences suivantes :
-
-- **a)** aucune drogue contrôlée, autre qu’une préparation, ne doit lui être vendue ou fournie par un destinataire de cet avis;
-
-- **b)** aucune préparation ne doit lui être vendue ou fournie par un destinataire de cet avis;
-
-- **c)** aucune de ses ordonnances ou commandes de drogue contrôlée, autre qu’une préparation, ne doit être remplie par des pharmaciens exerçant dans les pharmacies ayant reçu l’avis;
-
-- **d)** aucune de ses ordonnances ou commandes de préparation ne doit être remplie par des pharmaciens exerçant dans les pharmacies ayant reçu l’avis.
-
-<sub>Historique: DORS/2003-135, art. 6</sub>
-
-##### Avis par le ministre
-
-**G.04.004.2** **(1)** Le ministre envoie, dans les cas prévus au paragraphe (2), l’un des avis ci-après aux destinataires visés au paragraphe (3) :
-
-- **a)** soit que les pharmaciens qui exercent dans les pharmacies ayant reçu l’avis et les distributeurs autorisés ne peuvent pas vendre ou fournir de drogues contrôlées autres que des préparations ou de préparations au praticien nommé dans l’avis;
-
-- **b)** soit que les pharmaciens qui exercent dans les pharmacies ayant reçu l’avis ne peuvent pas exécuter les commandes ou les ordonnances de drogues contrôlées autres que des préparations ou de préparations faites par le praticien nommé dans l’avis;
-
-- **c)** soit que les interdictions prévues aux alinéas a) et b) s’appliquent concurremment relativement au praticien nommé dans l’avis.
-
-*Cas exigeant l’avis*
-
-**(2)** Les cas exigeant l’avis sont les suivants :
-
-- **a)** le praticien nommé dans l’avis en fait la demande au ministre en vertu de l’article G.04.004.1;
-
-- **b)** il a contrevenu à une règle de conduite établie par l’autorité provinciale attributive de licences en matière d’activités professionnelles de la province où il exerce et l’autorité a demandé au ministre par écrit d’envoyer l’avis;
-
-- **c)** il a été condamné pour une infraction désignée ou pour une contravention à la présente partie.
-
-*Destinataires*
-
-**(3)** Les destinataires de l’avis sont les suivants :
-
-- **a)** tous les distributeurs autorisés;
-
-- **b)** les pharmacies de la province où le praticien nommé dans l’avis, d’une part, est inscrit et autorisé en vertu des lois de celle-ci à exercer sa profession et, d’autre part, l’y exerce;
-
-- **c)** l’autorité provinciale attributive de licences en matière d’activités professionnelles de la province où le praticien nommé dans l’avis est inscrit et autorisé à exercer;
-
-- **d)** les pharmacies d’une province adjacente qui pourraient exécuter une commande ou une ordonnance faites par le praticien nommé dans l’avis;
-
-- **e)** l’autorité provinciale attributive de licences en matière d’activités professionnelles d’une autre province qui en a fait la demande par écrit au ministre.
-
-*Autres cas*
-
-**(4)** Le ministre peut envoyer l’avis visé au paragraphe (1) au destinataire visé au paragraphe (3) s’il a pris les mesures prévues au paragraphe (5) et s’il a des motifs raisonnables de croire que le praticien nommé dans l’avis se trouve dans l’un des cas suivants :
-
-- **a)** il a contrevenu à une disposition de la Loi ou du présent règlement;
-
-- **b)** il s’est administré à plus d’une reprise une drogue contrôlée, autre qu’une préparation, obtenue sur commande ou ordonnance faites par lui ou, à défaut de commande ou d’ordonnance, d’une façon non conforme aux pratiques professionnelles reconnues;
-
-- **c)** il s’est administré à plus d’une reprise une préparation obtenue sur commande ou ordonnance faites par lui ou, à défaut de commande ou d’ordonnance, d’une façon non conforme aux pratiques professionnelles reconnues;
-
-- **d)** il a, à plus d’une reprise, fait une ordonnance pour une drogue contrôlée autre qu’une préparation, l’a fournie ou l’a administrée à son époux ou conjoint de fait, à son père, à sa mère ou à son enfant, y compris un enfant adopté de fait, d’une façon non conforme aux pratiques professionnelles reconnues;
-
-- **e)** il a, à plus d’une reprise, fait une ordonnance pour une préparation, l’a fournie ou l’a administrée à son époux ou conjoint de fait, à son père, à sa mère ou à son enfant, y compris un enfant adopté de fait, d’une façon non conforme aux pratiques professionnelles reconnues;
-
-- **f)** il est dans l’impossibilité de rendre compte de la quantité d’une drogue contrôlée dont avait la responsabilité en application de la présente partie.
-
-*Mesures préalables*
-
-**(5)** Les mesures que le ministre doit prendre avant d’envoyer un avis sont les suivantes :
-
-- **a)** consulter l’autorité provinciale attributive de licences en matière d’activités professionnelles de la province où le praticien est inscrit et autorisé à exercer;
-
-- **b)** donner au praticien l’occasion de présenter ses observations à cet égard;
-
-- **c)** prendre en considération les éléments suivants :
-
-  - **(i)** les antécédents du praticien quant au respect de la Loi et de ses règlements,
-
-  - **(ii)** la question de savoir si la conduite du praticien représente un risque d’atteinte à la santé ou à la sécurité publiques, notamment un risque de détournement de la drogue contrôlée vers un marché ou un usage illicites.
-
-<sub>Historique: DORS/2003-135, art. 6; DORS/2010-222, art. 20 et 35(F); DORS/2019-171, art. 17</sub>
-
-##### Avis de rétractation
-
-**G.04.004.3** Le ministre envoie à tous les destinataires d’un avis visé au paragraphe G.04.004.2(1) un avis de rétractation de l’avis d’interdiction si les exigences ci-après sont respectées, selon le cas :
-
-- **a)** dans le cas visé à l’alinéa G.04.004.2(2)a), les conditions prévues aux sous-alinéas b)(i) et (ii) sont remplies et il s’est écoulé un an depuis l’envoi de l’avis d’interdiction;
-
-- **b)** dans les cas visés aux alinéas G.04.004.2(2)b) et c) et (4)a) à f), le praticien nommé dans l’avis satisfait aux exigences suivantes :
-
-  - **(i)** il lui a demandé par écrit d’envoyer un avis de rétractation de l’avis,
-
-  - **(ii)** il lui a fourni une lettre de l’autorité provinciale attributive de licences en matière d’activités professionnelles de la province où il est inscrit et autorisé à exercer, dans laquelle l’autorité accepte la rétractation de l’avis d’interdiction.
-
-<sub>Historique: DORS/88-482, art. 5(F); DORS/2003-135, art. 6; DORS/2010-222, art. 21; DORS/2019-171, art. 17</sub>
+**G.04.004.3** \[Abrogé, DORS/2025-242, art. 237\]
 
 **G.04.004.4 et G.04.004.5** \[Abrogés, DORS/2003-135, art. 6\]
 
-### TITRE 5 — Hôpitaux
+**G.05.001** \[Abrogé, DORS/2025-242, art. 237\]
 
-#### Registre des drogues contrôlées
+**G.05.002** \[Abrogé, DORS/2025-242, art. 237\]
 
-**G.05.001** **(1)** Le responsable d’un hôpital doit tenir ou faire tenir un registre indiquant les renseignements suivants :
+**G.05.003** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **a)** le nom et la quantité de toute drogue contrôlée reçue, au nom de l’hôpital, par un employé de cet hôpital ou un praticien exerçant dans cet hôpital;
+**G.05.004** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **b)** le nom et l’adresse du fournisseur, ainsi que la date de réception;
+**G.06.001** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **c)** le nom et la quantité de toute drogue contrôlée employée dans la fabrication ou l’assemblage d’un produit ou d’un composé qui contient cette drogue, le nom et la quantité du produit ou du composé fabriqué ou assemblé et la date à laquelle ce produit ou ce composé a été stocké;
-
-- **c.1)** le nom et la quantité de toute drogue contrôlée produite et la date à laquelle elle a été stockée;
-
-- **d)** le nom du malade pour lequel cette drogue a été dispensée;
-
-- **e)** le nom du praticien qui la commande ou la prescrit; et
-
-- **f)** la date à laquelle une drogue contrôlée est commandée ou prescrite, ainsi que la forme et la quantité concernées.
-
-*Tenue du registre*
-
-**(2)** Sous réserve des paragraphes (3) et (4), le registre visé au paragraphe (1) doit :
-
-- **a)** être tenu de façon à en permettre la vérification;
-
-- **b)** se présenter sous forme de cahier, de livre ou d’un autre document semblable réservé aux drogues contrôlées;
-
-- **c)** être conservé pendant au moins deux ans.
-
-*Exception — préparations*
-
-**(3)** Dans le cas d’une préparation, un registre autre que celui décrit à l’alinéa (2)b) peut être utilisé pour l’inscription des renseignements visés aux alinéas (1)d) à f).
-
-*Exception — parties II ou III de l’annexe*
-
-**(4)** Les renseignements visés au paragraphe (1) peuvent, dans le cas d’une drogue contrôlée mentionnée aux parties II ou III de l’annexe de la présente partie, être conservés sous une forme autre que celle précisée à l’alinéa (2)b).
-
-<sub>Historique: DORS/78-427, art. 8; DORS/85-550, art. 11; DORS/88-482, art. 6; DORS/97-228, art. 18; DORS/2004-238, art. 27; DORS/2019-171, art. 18(F)</sub>
-
-#### Fourniture de renseignements et assistance à l’inspecteur
-
-**G.05.002** Le responsable d’un hôpital doit
-
-- **a)** fournir tout renseignement relatif à l’emploi des drogues contrôlées dans ledit hôpital, dans la forme et au moment que peut fixer le ministre;
-
-- **b)** présenter à un inspecteur tous les cahiers, dossiers, registres ou documents que le présent règlement exige de tenir;
-
-- **c)** permettre à un inspecteur de prendre copie ou de noter des extraits desdits cahiers, registres ou documents; et
-
-- **d)** permettre à un inspecteur de vérifier tous les stocks de drogues contrôlées dans ledit hôpital.
-
-<sub>Historique: DORS/2019-171, art. 25(F)</sub>
-
-#### Administration, vente et fourniture de drogues contrôlées
-
-**G.05.003** **(1)** Il est interdit au responsable d’un hôpital de permettre qu’une drogue contrôlée soit administrée, vendue ou fournie si ce n’est en conformité avec le présent article.
-
-*Commandes écrites ou ordonnances*
-
-**(2)** Le responsable d’un hôpital peut permettre qu’une drogue contrôlée soit administrée à la personne ou à l’animal qui reçoit un traitement comme patient hospitalisé ou externe de cet hôpital, ou soit vendue ou fournie à cette personne ou au responsable de l’animal, sur réception d’une ordonnance ou d’une commande écrite, signée et datée par un praticien.
-
-*Urgence — autre hôpital*
-
-**(3)** Sous réserve du paragraphe (6), le responsable d’un hôpital peut permettre qu’une drogue contrôlée soit fournie pour une urgence à un employé d’un autre hôpital ou à un praticien exerçant dans un autre hôpital, sur réception d’une commande écrite, signée et datée par le pharmacien de l’autre hôpital ou par le praticien autorisé par le responsable de l’autre hôpital à signer une telle commande.
-
-*Urgence — pharmacien*
-
-**(4)** Sous réserve du paragraphe (6), le responsable d’un hôpital peut permettre qu’une drogue contrôlée soit vendue ou fournie à un pharmacien pour une urgence, sur réception d’une commande écrite, signée et datée par ce pharmacien.
-
-*Recherche*
-
-**(5)** Le responsable d’un hôpital peut permettre qu’une drogue contrôlée soit fournie, à des fins de recherches, à un employé d’un laboratoire de recherche de cet hôpital.
-
-*Signature*
-
-**(6)** Il est interdit au responsable d’un hôpital de permettre que la drogue contrôlée soit vendue ou fournie en vertu des paragraphes (3) ou (4) à moins que la personne qui vend ou fournit la drogue contrôlée vérifie la signature, lorsqu’elle ne la reconnaît pas, du pharmacien de l’autre hôpital ou du praticien autorisé à signer une commande par le responsable de l’autre hôpital.
-
-<sub>Historique: DORS/85-550, art. 12; DORS/88-482, art. 7; DORS/2004-238, art. 28; DORS/2010-222, art. 22(F); DORS/2019-171, art. 19(F); DORS/2019-171, art. 25(F)</sub>
-
-#### Pertes et vols
-
-**G.05.004** Le responsable d’un hôpital doit prendre toutes les mesures nécessaires pour empêcher, dans son établissement, la perte ou le vol de drogues contrôlées et doit signaler au ministre toute perte ou tout vol dans les 10 jours en suivant la découverte.
-
-<sub>Historique: DORS/78-427, art. 9</sub>
-
-### TITRE 6 — Dispositions générales
-
-#### Étiquetage — drogue dispensée conformément à une ordonnance
-
-**G.06.001** L’article C.01.004 ne s’applique pas à la drogue contrôlée dispensée par un pharmacien conformément à une ordonnance, mais les renseignements ci-après doivent figurer sur l’étiquette de l’emballage de la drogue contrôlée :
-
-- **a)** les nom et adresse municipale de la pharmacie ou du pharmacien;
-
-- **b)** la date et le numéro de l’ordonnance;
-
-- **c)** le nom de la personne pour laquelle la drogue contrôlée est dispensée;
-
-- **d)** le nom du praticien;
-
-- **e)** le mode d’emploi;
-
-- **f)** tout autre renseignement devant figurer, conformément à l’ordonnance, sur l’étiquette.
-
-<sub>Historique: DORS/99-125, art. 5; DORS/2004-238, art. 29; DORS/2018-69, art. 67 et 69; DORS/2019-171, art. 20</sub>
-
-#### Étiquetage — nécessaire d’essai
-
-**G.06.002** L’article C.01.004 ne s’applique pas au nécessaire d’essai qui contient une drogue contrôlée et auquel un numéro d’enregistrement a été attribué.
-
-<sub>Historique: DORS/85-550, art. 13; DORS/88-482, art. 8(F); DORS/99-125, art. 6; DORS/2019-171, art. 20</sub>
+**G.06.002** \[Abrogé, DORS/2025-242, art. 237\]
 
 **G.06.002.1** \[Abrogé, DORS/2019-171, art. 20\]
 
@@ -20407,95 +18243,15 @@ dans chaque forme posologique individuelle, s’il porte une étiquette indiquan
 
 **G.06.002.4** \[Abrogé, DORS/2019-171, art. 20\]
 
-#### Identification ou analyse de drogues contrôlées
+**G.06.003** \[Abrogé, DORS/2025-242, art. 237\]
 
-**G.06.003** **(1)** Toute personne peut, malgré toute disposition de la présente partie, fournir ou livrer une drogue contrôlée à des fins d’identification ou d’analyse aux personnes suivantes :
+**G.06.004** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **a)** le médecin;
+**G.06.005** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **b)** le mandataire d’un médecin, si le mandataire bénéficie d’une exemption relative à la possession de cette drogue à ces fins et accordée en vertu de l’article 56 de la Loi.
+**G.06.006** \[Abrogé, DORS/2025-242, art. 237\]
 
-*Mandataire d’un médecin*
-
-**(2)** Le mandataire d’un médecin qui reçoit la drogue contrôlée la fournit ou la livre immédiatement à l’une des personnes suivantes :
-
-- **a)** le médecin;
-
-- **b)** le ministre.
-
-*Médecin*
-
-**(3)** Le médecin qui reçoit la drogue contrôlée la fournit ou la livre immédiatement à l’une des personnes suivantes :
-
-- **a)** la personne qui bénéficie d’une exemption relative à la possession de cette drogue à ces fins et accordée en vertu de l’article 56 de la Loi si la drogue lui est fournie ou livrée à des fins d’identification ou d’analyse;
-
-- **b)** le ministre.
-
-<sub>Historique: DORS/2019-171, art. 20</sub>
-
-#### Publicité
-
-**G.06.004** Il est interdit, à l’égard d’une drogue contrôlée :
-
-- **a)** d’en faire la publicité auprès du grand public;
-
-- **b)** d’en faire la publicité par écrit, sauf si le symbole ci-après figure de façon bien visible, par sa couleur et sa taille, sur le quart supérieur gauche de la première page de la publicité :*[Image: Le symbole est représenté par un losange au centre duquel figure un C majuscule.]*
-
-<sub>Historique: DORS/2019-171, art. 20</sub>
-
-#### Conservation des documents — cas spécifiques
-
-**G.06.005** La personne qui bénéficie d’une exemption relative à la possession ou à l’administration d’une drogue contrôlée et accordée en vertu de l’article 56 de la Loi ainsi le médecin qui a reçu une drogue contrôlée en vertu des paragraphes G.06.003(1) ou (2) et le mandataire d’un médecin qui a reçu une drogue contrôlée en vertu du paragraphe G.06.003(1) doivent satisfaire aux exigences suivantes :
-
-- **a)** ils consignent dans un registre les renseignements ci-après et les conservent pendant une période de deux ans suivant la date de leur consignation :
-
-  - **(i)** le nom et la quantité de toute drogue contrôlée achetée ou reçue ainsi que la date d’acquisition ou la date de la réception,
-
-  - **(ii)** les nom et adresse de la personne de qui ils ont acheté et de qui ils ont reçu la drogue contrôlée,
-
-  - **(iii)** les précisions concernant l’utilisation de la drogue contrôlée;
-
-- **b)** ils fournissent au ministre tout renseignement que celui-ci exige à l’égard de la drogue contrôlée;
-
-- **c)** ils donnent accès aux registres dont la tenue est requise par la présente partie.
-
-<sub>Historique: DORS/2019-171, art. 20</sub>
-
-#### Renseignements fournis par le ministre à un organisme régissant la profession d’infirmier
-
-**G.06.006** **(1)** Le ministre peut fournir à un organisme régissant la profession d’infirmier tout renseignement concernant un de ses membres qui a été obtenu sous le régime de la présente partie, de la Loi ou de la [Loi sur les aliments et drogues](../../acts/fr/F-27.md).
-
-*Non-application*
-
-**(2)** Le paragraphe (1) ne s’applique pas aux infirmiers praticiens.
-
-*Définitions*
-
-**(3)** Les définitions qui suivent s’appliquent au présent article.
-
-***membre*** Personne autorisée par un organisme régissant la profession d’infirmier à exercer la profession d’infirmier. (***member***)
-
-***organisme régissant la profession d’infirmier*** Autorité provinciale attributive de licences en matière d’activités professionnelles qui, en vertu des lois d’une province, autorise des personnes à exercer la profession d’infirmier. (***nursing statutory body***)
-
-<sub>Historique: DORS/2019-171, art. 20</sub>
-
-#### Préavis de la demande d’ordonnance de restitution
-
-**G.06.007** **(1)** Pour l’application du paragraphe 24(1) de la Loi, le préavis de la demande d’ordonnance de restitution qui est donné au procureur général est présenté par écrit et est mis à la poste sous pli recommandé au moins quinze jours avant la date à laquelle la demande sera présentée au juge de paix.
-
-*Contenu du préavis*
-
-**(2)** Le préavis contient les renseignements suivants :
-
-- **a)** le nom du juge de paix à qui la demande sera présentée;
-
-- **b)** le lieu et l’heure de l’audition de la demande;
-
-- **c)** les précisions concernant la drogue contrôlée ou toute autre chose faisant l’objet de la demande;
-
-- **d)** les éléments de preuve que le demandeur prévoit de présenter pour établir qu’il a le droit de posséder la drogue contrôlée ou l’autre chose visée à l’alinéa c).
-
-<sub>Historique: DORS/2019-171, art. 20</sub>
+**G.06.007** \[Abrogé, DORS/2025-242, art. 237\]
 
 **G.07.001** \[Abrogé, DORS/2019-171, art. 20\]
 
@@ -20503,433 +18259,29 @@ dans chaque forme posologique individuelle, s’il porte une étiquette indiquan
 
 ## ANNEXE
 
-*(articles G.01.001 et G.01.002, paragraphes G.01.005(1) et G.02.058(1), article G.02.073, paragraphe G.03.001(3), alinéa G.03.006a), article G.03.007 et paragraphe G.05.001(4))*
+\[Abrogée, DORS/2025-242, art. 237\]
 
-## PARTIE I
+## PARTIE J — \[Abrogée, DORS/2025-242, art. 237\]
 
-- **1** Les amphétamines, leurs sels, dérivés, isomères et analogues, ainsi que les sels de leurs dérivés, isomères et analogues, sauf ceux mentionnés à l’article 1 de la partie I de l’annexe de la partie J. Sont compris :
+**J.01.001** \[Abrogé, DORS/2025-242, art. 237\]
 
-  - **(1)** amphétamine (α-méthylbenzèneéthanamine)
+**J.01.002** \[Abrogé, DORS/2025-242, art. 237\]
 
-  - **(2)** méthamphétamine (N,α-diméthylbenzèneéthanamine)
-
-  - **(3)** benzphétamine (N-benzyl N,α-diméthylbenzèneéthanamine)
-
-- **2** Méthylphénidate (méthyl 2-phényl-2-(pipéridin-2-yl)acétate), ses sels, dérivés, isomères et analogues, ainsi que les sels de ses dérivés, isomères et analogues, notamment :
-
-  - **(1)** Éthylphénidate (éthyl 2-phényl-2-(pipéridin-2-yl)acétate)
-
-  - **(2)** Isopropylphénidate (isopropyl 2-phényl-2-(pipéridin-2-yl)acétate)
-
-  - **(3)** Propylphénidate (propyl 2-phényl-2-(pipéridin-2-yl)acétate)
-
-  - **(4)** 3,4-Dichlorométhylphénidate (méthyl 2-(3,4-dichlorophényl)-2-(pipéridin-2-yl)acétate)
-
-  - **(5)** 4-Méthylméthylphénidate (méthyl 2-(4-méthylphényl)-2-(pipéridin-2-yl)acétate)
-
-  - **(6)** 4-Fluorométhylphénidate (méthyl 2-(4-fluorophényl)-2-(pipéridin-2-yl)acétate)
-
-  - **(7)** Méthylnaphthidate (méthyl 2-(naphthalén-2-yl)-2-(pipéridin-2-yl)acétate)
-
-  - **(8)** Éthylnaphthidate (éthyl 2-(naphthalén-2-yl)-2-(pipéridin-2-yl)acétate)
-
-- **3** Méthaqualone (méthyl-2 (méthyl-2 phényl)-3(3H)-quinazolinone-4) et ses sels
-
-- **4** Phendimétrazine (d-diméthyl-3,4 phényl-2 morpholine) et ses sels
-
-- **5** Phenmétrazine (méthyl-3 phényl-2 morpholine) et ses sels
-
-- **6** Pentobarbital (acide éthyl-5 (méthyl-1 butyl)-5 barbiturique)
-
-- **7** Sécobarbital (acide allyl-5 (méthyl-1 butyl)-5 barbiturique)
-
-- **8** Acide hydroxy-4 butanoïque et ses sels
-
-- **9** Aminorex (phényl-5 dihydro-4,5 oxazol-1,3 amine-2), ses sels, dérivés, isomères et analogues, ainsi que les sels de ses dérivés, isomères et analogues, notamment :
-
-  - **(1)** Méthyl-4 aminorex (méthyl-4 phényl-5 dihydro-4,5 oxazol-1,3 amine-2)
-
-  - **(2)** Diméthyl-4,4’ aminorex (méthyl-4 (méthyl-4 phényl)-5 dihydro-4,5 oxazol-1,3 amine-2)
-
-- **10** Fénétylline (d,l-dihydro-3,7 diméthyl-1,3 \[\[(méthyl-1 phényl-2 éthyl)amino\]-2 éthyl\]-7 1H-purinedione-2,6) et ses sels
-
-- **11** Glutéthimide (éthyl-2 phényl-2 glutarimide)
-
-- **12** Léfétamine ((-)-N,N-diméthyl-α-phénylbenzèneéthanamine), ses sels, dérivés et isomères, ainsi que les sels de ses dérivés et isomères
-
-- **13** Mécloqualone (méthyl-2(chloro-2 phényl)-3 (3H)-quinazolinone-4) et ses sels
-
-- **14** Mésocarbe ((α-méthylphénéthyl)-3 N-(phénylcarbamoyl)sydnone imine) et ses sels
-
-- **15** Pémoline (amino-2 phényl-5 oxazolinone-4) et ses sels
-
-- **16** Zipéprol ((méthoxy-2 phényl-2 éthyl)-4 α-(méthoxyphénylméthyl)-1-pipérazineéthanol) et ses sels
-
-- **17** Amineptine \[(dihydro-10,11 5H-dibenzo\[a,d\]cycloheptenyl-5)amino\]-7 heptanoïque et ses sels
-
-## PARTIE II
-
-- **1** Barbituriques, ainsi que leurs sels et dérivés, sauf ceux mentionnés aux articles 6 et 7 de la partie I de la présente annexe ainsi que l’acide barbiturique ((1H,3H,5H)-pyrimidinetrione-2,4,6) et ses sels et l’acide 1,3-diméthylbarbiturique (1,3-diméthyl-2,4,6(1H,3H,5H)-pyrimidinetrione) et ses sels. Sont compris :
-
-  - **(1)** allobarbital (acide diallyl-5,5 barbiturique)
-
-  - **(2)** alphénal (acide allyl-5 phényl-5 barbiturique)
-
-  - **(3)** amobarbital (acide éthyl-5 (méthyl-3 butyl)-5 barbiturique)
-
-  - **(4)** aprobarbital (acide allyl-5 isopropyl-5 barbiturique)
-
-  - **(5)** barbital (acide diéthyl-5,5 barbiturique)
-
-  - **(6)** \[Abrogé, DORS/2017-12, art. 1\]
-
-  - **(7)** butabarbital (acide sec-butyl-5 éthyl-5 barbiturique)
-
-  - **(8)** butalbital (acide allyl-5 isobutyl-5 barbiturique)
-
-  - **(9)** butallylonal (acide (bromo-2 allyl)-5 sec-butyl-5 barbiturique)
-
-  - **(10)** butéthal (acide butyl-5 éthyl-5 barbiturique)
-
-  - **(11)** cyclobarbital (acide (cyclohexène-1 yl-1)-5 éthyl-5 barbiturique)
-
-  - **(12)** cyclopal (acide allyl-5 (cyclopentène-2 yl-1)-5 barbiturique)
-
-  - **(13)** heptabarbital (acide (cycloheptène-1 yl-1)-5 éthyl-5 barbiturique)
-
-  - **(14)** hexéthal (acide éthyl-5 hexyl-5 barbiturique)
-
-  - **(15)** hexobarbital (acide (cyclohexène-1 yl-1)-5 diméthyl-1,5 barbiturique)
-
-  - **(16)** méphobarbital (acide éthyl-5 méthyl-1 phényl-5 barbiturique)
-
-  - **(17)** méthabarbital (acide diéthyl-5,5 méthyl-1 barbiturique)
-
-  - **(18)** méthylphénobarbital (acide éthyl-5 méthyl-1 phényl-5 barbiturique)
-
-  - **(19)** propallylonal (acide (bromo-2 allyl)-5 isopropyl-5 barbiturique)
-
-  - **(20)** phénobarbital (acide éthyl-5 phényl-5 barbiturique)
-
-  - **(21)** probarbital (acide éthyl-5 isopropyl-5 barbiturique)
-
-  - **(22)** acide phénylméthylbarbiturique (acide méthyl-5 phényl-5 barbiturique)
-
-  - **(23)** sigmodal (acide (bromo-2 allyl)-5 (méthyl-1 butyl)-5 barbiturique)
-
-  - **(24)** talbutal (acide allyl-5 sec-butyl-5 barbiturique)
-
-  - **(25)** vinbarbital (acide éthyl-5 (méthyl-1 butényl-1)-5 barbiturique)
-
-  - **(26)** vinylbital (acide (méthyl-1 butyl)-5 vinyl-5 barbiturique)
-
-- **2** Thiobarbituriques, ainsi que leurs sels et dérivés, notamment :
-
-  - **(1)** thialbarbital (acide allyl-5 (cyclohexène-2 yl-1)-5 thio-2 barbiturique)
-
-  - **(2)** thiamylal (acide allyl-5 (méthyl-1 butyl)-5 thio-2 barbiturique)
-
-  - **(3)** acide thiobarbiturique (acide thio-2 barbiturique)
-
-  - **(4)** thiopental (acide éthyl-5 (méthyl-1 butyl)-5 thio-2 barbiturique)
-
-- **3** Chlorphentermine ((p-chlorophényl)-1 méthyl-2 amino-2 propane) et ses sels
-
-- **4** Diéthylpropion ((diéthylamino)-2 propiophenone) et ses sels
-
-- **5** Phentermine (α,α-diméthylbenzèneéthanamine) et ses sels
-
-- **6** Butorphanol (1-N-cyclobutylméthyl dihydroxy-3,14 morphinane) et ses sels
-
-- **7** Nalbuphine (N-cyclobutylméthyl époxy-4,5 morphinanetriol-3,6,14) et ses sels
-
-- **8** Pyrovalérone (méthyl-4′(pyrrolidinyl-1)-2 valérophénone) et ses sels
-
-## PARTIE III
-
-- **1** Stéroïdes anabolisants et leurs dérivés, notamment :
-
-  - **(1)** androisoxazole (hydroxy-17ß méthyl-17α androstano\[3,2-c\]isoxazole)
-
-  - **(2)** androstanolone (hydroxy-17ß 5α-androstanone-3)
-
-  - **(3)** androstènediol (androstène-5 diol-3ß,17ß)
-
-  - **(4)** bolandiol (estrène-4 diol-3ß,17ß)
-
-  - **(5)** bolastérone (hydroxy-17ß diméthyl-7α,17 androstène-4 one-3)
-
-  - **(6)** bolazine (hydroxy-17ß méthyl-2α 5α-androstanone-3 azine)
-
-  - **(7)** boldénone (hydroxy-17ß androstadiène-1,4 one-3)
-
-  - **(8)** bolénol (nor-19 17α-prégnène-5 ol-17)
-
-  - **(9)** calustérone (hydroxy-17ß diméthyl-7ß,17 androstène-4 one-3)
-
-  - **(10)** clostébol (chloro-4 hydroxy-17ß androstène-4 one-3)
-
-  - **(11)** drostanolone (hydroxy-17ß méthyl-2α 5α-androstanone-3)
-
-  - **(12)** énestébol (dihydroxy-4,17ß méthyl-17 androstadiène-1,4 one-3)
-
-  - **(13)** épitiostanol (épithio-2α,3α 5α-androstanol-17ß)
-
-  - **(14)** éthylestrénol (nor-19 17α-prégnène-4 ol-17)
-
-  - **(15)** hydroxy-4 nor-19 testostérone
-
-  - **(16)** fluoxymestérone (fluoro-9 dihydroxy-11ß,17ß méthyl-17 androstène-4 one-3)
-
-  - **(17)** formébolone (dihydroxy-11α,17ß méthyl-17 oxo-3 androstadiène-1,4 carboxaldéhyde-2)
-
-  - **(18)** furazabol (méthyl-17 5α-androstano\[2,3-c\]furazanol-17ß)
-
-  - **(19)** mébolazine (hydroxy-17ß diméthyl-2α,17 5α-androstanone-3 azine)
-
-  - **(20)** mésabolone (\[(méthoxy-1 cyclohexyl) oxy\]-17ß 5α-androstène-1 one-3)
-
-  - **(21)** mestérolone (hydroxy-17ß méthyl-1α 5α-androstanone-3)
-
-  - **(22)** métandiénone (hydroxy-17ß méthyl-17 androstadiène-1,4 one-3)
-
-  - **(23)** méténolone (hydroxy-17ß méthyl-1 5α-androstène-1 one-3)
-
-  - **(24)** méthandriol (méthyl-17α androstène-5 diol-3ß,17ß)
-
-  - **(25)** méthyltestostérone (hydroxy-17ß méthyl-17 androstène-4 one-3)
-
-  - **(26)** métribolone (hydroxy-17ß méthyl-17 estratriène-4,9,11 one-3)
-
-  - **(27)** mibolérone (hydroxy-17ß diméthyl-7α,17 estrène-4 one-3)
-
-  - **(28)** nandrolone (hydroxy-17ß estrène-4 one-3)
-
-  - **(29)** norbolétone (éthyl-13 hydroxy-17ß dinor-18,19 prégnène-4 one-3)
-
-  - **(30)** norclostébol (chloro-4 hydroxy-17ß estrène-4 one-3)
-
-  - **(31)** noréthandrolone (éthyl-17α hydroxy-17ß estrène-4 one-3)
-
-  - **(32)** oxabolone (dihydroxy-4,17ß estrène-4 one-3)
-
-  - **(33)** oxandrolone (hydroxy-17ß méthyl-17 oxa-2 5α-androstanone-3)
-
-  - **(34)** oxymestérone (dihydroxy-4,17ß méthyl-17 androstène-4 one-3)
-
-  - **(35)** oxymétholone (hydroxy-17ß (hydroxyméthylène)-2 méthyl-17 5α-androstanone-3)
-
-  - **(36)** prastérone (hydroxy-3ß androstène-5 one-17)
-
-  - **(37)** quinbolone ((cyclopentènyl-1 oxy-1)-17ß androstadiène-1,4 one-3)
-
-  - **(38)** stanozolol (hydroxy-17ß méthyl-17 5α-androstano\[3,2-c\]pyrazole)
-
-  - **(39)** stenbolone (hydroxy-17ß méthyl-2 5α-androstène-1 one-3)
-
-  - **(40)** testostérone (hydroxy-17ß androstène-4 one-3)
-
-  - **(41)** tibolone (hydroxy-17 méthyl-7α nor-19 17α-prégnène-5(10) yne-20 one-3)
-
-  - **(42)** tiomestérone (bis(acétylthio)-1α,7α hydroxy-17ß méthyl-17 androstène-4 one-3)
-
-  - **(43)** trenbolone (hydroxy-17ßestratriène-4,9,11 one-3)
-
-- **2** Zéranol (trihydroxy-7,14,16 méthyl-3 décahydro-3,4,5,6,- 7,8,9,10,11,12 1H-benzoxa-2 cyclotétradécinone-1)
-
-<sub>Historique: DORS/78-427, art. 10; DORS/79-753, art. 1; DORS/81-84, art. 1; DORS/85-550, art. 14(F); DORS/86-678, art. 1; DORS/89-381, art. 1; DORS/92-386, art. 3; DORS/97-228, art. 21; DORS/99-425, art. 1; DORS/2003-34, art. 2 et 3; DORS/2003-413, art. 2; DORS/2015-210, art. 1; DORS/2016-106, art. 1; DORS/2017-12, art. 1, 2(A); DORS/2017-43, art. 1; DORS/2017-250, art. 1; DORS/2019-171, art. 21</sub>
-
-## PARTIE J — Drogues d’usage restreint
-
-### Définitions
-
-#### Définitions
-
-**J.01.001** Les définitions qui suivent s’appliquent la présente partie.
-
-***autorité compétente*** Organisme public d’un pays étranger qui est habilité, au titre des lois du pays, à consentir à l’importation ou à l’exportation de drogues d’usage restreint. (***competent authority***)
-
-***chercheur compétent*** Personne ci-après autorisée par le ministre, en vertu du paragraphe J.01.059(4), à utiliser et à posséder une drogue d’usage restreint :
-
-- **a)** celle qui est employée par un établissement ou qui y est associée;
-
-- **b)** celle qui fait des essais cliniques ou de la recherche en laboratoire à l’égard de cette drogue à un établissement. (***qualified investigator***)
-
-***composé*** Vise notamment les préparations. (***compound***)
-
-***destruction*** S’agissant d’une drogue d’usage restreint, le fait de l’altérer ou de la dénaturer au point d’en rendre la consommation impossible ou improbable. (***destroy***)
-
-***Directive en matière de sécurité*** La Directive sur les exigences en matière de sécurité physique pour les substances désignées et les drogues contenant du cannabis, avec ses modifications successives, publiée par le gouvernement du Canada sur son site Web. (***Security Directive***)
-
-***distributeur autorisé*** Titulaire d’une licence délivrée au titre de l’article J.01.015. (***licensed dealer***)
-
-***drogue d’usage restreint*** S’entend des substances désignées qui sont visées à l’annexe de la présente partie. (***restricted drug***)
-
-***emballage*** Vise notamment toute chose dans laquelle une drogue d’usage restreint est, en tout ou en partie, contenue, placée ou empaquetée. (***package***)
-
-***établissement*** Établissement qui fait de la recherche sur les drogues, y compris l’hôpital, l’université au Canada, le ministère ou l’organisme du gouvernement du Canada ou du gouvernement d’une province ou une partie quelconque de ceux-ci. (***institution***)
-
-***étiquette*** S’entend au sens de l’article 2 de la [Loi sur les aliments et drogues](../../acts/fr/F-27.md). (***label***)
-
-***hôpital*** L’établissement, selon le cas :
-
-- **a)** qui peut, au titre d’une licence, d’une autorisation ou d’une désignation délivrée par une province sous le régime de ses lois, fournir des soins ou des traitements aux personnes ou aux animaux atteints d’une maladie ou d’une affection;
-
-- **b)** qui fournit des services de santé et qui soit appartient au gouvernement du Canada ou au gouvernement d’une province, soit est exploité par lui. (***hospital***)
-
-***infraction désignée en matière criminelle*** S’entend des infractions suivantes :
-
-- **a)** infraction relative au financement du terrorisme visée à l’un des articles 83.02 à 83.04 du [Code criminel](../../acts/fr/C-46.md);
-
-- **b)** infraction de fraude visée à l’un des articles 380 à 382 du [Code criminel](../../acts/fr/C-46.md);
-
-- **c)** infraction de recyclage des produits de la criminalité visée à l’article 462.31 du [Code criminel](../../acts/fr/C-46.md);
-
-- **d)** infraction relative à une organisation criminelle visée à l’un des articles 467.11 à 467.13 du [Code criminel](../../acts/fr/C-46.md);
-
-- **e)** tentative ou complot en vue de commettre une infraction visée à l’un des alinéas a) à d), complicité après le fait à son égard ou fait de conseiller de la commettre. (***designated criminal offence***)
-
-***Loi*** La [Loi réglementant certaines drogues et autres substances](../../acts/fr/C-38.8.md). (***Act***)
-
-***nécessaire d’essai*** Nécessaire qui a les caractéristiques suivantes :
-
-- **a)** il contient d’une part une drogue d’usage restreint et d’autre part un réactif ou une substance tampon;
-
-- **b)** il est utilisé dans un processus chimique ou analytique de dépistage ou de quantification d’une drogue d’usage restreint à des fins médicales, industrielles, éducatives, pour des travaux de laboratoire ou de recherche ou pour l’application ou l’exécution de la loi;
-
-- **c)** son contenu n’est pas destiné à être consommé par une personne ou un animal, ni à leur être administré, et il n’est pas susceptible de l’être. (***test kit***)
-
-***nom propre*** S’agissant d’une drogue d’usage restreint, l’un des noms français ou anglais suivants :
-
-- **a)** celui figurant à l’article C.01.002;
-
-- **b)** celui figurant en caractères gras dans le présent règlement et celui de toute forme autre que celle visée à la partie C sous laquelle la drogue est dispensée;
-
-- **c)** s’agissant d’une drogue non visée aux alinéas a) ou b), celui figurant dans l’une des publications mentionnées à l’annexe B de la [Loi sur les aliments et drogues](../../acts/fr/F-27.md). (***proper name***)
-
-***obligation internationale*** Toute obligation relative à une drogue d’usage restreint prévue par une convention, un traité ou un autre instrument multilatéral ou bilatéral que le Canada a ratifié ou auquel il adhère. (***international obligation***)
-
-***ordonnance***\[Abrogée, DORS/2021-271, art. 1\]
-
-***pharmacien***\[Abrogée, DORS/2021-271, art. 1\]
-
-***responsable principal*** L’individu désigné en application de l’article J.01.011. (***senior person in charge***)
-
-***responsable qualifié*** L’individu désigné en application du paragraphe J.01.012(1). (***qualified person in charge***)
-
-<sub>Historique: DORS/97-228, art. 22; DORS/2004-238, art. 31; DORS/2013-172, art. 1; DORS/2019-171, art. 22; DORS/2021-271, art. 1</sub>
-
-### Dispositions générales
-
-#### Inscription accélérée temporaire
-
-**J.01.002** **(1)** Le ministre peut, par arrêté, ajouter à la colonne 1 de la partie III de l’annexe de la présente partie tout ou partie d’un article qui figure à l’annexe V de la Loi pour la période prévue à la colonne 2 correspondant à la même période que celle inscrite à l’annexe V pour cet article.
-
-*Abrogation*
-
-**(2)** Le ministre peut, par arrêté, supprimer de la colonne 1 de la partie III de l’annexe de la présente partie tout ou partie d’un article qui y figure.
-
-*Abrogation à l’annexe V de la Loi*
-
-**(3)** Tout ou partie d’un article figurant à la partie III de l’annexe à la présente partie est réputé en être supprimé le jour où il n’est plus inscrit à l’annexe V de la Loi.
-
-<sub>Historique: DORS/97-228, art. 23; DORS/99-125, art. 7; DORS/2010-222, art. 23; DORS/2015-210, art. 2; DORS/2018-85, art. 1; DORS/2019-171, art. 22</sub>
-
-#### Non-application — membre d’un corps policier
-
-**J.01.003** Le membre d’un corps policier ou la personne agissant sous son autorité et sa supervision qui, à l’égard de l’une de ses activités, est soustrait à l’application du paragraphe 4(2) ou des articles 5, 6 ou 7 de la Loi, en vertu du [Règlement sur l’exécution policière de la Loi réglementant certaines drogues et autres substances](DORS-97-234.md) est, à l’égard de cette activité, soustrait à l’application de la présente partie.
-
-<sub>Historique: DORS/2004-238, art. 32; DORS/2019-171, art. 22</sub>
+**J.01.003** \[Abrogé, DORS/2025-242, art. 237\]
 
 **J.01.003.1** \[Abrogé, DORS/2019-171, art. 22\]
 
 **J.01.003.2** \[Abrogé, DORS/2019-171, art. 22\]
 
-### Possession
-
-#### Personnes autorisées
-
-**J.01.004** **(1)** Les personnes ci-après sont autorisées à avoir en leur possession une drogue d’usage restreint mentionnée à la partie I de l’annexe de la présente partie :
-
-- **a)** le distributeur autorisé;
-
-- **b)** le chercheur compétent qui l’a en sa possession dans le but de faire des essais cliniques ou de la recherche en laboratoire à un établissement;
-
-- **c)** l’inspecteur, le membre de la Gendarmerie royale du Canada, l’agent de police, l’agent de la paix ou le membre du personnel technique ou scientifique du gouvernement du Canada, du gouvernement d’une province ou d’une université au Canada qui la possède dans le cadre de ses fonctions;
-
-- **d)** la personne qui bénéficie d’une exemption relative à la possession de cette drogue et accordée en vertu de l’article 56 de la Loi;
-
-- **e)** le ministre.
-
-*Mandataires*
-
-**(2)** Toute personne est autorisée à avoir en sa possession une drogue d’usage restreint mentionnée à la partie I de l’annexe de la présente partie si elle agit comme mandataire d’une personne visée aux alinéas (1)a), b), d) ou e).
-
-*Mandataires — personne visée à l’alinéa (1)c)*
-
-**(3)** Toute personne est autorisée à avoir en sa possession une drogue d’usage restreint mentionnée à la partie I de l’annexe de la présente partie si les conditions ci-après sont réunies :
-
-- **a)** elle agit comme mandataire d’une personne dont elle a des motifs raisonnables de croire que celle-ci est visée à l’alinéa (1)c);
-
-- **b)** la possession de la drogue a pour but d’aider la personne dont elle est mandataire dans l’application ou l’exécution d’une loi ou d’un règlement.
-
-<sub>Historique: DORS/2019-171, art. 22; DORS/2021-271, art. 2</sub>
+**J.01.004** \[Abrogé, DORS/2025-242, art. 237\]
 
 **J.01.004.1** \[Abrogé, DORS/2019-171, art. 22\]
 
-### Nécessaires d’essai
+**J.01.005** \[Abrogé, DORS/2025-242, art. 237\]
 
-#### Opérations autorisées
+**J.01.006** \[Abrogé, DORS/2025-242, art. 237\]
 
-**J.01.005** Toute personne peut vendre un nécessaire d’essai, en avoir un en sa possession ou effectuer toute autre opération relative à celui-ci si les conditions ci-après sont remplies :
-
-- **a)** un numéro d’enregistrement a été attribué au nécessaire d’essai au titre de l’article J.01.007 et n’a pas été annulé en application de l’article J.01.008;
-
-- **b)** le nécessaire d’essai porte, sur sa surface extérieure, les renseignements suivants :
-
-  - **(i)** le nom du fabricant,
-
-  - **(ii)** le nom commercial ou la marque de commerce,
-
-  - **(iii)** le numéro d’enregistrement;
-
-- **c)** le nécessaire d’essai sera utilisé à des fins médicales, industrielles ou éducatives, pour des travaux de laboratoire ou de recherche ou pour l’application ou l’exécution de la loi.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-#### Numéro d’enregistrement — demande
-
-**J.01.006** **(1)** Le fabricant d’un nécessaire d’essai peut obtenir un numéro d’enregistrement en présentant au ministre une demande qui contient les renseignements suivants :
-
-- **a)** une description détaillée de la conception et de la fabrication du nécessaire d’essai;
-
-- **b)** une description détaillée de la drogue d’usage restreint et, le cas échéant, des autres substances que contient le nécessaire d’essai, ainsi que la description qualitative et quantitative de chacun des composants;
-
-- **c)** une description de l’utilisation à laquelle est destiné le nécessaire d’essai.
-
-*Signature et attestation*
-
-**(2)** La demande satisfait aux exigences suivantes :
-
-- **a)** elle est signée et datée par la personne autorisée à cette fin par le demandeur;
-
-- **b)** elle comprend une attestation de celle-ci portant qu’à sa connaissance, tous les renseignements fournis à l’appui de la demande sont exacts et complets.
-
-*Renseignements et documents complémentaires*
-
-**(3)** Le demandeur fournit au ministre, au plus tard à la date précisée dans la demande écrite de celui-ci à cet effet, tout renseignement ou document que le ministre juge nécessaire pour compléter l’examen de la demande du numéro d’enregistrement.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-#### Numéro d’enregistrement — attribution
-
-**J.01.007** Le ministre, au terme de l’examen de la demande de numéro d’enregistrement, attribue un numéro d’enregistrement précédé des lettres « TK » au nécessaire d’essai s’il établit que ce dernier satisfait à l’une des exigences ci-après et sera utilisé seulement à des fins médicales, industrielles ou éducatives, pour des travaux de laboratoire ou de recherche ou pour l’application ou l’exécution de la loi :
-
-- **a)** il contient une drogue d’usage restreint et un agent d’adultération ou un dénaturant, mélangés de telle manière et en quantités, proportions ou concentrations telles que la préparation ou le mélange ne présente pas un risque notable de toxicomanie;
-
-- **b)** il contient des quantités ou des concentrations d’une drogue d’usage restreint si infimes qu’il ne présente pas un risque notable de toxicomanie.
-
-<sub>Historique: DORS/2004-238, art. 33; DORS/2010-222, art. 25; DORS/2014-260, art. 9 et 16(F); DORS/2019-171, art. 22</sub>
+**J.01.007** \[Abrogé, DORS/2025-242, art. 237\]
 
 **J.01.007.1** \[Abrogé, DORS/2019-171, art. 22\]
 
@@ -20951,641 +18303,63 @@ dans chaque forme posologique individuelle, s’il porte une étiquette indiquan
 
 **J.01.007.91** \[Abrogé, DORS/2019-171, art. 22\]
 
-#### Numéro d’enregistrement — annulation
+**J.01.008** \[Abrogé, DORS/2025-242, art. 237\]
 
-**J.01.008** Le ministre annule le numéro d’enregistrement d’un nécessaire d’essai dans les cas suivants :
+**J.01.009** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **a)** le fabricant retire le nécessaire d’essai du marché;
+**J.01.010** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **b)** le ministre a des motifs raisonnables de croire que le nécessaire d’essai n’est pas utilisé à des fins médicales, industrielles ou éducatives, pour des travaux de laboratoire ou de recherche ou pour l’application ou l’exécution de la loi, ou qu’il est susceptible de ne pas l’être;
+**J.01.011** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **c)** le ministre a des motifs raisonnables de croire que l’annulation est nécessaire pour protéger la sécurité ou la santé publiques, notamment pour prévenir le détournement d’une drogue d’usage restreint vers un marché ou un usage illicites.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-### Distributeurs autorisés
-
-#### Opérations autorisées
-
-##### Exigences générales
-
-**J.01.009** **(1)** Le distributeur autorisé peut produire, assembler, vendre, fournir, transporter, expédier, livrer, importer ou exporter une drogue d’usage restreint s’il se conforme à la présente partie ainsi qu’aux conditions de sa licence de distributeur autorisé et de tout permis délivré en vertu de la présente partie.
-
-*Présence d’un responsable qualifié*
-
-**(2)** Le distributeur autorisé ne peut effectuer à son installation une opération relative à une drogue d’usage restreint que si le responsable qualifié ou un responsable qualifié suppléant est présent à l’installation.
-
-*Permis — importation et exportation*
-
-**(3)** Le distributeur autorisé est tenu d’obtenir un permis pour importer ou exporter une drogue d’usage restreint.
-
-*Possession à des fins d’exportation*
-
-**(4)** Le distributeur autorisé peut avoir en sa possession une drogue d’usage restreint en vue de son exportation s’il l’a obtenue conformément à la présente partie.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-#### Licences de distributeur autorisé
-
-##### Exigences préalables
-
-###### Personnes admissibles
-
-**J.01.010** Les personnes ci-après peuvent demander une licence de distributeur autorisé :
-
-- **a)** l’individu qui réside de façon habituelle au Canada;
-
-- **b)** la personne morale qui a son siège social au Canada ou qui y exploite une succursale;
-
-- **c)** le titulaire d’un poste qui est responsable des questions relatives aux drogues d’usage restreint pour le compte du gouvernement du Canada ou d’un gouvernement provincial, d’un service de police, d’un hôpital ou d’une université au Canada.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-###### Responsable principal
-
-**J.01.011** La personne qui demande une licence de distributeur autorisé désigne un seul individu à titre de responsable principal, le demandeur pouvant se désigner lui-même s’il est un individu, qui est responsable de la gestion de l’ensemble des opérations relatives aux drogues d’usage restreint précisées dans la demande de licence.
-
-<sub>Historique: DORS/2004-238, art. 34; DORS/2019-171, art. 22</sub>
-
-###### Responsable qualifié
-
-**J.01.012** **(1)** La personne qui demande une licence de distributeur autorisé désigne un seul individu à titre de responsable qualifié, le demandeur pouvant se désigner lui-même s’il est un individu, qui est à la fois responsable de superviser les opérations relatives aux drogues d’usage restreint précisées dans la demande de licence et de veiller à la conformité de ces opérations avec la présente partie.
-
-*Responsable qualifié suppléant*
-
-**(2)** La personne qui demande une licence de distributeur autorisé peut désigner un individu à titre de responsable qualifié suppléant, le demandeur pouvant se désigner lui-même s’il est un individu, qui est autorisé à remplacer le responsable qualifié lorsque celui-ci est absent.
-
-*Qualifications*
-
-**(3)** Seul l’individu qui satisfait aux exigences ci-après peut être désigné à titre de responsable qualifié ou de responsable qualifié suppléant :
-
-- **a)** il travaille à l’installation précisée dans la licence de distributeur autorisé;
-
-- **b)** il est :
-
-  - **(i)** soit une personne autorisée ou, le cas échéant, inscrite et autorisée, par une autorité provinciale attributive de licences en matière d’activités professionnelles ou par une association professionnelle au Canada, à exercer sa profession dans un domaine lié à ses fonctions, notamment celle de pharmacien, de praticien, de technicien en pharmacie ou de technicien de laboratoire,
-
-  - **(ii)** soit titulaire d’un diplôme, d’un certificat ou d’une attestation décerné par un établissement d’enseignement postsecondaire au Canada dans un domaine qui est lié à ses fonctions, notamment la pharmacie, la médecine, la dentisterie, la médecine vétérinaire, la pharmacologie, la chimie, la biologie, la réglementation pharmaceutique, la sécurité ou la gestion des chaînes d’approvisionnement, les techniques en pharmacie ou les techniques de laboratoire,
-
-  - **(iii)** soit titulaire d’un diplôme, d’un certificat ou d’une attestation décerné par un établissement d’enseignement étranger dans l’un des domaines visés au sous-alinéa (ii) et titulaire de l’une des attestations suivantes :
-
-    - **(A)** une *attestation d’équivalence*, au sens du paragraphe 73(1) du [Règlement sur l’immigration et la protection des réfugiés](DORS-2002-227.md),
-
-    - **(B)** une attestation d’équivalence délivrée par une institution ou une organisation chargée de faire des attestations d’équivalences et reconnue par une province;
-
-- **c)** il possède des connaissances et une expérience relatives à l’utilisation et à la manutention des drogues d’usage restreint précisées dans la licence de distributeur autorisé qui sont suffisantes pour lui permettre de bien exercer ses fonctions;
-
-- **d)** il possède une connaissance suffisante des dispositions de la Loi et de la présente partie s’appliquant aux opérations précisées dans la licence de distributeur autorisé pour lui permettre de bien exercer ses fonctions.
-
-*Exception*
-
-**(4)** La personne qui demande une licence de distributeur autorisé peut désigner à titre de responsable qualifié ou de responsable qualifié suppléant un individu qui ne satisfait à aucune des exigences prévues à l’alinéa (3)b) si les conditions ci-après sont réunies :
-
-- **a)** aucun autre individu travaillant à l’installation ne satisfait à l’une de ces exigences;
-
-- **b)** ces exigences ne sont pas nécessaires pour effectuer les opérations précisées dans par la licence;
-
-- **c)** l’individu possède des connaissances suffisantes acquises par la combinaison de ses études, de sa formation et de son expérience de travail pour lui permettre de bien exercer ses fonctions.
-
-<sub>Historique: DORS/2004-238, art. 34; DORS/2010-222, art. 30; DORS/2019-171, art. 22</sub>
+**J.01.012** \[Abrogé, DORS/2025-242, art. 237\]
 
 **J.01.012.1** \[Abrogé, DORS/2019-171, art. 22\]
 
 **J.01.012.2** \[Abrogé, DORS/2019-171, art. 22\]
 
-###### Inadmissibilité
+**J.01.013** \[Abrogé, DORS/2025-242, art. 237\]
 
-**J.01.013** Ne peut être désigné à titre de responsable principal, de responsable qualifié ou de responsable qualifié suppléant l’individu qui, dans les dix années précédant la date de présentation de la demande de licence de distributeur autorisé :
+**J.01.014** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **a)** à l’égard d’une infraction désignée, d’une infraction désignée en matière criminelle ou d’une *infraction désignée* au sens du paragraphe 2(1) de la [Loi sur le cannabis](../../acts/fr/C-24.5.md) :
+**J.01.015** \[Abrogé, DORS/2025-242, art. 237\]
 
-  - **(i)** soit a été condamné en tant qu’adulte,
+**J.01.016** \[Abrogé, DORS/2025-242, art. 237\]
 
-  - **(ii)** soit s’est vu imposer en tant qu’*adolescent*, au sens du paragraphe 2(1) de la [Loi sur le système de justice pénale pour les adolescents](../../acts/fr/Y-1.5.md), une *peine applicable aux adultes*, au sens de ce paragraphe;
+**J.01.017** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **b)** à l’égard d’une infraction commise dans un pays étranger qui, si elle avait été commise au Canada, aurait constitué une infraction désignée, une infraction désignée en matière criminelle ou une *infraction désignée* au sens du paragraphe 2(1) de la [Loi sur le cannabis](../../acts/fr/C-24.5.md) :
+**J.01.018** \[Abrogé, DORS/2025-242, art. 237\]
 
-  - **(i)** soit a été condamné en tant qu’adulte,
+**J.01.019** \[Abrogé, DORS/2025-242, art. 237\]
 
-  - **(ii)** soit s’est vu imposer, pour une infraction commise alors qu’il avait au moins quatorze ans et moins de dix-huit ans, une peine plus longue que la peine maximale prévue par la *peine spécifique*, au sens du paragraphe 2(1) de la [Loi sur le système de justice pénale pour les adolescents](../../acts/fr/Y-1.5.md) pour une telle infraction.
+**J.01.020** \[Abrogé, DORS/2025-242, art. 237\]
 
-<sub>Historique: DORS/2004-238, art. 34; DORS/2019-171, art. 22</sub>
+**J.01.021** \[Abrogé, DORS/2025-242, art. 237\]
 
-##### Délivrance d’une licence
+**J.01.022** \[Abrogé, DORS/2025-242, art. 237\]
 
-###### Demande
+**J.01.023** \[Abrogé, DORS/2025-242, art. 237\]
 
-**J.01.014** **(1)** La personne qui prévoit d’effectuer l’une des opérations visées à l’article J.01.009 doit obtenir une licence de distributeur autorisé pour chaque installation où elle prévoit d’effectuer celle-ci en présentant au ministre une demande qui contient les renseignements suivants :
+**J.01.024** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **a)** les précisions ci-après à l’égard de la personne qui demande la licence :
+**J.01.025** \[Abrogé, DORS/2025-242, art. 237\]
 
-  - **(i)** s’agissant d’un individu, son nom,
+**J.01.026** \[Abrogé, DORS/2025-242, art. 237\]
 
-  - **(ii)** s’agissant d’une personne morale, sa dénomination sociale et tout autre nom enregistré dans une province sous lequel elle entend s’identifier ou effectuer les opérations précisées dans la licence,
+**J.01.027** \[Abrogé, DORS/2025-242, art. 237\]
 
-  - **(iii)** s’agissant du titulaire d’un poste visé à l’alinéa J.01.010c), son nom et le titre de son poste;
+**J.01.028** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **b)** l’adresse municipale, le numéro de téléphone et, le cas échéant, l’adresse électronique de l’installation de même que, si elle diffère de l’adresse municipale, son adresse postale;
+**J.01.029** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **c)** les nom, numéro de téléphone et adresse électronique du responsable principal proposé ainsi que sa date de naissance;
+**J.01.030** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **d)** à l’égard du responsable qualifié et de tout responsable qualifié suppléant proposés :
+**J.01.031** \[Abrogé, DORS/2025-242, art. 237\]
 
-  - **(i)** leurs nom, numéro de téléphone et adresse électronique ainsi que leur date de naissance,
-
-  - **(ii)** le titre de leur poste à l’installation,
-
-  - **(iii)** les nom et titre du poste de leur supérieur immédiat à l’installation,
-
-  - **(iv)** le cas échéant, la profession exercée qui est liée à leurs fonctions, le nom de la province les autorisant à l’exercer et le numéro de cette autorisation,
-
-  - **(v)** leurs études, formation et expérience de travail liées à l’exercice de leurs fonctions;
-
-- **e)** les opérations proposées et les drogues d’usage restreint visées par chacune de celles-ci;
-
-- **f)** si la demande vise la fabrication ou l’assemblage d’un produit ou d’un composé contenant une drogue d’usage restreint, sauf si elle vise la fabrication ou l’assemblage d’un nécessaire d’essai, une liste qui contient les précisions ci-après pour chaque produit ou composé :
-
-  - **(i)** la marque nominative du produit ou le nom du composé,
-
-  - **(ii)** le nom de la drogue d’usage restreint qu’il contient,
-
-  - **(iii)** la concentration de la drogue d’usage restreint qu’il contient dans chacune de ses unités, le nombre d’unités par emballage et le nombre d’emballages,
-
-  - **(iv)** s’il est fabriqué ou assemblé sur mesure aux termes d’une commande spéciale pour un autre distributeur autorisé ou s’il l’est par un distributeur autorisé différent, les nom, adresse municipale et numéro de licence de celui-ci,
-
-  - **(v)** si le nom du demandeur figure sur l’étiquette du produit ou du composé, une copie de l’étiquette intérieure;
-
-- **g)** si la demande vise la production d’une drogue d’usage restreint, exception faite des produits ou composés contenant une drogue d’usage restreint, les précisions ci-après concernant cette drogue :
-
-  - **(i)** son nom,
-
-  - **(ii)** la quantité que le demandeur prévoit de produire en vertu de la licence et la période prévue pour la production,
-
-  - **(iii)** si elle est produite sur mesure aux termes d’une commande spéciale pour un autre distributeur autorisé, les nom, adresse municipale et numéro de licence de celui-ci;
-
-- **h)** si la demande vise une opération qui n’est pas visée par les alinéas f) et g), le nom de la drogue d’usage restreint qui fera l’objet de l’opération et le but de cette dernière;
-
-- **i)** la description détaillée des mesures de sécurité mises en place à l’installation et établies conformément à la Directive en matière de sécurité;
-
-- **j)** la description détaillée de la méthode de consignation des renseignements que le demandeur prévoit d’utiliser en application de l’article J.01.075.
-
-*Documents*
-
-**(2)** La demande est accompagnée des documents suivants :
-
-- **a)** dans le cas où le demandeur est une personne morale :
-
-  - **(i)** une copie de son certificat de constitution ou de tout autre acte constitutif,
-
-  - **(ii)** une copie de tout document déposé auprès de la province où se trouve son installation et qui indique sa dénomination sociale et tout autre nom enregistré dans la province sous lequel elle entend s’identifier ou effectuer les opérations précisées dans la licence;
-
-- **b)** les déclarations individuelles signées et datées par le responsable principal, le responsable qualifié et tout responsable qualifié suppléant proposés attestant que le signataire n’est pas visé par l’article J.01.013;
-
-- **c)** à l’égard de chaque personne visée à l’alinéa b), un document délivré par un corps policier canadien précisant si, au cours des dix années précédant la présentation de la demande, elle a fait l’objet d’une condamnation visée au sous-alinéa J.01.013a)(i) ou s’est vu imposer une peine visée au sous-alinéa J.01.013a)(ii);
-
-- **d)** à l’égard de chaque personne visée à l’alinéa b) qui a résidé de façon habituelle dans un pays étranger au cours des dix années précédant la présentation de la demande, un document délivré par un corps policier de ce pays précisant si elle a fait l’objet d’une condamnation visée au sous-alinéa J.01.013b)(i) ou s’est vu imposer une peine visée au sous-alinéa J.01.013b)(ii) dans ce pays au cours de cette période;
-
-- **e)** une déclaration, signée et datée par le responsable principal, attestant que le responsable qualifié et tout responsable qualifié suppléant proposés ont les connaissances et l’expérience exigées aux alinéas J.01.012(3)c) et d);
-
-- **f)** dans le cas où le responsable qualifié ou tout responsable qualifié suppléant proposé ne satisfait pas à l’exigence visée au sous-alinéa J.01.012(3)b)(i) :
-
-  - **(i)** une copie du diplôme, du certificat ou de l’attestation visé aux sous-alinéas J.01.012(3)b)(ii) ou (iii),
-
-  - **(ii)** une description détaillée des études, de la formation et de l’expérience de travail visées à l’alinéa J.01.012(4)c), accompagnée de pièces justificatives telle une copie des relevés de notes ou de l’attestation faite par la personne qui a dispensé la formation.
-
-*Signature et attestation*
-
-**(3)** La demande satisfait aux exigences suivantes :
-
-- **a)** elle est signée et datée par le responsable principal proposé;
-
-- **b)** elle comprend une attestation de celui-ci portant sur les faits suivants :
-
-  - **(i)** à sa connaissance, tous les renseignements et documents fournis à l’appui de la demande sont exacts et complets,
-
-  - **(ii)** il est habilité à lier le demandeur.
-
-*Renseignements et documents complémentaires*
-
-**(4)** Le demandeur fournit au ministre, au plus tard à la date précisée dans la demande écrite de celui-ci à cet effet, tout renseignement ou document que le ministre juge nécessaire pour compléter l’examen de la demande de licence.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-###### Délivrance
-
-**J.01.015** Le ministre, au terme de l’examen de la demande de licence et sous réserve de l’article J.01.017, délivre une licence de distributeur autorisé, avec ou sans conditions, qui contient les renseignements suivants :
-
-- **a)** le numéro de la licence;
-
-- **b)** le nom du distributeur, sa dénomination sociale ou le titre de son poste;
-
-- **c)** les opérations autorisées et le nom des drogues d’usage restreint visées par chacune de celles-ci;
-
-- **d)** l’adresse municipale de l’installation où le distributeur peut effectuer les opérations autorisées;
-
-- **e)** le niveau de sécurité applicable à l’installation, établi conformément à la Directive en matière de sécurité;
-
-- **f)** la date de prise d’effet de la licence;
-
-- **g)** la date d’expiration de la licence, qui ne peut être postérieure à la troisième année suivant sa date de prise d’effet;
-
-- **h)** toute condition que le ministre estime nécessaire, sur le fondement de motifs raisonnables, pour atteindre l’une des fins suivantes :
-
-  - **(i)** le respect d’une obligation internationale,
-
-  - **(ii)** la conformité aux exigences associées au niveau de sécurité visé à l’alinéa e),
-
-  - **(iii)** la réduction d’un risque d’atteinte à la sécurité ou à la santé publiques, notamment le risque de détournement d’une drogue d’usage restreint vers un marché ou un usage illicites;
-
-- **i)** si le distributeur produit une drogue d’usage restreint, la quantité qu’il peut produire et la période de production autorisée.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-###### Validité
-
-**J.01.016** La licence de distributeur autorisé est valide jusqu’à la date d’expiration qui y est indiquée ou, si elle est antérieure, jusqu’à la date de sa suspension ou de sa révocation au titre des articles J.01.035 ou J.01.036.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-###### Refus
-
-**J.01.017** **(1)** Le ministre refuse de délivrer une licence de distributeur autorisé dans les cas suivants :
-
-- **a)** le demandeur ne peut pas demander une licence en vertu de l’article J.01.010;
-
-- **b)** le demandeur a contrevenu, dans les dix années précédant la présentation de la demande de licence :
-
-  - **(i)** soit à une disposition de la Loi, de la [Loi sur le cannabis](../../acts/fr/C-24.5.md) ou de leurs règlements,
-
-  - **(ii)** soit à une condition d’une licence ou d’un permis qui lui a été délivré en vertu d’un règlement pris en vertu de la Loi ou qui lui a été délivré en vertu de la [Loi sur le cannabis](../../acts/fr/C-24.5.md) ou de ses règlements;
-
-- **c)** dans les dix années précédant la présentation de la demande de licence, le responsable principal, le responsable qualifié ou tout responsable qualifié suppléant proposé a fait l’objet d’une condamnation visée aux sous-alinéas J.01.013a)(i) ou b)(i) ou s’est vu imposer une peine visée aux sous-alinéas J.01.013a)(ii) ou b)(ii);
-
-- **d)** l’une des opérations pour lesquelles la licence est demandée entraînerait la violation d’une obligation internationale;
-
-- **e)** le demandeur n’a pas mis en place à l’installation les mesures de sécurité prévues dans la Directive en matière de sécurité à l’égard d’une opération pour laquelle il demande la licence;
-
-- **f)** la méthode visée à l’alinéa J.01.014(1)j) ne permet pas la consignation des renseignements conformément à l’article J.01.075;
-
-- **g)** soit le demandeur ne s’est pas conformé aux exigences prévues au paragraphe J.01.014(4), soit il s’y est conformé, mais les renseignements ou documents fournis sont insuffisants pour terminer l’examen de la demande de licence;
-
-- **h)** le ministre a des motifs raisonnables de croire que le demandeur a fourni, dans sa demande de licence ou à l’appui de celle-ci, des renseignements faux ou trompeurs ou des documents faux ou falsifiés;
-
-- **i)** le ministre a des motifs raisonnables de croire, sur le fondement de renseignements reçus d’une autorité compétente ou de l’Organisation des Nations Unies, que le demandeur a participé au détournement d’une drogue d’usage restreint vers un marché ou un usage illicites ou qu’il a participé à des opérations qui ont entraîné la violation d’une obligation internationale;
-
-- **j)** le ministre a des motifs raisonnables de croire que la délivrance de la licence risquerait vraisemblablement de porter atteinte à la sécurité ou à la santé publiques, notamment en raison du risque de détournement d’une drogue d’usage restreint vers un marché ou un usage illicites.
-
-*Exceptions*
-
-**(2)** Le ministre ne peut, dans les cas visés aux alinéas (1)b) ou h), refuser de délivrer la licence si le demandeur remplit les conditions ci-après, sauf s’il a des motifs raisonnables de croire que le refus est nécessaire pour protéger la sécurité ou la santé publiques, notamment pour prévenir le détournement d’une drogue d’usage restreint vers un marché ou un usage illicites :
-
-- **a)** le demandeur n’a pas d’antécédents de contravention à la Loi, à la [Loi sur le cannabis](../../acts/fr/C-24.5.md) ou à leurs règlements;
-
-- **b)** il a soit pris les mesures correctives nécessaires pour veiller à respecter la Loi, la [Loi sur le cannabis](../../acts/fr/C-24.5.md) et leurs règlements, soit signé un engagement à cet effet.
-
-*Préavis*
-
-**(3)** Le ministre, avant de refuser de délivrer la licence, envoie au demandeur un préavis motivé l’informant qu’il peut présenter ses observations à cet égard.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-##### Renouvellement de la licence
-
-###### Demande
-
-**J.01.018** **(1)** Le distributeur autorisé présente au ministre, pour obtenir le renouvellement de sa licence de distributeur autorisé, une demande qui contient les renseignements et documents visés aux paragraphes J.01.014(1) et (2).
-
-*Signature et attestation*
-
-**(2)** La demande satisfait aux exigences suivantes :
-
-- **a)** elle est signée et datée par le responsable principal de l’installation précisée dans la demande;
-
-- **b)** elle comprend une attestation de celui-ci portant sur les faits suivants :
-
-  - **(i)** à sa connaissance, tous les renseignements et documents fournis à l’appui de la demande sont exacts et complets,
-
-  - **(ii)** il est habilité à lier le distributeur autorisé.
-
-*Renseignements et documents complémentaires*
-
-**(3)** Le distributeur autorisé fournit au ministre, au plus tard à la date précisée dans la demande écrite de celui-ci à cet effet, tout renseignement ou document que le ministre juge nécessaire pour compléter l’examen de la demande de renouvellement.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-###### Renouvellement
-
-**J.01.019** **(1)** Le ministre, au terme de l’examen de la demande de renouvellement et sous réserve de l’article J.01.021, renouvelle la licence de distributeur autorisé, qui contient les renseignements visés à l’article J.01.015.
-
-*Conditions*
-
-**(2)** Le ministre peut, lorsqu’il renouvelle la licence du distributeur autorisé, ajouter toute condition à la licence, en modifier les conditions ou supprimer l’une de celles-ci s’il a des motifs raisonnables de le croire nécessaire pour atteindre l’une des fins suivantes :
-
-- **a)** le respect d’une obligation internationale;
-
-- **b)** la conformité aux exigences associées au niveau de sécurité précisé dans la licence ou à tout nouveau niveau qui s’impose à la suite du renouvellement;
-
-- **c)** la réduction d’un risque d’atteinte à la sécurité ou à la santé publiques, notamment le risque de détournement d’une drogue d’usage restreint vers un marché ou un usage illicites.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-###### Validité
-
-**J.01.020** La licence de distributeur autorisé renouvelée est valide jusqu’à la date d’expiration qui y est indiquée ou, si elle est antérieure, jusqu’à la date de sa suspension ou de sa révocation au titre des articles J.01.035 ou J.01.036.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-###### Refus
-
-**J.01.021** **(1)** Le ministre refuse de renouveler la licence de distributeur autorisé dans les cas suivants :
-
-- **a)** le distributeur autorisé ne peut plus demander une licence en vertu de l’article J.01.010;
-
-- **b)** le distributeur autorisé a contrevenu, dans les dix années précédant la présentation de la demande de renouvellement :
-
-  - **(i)** soit à une disposition de la Loi, de la [Loi sur le cannabis](../../acts/fr/C-24.5.md) ou de leurs règlements,
-
-  - **(ii)** soit à une condition d’une licence ou d’un permis qui lui a été délivré en vertu d’un règlement pris en vertu de la Loi ou qui lui a été délivré en vertu de la [Loi sur le cannabis](../../acts/fr/C-24.5.md) ou de ses règlements;
-
-- **c)** dans les dix années précédant la présentation de la demande de renouvellement, le responsable principal, le responsable qualifié ou tout responsable qualifié suppléant proposé a fait l’objet d’une condamnation visée aux sous-alinéas J.01.013a)(i), ou b)(i) ou s’est vu imposer une peine visée aux sous-alinéas J.01.013a)(ii) ou b)(ii);
-
-- **d)** l’une des opérations pour lesquelles le renouvellement est demandé entraînerait la violation d’une obligation internationale;
-
-- **e)** le distributeur autorisé n’a pas mis en place à l’installation les mesures de sécurité prévues dans la Directive en matière de sécurité à l’égard d’une opération pour laquelle il demande le renouvellement;
-
-- **f)** la méthode visée à l’alinéa J.01.014(1)j) ne permet pas la consignation des renseignements conformément à l’article J.01.075;
-
-- **g)** soit le distributeur autorisé ne s’est pas conformé aux exigences prévues au paragraphe J.01.018(3), soit il s’y est conformé, mais les renseignements ou documents fournis sont insuffisants pour terminer l’examen de la demande de renouvellement;
-
-- **h)** le ministre a des motifs raisonnables de croire que le distributeur autorisé a fourni, dans sa demande de renouvellement ou à l’appui de celle-ci, des renseignements faux ou trompeurs ou des documents faux ou falsifiés;
-
-- **i)** le ministre a des motifs raisonnables de croire, sur le fondement de renseignements reçus d’une autorité compétente ou de l’Organisation des Nations Unies, que le distributeur autorisé a participé au détournement d’une drogue d’usage restreint vers un marché ou un usage illicites ou qu’il a participé à des opérations qui ont entraîné la violation d’une obligation internationale;
-
-- **j)** le ministre a des motifs raisonnables de croire que le renouvellement de la licence risquerait vraisemblablement de porter atteinte à la sécurité ou à la santé publiques, notamment en raison du risque de détournement d’une drogue d’usage restreint vers un marché ou un usage illicites.
-
-*Exceptions*
-
-**(2)** Le ministre ne peut, dans les cas visés aux alinéas (1)b) ou h), refuser de renouveler la licence si le distributeur autorisé remplit les conditions ci-après, sauf s’il a des motifs raisonnables de croire que le refus est nécessaire pour protéger la sécurité ou la santé publiques, notamment pour prévenir le détournement d’une drogue d’usage restreint vers un marché ou un usage illicites :
-
-- **a)** le distributeur autorisé n’a pas d’antécédents de contravention à la Loi, à la [Loi sur le cannabis](../../acts/fr/C-24.5.md) ou à leurs règlements;
-
-- **b)** il a soit pris les mesures correctives nécessaires pour veiller à respecter la Loi, la [Loi sur le cannabis](../../acts/fr/C-24.5.md) et leurs règlements, soit signé un engagement à cet effet.
-
-*Préavis*
-
-**(3)** Le ministre, avant de refuser de renouveler la licence, envoie au distributeur autorisé un préavis motivé l’informant qu’il peut présenter ses observations à cet égard.
-
-<sub>Historique: DORS/85-550, art. 15; DORS/2019-171, art. 22</sub>
-
-##### Modification de la licence
-
-###### Demande
-
-**J.01.022** **(1)** Le distributeur autorisé présente au ministre, avant d’apporter un changement ayant une incidence sur tout renseignement visé à l’article J.01.015 figurant sur sa licence de distributeur autorisé, une demande de modification de sa licence qui contient la description du changement prévu ainsi que les renseignements et documents pertinents visés à l’article J.01.014.
-
-*Signature et attestation*
-
-**(2)** La demande satisfait aux exigences suivantes :
-
-- **a)** elle est signée et datée par le responsable principal de l’installation précisée dans la demande;
-
-- **b)** elle comprend une attestation de celui-ci portant sur les faits suivants :
-
-  - **(i)** à sa connaissance, tous les renseignements et documents fournis à l’appui de la demande sont exacts et complets,
-
-  - **(ii)** il est habilité à lier le distributeur autorisé.
-
-*Renseignements et documents complémentaires*
-
-**(3)** Le distributeur autorisé fournit au ministre, au plus tard à la date précisée dans la demande écrite de celui-ci à cet effet, tout renseignement ou document que le ministre juge nécessaire pour compléter l’examen de la demande de modification.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-###### Modification
-
-**J.01.023** **(1)** Le ministre, au terme de l’examen de la demande de modification et sous réserve de l’article J.01.025, modifie la licence de distributeur autorisé.
-
-*Conditions*
-
-**(2)** Le ministre peut, lorsqu’il modifie la licence du distributeur autorisé, ajouter toute condition à la licence, en modifier les conditions ou supprimer l’une de celles-ci s’il a des motifs raisonnables de le croire nécessaire pour atteindre l’une des fins suivantes :
-
-- **a)** le respect d’une obligation internationale;
-
-- **b)** la conformité aux exigences associées au niveau de sécurité précisé dans la licence ou à tout nouveau niveau qui s’impose à la suite de la modification;
-
-- **c)** la réduction d’un risque d’atteinte à la sécurité ou à la santé publiques, notamment le risque de détournement d’une drogue d’usage restreint vers un marché ou un usage illicites.
-
-<sub>Historique: DORS/2004-238, art. 35; DORS/2010-222, art. 31(F); DORS/2019-171, art. 22</sub>
-
-###### Validité
-
-**J.01.024** La licence de distributeur autorisé modifiée est valide jusqu’à la date d’expiration qui y est indiquée ou, si elle est antérieure, jusqu’à la date de sa suspension ou de sa révocation au titre des articles J.01.035 ou J.01.036.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-###### Refus
-
-**J.01.025** **(1)** Le ministre refuse de modifier la licence de distributeur autorisé dans les cas suivants :
-
-- **a)** l’une des opérations pour lesquelles la modification est demandée entraînerait la violation d’une obligation internationale;
-
-- **b)** le distributeur autorisé n’a pas mis en place à l’installation les mesures de sécurité prévues dans la Directive en matière de sécurité à l’égard d’une opération pour laquelle il demande la modification;
-
-- **c)** la méthode visée à l’alinéa J.01.014(1)j) ne permet pas la consignation des renseignements conformément à l’article J.01.075;
-
-- **d)** soit le distributeur autorisé ne s’est pas conformé aux exigences prévues au paragraphe J.01.022(3), soit il s’y est conformé, mais les renseignements ou documents fournis sont insuffisants pour terminer l’examen de la demande de modification;
-
-- **e)** le ministre a des motifs raisonnables de croire que le distributeur autorisé a fourni, dans sa demande de modification ou à l’appui de celle-ci, des renseignements faux ou trompeurs ou des documents faux ou falsifiés;
-
-- **f)** le ministre a des motifs raisonnables de croire que la modification de la licence risquerait vraisemblablement de porter atteinte à la sécurité ou à la santé publiques, notamment en raison du risque de détournement d’une drogue d’usage restreint vers un marché ou un usage illicites.
-
-*Exception*
-
-**(2)** Le ministre ne peut, dans le cas visé à l’alinéa (1)e), refuser de modifier la licence si le distributeur autorisé remplit les conditions ci-après, sauf s’il a des motifs raisonnables de croire que le refus est nécessaire pour protéger la sécurité ou la santé publiques, notamment pour prévenir le détournement d’une drogue d’usage restreint vers un marché ou un usage illicites :
-
-- **a)** le distributeur autorisé n’a pas d’antécédents de contravention à la Loi, à la [Loi sur le cannabis](../../acts/fr/C-24.5.md) ou à leurs règlements;
-
-- **b)** il a soit pris les mesures correctives nécessaires pour veiller à respecter la Loi, la [Loi sur le cannabis](../../acts/fr/C-24.5.md) et leurs règlements, soit signé un engagement à cet effet.
-
-*Préavis*
-
-**(3)** Le ministre, avant de refuser de modifier la licence, envoie au distributeur autorisé un préavis motivé l’informant qu’il peut présenter ses observations à cet égard.
-
-<sub>Historique: DORS/2004-238, art. 36; DORS/2010-222, art. 32; DORS/2019-171, art. 22</sub>
-
-##### Changements exigeant une approbation préalable du ministre
-
-###### Demande
-
-**J.01.026** **(1)** Le distributeur autorisé doit obtenir l’approbation du ministre, en lui présentant une demande écrite, avant de procéder à l’un des changements suivants :
-
-- **a)** toute modification ayant une incidence sur les mesures de sécurité mises en place à l’installation précisée dans sa licence;
-
-- **b)** le remplacement du responsable principal;
-
-- **c)** le remplacement du responsable qualifié;
-
-- **d)** le remplacement ou l’adjonction de tout responsable qualifié suppléant.
-
-*Renseignements et documents*
-
-**(2)** Le distributeur autorisé fournit au ministre, pour tout changement visé au paragraphe (1), ce qui suit :
-
-- **a)** les précisions concernant la modification ayant une incidence sur les mesures de sécurité mises en place à l’installation précisée dans sa licence;
-
-- **b)** s’agissant du responsable principal :
-
-  - **(i)** les renseignements visés à l’alinéa J.01.014(1)c),
-
-  - **(ii)** la déclaration visée à l’alinéa J.01.014(2)b) et les documents visés aux alinéas J.01.014(2)c) et d);
-
-- **c)** s’agissant du responsable qualifié ou d’un responsable qualifié suppléant :
-
-  - **(i)** les renseignements visés à l’alinéa J.01.014(1)d),
-
-  - **(ii)** les déclarations visées aux alinéas J.01.014(2)b) et e) ainsi que les documents visés aux alinéas J.01.014(2)c), d) et f).
-
-*Renseignements et documents complémentaires*
-
-**(3)** Le distributeur autorisé fournit au ministre, au plus tard à la date précisée dans la demande écrite de celui-ci à cet effet, tout renseignement ou document que le ministre juge nécessaire pour compléter l’examen de la demande d’approbation de changement.
-
-<sub>Historique: DORS/2004-238, art. 37; DORS/2019-171, art. 22</sub>
-
-###### Approbation
-
-**J.01.027** **(1)** Le ministre, au terme de l’examen de la demande d’approbation de changement et sous réserve de l’article J.01.028, approuve le changement.
-
-*Conditions*
-
-**(2)** Le ministre peut, lorsqu’il approuve le changement, ajouter toute condition à la licence de distributeur autorisé, en modifier les conditions ou supprimer l’une de celles-ci s’il a des motifs raisonnables de le croire nécessaire pour atteindre l’une des fins suivantes :
-
-- **a)** le respect d’une obligation internationale;
-
-- **b)** la conformité aux exigences associées au niveau de sécurité précisé dans la licence;
-
-- **c)** la réduction d’un risque d’atteinte à la sécurité ou à la santé publiques, notamment le risque de détournement d’une drogue d’usage restreint vers un marché ou un usage illicites.
-
-<sub>Historique: DORS/2004-238, art. 38; DORS/2010-222, art. 33; DORS/2019-171, art. 22</sub>
-
-###### Refus
-
-**J.01.028** **(1)** Le ministre refuse d’approuver le changement dans les cas suivants :
-
-- **a)** dans les dix années précédant la présentation de la demande d’approbation de changement, le responsable principal, le responsable qualifié ou tout responsable qualifié suppléant proposé a fait l’objet d’une condamnation visée aux sous-alinéas J.01.013a)(i) ou b)(i) ou s’est vu imposer une peine visée aux sous-alinéas J.01.013a)(ii) ou b)(ii);
-
-- **b)** soit le distributeur autorisé ne s’est pas conformé aux exigences prévues au paragraphe J.01.026(3), soit il s’y est conformé, mais les renseignements ou documents fournis sont insuffisants pour terminer l’examen de la demande d’approbation de changement;
-
-- **c)** le ministre a des motifs raisonnables de croire que le distributeur autorisé a fourni, dans sa demande d’approbation de changement ou à l’appui de celle-ci, des renseignements faux ou trompeurs ou des documents faux ou falsifiés;
-
-- **d)** le ministre a des motifs raisonnables de croire que le changement risquerait vraisemblablement de porter atteinte à la sécurité ou à la santé publiques, notamment en raison du risque de détournement d’une drogue d’usage restreint vers un marché ou un usage illicites.
-
-*Exception*
-
-**(2)** Le ministre ne peut, dans le cas visé à l’alinéa (1)c), refuser d’approuver le changement si le distributeur autorisé a pris les mesures correctives nécessaires pour veiller à respecter la Loi, la [Loi sur le cannabis](../../acts/fr/C-24.5.md) et leurs règlements ou a signé un engagement à cet effet, sauf s’il a des motifs raisonnables de croire que le refus est nécessaire pour protéger la sécurité ou la santé publiques, notamment pour prévenir le détournement d’une drogue d’usage restreint vers un marché ou un usage illicites.
-
-*Préavis*
-
-**(3)** Le ministre, avant de refuser d’approuver le changement, envoie au distributeur autorisé un préavis motivé l’informant qu’il peut présenter ses observations à cet égard.
-
-<sub>Historique: DORS/2015-210, art. 3; DORS/2018-85, art. 2; DORS/2019-171, art. 22</sub>
-
-##### Changements exigeant un avis au ministre
-
-###### Avis préalable
-
-**J.01.029** **(1)** Le distributeur autorisé avise le ministre par écrit de faire avant l’un des changements suivants :
-
-- **a)** la fabrication ou l’assemblage d’un produit ou d’un composé qui ne figure pas sur la plus récente version de la liste visée à l’alinéa J.01.014(1)f) qui a été présentée au ministre;
-
-- **b)** la modification d’un produit ou d’un composé qui figure sur cette liste, si la modification a une incidence sur les renseignements déjà fournis à son égard.
-
-*Renseignements et liste*
-
-**(2)** L’avis contient les précisions visées à l’alinéa J.01.014(1)f) qui sont nécessaires pour mettre à jour la liste et est accompagné de la version révisée de celle-ci.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-###### Avis — cinq jours
-
-**J.01.030** Le distributeur autorisé avise le ministre par écrit du fait que le responsable qualifié ou tout responsable qualifié suppléant cesse d’exercer cette fonction dans les cinq jours suivant la cessation.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-###### Avis — dix jours
-
-**J.01.031** **(1)** Le distributeur autorisé avise le ministre par écrit de l’un des changements ci-après dans les dix jours suivant celui-ci :
-
-- **a)** le responsable principal cesse d’exercer cette fonction;
-
-- **b)** le distributeur autorisé cesse de fabriquer ou d’assembler un produit ou un composé qui figure sur la plus récente version de la liste visée à l’alinéa J.01.014(1)f) qui a été présentée au ministre.
-
-*Renseignements et liste*
-
-**(2)** L’avis prévu à l’alinéa (1)b) contient les précisions visées à l’alinéa J.01.014(1)f) qui font l’objet du changement et est accompagné de la version révisée de la liste.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-###### Avis — cessation des opérations
-
-**J.01.032** **(1)** Le distributeur autorisé qui entend cesser les opérations à son installation avant l’expiration de sa licence ou à l’expiration de celle-ci en avise le ministre par écrit au moins trente jours avant la cessation.
-
-*Contenu de l’avis*
-
-**(2)** L’avis est signé et daté par le responsable principal et contient les renseignements suivants :
-
-- **a)** la date prévue de la cessation des opérations à l’installation;
-
-- **b)** la description de la façon dont le distributeur autorisé disposera de la totalité des drogues d’usage restreint restant à l’installation à cette date, notamment les précisions suivantes :
-
-  - **(i)** dans le cas où elles seront en tout ou en partie vendues ou fournies à un autre distributeur autorisé qui effectuera des opérations à la même installation, le nom de celui-ci,
-
-  - **(ii)** dans le cas où elles seront en tout ou en partie vendues ou fournies à un autre distributeur autorisé qui n’effectuera pas d’opérations à la même installation, le nom de celui-ci et l’adresse municipale de son installation,
-
-  - **(iii)** dans le cas où elles seront en tout ou en partie détruites, la date de la destruction et l’adresse municipale du lieu de la destruction;
-
-- **c)** l’adresse municipale du lieu où les documents du distributeur autorisé seront conservés après la cessation des opérations;
-
-- **d)** les nom, adresse municipale, numéro de téléphone et, le cas échéant, l’adresse électronique de la personne que le ministre pourra contacter après la cessation des opérations pour obtenir plus amples renseignements.
-
-*Mise à jour*
-
-**(3)** Une fois que les opérations ont cessé, le distributeur autorisé présente au ministre une mise à jour détaillée, signée et datée par le responsable principal, des renseignements visés au paragraphe (2), s’ils diffèrent de ceux indiqués sur l’avis.
-
-<sub>Historique: DORS/2004-238, art. 39; DORS/2019-171, art. 22</sub>
+**J.01.032** \[Abrogé, DORS/2025-242, art. 237\]
 
 **J.01.032.1** \[Abrogé, DORS/2019-171, art. 22\]
 
-##### Changement des conditions de la licence
-
-###### Ajout ou modification de conditions
-
-**J.01.033** **(1)** Le ministre peut, à un moment autre que celui de la délivrance, du renouvellement ou de la modification de la licence du distributeur autorisé, ajouter toute condition à la licence ou en modifier les conditions s’il a des motifs raisonnables de le croire nécessaire pour atteindre l’une des fins suivantes :
-
-- **a)** le respect d’une obligation internationale;
-
-- **b)** la conformité aux exigences associées au niveau de sécurité précisé dans la licence;
-
-- **c)** la réduction d’un risque d’atteinte à la sécurité ou à la santé publiques, notamment le risque de détournement d’une drogue d’usage restreint vers un marché ou un usage illicites.
-
-*Préavis*
-
-**(2)** Le ministre, avant d’ajouter une condition à la licence ou d’en modifier les conditions, envoie au distributeur autorisé un préavis motivé l’informant qu’il peut présenter ses observations à cet égard.
-
-*Urgence*
-
-**(3)** Malgré le paragraphe (2), le ministre peut ajouter toute condition à la licence ou en modifier les conditions sans préavis s’il a des motifs raisonnables de le croire nécessaire pour protéger la sécurité ou la santé publiques, notamment pour prévenir le détournement d’une drogue d’usage restreint vers un marché ou un usage illicites.
-
-*Urgence — avis*
-
-**(4)** L’ajout ou la modification d’une condition en vertu du paragraphe (3) prend effet dès que le ministre envoie au distributeur autorisé un avis à cet égard qui contient les précisions suivantes :
-
-- **a)** les motifs de l’ajout ou de la modification;
-
-- **b)** le fait que le distributeur autorisé a la possibilité de présenter ses observations à cet égard;
-
-- **c)** les mesures correctives à prendre et le délai accordé à cette fin, s’il y a lieu.
-
-<sub>Historique: DORS/99-125, art. 8; DORS/2004-238, art. 40; DORS/2018-69, art. 67 et 69; DORS/2019-171, art. 22</sub>
+**J.01.033** \[Abrogé, DORS/2025-242, art. 237\]
 
 **J.01.033.1** \[Abrogé, DORS/2019-171, art. 22\]
 
@@ -21595,1164 +18369,117 @@ dans chaque forme posologique individuelle, s’il porte une étiquette indiquan
 
 **J.01.033.4** \[Abrogé, DORS/2019-171, art. 22\]
 
-###### Suppression d’une condition
+**J.01.034** \[Abrogé, DORS/2025-242, art. 237\]
 
-**J.01.034** **(1)** Le ministre peut supprimer toute condition qu’il ne juge plus nécessaire de la licence de distributeur autorisé.
+**J.01.035** \[Abrogé, DORS/2025-242, art. 237\]
 
-*Avis*
+**J.01.036** \[Abrogé, DORS/2025-242, art. 237\]
 
-**(2)** La suppression prend effet dès que le ministre envoie un avis de suppression au distributeur autorisé.
+**J.01.037** \[Abrogé, DORS/2025-242, art. 237\]
 
-<sub>Historique: DORS/2019-171, art. 22</sub>
+**J.01.038** \[Abrogé, DORS/2025-242, art. 237\]
 
-##### Suspension et révocation de la licence
+**J.01.039** \[Abrogé, DORS/2025-242, art. 237\]
 
-###### Suspension
+**J.01.040** \[Abrogé, DORS/2025-242, art. 237\]
 
-**J.01.035** **(1)** Le ministre suspend sans préavis la licence d’un distributeur autorisé s’il a des motifs raisonnables de le croire nécessaire pour protéger la sécurité ou la santé publiques, notamment pour prévenir le détournement d’une drogue d’usage restreint vers un marché ou un usage illicites.
+**J.01.041** \[Abrogé, DORS/2025-242, art. 237\]
 
-*Avis*
+**J.01.042** \[Abrogé, DORS/2025-242, art. 237\]
 
-**(2)** La suspension prend effet dès que le ministre envoie au distributeur autorisé un avis de suspension qui contient les précisions suivantes :
+**J.01.043** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **a)** les motifs de la suspension;
+**J.01.044** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **b)** le fait que le distributeur autorisé a la possibilité de présenter ses observations à cet égard;
+**J.01.045** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **c)** les mesures correctives à prendre et le délai accordé à cette fin, s’il y a lieu.
+**J.01.046** \[Abrogé, DORS/2025-242, art. 237\]
 
-*Rétablissement de la licence*
+**J.01.047** \[Abrogé, DORS/2025-242, art. 237\]
 
-**(3)** Le ministre rétablit la licence s’il a des motifs raisonnables de croire que la suspension n’est plus nécessaire.
+**J.01.048** \[Abrogé, DORS/2025-242, art. 237\]
 
-<sub>Historique: DORS/97-228, art. 24; DORS/2019-171, art. 22</sub>
+**J.01.049** \[Abrogé, DORS/2025-242, art. 237\]
 
-###### Révocation
+**J.01.050** \[Abrogé, DORS/2025-242, art. 237\]
 
-**J.01.036** **(1)** Le ministre, sous réserve du paragraphe (2), révoque la licence de distributeur autorisé dans les cas suivants :
+**J.01.051** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **a)** le distributeur autorisé ne peut plus demander une licence en vertu de l’article J.01.010;
+**J.01.052** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **b)** le distributeur autorisé lui en fait la demande ou l’informe de la perte, du vol ou de toute utilisation non autorisée de la licence, que celle-ci soit réelle ou potentielle;
+**J.01.053** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **c)** le distributeur autorisé cesse ses opérations à son installation avant l’expiration de sa licence;
+**J.01.054** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **d)** le distributeur autorisé ne prend pas les mesures correctives précisées dans un engagement ou un avis;
+**J.01.055** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **e)** le distributeur autorisé a contrevenu :
+**J.01.056** \[Abrogé, DORS/2025-242, art. 237\]
 
-  - **(i)** soit à une disposition de la Loi, de la [Loi sur le cannabis](../../acts/fr/C-24.5.md) ou de leurs règlements,
+**J.01.057** \[Abrogé, DORS/2025-242, art. 237\]
 
-  - **(ii)** soit à une condition d’une licence ou d’un permis qui lui a été délivré en vertu d’un règlement pris en vertu de la Loi ou qui lui a été délivré en vertu de la [Loi sur le cannabis](../../acts/fr/C-24.5.md) ou de ses règlements;
+**J.01.058** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **f)** dans les dix années précédant la révocation, le responsable principal, le responsable qualifié ou tout responsable qualifié suppléant a fait l’objet d’une condamnation visée aux sous-alinéas J.01.013a)(i) ou b)(i) ou s’est vu imposer une peine visée aux sous-alinéas J.01.013a)(ii) ou b)(ii);
+**J.01.059** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **g)** le ministre a des motifs raisonnables de croire que le distributeur autorisé a fourni, dans toute demande relative à la licence ou à l’appui de celle-ci, des renseignements faux ou trompeurs ou des documents faux ou falsifiés;
+**J.01.060** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **h)** le ministre a des motifs raisonnables de croire, sur le fondement de renseignements reçus d’une autorité compétente ou de l’Organisation des Nations Unies, que le distributeur autorisé a participé au détournement d’une drogue d’usage restreint vers un marché ou un usage illicites.
+**J.01.061** \[Abrogé, DORS/2025-242, art. 237\]
 
-*Exceptions*
+**J.01.062** \[Abrogé, DORS/2025-242, art. 237\]
 
-**(2)** Le ministre ne peut, dans les cas visés aux alinéas (1)e) ou g), révoquer la licence si le distributeur autorisé remplit les conditions ci-après, sauf s’il a des motifs raisonnables de croire que la révocation est nécessaire pour protéger la sécurité ou la santé publiques, notamment pour prévenir le détournement d’une drogue d’usage restreint vers un marché ou un usage illicites :
+**J.01.063** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **a)** le distributeur autorisé n’a pas d’antécédents de contravention à la Loi, à la [Loi sur le cannabis](../../acts/fr/C-24.5.md) ou à leurs règlements;
+**J.01.064** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **b)** il a soit pris les mesures correctives nécessaires pour veiller à respecter la Loi, la [Loi sur le cannabis](../../acts/fr/C-24.5.md) et leurs règlements, soit signé un engagement à cet effet.
+**J.01.065** \[Abrogé, DORS/2025-242, art. 237\]
 
-*Préavis*
+**J.01.066** \[Abrogé, DORS/2025-242, art. 237\]
 
-**(3)** Le ministre, avant de révoquer la licence, envoie au distributeur autorisé un préavis motivé l’informant qu’il peut présenter ses observations à cet égard.
+**J.01.067** \[Abrogé, DORS/2025-242, art. 237\]
 
-<sub>Historique: DORS/97-228, art. 25; DORS/2019-171, art. 22</sub>
+**J.01.068** \[Abrogé, DORS/2025-242, art. 237\]
 
-###### Retour de la licence
+**J.01.069** \[Abrogé, DORS/2025-242, art. 237\]
 
-**J.01.037** Le distributeur autorisé retourne au ministre l’original de la licence dans les quinze jours suivant la date de prise d’effet de la révocation.
+**J.01.070** \[Abrogé, DORS/2025-242, art. 237\]
 
-<sub>Historique: DORS/2018-85, art. 3; DORS/2019-171, art. 22</sub>
+**J.01.071** \[Abrogé, DORS/2025-242, art. 237\]
 
-#### Permis d’importation
+**J.01.072** \[Abrogé, DORS/2025-242, art. 237\]
 
-##### Demande
+**J.01.073** \[Abrogé, DORS/2025-242, art. 237\]
 
-**J.01.038** **(1)** Le distributeur autorisé présente au ministre, pour chaque importation prévue de drogues d’usage restreint, une demande de permis d’importation qui contient les renseignements suivants :
+**J.01.074** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **a)** ses nom, adresse municipale et numéro de licence de distributeur autorisé;
+**J.01.075** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **b)** les précisions ci-après concernant la drogue d’usage restreint qu’il prévoit d’importer :
+**J.01.076** \[Abrogé, DORS/2025-242, art. 237\]
 
-  - **(i)** son nom, tel qu’il figure sur la licence de distributeur autorisé,
+**J.01.077** \[Abrogé, DORS/2025-242, art. 237\]
 
-  - **(ii)** s’agissant d’un sel, son nom,
+**J.01.078** \[Abrogé, DORS/2025-242, art. 237\]
 
-  - **(iii)** sa quantité,
+**J.01.079** \[Abrogé, DORS/2025-242, art. 237\]
 
-  - **(iv)** s’agissant d’une matière première, son degré de pureté et son contenu anhydre;
+**J.01.080** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **c)** si la drogue d’usage restreint est contenue dans un produit qu’il prévoit d’importer, les précisions ci-après concernant ce produit :
+**J.01.081** \[Abrogé, DORS/2025-242, art. 237\]
 
-  - **(i)** sa marque nominative,
+**J.01.082** \[Abrogé, DORS/2025-242, art. 237\]
 
-  - **(ii)** l’identification numérique qui lui a été attribuée aux termes de l’article C.01.014.2, s’il y a lieu,
+**J.01.083** \[Abrogé, DORS/2025-242, art. 237\]
 
-  - **(iii)** la concentration de la drogue d’usage restreint qu’il contient dans chacune de ses unités, le nombre d’unités par emballage et le nombre d’emballages;
+**J.01.084** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **d)** les nom et adresse municipale, dans le pays d’exportation, de l’exportateur duquel il obtient la drogue d’usage restreint;
+**J.01.085** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **e)** le nom du bureau de douane où est prévue l’importation;
+**J.01.086** \[Abrogé, DORS/2025-242, art. 237\]
 
-- **f)** les modes de transport prévus et chaque pays de transit ou de transbordement prévu.
-
-*Signature et attestation*
-
-**(2)** La demande satisfait aux exigences suivantes :
-
-- **a)** elle est signée et datée par le responsable qualifié ou un responsable qualifié suppléant;
-
-- **b)** elle comprend une attestation de celui-ci portant qu’à sa connaissance tous les renseignements fournis à l’appui de la demande sont exacts et complets.
-
-*Renseignements et documents complémentaires*
-
-**(3)** Le distributeur autorisé fournit au ministre, au plus tard à la date précisée dans la demande écrite de celui-ci à cet effet, tout renseignement ou document que le ministre juge nécessaire pour compléter l’examen de la demande de permis d’importation.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-##### Délivrance
-
-**J.01.039** Le ministre, au terme de l’examen de la demande de permis d’importation et sous réserve de l’article J.01.042, délivre au distributeur autorisé un permis d’importation qui contient les renseignements suivants :
-
-- **a)** le numéro du permis;
-
-- **b)** les renseignements visés au paragraphe J.01.038(1);
-
-- **c)** la date de prise d’effet du permis;
-
-- **d)** la date d’expiration du permis, qui correspond à celle des dates ci-après qui est antérieure aux autres :
-
-  - **(i)** la date précisée par le ministre, qui ne peut être postérieure au cent quatre-vingtième jour suivant sa date de prise d’effet,
-
-  - **(ii)** la date d’expiration de la licence du distributeur autorisé;
-
-- **e)** toute condition que le ministre estime nécessaire, sur le fondement de motifs raisonnables, pour atteindre l’une des fins suivantes :
-
-  - **(i)** le respect d’une obligation internationale,
-
-  - **(ii)** la réduction d’un risque d’atteinte à la sécurité ou à la santé publiques, notamment le risque de détournement d’une drogue d’usage restreint vers un marché ou un usage illicites.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-##### Validité
-
-**J.01.040** Le permis d’importation est valide jusqu’à celle des dates ci-après qui est antérieure aux autres :
-
-- **a)** la date d’expiration qui y est indiquée;
-
-- **b)** la date de sa suspension ou de sa révocation, au titre des articles J.01.045 ou J.01.046;
-
-- **c)** la date de suspension ou de révocation, au titre des articles J.01.035 ou J.01.036, de la licence du distributeur autorisé;
-
-- **d)** la date de suspension ou de révocation du permis d’exportation délivré par l’autorité compétente du pays d’exportation à l’égard de la drogue d’usage restreint à importer.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-##### Retour du permis
-
-**J.01.041** Le distributeur autorisé dont le permis d’importation expire retourne l’original de celui-ci au ministre dans les quinze jours suivant la date d’expiration.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-##### Refus
-
-**J.01.042** **(1)** Le ministre refuse de délivrer un permis d’importation dans les cas suivants :
-
-- **a)** la licence du distributeur autorisé ne l’autorise pas à importer la drogue d’usage restreint visée ou elle expirera avant la date d’importation;
-
-- **b)** le ministre a des motifs raisonnables de croire que l’importation entraînerait la violation d’une obligation internationale;
-
-- **c)** le distributeur autorisé n’a pas mis en place à l’installation les mesures de sécurité prévues dans la Directive en matière de sécurité à l’égard de l’importation;
-
-- **d)** soit le distributeur autorisé ne s’est pas conformé aux exigences prévues au paragraphe J.01.038(3), soit il s’y est conformé, mais les renseignements ou documents fournis sont insuffisants pour terminer l’examen de la demande de permis;
-
-- **e)** le ministre a des motifs raisonnables de croire que le distributeur autorisé a fourni, dans sa demande de permis ou à l’appui de celle-ci, des renseignements faux ou trompeurs ou des documents faux ou falsifiés;
-
-- **f)** le distributeur autorisé a été avisé que la demande de renouvellement de sa licence de distributeur autorisé ou la demande de modification de celle-ci sera refusée;
-
-- **g)** le ministre a des motifs raisonnables de croire que l’importation contreviendrait aux règles de droit du pays d’exportation, de tout pays de transit ou de tout pays de transbordement;
-
-- **h)** le ministre a des motifs raisonnables de croire que la délivrance du permis risquerait vraisemblablement de porter atteinte à la sécurité ou à la santé publiques, notamment en raison du risque de détournement d’une drogue d’usage restreint vers un marché ou un usage illicites.
-
-*Préavis*
-
-**(2)** Le ministre, avant de refuser de délivrer le permis d’importation, envoie au distributeur autorisé un préavis motivé l’informant qu’il peut présenter ses observations à cet égard.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-##### Production d’une copie du permis
-
-**J.01.043** Le titulaire du permis d’importation en produit une copie au bureau de douane lors de l’importation.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-##### Déclaration
-
-**J.01.044** Le titulaire du permis d’importation fournit au ministre, dans les quinze jours suivant la date du dédouanement de la drogue d’usage restreint visée par le permis conformément à la [Loi sur les douanes](../../acts/fr/C-52.6.md), une déclaration comprenant les renseignements suivants :
-
-- **a)** son nom ainsi que les numéros de sa licence de distributeur autorisé et de son permis d’importation relatifs à la drogue d’usage restreint;
-
-- **b)** les précisions ci-après concernant la drogue d’usage restreint :
-
-  - **(i)** son nom, tel qu’il figure sur la licence de distributeur autorisé,
-
-  - **(ii)** s’agissant d’un sel, son nom,
-
-  - **(iii)** sa quantité;
-
-- **c)** si la drogue d’usage restreint est contenue dans un produit qu’il a importé, les précisions ci-après concernant ce produit :
-
-  - **(i)** sa marque nominative,
-
-  - **(ii)** l’identification numérique qui lui a été attribuée aux termes de l’article C.01.014.2, s’il y a lieu,
-
-  - **(iii)** la concentration de la drogue d’usage restreint qu’il contient dans chacune de ses unités, le nombre d’unités par emballage et le nombre d’emballages;
-
-- **d)** le nom du bureau de douane où a eu lieu le dédouanement et la date de celui-ci.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-##### Suspension
-
-**J.01.045** **(1)** Le ministre suspend sans préavis le permis d’importation dans les cas suivants :
-
-- **a)** la licence du distributeur autorisé est suspendue;
-
-- **b)** il a des motifs raisonnables de le croire nécessaire pour protéger la sécurité ou la santé publiques, notamment pour prévenir le détournement d’une drogue d’usage restreint vers un marché ou un usage illicites;
-
-- **c)** l’importation contreviendrait aux règles de droit du pays d’exportation, de tout pays de transit ou de tout pays de transbordement.
-
-*Avis*
-
-**(2)** La suspension prend effet dès que le ministre envoie au distributeur autorisé un avis de suspension qui contient les précisions suivantes :
-
-- **a)** les motifs de la suspension;
-
-- **b)** le fait que le distributeur autorisé a la possibilité de présenter ses observations à cet égard;
-
-- **c)** les mesures correctives à prendre et le délai accordé à cette fin, s’il y a lieu.
-
-*Rétablissement du permis*
-
-**(3)** Le ministre rétablit le permis d’importation s’il a des motifs raisonnables de croire que la suspension n’est plus nécessaire.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-##### Révocation
-
-**J.01.046** **(1)** Le ministre, sous réserve du paragraphe (2), révoque le permis d’importation dans les cas suivants :
-
-- **a)** le distributeur autorisé lui en fait la demande ou l’informe de la perte, du vol ou de toute utilisation non autorisée du permis, que celle-ci soit réelle ou potentielle;
-
-- **b)** le distributeur autorisé ne prend pas les mesures correctives précisées par le ministre en vertu de l’alinéa J.01.045(2)c) dans le délai imparti;
-
-- **c)** le distributeur autorisé a contrevenu à une condition de son permis;
-
-- **d)** le ministre a des motifs raisonnables de croire que le distributeur autorisé a fourni, dans sa demande de permis ou à l’appui de celle-ci, des renseignements faux ou trompeurs ou des documents faux ou falsifiés;
-
-- **e)** le ministre a des motifs raisonnables de croire, sur le fondement de renseignements reçus d’une autorité compétente ou de l’Organisation des Nations Unies, que le distributeur autorisé a participé au détournement d’une drogue d’usage restreint vers un marché ou un usage illicites;
-
-- **f)** la licence du distributeur autorisé a été révoquée.
-
-*Exceptions*
-
-**(2)** Le ministre ne peut, dans les cas visés aux alinéas (1)d) ou J.01.036(1)e) ou g), révoquer le permis d’importation si le distributeur autorisé remplit les conditions ci-après, sauf s’il a des motifs raisonnables de croire que la révocation est nécessaire pour protéger la sécurité ou la santé publiques, notamment pour prévenir le détournement d’une drogue d’usage restreint vers un marché ou un usage illicites :
-
-- **a)** le distributeur autorisé n’a pas d’antécédents de contravention à la Loi, à la [Loi sur le cannabis](../../acts/fr/C-24.5.md) ou à leurs règlements;
-
-- **b)** il a soit pris les mesures correctives nécessaires pour veiller à respecter la Loi, la [Loi sur le cannabis](../../acts/fr/C-24.5.md) et leurs règlements, soit signé un engagement à cet effet.
-
-*Préavis*
-
-**(3)** Le ministre, avant de révoquer le permis d’importation, envoie au distributeur autorisé un préavis motivé l’informant qu’il peut présenter ses observations à cet égard.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-##### Retour du permis
-
-**J.01.047** Le distributeur autorisé retourne au ministre l’original du permis d’importation dans les quinze jours suivant la date de prise d’effet de la révocation.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-#### Permis d’exportation
-
-##### Demande
-
-**J.01.048** **(1)** Le distributeur autorisé présente au ministre, pour chaque exportation prévue de drogues d’usage restreint, une demande de permis d’exportation qui contient les renseignements et documents suivants :
-
-- **a)** ses nom, adresse municipale et numéro de licence de distributeur autorisé;
-
-- **b)** les précisions ci-après concernant la drogue d’usage restreint qu’il prévoit d’exporter :
-
-  - **(i)** son nom, tel qu’il figure sur la licence de distributeur autorisé,
-
-  - **(ii)** s’agissant d’un sel, son nom,
-
-  - **(iii)** sa quantité,
-
-  - **(iv)** s’agissant d’une matière première, son degré de pureté et son contenu anhydre;
-
-- **c)** si la drogue d’usage restreint est contenue dans un produit qu’il prévoit d’exporter, les précisions ci-après concernant ce produit :
-
-  - **(i)** sa marque nominative,
-
-  - **(ii)** l’identification numérique qui lui a été attribuée aux termes de l’article C.01.014.2, s’il y a lieu,
-
-  - **(iii)** la concentration de la drogue d’usage restreint qu’il contient dans chacune de ses unités, le nombre d’unités par emballage et le nombre d’emballages;
-
-- **d)** les nom et adresse municipale, dans le pays de destination finale, de l’importateur;
-
-- **e)** le nom du bureau de douane où est prévue l’exportation;
-
-- **f)** les modes de transport prévus et chaque pays de transit ou de transbordement prévu;
-
-- **g)** une copie du permis d’importation délivré par l’autorité compétente du pays de destination finale précisant le nom de l’importateur et l’adresse municipale de son installation située dans ce pays.
-
-*Signature et attestation*
-
-**(2)** La demande satisfait aux exigences suivantes :
-
-- **a)** elle est signée et datée par le responsable qualifié ou un responsable qualifié suppléant;
-
-- **b)** elle comprend une attestation de celui-ci portant sur les faits suivants :
-
-  - **(i)** à sa connaissance, l’exportation prévue ne contrevient à aucune règle de droit du pays de destination finale, de tout pays de transit ou de tout pays de transbordement,
-
-  - **(ii)** à sa connaissance, tous les renseignements et documents fournis à l’appui de la demande sont exacts et complets.
-
-*Renseignements et documents complémentaires*
-
-**(3)** Le distributeur autorisé fournit au ministre, au plus tard à la date précisée dans la demande écrite de celui-ci à cet effet, tout renseignement ou document que le ministre juge nécessaire pour compléter l’examen de la demande de permis d’exportation.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-##### Délivrance
-
-**J.01.049** Le ministre, au terme de l’examen de la demande de permis d’exportation et sous réserve de l’article J.01.052, délivre au distributeur autorisé un permis d’exportation qui contient les renseignements suivants :
-
-- **a)** le numéro du permis;
-
-- **b)** les renseignements visés aux alinéas J.01.048(1)a) à f);
-
-- **c)** la date de prise d’effet du permis;
-
-- **d)** la date d’expiration du permis, qui correspond à celle des dates ci-après qui est antérieure aux autres :
-
-  - **(i)** la date précisée par le ministre, qui ne peut être postérieure au cent quatre-vingtième jour suivant sa date de prise d’effet,
-
-  - **(ii)** la date d’expiration de la licence du distributeur autorisé,
-
-  - **(iii)** la date d’expiration du permis d’importation délivré par l’autorité compétente du pays de destination finale;
-
-- **e)** toute condition que le ministre estime nécessaire, sur le fondement de motifs raisonnables, pour atteindre l’une des fins suivantes :
-
-  - **(i)** le respect d’une obligation internationale,
-
-  - **(ii)** la réduction d’un risque d’atteinte à la sécurité ou à la santé publiques, notamment le risque de détournement d’une drogue d’usage restreint vers un marché ou un usage illicites.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-##### Validité
-
-**J.01.050** Le permis d’exportation est valide jusqu’à celle des dates ci-après qui est antérieure aux autres :
-
-- **a)** la date d’expiration qui y est indiquée;
-
-- **b)** la date de sa suspension ou de sa révocation au titre des articles J.01.055 ou J.01.056;
-
-- **c)** la date de suspension ou de révocation, au titre des articles J.01.035 ou J.01.036, de la licence du distributeur autorisé;
-
-- **d)** la date d’expiration, de suspension ou de révocation du permis d’importation délivré par l’autorité compétente du pays de destination finale à l’égard de la drogue d’usage restreint à exporter.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-##### Retour du permis
-
-**J.01.051** Le distributeur autorisé dont le permis d’exportation expire retourne l’original de celui-ci au ministre dans les quinze jours suivant la date d’expiration.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-##### Refus
-
-**J.01.052** **(1)** Le ministre refuse de délivrer un permis d’exportation dans les cas suivants :
-
-- **a)** la licence du distributeur autorisé ne l’autorise pas à exporter la drogue d’usage restreint visée ou elle expirera avant la date d’exportation;
-
-- **b)** le ministre a des motifs raisonnables de croire que l’exportation entraînerait la violation d’une obligation internationale;
-
-- **c)** soit le distributeur autorisé ne s’est pas conformé aux exigences prévues au paragraphe J.01.048(3), soit il s’y est conformé, mais les renseignements ou documents fournis sont insuffisants pour terminer l’examen de la demande de permis;
-
-- **d)** le ministre a des motifs raisonnables de croire que le distributeur autorisé a fourni, dans sa demande de permis ou à l’appui de celle-ci, des renseignements faux ou trompeurs ou des documents faux ou falsifiés;
-
-- **e)** le distributeur autorisé a été avisé que la demande de renouvellement de sa licence de distributeur autorisé ou la demande de modification de celle-ci sera refusée;
-
-- **f)** le ministre a des motifs raisonnables de croire que l’exportation ne serait pas conforme au permis d’importation délivré par l’autorité compétente du pays de destination finale;
-
-- **g)** le ministre a des motifs raisonnables de croire que l’exportation contreviendrait aux règles de droit du pays de destination finale, de tout pays de transit ou de tout pays de transbordement;
-
-- **h)** le ministre a des motifs raisonnables de croire que la délivrance du permis risquerait vraisemblablement de porter atteinte à la sécurité ou à la santé publiques, notamment en raison du risque de détournement d’une drogue d’usage restreint vers un marché ou un usage illicites.
-
-*Préavis*
-
-**(2)** Le ministre, avant de refuser de délivrer le permis d’exportation, envoie au distributeur autorisé un préavis motivé l’informant qu’il peut présenter ses observations à cet égard.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-##### Production d’une copie du permis
-
-**J.01.053** Le titulaire du permis d’exportation en produit une copie au bureau de douane lors de l’exportation.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-##### Déclaration
-
-**J.01.054** Le titulaire du permis d’exportation fournit au ministre, dans les quinze jours suivant la date d’exportation de la drogue d’usage restreint visée par le permis, une déclaration comprenant les renseignements suivants :
-
-- **a)** son nom ainsi que les numéros de sa licence de distributeur autorisé et du permis d’exportation relatifs à la drogue d’usage restreint;
-
-- **b)** les précisions ci-après concernant la drogue d’usage restreint :
-
-  - **(i)** son nom, tel qu’il figure sur la licence de distributeur autorisé,
-
-  - **(ii)** s’agissant d’un sel, son nom,
-
-  - **(iii)** sa quantité;
-
-- **c)** si la drogue d’usage restreint est contenue dans un produit qu’il a exporté, les précisions ci-après concernant ce produit :
-
-  - **(i)** sa marque nominative,
-
-  - **(ii)** l’identification numérique qui lui a été attribuée aux termes de l’article C.01.014.2, s’il y a lieu,
-
-  - **(iii)** la concentration de la drogue d’usage restreint qu’il contient dans chacune de ses unités, le nombre d’unités par emballage et le nombre d’emballages;
-
-- **d)** le nom du bureau de douane où a eu lieu l’exportation et la date de celle-ci.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-##### Suspension
-
-**J.01.055** **(1)** Le ministre suspend sans préavis le permis d’exportation dans les cas suivants :
-
-- **a)** la licence du distributeur autorisé est suspendue;
-
-- **b)** il a des motifs raisonnables de le croire nécessaire pour protéger la sécurité ou la santé publiques, notamment pour prévenir le détournement d’une drogue d’usage restreint vers un marché ou un usage illicites;
-
-- **c)** l’exportation contreviendrait aux règles de droit du pays de destination finale, de tout pays de transit ou de tout pays de transbordement.
-
-*Avis*
-
-**(2)** La suspension prend effet dès que le ministre envoie au distributeur autorisé un avis de suspension qui contient les précisions suivantes :
-
-- **a)** les motifs de la suspension;
-
-- **b)** le fait que le distributeur autorisé a la possibilité de présenter ses observations à cet égard;
-
-- **c)** les mesures correctives à prendre et le délai accordé à cette fin, s’il y a lieu.
-
-*Rétablissement du permis*
-
-**(3)** Le ministre rétablit le permis d’exportation s’il a des motifs raisonnables de croire que la suspension n’est plus nécessaire.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-##### Révocation
-
-**J.01.056** **(1)** Le ministre, sous réserve du paragraphe (2), révoque le permis d’exportation dans les cas suivants :
-
-- **a)** le distributeur autorisé lui en fait la demande ou l’informe de la perte, du vol ou de toute utilisation non autorisée du permis, que celle-ci soit réelle ou potentielle;
-
-- **b)** le distributeur autorisé ne prend pas les mesures correctives précisées par le ministre en vertu de l’alinéa J.01.055(2)c) dans le délai imparti;
-
-- **c)** le distributeur autorisé a contrevenu à une condition de son permis;
-
-- **d)** le ministre a des motifs raisonnables de croire que le distributeur autorisé a fourni, dans sa demande de permis ou à l’appui de celle-ci, des renseignements faux ou trompeurs ou des documents faux ou falsifiés;
-
-- **e)** le ministre a des motifs raisonnables de croire, sur le fondement de renseignements reçus d’une autorité compétente ou de l’Organisation des Nations Unies, que le distributeur autorisé a participé au détournement d’une drogue d’usage restreint vers un marché ou un usage illicites;
-
-- **f)** la licence du distributeur autorisé a été révoquée.
-
-*Exceptions*
-
-**(2)** Le ministre ne peut, dans les cas visés aux alinéas (1)d) ou J.01.036(1)e) ou g), révoquer le permis d’exportation si le distributeur autorisé remplit les conditions ci-après, sauf s’il a des motifs raisonnables de croire que la révocation est nécessaire pour protéger la sécurité ou la santé publiques, notamment pour prévenir le détournement d’une drogue d’usage restreint vers un marché ou un usage illicites;
-
-- **a)** le distributeur autorisé n’a pas d’antécédents de contravention à la Loi, à la [Loi sur le cannabis](../../acts/fr/C-24.5.md) ou à leurs règlements;
-
-- **b)** il a soit pris les mesures correctives nécessaires pour veiller à respecter la Loi, la [Loi sur le cannabis](../../acts/fr/C-24.5.md) et leurs règlements, soit signé un engagement à cet effet.
-
-*Préavis*
-
-**(3)** Le ministre, avant de révoquer le permis d’exportation, envoie au distributeur autorisé un préavis motivé l’informant qu’il peut présenter ses observations à cet égard.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-##### Retour du permis
-
-**J.01.057** Le distributeur autorisé retourne au ministre l’original du permis d’exportation dans les quinze jours suivant la date de prise d’effet de la révocation.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-#### Identification
-
-##### Nom
-
-**J.01.058** Le distributeur autorisé veille à ce que son nom, tel qu’il apparaît sur sa licence, figure sur tout ce qu’il utilise pour s’identifier lors de ses opérations à l’égard des drogues d’usage restreint, notamment les étiquettes, les bons de commande, les documents d’expédition, les factures et les publicités.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-#### Vente de drogues d’usage restreint
-
-##### Vente à un établissement
-
-**J.01.059** **(1)** Le distributeur autorisé peut, malgré l’article C.08.002 et sous réserve des paragraphes (3) et (4), vendre à un établissement une drogue d’usage restreint à l’une des fins ci-après si celui-ci présente au distributeur ou au ministre une demande à cet effet et que le ministre délivre une autorisation écrite avant la vente :
-
-- **a)** la tenue à l’établissement d’essais cliniques à l’égard de la drogue d’usage restreint par des chercheurs compétents dans le but d’en déterminer les dangers et l’efficacité;
-
-- **b)** la recherche en laboratoire à l’établissement par des chercheurs compétents.
-
-*Contenu de la demande*
-
-**(2)** La demande contient les renseignements suivants :
-
-- **a)** les nom et adresse municipale de l’établissement;
-
-- **b)** les noms et qualifications des chercheurs compétents;
-
-- **c)** le nom, la forme et la quantité de la drogue d’usage restreint ainsi que la concentration de la drogue contenue dans chaque unité;
-
-- **d)** les précisions concernant l’utilisation prévue de la drogue d’usage restreint;
-
-- **e)** les nom et adresse municipale du distributeur autorisé prévu pour l’achat de la drogue d’usage restreint.
-
-*Demande présentée au distributeur autorisé*
-
-**(3)** Le distributeur autorisé qui reçoit la demande de l’établissement en fournit une copie au ministre.
-
-*Autorisation par le ministre*
-
-**(4)** Le ministre, s’il reçoit la demande de l’établissement ou une copie de celle-ci du distributeur autorisé, peut, au terme de l’examen de la demande et sous réserve de toute condition qu’il estime nécessaire sur le fondement de motifs raisonnables, délivrer une autorisation écrite pour l’une des fins suivantes :
-
-- **a)** la vente à l’établissement par le distributeur autorisé de la drogue d’usage restreint demandée, en la forme, quantité et concentration dans chaque unité qu’il précise;
-
-- **b)** la possession de la drogue d’usage restreint par des chercheurs compétents pour leur permettre de faire à l’établissement soit des essais cliniques à l’égard de celle-ci dans le but d’en déterminer les dangers et l’efficacité, soit de la recherche en laboratoire.
-
-*Utilisation limitée*
-
-**(5)** L’établissement ne peut utiliser la drogue d’usage restreint que conformément à l’autorisation écrite.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-##### Vente au ministre
-
-**J.01.060** Le distributeur autorisé peut vendre ou fournir une drogue d’usage restreint au ministre.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-##### Fourniture à des fins d’identification ou d’analyse
-
-**J.01.061** **(1)** Toute personne peut, malgré toute disposition de la présente partie, fournir ou livrer une drogue d’usage restreint à des fins d’identification ou d’analyse aux personnes suivantes :
-
-- **a)** le médecin;
-
-- **b)** le mandataire d’un médecin, si le mandataire bénéficie d’une exemption relative à la possession de cette drogue à ces fins et accordée en vertu de l’article 56 de la Loi.
-
-*Mandataire d’un médecin*
-
-**(2)** Le mandataire d’un médecin qui reçoit la drogue d’usage restreint la fournit ou la livre immédiatement à l’une des personnes suivantes :
-
-- **a)** le médecin;
-
-- **b)** le ministre.
-
-*Médecin*
-
-**(3)** Le médecin qui reçoit la drogue d’usage restreint la fournit ou la livre immédiatement à l’une des personnes suivantes :
-
-- **a)** la personne qui bénéficie d’une exemption relative à la possession de cette drogue à ces fins et accordée en vertu de l’article 56 de la Loi si la drogue lui est fournie ou livrée à des fins d’identification ou d’analyse;
-
-- **b)** le ministre.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-#### Emballage, étiquetage et transport
-
-##### Emballage — vente et fourniture
-
-**J.01.062** **(1)** Le distributeur autorisé qui vend ou fournit une drogue d’usage restreint l’emballe solidement dans un contenant immédiat qui est scellé de telle manière qu’il est impossible de l’ouvrir sans briser le sceau.
-
-*Emballage — transport et exportation*
-
-**(2)** Le distributeur autorisé qui transporte ou exporte une drogue d’usage restreint veille à ce que son emballage soit scellé de telle manière qu’il est impossible de l’ouvrir sans briser le sceau.
-
-*Exception*
-
-**(3)** Le paragraphe (1) ne s’applique pas au nécessaire d’essai qui contient une drogue d’usage restreint et auquel un numéro d’enregistrement a été attribué.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-##### Étiquetage
-
-**J.01.063** **(1)** Le distributeur autorisé qui vend ou fournit une drogue d’usage restreint veille à ce que l’emballage de la drogue d’usage restreint porte des étiquettes intérieure et extérieure sur lesquelles figurent les renseignements suivants :
-
-- **a)** le nom propre ou, à défaut, le nom de la drogue;
-
-- **b)** la quantité nette du contenu de l’emballage;
-
-- **c)** la concentration de la drogue d’usage restreint contenue dans chaque unité et le nombre d’unités par emballage, le cas échéant;
-
-- **d)** le numéro de lot de la drogue;
-
-- **e)** la mention « Drogue d’usage restreint »;
-
-- **f)** les nom et adresse municipale du fabricant ou de l’assembleur de la drogue.
-
-*Exception*
-
-**(2)** Le paragraphe (1) ne s’applique pas au nécessaire d’essai qui contient une drogue d’usage restreint et auquel un numéro d’enregistrement a été attribué.
-
-*Non-application*
-
-**(3)** Les exigences concernant l’étiquetage prévues à l’article C.01.004 ne s’appliquent pas aux drogues d’usage restreint.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-##### Transport
-
-**J.01.064** Le distributeur autorisé qui prend livraison d’une drogue d’usage restreint qu’il a importée ou qui fait la livraison d’une drogue d’usage restreint satisfait aux exigences suivantes :
-
-- **a)** il prend les mesures nécessaires pour veiller à la sécurité de la drogue d’usage restreint durant son transport;
-
-- **b)** il utilise un moyen de transport qui permet de consigner fidèlement toute manutention de la drogue d’usage restreint ainsi que la signature de toute personne ayant effectué cette manutention pendant la durée du transport, jusqu’à sa livraison au destinataire;
-
-- **c)** s’agissant d’une drogue d’usage restreint importée, il la transporte, après son dédouanement en vertu de la [Loi sur les douanes](../../acts/fr/C-52.6.md), directement à l’installation précisée dans sa licence;
-
-- **d)** s’agissant d’une drogue d’usage restreint qui doit être exportée, il la transporte directement de l’installation précisée dans sa licence au bureau de douane d’où la drogue sera exportée.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-### Pertes, vols et transactions douteuses
-
-#### Mesures de protection — licences et permis
-
-**J.01.065** Le distributeur autorisé prend toute mesure nécessaire pour veiller à la sécurité des licences et des permis qui sont en sa possession.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-#### Mesures de protection — drogues d’usage restreint
-
-**J.01.066** Les personnes ci-après prennent toute mesure nécessaire pour veiller à la sécurité des drogues d’usage restreint qui sont en leur possession :
-
-- **a)** le distributeur autorisé;
-
-- **b)** l’établissement;
-
-- **c)** le chercheur compétent qui les a en sa possession dans le but de faire des essais cliniques ou de la recherche en laboratoire à un établissement;
-
-- **d)** la personne qui bénéficie d’une exemption relative à la possession de ces drogues d’usage restreint et accordée en vertu de l’article 56 de la Loi.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-#### Pertes et vols — licences et permis
-
-**J.01.067** Le distributeur autorisé qui prend connaissance de la perte ou du vol de sa licence ou de son permis fournit un rapport écrit au ministre dans les soixante-douze heures suivantes.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-#### Pertes et vols — drogues d’usage restreint
-
-**J.01.068** **(1)** Toute personne visée à l’article J.01.066 qui prend connaissance de la perte ou du vol de drogues d’usage restreint se conforme, sous réserve du paragraphe (2), aux exigences suivantes :
-
-- **a)** elle fournit un rapport écrit à un membre d’un corps policier dans les vingt-quatre heures suivantes;
-
-- **b)** elle fournit un rapport écrit au ministre dans les soixante-douze heures suivantes et lui confirme que le rapport prévu à l’alinéa a) a été fourni.
-
-*Pertes explicables — distributeurs autorisés*
-
-**(2)** Le paragraphe (1) ne s’applique pas au distributeur autorisé qui prend connaissance d’une perte de drogues d’usage restreint pouvant s’expliquer dans le cadre des pratiques d’opération normalement acceptées.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-#### Transactions douteuses
-
-**J.01.069** **(1)** Le distributeur autorisé qui prend connaissance d’une transaction effectuée au cours de ses opérations à l’égard de laquelle il a des motifs raisonnables de soupçonner qu’elle pourrait être liée au détournement d’une drogue d’usage restreint vers un marché ou un usage illicites fournit au ministre, au plus tard soixante-douze heures après en avoir pris connaissance, un rapport écrit contenant les renseignements suivants :
-
-- **a)** ses nom, adresse municipale et numéro de téléphone ainsi que, si le distributeur autorisé est une personne morale, le poste de l’individu ayant fait le rapport;
-
-- **b)** les nom et adresse municipale de l’autre partie à la transaction;
-
-- **c)** les détails de la transaction, notamment ses date et heure, son type, le nom de la drogue d’usage restreint, la quantité en cause et, s’agissant d’un produit ou d’un composé, la quantité de toute drogue d’usage restreint qu’il contient;
-
-- **d)** exception faite d’un nécessaire d’essai, l’identification numérique qui a été attribuée au produit contenant la drogue d’usage restreint aux termes de l’article C.01.014.2, s’il y a lieu;
-
-- **e)** une description détaillée des motifs de ses soupçons.
-
-*Bonne foi*
-
-**(2)** Le distributeur autorisé ne peut faire l’objet d’une poursuite civile pour avoir fourni ce rapport de bonne foi.
-
-*Non-divulgation*
-
-**(3)** Le distributeur autorisé ne peut, dans l’intention de nuire à une enquête criminelle en cours ou à venir, révéler qu’il a fourni le rapport ou en dévoiler les détails.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-#### Protection partielle contre l’auto-incrimination
-
-**J.01.070** Ni le rapport fourni en application de l’un des articles J.01.067 à J.01.069 ni aucune preuve qui en provient ne peuvent être utilisés ou admis pour incriminer le distributeur autorisé dans le cadre de poursuites criminelles intentées contre lui, sauf s’il s’agit de poursuites intentées en vertu des articles 132, 136 ou 137 du [Code criminel](../../acts/fr/C-46.md).
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-### Destruction de drogues d’usage restreint
-
-#### Destruction à l’installation
-
-**J.01.071** Le distributeur autorisé qui prévoit de détruire une drogue d’usage restreint à l’installation précisée dans sa licence veille à ce que les conditions ci-après soient remplies :
-
-- **a)** il obtient au préalable l’approbation du ministre;
-
-- **b)** la destruction est effectuée en présence de deux personnes parmi les suivantes, dont au moins une est visée au sous-alinéa (i) :
-
-  - **(i)** le responsable principal, le responsable qualifié ou tout responsable qualifié suppléant,
-
-  - **(ii)** une personne qui travaille pour le distributeur autorisé ou qui lui fournit des services et qui occupe un poste de niveau supérieur;
-
-- **c)** la destruction est effectuée selon une méthode conforme à la législation fédérale, provinciale et municipale sur la protection de l’environnement applicable au lieu de destruction;
-
-- **d)** dès la destruction terminée, la personne qui l’a effectuée et les deux personnes visées à l’alinéa b) qui étaient présentes font une déclaration commune signée et datée qui atteste que la drogue d’usage restreint a été complètement détruite, chaque signataire ajoutant à la déclaration son nom en lettres moulées.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-#### Destruction ailleurs qu’à l’installation
-
-**J.01.072** Le distributeur autorisé qui prévoit de détruire une drogue d’usage restreint ailleurs qu’à l’installation précisée dans sa licence veille à ce que les conditions ci-après soient remplies :
-
-- **a)** il obtient au préalable l’approbation du ministre;
-
-- **b)** il prend les mesures nécessaires pour veiller à la sécurité de la drogue d’usage restreint durant son transport afin de prévenir le détournement de celle-ci vers un marché ou un usage illicites;
-
-- **c)** la destruction est effectuée par une personne travaillant pour une entreprise spécialisée dans la destruction de marchandises dangereuses et en présence d’une autre personne travaillant pour cette entreprise;
-
-- **d)** la destruction est effectuée selon une méthode conforme à la législation fédérale, provinciale et municipale sur la protection de l’environnement applicable au lieu de destruction;
-
-- **e)** dès la destruction terminée, la personne qui l’a effectuée fournit au distributeur autorisé une déclaration datée qui atteste que la drogue d’usage restreint a été complètement détruite et qui contient les renseignements suivants :
-
-  - **(i)** l’adresse municipale du lieu où la destruction a été effectuée,
-
-  - **(ii)** le nom et la quantité de la drogue d’usage restreint et, le cas échéant, la marque nominative et la quantité du produit qui en contenait ou le nom et la quantité du composé qui en contenait,
-
-  - **(iii)** la méthode de destruction,
-
-  - **(iv)** la date de la destruction,
-
-  - **(v)** les nom en lettres moulées et signature de cette personne ainsi que de l’autre personne présente lors de la destruction.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-#### Demande d’approbation préalable
-
-**J.01.073** **(1)** Le distributeur autorisé présente au ministre une demande qui contient les renseignements ci-après afin d’obtenir l’approbation préalable de la destruction d’une drogue d’usage restreint :
-
-- **a)** ses nom, adresse municipale et numéro de licence de distributeur autorisé;
-
-- **b)** la date prévue de la destruction;
-
-- **c)** l’adresse municipale du lieu où la destruction sera effectuée;
-
-- **d)** une brève description de la méthode de destruction;
-
-- **e)** si la destruction doit être effectuée à l’installation précisée dans sa licence, le nom des personnes proposées pour l’application de l’alinéa J.01.071b) et des renseignements établissant que celles-ci remplissent les conditions visées à cet alinéa;
-
-- **f)** le nom de la drogue d’usage restreint et, le cas échéant, la marque nominative du produit qui en contient ou le nom du composé qui en contient;
-
-- **g)** la forme et la quantité soit de la drogue d’usage restreint, soit du produit ou du composé qui en contient et, le cas échéant, la concentration de la drogue contenue dans chaque unité, le nombre d’unités par emballage et le nombre d’emballages.
-
-*Signature et attestation*
-
-**(2)** La demande satisfait aux exigences suivantes :
-
-- **a)** elle est signée et datée par le responsable qualifié ou un responsable qualifié suppléant;
-
-- **b)** elle comprend une attestation de celui-ci portant sur les faits suivants :
-
-  - **(i)** la méthode de destruction prévue est conforme à la législation fédérale, provinciale et municipale sur la protection de l’environnement applicable au lieu de destruction,
-
-  - **(ii)** à sa connaissance, tous les renseignements et documents fournis à l’appui de la demande sont exacts et complets.
-
-*Renseignements et documents complémentaires*
-
-**(3)** Le distributeur autorisé fournit au ministre, au plus tard à la date précisée dans la demande écrite de celui-ci à cet effet, tout renseignement ou document que le ministre juge nécessaire pour compléter l’examen de la demande d’approbation.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-#### Approbation
-
-**J.01.074** Le ministre, au terme de l’examen de la demande d’approbation, approuve la destruction de la drogue d’usage restreint, sauf dans les cas suivants :
-
-- **a)** si la destruction doit être effectuée à l’installation précisée dans la licence du distributeur autorisé, les personnes proposées pour l’application de l’alinéa J.01.071b) ne remplissent pas les conditions visées à cet alinéa;
-
-- **b)** le ministre a des motifs raisonnables de croire que la drogue d’usage restreint ne serait pas détruite;
-
-- **c)** le ministre a des motifs raisonnables de croire que le distributeur autorisé a fourni, dans sa demande d’approbation ou à l’appui de celle-ci, des renseignements faux ou trompeurs ou des documents faux ou falsifiés;
-
-- **d)** la drogue d’usage restreint est, en tout ou en partie, nécessaire dans le cadre d’une enquête criminelle, administrative ou préliminaire, d’un procès ou d’une autre procédure engagée sous le régime d’une loi ou de ses règlements;
-
-- **e)** le ministre a des motifs raisonnables de croire que l’approbation risquerait vraisemblablement de porter atteinte à la sécurité ou à la santé publiques, notamment en raison du risque de détournement de la drogue d’usage restreint vers un marché ou un usage illicites.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-### Documents
-
-#### Distributeurs autorisés
-
-##### Méthode de consignation
-
-**J.01.075** Le distributeur autorisé qui consigne des renseignements en application de la présente partie le fait selon une méthode qui en permet la vérification à tout moment.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-##### Renseignements généraux
-
-**J.01.076** Le distributeur autorisé consigne les renseignements suivants :
-
-- **a)** le nom, la forme et la quantité de toute drogue d’usage restreint qu’il commande, le nom de la personne qui fait la commande pour son compte et la date de la commande;
-
-- **b)** le nom, la forme et la quantité de toute drogue d’usage restreint qu’il reçoit ainsi que les nom et adresse municipale de la personne qui la lui a vendue ou fournie et la date de réception;
-
-- **c)** s’agissant d’une drogue d’usage restreint qu’il vend ou fournit, les précisions ci-après la concernant :
-
-  - **(i)** la marque nominative du produit ou le nom du composé contenant la drogue d’usage restreint et le nom de celle-ci,
-
-  - **(ii)** l’identification numérique qui a été attribuée au produit aux termes de l’article C.01.014.2, s’il y a lieu,
-
-  - **(iii)** la forme et la quantité de la drogue d’usage restreint et, le cas échéant, la concentration de la drogue contenue dans chaque unité, le nombre d’unités par emballage et le nombre d’emballages,
-
-  - **(iv)** les nom et adresse municipale de la personne à laquelle il l’a vendue ou fournie,
-
-  - **(v)** la date de la vente ou de la fourniture;
-
-- **d)** le nom, la forme et la quantité de toute drogue d’usage restreint qu’il fabrique ou assemble ainsi que sa date d’entreposage et, le cas échéant, la concentration de la drogue contenue dans chaque unité, le nombre d’unités par emballage et le nombre d’emballages;
-
-- **e)** d’une part, le nom et la quantité de toute drogue d’usage restreint qu’il utilise dans la fabrication ou l’assemblage d’un produit ou d’un composé et, d’autre part, la marque nominative et la quantité de ce produit ou le nom et la quantité de ce composé ainsi que la date d’entreposage;
-
-- **f)** le nom, la forme et la quantité de toute drogue d’usage restreint entreposée à la fin de chaque mois;
-
-- **g)** le nom, la forme et la quantité de toute drogue d’usage restreint qu’il livre, transporte ou expédie, les nom et adresse municipale du destinataire ainsi que la date de la livraison, du transport ou de l’expédition;
-
-- **h)** le nom, la forme et la quantité de toute drogue d’usage restreint qu’il importe, la date de l’importation, les nom et adresse municipale de l’exportateur ainsi que le nom du pays d’exportation et de tout pays de transit ou de transbordement;
-
-- **i)** le nom, la forme et la quantité de toute drogue d’usage restreint qu’il exporte, la date de l’exportation, les noms et adresse municipale de l’importateur ainsi que le nom du pays de destination finale et de tout pays de transit ou de transbordement.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-##### Pertes explicables de drogues d’usage restreint
-
-**J.01.077** Le distributeur autorisé qui prend connaissance d’une perte de drogues d’usage restreint pouvant s’expliquer dans le cadre des pratiques d’opération normalement acceptées consigne les renseignements suivants :
-
-- **a)** le nom de chaque drogue d’usage restreint perdue et, le cas échéant, la marque nominative du produit ou le nom du composé qui en contenait;
-
-- **b)** la forme et la quantité de cette drogue d’usage restreint et, le cas échéant, la forme du produit ou du composé qui en contenait, la concentration de la drogue d’usage restreint contenue dans chaque unité, le nombre d’unités par emballage et le nombre d’emballages;
-
-- **c)** la date à laquelle il a pris connaissance de la perte;
-
-- **d)** l’explication de la perte.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-##### Destruction
-
-**J.01.078** Le distributeur autorisé consigne les renseignements ci-après concernant toute drogue d’usage restreint qu’il a détruite à l’installation précisée dans sa licence :
-
-- **a)** l’adresse municipale du lieu où la destruction a été effectuée;
-
-- **b)** le nom, la forme et la quantité de la drogue d’usage restreint et, le cas échéant, la marque nominative et la quantité du produit qui en contenait ou le nom et la quantité du composé qui en contenait;
-
-- **c)** la méthode de destruction;
-
-- **d)** la date de la destruction.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-##### Rapport annuel
-
-**J.01.079** **(1)** Le distributeur autorisé fournit au ministre, sous réserve des paragraphes (2) et (3), un rapport annuel contenant les renseignements ci-après dans les trois mois suivant la fin de chaque année civile :
-
-- **a)** le nom, la forme et la quantité totale de chaque drogue d’usage restreint qu’il a reçue, produite, vendue, fournie, importée, exportée ou détruite au cours de l’année civile ainsi que le nom et la quantité totale de chaque drogue d’usage restreint utilisée pour la fabrication ou l’assemblage d’un produit ou d’un composé;
-
-- **b)** le nom, la forme et la quantité de chaque drogue d’usage restreint selon l’inventaire physique établi à la fin de l’année civile à l’installation précisée dans la licence;
-
-- **c)** le nom, la forme et la quantité de chaque drogue d’usage restreint perdue ou volée lors des opérations effectuées au cours de l’année civile.
-
-*Non-renouvellement ou révocation dans les trois premiers mois*
-
-**(2)** Le distributeur autorisé dont la licence expire sans être renouvelée ou est révoquée dans les trois premiers mois d’une année civile fournit au ministre les rapports ci-après dans les délais suivants :
-
-- **a)** dans les trois mois suivant la fin de l’année civile précédente, le rapport annuel pour celle-ci;
-
-- **b)** dans les trois mois suivant l’expiration ou la révocation, un rapport pour la période de l’année civile courante durant lesquels la licence était valide contenant les renseignements visés au paragraphe (1), la quantité devant être évaluée selon l’inventaire physique établi à la date d’expiration ou de révocation.
-
-*Non-renouvellement ou révocation après le troisième mois*
-
-**(3)** Le distributeur autorisé dont la licence expire sans être renouvelée ou est révoquée après le troisième mois d’une année civile fournit au ministre, dans les trois mois suivant l’expiration ou la révocation, un rapport pour la période de l’année civile durant lesquels la licence était valide contenant les renseignements visés au paragraphe (1), la quantité devant être évaluée selon l’inventaire physique établi à la date d’expiration ou de révocation.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-#### Établissements
-
-##### Méthode de consignation
-
-**J.01.080** L’établissement qui consigne des renseignements en application de la présente partie le fait selon une méthode qui en permet la vérification à tout moment.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-##### Renseignements
-
-**J.01.081** L’établissement consigne les renseignements suivants :
-
-- **a)** le nom, la forme et la quantité de toute drogue d’usage restreint qu’il commande, le nom de la personne qui fait la commande pour son compte et la date de la commande;
-
-- **b)** le nom, la forme et la quantité de toute drogue d’usage restreint qu’il reçoit ainsi que les nom et adresse municipale du distributeur autorisé qui la lui a vendue ou fournie et la date de réception;
-
-- **c)** les précisions concernant l’utilisation de toute drogue d’usage restreint dans l’établissement;
-
-- **d)** les nom et qualifications des personnes utilisant toute drogue d’usage restreint dans l’établissement;
-
-- **e)** les données cliniques concernant l’utilisation de toute drogue d’usage restreint reçue par l’établissement.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-#### Drogues reçues à des fins d’identification ou d’analyse
-
-##### Méthode de consignation
-
-**J.01.082** La personne qui consigne des renseignements en application de l’article J.01.083 le fait selon une méthode qui en permet la vérification à tout moment.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-##### Renseignements
-
-**J.01.083** La personne qui reçoit une drogue d’usage restreint conformément à l’article J.01.061 consigne les renseignements suivants :
-
-- **a)** le nom, la forme et la quantité de la drogue d’usage restreint ainsi que les nom et adresse municipale de la personne qui la lui a fournie et la date de réception;
-
-- **b)** les précisions concernant l’identification ou l’analyse de la drogue d’usage restreint;
-
-- **c)** le nom des personnes qui ont manipulé la drogue d’usage restreint lors du processus d’identification ou d’analyse de la drogue.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-#### Conservation des documents
-
-##### Période de conservation
-
-**J.01.084** Le distributeur autorisé, l’ancien titulaire d’une licence de distributeur autorisé, l’établissement et la personne visée à l’article J.01.083 conservent tout document comprenant les renseignements consignés en application de la présente partie, notamment chaque déclaration ainsi qu’une copie de chaque rapport, pendant une période de deux ans suivant la date de la dernière consignation et selon une méthode qui permet la vérification du document à tout moment.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-##### Lieu
-
-**J.01.085** Les documents sont conservés aux lieux suivants :
-
-- **a)** s’agissant d’un distributeur, à l’installation précisée dans sa licence;
-
-- **b)** s’agissant d’un établissement, à l’établissement;
-
-- **c)** s’agissant d’une personne visée à l’article J.01.083, en un lieu au Canada;
-
-- **d)** s’agissant d’un ancien titulaire d’une licence de distributeur autorisé, en un lieu au Canada.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-##### Caractéristiques des documents
-
-**J.01.086** Les documents sont complets ainsi que facilement accessibles et les renseignements qui y figurent sont lisibles et indélébiles.
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
-
-### Préavis de la demande d’ordonnance de restitution
-
-#### Préavis écrit
-
-**J.01.087** **(1)** Pour l’application du paragraphe 24(1) de la Loi, le préavis de la demande d’ordonnance de restitution qui est donné au procureur général est présenté par écrit et est mis à la poste sous pli recommandé au moins quinze jours avant la date à laquelle la demande sera présentée au juge de paix.
-
-*Contenu du préavis*
-
-**(2)** Le préavis contient les renseignements suivants :
-
-- **a)** le nom du juge de paix à qui la demande sera présentée;
-
-- **b)** le lieu et l’heure de l’audition de la demande;
-
-- **c)** les précisions concernant la drogue d’usage restreint ou toute autre chose faisant l’objet de la demande;
-
-- **d)** les éléments de preuve que le demandeur prévoit de présenter pour établir qu’il a le droit de posséder la drogue d’usage restreint ou l’autre chose visée à l’alinéa c).
-
-<sub>Historique: DORS/2019-171, art. 22</sub>
+**J.01.087** \[Abrogé, DORS/2025-242, art. 237\]
 
 ## ANNEXE
 
-*(articles J.01.001, J.01.002 et J.01.004)*
-
-## PARTIE I
-
-- **1** Les amphétamines suivants, leurs sels, dérivés, isomères et analogues, ainsi que les sels de leurs dérivés, isomères et analogues :
-
-  - **(1)** N-éthylamphétamine (N-éthyl α-méthylbenzèneéthanamine)
-
-  - **(2)** méthyl-4 diméthoxy-2,5 amphétamine (STP) (diméthoxy-2,5 4,α-diméthylbenzèneéthanamine)
-
-  - **(3)** méthylènedioxy-3,4 amphétamine (MDA) (α-méthyl benzodioxole-1,3 éthanamine-5)
-
-  - **(4)** diméthoxy-2,5 amphétamine (diméthoxy-2,5α-méthylbenzèneéthanamine)
-
-  - **(5)** méthoxy-4 amphétamine (méthoxy-4 α-méthylbenzèneéthanamine)
-
-  - **(6)** triméthoxy-2,4,5 amphétamine (triméthoxy-2,4,5 α-méthylbenzèneéthanamine)
-
-  - **(7)** N-méthyl méthylènedioxy-3,4 amphétamine (N,α-diméthyl benzodioxole-1,3 éthanamine-5)
-
-  - **(8)** éthoxy-4 diméthoxy-2,5 amphétamine (éthoxy-4 diméthoxy-2,5 α-méthylbenzèneéthanamine)
-
-  - **(9)** méthoxy-5 méthylènedioxy-3,4 amphétamine (N,α-diméthyl benzodioxole-1,3 éthanamine-5)
-
-  - **(10)** N,N-diméthyl méthylènedioxy-3,4 amphétamine (N,N, α-triméthyl benzodioxole-1,3 éthanamine-5)
-
-  - **(11)** N-éthyl méthylènedioxy-3,4 amphétamine (N-éthyl α-méthyl benzodioxole-1,3 éthanamine-5)
-
-  - **(12)** éthyl-4 diméthoxy-2,5 amphétamine (DOET) (éthyl-4 diméthoxy-2,5α-méthylbenzèneéthanamine)
-
-  - **(13)** bromo-4 diméthoxy-2,5 amphétamine (bromo-4 diméthoxy-2,5 α-méthylbenzèneéthanamine)
-
-  - **(14)** chloro-4 diméthoxy-2,5 amphétamine (chloro-4 diméthoxy-2,5 α-méthylbenzèneéthanamine)
-
-  - **(15)** éthoxy-4 amphétamine (éthoxy-4 α-méthylbenzèneéthanamine)
-
-  - **(16)** N-propyl méthylènedioxy-3,4 amphétamine (α-méthyl N-propyl benzodioxole-1,3 éthanamine)
-
-  - **(17)** N-hydroxy méthylènedioxy-3,4 amphétamine (N-\[α-méthyl (méthylènedioxy)-3,4 phénéthyl\]hydroxylamine)
-
-  - **(18)** triméthoxy-3,4,5 amphétamine (triméthoxy-3,4,5 α-méthylbenzèneéthanamine)
-
-- **2** Diéthylamide de l’acide lysergique (LSD) (N,N-diéthyl-lysergamide) et ses sels
-
-- **3** N,N-Diéthyltryptamine (DET) ((diéthylamino-2 éthyl)-3 indole) et ses sels
-
-- **4** N,N-Diméthyltryptamine (DMT) ((diméthylamino-2 éthyl)-3 indole) et ses sels
-
-- **5** N-Méthyl pipéridyl-3 benzilate (LBJ) (\[(hydroxy-diphénylacétyl)oxy\]-3 méthyl-1 pipéridine) et ses sels
-
-- **6** Harmaline (dihydro-4,9 méthoxy-7 méthyl-1 3H-pyrido(3,4-ß) indole) et ses sels
-
-- **7** Harmalol (dihydro-4,9 hydroxy-7 méthyl-1 3H-pyrido(3,4-b) indole) et ses sels
-
-- **8** Psilocine ((diméthylamino-2 éthyl)-3 hydroxy-4 indole) et ses sels
-
-- **9** Psilocybine ((diméthylamino-2 éthyl)-3 phosphoryloxy-4 indole) et ses sels
-
-- **10** N-(Phényl-1 cyclohexyl) éthylamine (PCE) et ses sels
-
-- **11** \[(Thiényl-2)-1 cyclohexyl\]-1 pipéridine (TCP) et ses sels
-
-- **12** Phényl-1 N-propylcyclohexanamine et ses sels
-
-- **13** Mescaline (triméthoxy-3,4,5 benzèneéthanamine) et ses sels, sauf le peyote (lophophora)
-
-- **14** \[Abrogé, DORS/2017-250, art. 2\]
-
-- **15** Méthylamino-2 phényl-1 propanone-1 et ses sels
-
-- **16** \[Cyclohexyl (phénylméthyl)-1\] pipéridine-1 et ses sels
-
-- **17** \[Cyclohexyl (méthyl-4 phényl)-1\] pipéridine-1 et ses sels
-
-- **18** Étryptamine ((amino-2 butyl)-3 indole) et ses sels
-
-- **19** Rolicyclidine ((phényl-1 cyclohexyl)-1 pyrrolidine) et ses sels
-
-- **20** Benzylpipérazine \[BZP\], à savoir 1-benzylpipérazine et ses sels, isomères et sels d’isomères
-
-- **21** Trifluorométhylphénylpipérazine \[TFMPP\], à savoir 1-(3-trifluorométhylphényl)pipérazine et ses sels, isomères et sels d’isomères
-
-- **22** Méthylènedioxypyrovalérone (MDPV), ses sels, dérivés, isomères et analogues, ainsi que les sels de ses dérivés, isomères et analogues
-
-- **23** Cathinone (*l*-α-aminopropiophénone) et ses sels
-
-- **24** Les 2C-phénéthylamines, leurs sels, dérivés et isomères, ainsi que les sels de leurs dérivés et isomères, qui répondent à la description chimique suivante :
-
-  - toute substance ayant une structure 1-amino-2-phényléthane substituée en positions 2’ et 5’ ou 2’ et 6’ du cycle benzénique par un groupe alcoxy ou halogénoalcoxy, ou substituée à deux atomes de carbone adjacents du cycle benzénique de façon à entraîner la formation d’un groupe furane, dihydrofurane, pyrane, dihydropyrane ou méthylènedioxy — qu’il y ait ou non davantage de substitution sur le cycle benzénique dans quelque mesure que ce soit, qu’il y ait ou non substitution au groupe amino par un ou deux groupes méthyle, éthyle, propyle, isopropyle, hydroxyle, benzyle (ou benzyle substitué dans quelque mesure que ce soit) ou benzylène (ou benzylène substitué dans quelque mesure que ce soit) ou par une combinaison de ceux-ci, et qu’il y ait ou non substitution en position 2-éthyle (carbone bêta) par un groupe hydroxyle, oxo ou alcoxy —, les sels et dérivés de cette substance ainsi que les sels de ses dérivés, notamment :
-
-    - **(1)** 4-bromo-2,5-diméthoxy-N-(2-méthoxybenzyle)phénéthylamine (25B-NBOMe)
-
-    - **(2)** 4-chloro-2,5-diméthoxy-N-(2-méthoxybenzyle)phénéthylamine (25C-NBOMe)
-
-    - **(3)** 4-iodo-2,5-diméthoxy-N-(2-méthoxybenzyle)phénéthylamine (25I-NBOMe)
-
-    - **(4)** 4-bromo-2,5-diméthoxybenzèneéthanamine (2C-B)
-
-- **25** AH-7921 ((dichloro-3,4 benzamide méthyl)-1 cyclohexyl diméthylamine), ses sels et isomères, ainsi que les sels de ses isomères
-
-- **26** MT-45 (cyclohexyl-1(diphényl-1,2 éthyl)-4 pipérazine), ses sels, dérivés, isomères et analogues, ainsi que les sels de ses dérivés, isomères et analogues, notamment :
-
-  - **(1)** diphénidine (DEP) (1-(1,2-diphényléthyl)pipéridine)
-
-  - **(2)** méthoxphénidine (2-MeO-Diphénidine, MXP) (1- \[1-(2-méthoxyphényl)-2-phényléthyl\] pipéridine)
-
-  - **(3)** éphénidine (NEDPA, EPE) (N-éthyl-1,2-diphényléthylamine)
-
-  - **(4)** isophénidine (NPDPA) (N-isopropyl-1,2-diphényléthylamine)
-
-  - mais non compris :
-
-  - **(5)** léfétamine ((-)-N,N-diméthyl-α-phénylbenzèneéthanamine), ses sels, dérivés et isomères, ainsi que les sels de ses dérivés et isomères
-
-- **27** W-18 (4-chloro-N-\[1- \[2- (4-nitrophényl) éthyl\] -2-pipéridinylidène\] benzènesulfonamide), ses sels, dérivés, isomères et analogues, ainsi que les sels de ses dérivés, isomères et analogues
-
-- **28** U-47700 (3,4-dichloro-N-(2-(diméthylamino)cyclohexyl)-N-méthylbenzamide) et ses sels, isomères, dérivés et analogues, ainsi que les sels de ses isomères, dérivés et analogues, notamment :
-
-  - **(1)** Bromadoline (4-bromo-N-(2-(diméthylamino)cyclohexyl)benzamide)
-
-  - **(2)** U-47109 (3,4-dichloro-N-(2-(diméthylamino)cyclohexyl)benzamide)
-
-  - **(3)** U-48520 (4-chloro-N-(2-(diméthylamino)cyclohexyl)-N-méthylbenzamide)
-
-  - **(4)** U-50211 (N-(2-(diméthylamino)cyclohexyl)-4-hydroxy-N-méthylbenzamide)
-
-  - **(5)** U-77891 (3,4-dibromo-N-méthyl-N-(1-méthyl-1-azaspiro\[4.5\]déc-6-yl)benzamide)
-
-## PARTIE II
-
-- **1** Salvia divinorum (S. divinorum), ses préparations et dérivés, notamment :
-
-  - **(1)** Salvinorine A (ester méthylique de l’acide (2S,4aR,6aR,7R,9S,10aS,10bR)-9-(acétyloxy)-2-(3-furanyl)dodécahydro-6a,10b-diméthyl-4,10-dioxo-2Hnaphto\[2,1-c\]pyran-7-carboxylique)
-
-- **2** Catha edulis Forsk, ses préparations, dérivés, alcaloïdes et sels, notamment :
-
-  - **(1)** cathine (*d*-thréo-amino-2 hydroxy-1 phényl-1 propane)
-
-  - mais non compris :
-
-  - **(2)** cathinone (*l*-α-aminopropiophénone) et ses sels
-
-## PARTIE III
-
-<table>
-<thead>
-<tr><th rowspan="2">Article</th><th>Colonne 1</th><th>Colonne 2</th></tr>
-<tr><th>Substance</th><th>Période</th></tr>
-</thead>
-<tbody>
-<tr><td>1</td><td>Spirobrorphine (8-[1-(4-bromophényl)éthyl]-1-phényl-1,3,8-triazaspiro[4.5]décan-4-one) et ses sels</td><td>5 juin 2026 au 30 septembre 2026</td></tr>
-<tr><td>2</td><td>Spirochlorphine (8-[1-(4-chlorophényl)éthyl]-1-phényl-1,3,8-triazaspiro[4.5]décan-4-one) et ses sels</td><td>5 juin 2026 au 30 septembre 2026</td></tr>
-</tbody>
-</table>
-
-<sub>Historique: DORS/97-228, art. 25; DORS/2003-34, art. 4 et 5; DORS/2012-65, art. 1; DORS/2012-177, art. 1; DORS/2013-172, art. 2; DORS/2015-210, art. 4 à 6; DORS/2016-72, art. 1; DORS/2016-106, art. 2; DORS/2016-239, art. 1; DORS/2017-12, art. 3 et 4; DORS/2017-250, art. 2; DORS/2017-278, art. 1; DORS/2018-69, art. 66; DORS/2018-85, art. 4; DORS/2019-171, art. 23; DORS/2025-65, art. 1; DORS/2025-65, art. 2; DORS/2026-72, art. 1</sub>
+\[Abrogée, DORS/2025-242, art. 237\]
 
 ## ANNEXE F
 
@@ -23969,126 +19696,10 @@ dans chaque forme posologique individuelle, s’il porte une étiquette indiquan
 
 **(2)** Le plan de gestion des risques le plus récent qui vise une drogue et qui a été fourni au ministre avant la date d’entrée en vigueur de l’article 8 du présent règlement et à l’égard duquel le ministre a déjà fourni à cette date, ou fournit après cette date, au fabricant de la drogue des indications selon lesquelles le plan est acceptable est considéré comme étant le *plan de gestion des risques existant* au sens de l’article C.01.700 du [Règlement sur les aliments et drogues](CRC-ch-870.md).
 
-###### — DORS/2025-242, art. 237
-
-**237** Les parties G et J du [Règlement sur les aliments et drogues](CRC-ch-870.md)[^nbp_81200-2-535_hq_29822] sont abrogées.
-
-###### — DORS/2025-246, art. 1
-
-**1** La définition de *Loi*, à l’article A.01.010 du [Règlement sur les aliments et drogues](CRC-ch-870.md)[^nbp_81200-2-652_hq_1752155714], est remplacée par ce qui suit :
-
-> ***Loi*** La [Loi sur les aliments et drogues](../../acts/fr/F-27.md); (***Act***)
-
-###### — DORS/2025-246, art. 2
-
-**2** La définition de *infirmier praticien*, au paragraphe B.25.019(2) du même règlement, est remplacée par ce qui suit :
-
-> ***infirmier praticien*** S’entend au sens du paragraphe 1(1) du [Règlement sur les substances désignées](DORS-2025-242.md); (***nurse practitioner***)
-
-###### — DORS/2025-246, art. 3
-
-**3** Les sous-alinéas C.01.004(1)b)(i) à (iv) du même règlement sont remplacés par ce qui suit :
-
-> - **(i)** s’agissant d’une drogue sur ordonnance, le symbole « Pr », qui ne peut figurer sur l’étiquette d’aucune autre drogue,
->
-> - **(ii)** s’agissant d’une *drogue contrôlée* au sens du paragraphe 1(1) du [Règlement sur les substances désignées](DORS-2025-242.md), autre que celle contenue dans un produit fini visé à l’article 3 de ce règlement, le symbole ci-après qui paraît clairement et qui est d’une couleur et de dimensions le mettant en évidence :
->
->   *[Image: Symbole qui consiste en un losange dont la plus longue diagonale est verticale et au centre duquel figure un C majuscule.]*
->
-> - **(iii)** s’agissant d’un *stupéfiant* au sens du paragraphe 1(1) du [Règlement sur les substances désignées](DORS-2025-242.md), le symbole « N » d’une couleur faisant contraste avec le reste de l’étiquette ou en caractères d’une taille au moins égale à la moitié de celle de toute autre lettre figurant sur l’étiquette,
->
-> - **(iv)** s’agissant d’une *substance ciblée* au sens du paragraphe 1(1) du [Règlement sur les substances désignées](DORS-2025-242.md), le symbole ci-après, d’une couleur faisant contraste avec le reste de l’étiquette ou en caractères d’une taille au moins égale à la moitié de celle de toute autre lettre figurant sur l’espace principal :
->
->   *[Image: Image montrant le symbole bilingue associé à une substance ciblée. La version textuelle suit.]* Symbole qui consiste en un carré divisé en deux par la diagonale reliant le coin supérieur gauche au coin inférieur droit. La moitié supérieure droite montre l’image d’un C majuscule. La moitié inférieure gauche montre l’image d’un T majuscule.
-
-###### — DORS/2025-246, art. 4
-
-**4** L’alinéa C.01.028(2)c) du même règlement est remplacé par ce qui suit :
-
-> - **c)** à une drogue sur ordonnance, à une *drogue contrôlée*, à un *stupéfiant* ou à une *substance ciblée* au sens du paragraphe 1(1) du [Règlement sur les substances désignées](DORS-2025-242.md) qui doit être vendu selon ce règlement conformément à une *prescription* au sens de ce paragraphe.
-
-###### — DORS/2025-246, art. 5
-
-**5** **(1)** Le passage du paragraphe C.01.031.2(1) de la version française du même règlement précédant l’alinéa a) est remplacé par ce qui suit :
-
-> **C.01.031.2** **(1)** Les articles C.01.029 à C.01.031 ne s’appliquent pas aux drogues suivantes :
-
-**(2)** L’alinéa C.01.031.2(1)a) du même règlement est remplacé par ce qui suit :
-
-> - **a)** une drogue sur ordonnance, une *drogue contrôlée*, un *stupéfiant* ou une *substance ciblée* au sens du paragraphe 1(1) du [Règlement sur les substances désignées](DORS-2025-242.md) qui doit être vendu selon ce règlement conformément à une *prescription* au sens de ce paragraphe;
-
-###### — DORS/2025-246, art. 6
-
-**6** Les alinéas C.01.048(1)a) à d) du même règlement sont remplacés par ce qui suit :
-
-> - **a)** une *drogue contrôlée* ou un *stupéfiant* au sens du paragraphe 1(1) du [Règlement sur les substances désignées](DORS-2025-242.md);
->
-> - **b)** une *drogue sur ordonnance* au sens du paragraphe 1(2) du [Règlement sur le cannabis](DORS-2018-144.md).
-
-###### — DORS/2025-246, art. 7
-
-**7** L’alinéa C.01.050(4)b) du même règlement est remplacé par ce qui suit :
-
-> - **b)** les *drogues contrôlées*, les *stupéfiants* ou les *substances ciblées* au sens du paragraphe 1(1) du [Règlement sur les substances désignées](DORS-2025-242.md) qui doivent être vendus selon ce règlement conformément à une *prescription* au sens de ce paragraphe;
-
-###### — DORS/2025-246, art. 8
-
-**8** **(1)** L’alinéa C.01.061(2)b) de la version anglaise du même règlement est remplacé par ce qui suit :
-
-> - **(b)** no package contains less than the number of dosage units shown on the label except as provided in the table to this section; and
-
-**(2)** L’alinéa C.01.061(2)c) du même règlement est remplacé par ce qui suit :
-
-> - **c)** s’agissant d’une *drogue contrôlée* ou d’un *stupéfiant* au sens du paragraphe 1(1) du [Règlement sur les substances désignées](DORS-2025-242.md), aucun emballage ne peut contenir un nombre d’unités posologiques supérieur à celui qui est indiqué sur l’étiquette, sous réserve des écarts prévus au tableau du présent article.
-
-###### — DORS/2025-246, art. 9
-
-**9** **(1)** L’alinéa a) de la définition de *grossiste*, au paragraphe C.01A.001(1) du même règlement, est remplacé par ce qui suit :
-
-> - **a)** toute drogue sous forme posologique visée aux annexes C ou D de la Loi ou toute drogue sur ordonnance;
-
-**(2)** L’alinéa c) de la définition de *grossiste*, au paragraphe C.01A.001(1) du même règlement, est remplacé par ce qui suit :
-
-> - **c)** une *drogue contrôlée* ou un *stupéfiant* au sens du paragraphe 1(1) du [Règlement sur les substances désignées](DORS-2025-242.md);
-
-###### — DORS/2025-246, art. 10
-
-**10** Les alinéas C.01A.004(3)a) à c) du même règlement sont remplacés par ce qui suit :
-
-> - **a)** s’agissant d’une activité à l’égard d’une *drogue contrôlée* ou d’un *stupéfiant* au sens du paragraphe 1(1) du [Règlement sur les substances désignées](DORS-2025-242.md), la licence de distributeur autorisé délivrée en application du paragraphe 12(1) de ce règlement;
->
-> - **b)** s’agissant d’une activité à l’égard d’une drogue contenant du *cannabis* au sens du paragraphe 2(1) de la [Loi sur le cannabis](../../acts/fr/C-24.5.md), la licence délivrée en vertu de cette loi pour l’exercice de cette activité conformément au [Règlement sur le cannabis](DORS-2018-144.md).
-
-###### — DORS/2025-246, art. 11
-
-**11** Le sous-alinéa C.01A.005(1)j)(i) du même règlement est remplacé par ce qui suit :
-
-> - **(i)** d’une drogue visée par la demande qui est soit une *drogue contrôlée* ou un *stupéfiant* au sens du paragraphe 1(1) du [Règlement sur les substances désignées](DORS-2025-242.md), soit une drogue contenant du *cannabis* au sens du paragraphe 2(1) de la [Loi sur le cannabis](../../acts/fr/C-24.5.md),
-
-###### — DORS/2025-246, art. 12
-
-**12** L’article 6 du tableau II de l’article C.01A.008 du même règlement est remplacé par ce qui suit :
-
-> | **Article** | **Catégorie de drogues** |
-> |---|---|
-> | **6** | Drogue sur ordonnance, drogue qui est une *drogue contrôlée* ou un *stupéfiant* au sens du paragraphe 1(1) du [Règlement sur les substances désignées](DORS-2025-242.md) et drogue contenant du *cannabis* au sens du paragraphe 2(1) de la [Loi sur le cannabis](../../acts/fr/C-24.5.md) |
-
-###### — DORS/2025-246, art. 13
-
-**13** **(1)** Le passage de l’article C.09.001 de la version française du même règlement précédant l’alinéa a) est remplacé par ce qui suit :
-
-> **C.09.001** Le présent titre ne s’applique pas aux drogues suivantes :
-
-**(2)** Les alinéas C.09.001a) et b) du même règlement sont remplacés par ce qui suit :
-
-> - **a)** la drogue qui doit être vendue selon le présent règlement conformément à une ordonnance;
->
-> - **b)** la drogue qui est un *stupéfiant* au sens du paragraphe 1(1) du [Règlement sur les substances désignées](DORS-2025-242.md) et qui doit être vendue selon ce règlement conformément à une *prescription* au sens de ce paragraphe;
->
-> - **c)** la drogue destinée exclusivement aux animaux.
-
 ## Modifications récentes
 
+- DORS/2025-242 2026-10-01
+- DORS/2025-246 2026-10-01
 - DORS/2026-96 2026-06-17
 - DORS/2026-72 2026-06-05
 - DORS/2026-113 2026-06-04
@@ -24097,11 +19708,3 @@ dans chaque forme posologique individuelle, s’il porte une étiquette indiquan
 - DORS/2024-110 2025-05-31
 - DORS/2025-65 2025-04-14
 - DORS/2024-238 2024-12-18
-- DORS/2024-244 2024-12-18
-- DORS/2024-136 2024-12-14
-
----
-
-[^nbp_81200-2-535_hq_29822]: C.R.C., ch. 870
-
-[^nbp_81200-2-652_hq_1752155714]: C.R.C., ch. 870

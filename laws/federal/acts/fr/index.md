@@ -500,6 +500,7 @@
 * [Loi sur l’accord définitif concernant les Tlaamins](T-11.2.md) - Loi portant mise en vigueur de l’accord définitif concernant les Tlaamins et modifiant certaines lois en conséquence
 * [Loi sur l’Accord définitif nisga’a](N-23.3.md) - Loi portant mise en vigueur de l’Accord définitif nisga’a
 * [Loi sur l’accord définitif sur l’autonomie gouvernementale de Deline](D-1.5.md) - Loi portant mise en vigueur de l’accord définitif sur l’autonomie gouvernementale de Deline et apportant des modifications connexes et corrélatives à d’autres lois
+* [Loi sur l’accord définitif sur l’autonomie gouvernementale des Tłegǫ́hłı̨ Got’įnę](F-10.8.md) - Loi portant mise en vigueur de l’accord définitif sur l’autonomie gouvernementale des Tłegǫ́hłı̨ Got’įnę et modifiant certaines lois en conséquence
 * [Loi sur l’accord en matière de gouvernance conclu avec la Nation des Anishinabes](A-11.31.md) - Loi portant mise en vigueur de l’accord en matière de gouvernance conclu avec la Nation des Anishinabes et apportant des modifications connexe et corrélatives à d’autres lois
 * [Loi sur l’accord en matière d’éducation conclu avec la Nation des Anishinabes](A-11.3.md) - Loi portant mise en vigueur de l’accord en matière d’éducation conclu avec la Nation des Anishinabes et apportant des modifications corrélatives à d’autres lois
 * [Loi sur l’Accord portant création de la Banque européenne pour la reconstruction et le développement](E-13.5.md) - Loi concernant la participation du Canada à la Banque européenne pour la reconstruction et le développement
@@ -648,6 +649,7 @@
 * [Loi sur le Mois du patrimoine latino-américain](L-6.4.md) - Loi instituant le Mois du patrimoine latino-américain
 * [Loi sur le Mois du patrimoine libanais](L-7.3.md) - Loi instituant le Mois du patrimoine libanais
 * [Loi sur le Mois du patrimoine sikh](S-10.1.md) - Loi désignant le mois d’avril comme Mois du patrimoine sikh
+* [Loi sur le Mois du patrimoine ukrainien](U-0.45.md) - Loi instituant le Mois du patrimoine ukrainien
 * [Loi sur le Monument national de l’Holocauste](N-10.5.md) - Loi visant à ériger le Monument national de l’Holocauste
 * [Loi sur le moratoire relatif aux pétroliers](O-8.3.md) - Loi concernant la réglementation des bâtiments transportant du pétrole brut ou des hydrocarbures persistants à destination ou en provenance des ports ou des installations maritimes situés le long de la côte nord de la Colombie-Britannique
 * [Loi sur le multiculturalisme canadien](C-18.7.md) - Loi sur le maintien et la valorisation du multiculturalisme au Canada

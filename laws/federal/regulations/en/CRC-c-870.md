@@ -8,30 +8,30 @@ jurisdiction: "federal"
 language: "en"
 number: "C.R.C., c. 870"
 source_id: "C.R.C.,_c._870"
-current_to: "2026-06-17"
-last_amended: "2026-06-17"
+current_to: "2026-10-19"
+last_amended: "2026-10-01"
 in_force: true
 translation: "../fr/CRC-ch-870.md"
 status: "stable"
-generated: { by: process:canada-laws-federal-converter, at: 2026-06-17T00:00:00Z }
+generated: { by: process:canada-laws-federal-converter, at: 2026-10-19T00:00:00Z }
 sources:
   - id: "justice-xml"
     resource: "https://github.com/justicecanada/laws-lois-xml/blob/main/eng/regulations/C.R.C.,_c._870.xml"
     title: "Justice Canada consolidated XML (laws-lois-xml)"
     author: "org:justice-canada"
-    last_modified: "2026-06-17T00:00:00Z"
+    last_modified: "2026-10-19T00:00:00Z"
   - id: "justice-laws"
     resource: "https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._870/"
     title: "Justice Laws Website"
     author: "org:justice-canada"
-    last_modified: "2026-06-17T00:00:00Z"
+    last_modified: "2026-10-01T00:00:00Z"
 ---
 
 # Food and Drug Regulations
 
 *Regulations Respecting Food and Drugs*
 
-C.R.C., c. 870 · Consolidated: 2026-06-17 · Last amended: 2026-06-17
+C.R.C., c. 870 · Consolidated: 2026-10-19 · Last amended: 2026-10-01
 
 Enabling authority: [FOOD AND DRUGS ACT](../../acts/en/F-27.md)
 
@@ -55,7 +55,7 @@ Enabling authority: [FOOD AND DRUGS ACT](../../acts/en/F-27.md)
 
 ***acceptable method*** means a method of analysis or examination designated by the Minister as acceptable for use in the administration of the Act and these Regulations; (***méthode acceptable***)
 
-***Act*** means the [Food and Drugs Act](../../acts/en/F-27.md), except in Parts G and J; (***Loi***)
+***Act*** means the [Food and Drugs Act](../../acts/en/F-27.md); (***Loi***)
 
 ***common-law partner*** has the same meaning as in section 2 of the [Criminal Code](../../acts/en/C-46.md); (***conjoint de fait***)
 
@@ -83,7 +83,7 @@ Enabling authority: [FOOD AND DRUGS ACT](../../acts/en/F-27.md)
 
 ***security package*** means a package having a security feature that provides reasonable assurance to consumers that the package has not been opened prior to purchase. (***emballage de sécurité***)
 
-<sub>History: SOR/84-300, s. 1(F); SOR/85-141, s. 1; SOR/89-455, s. 1; SOR/97-12, s. 1; SOR/2000-353, s. 1; SOR/2001-272, s. 5; SOR/2003-135, s. 1; SOR/2013-122, s. 1; SOR/2018-69, ss. 1, 27; SOR/2022-197, s. 1</sub>
+<sub>History: SOR/84-300, s. 1(F); SOR/85-141, s. 1; SOR/89-455, s. 1; SOR/97-12, s. 1; SOR/2000-353, s. 1; SOR/2001-272, s. 5; SOR/2003-135, s. 1; SOR/2013-122, s. 1; SOR/2018-69, ss. 1, 27; SOR/2022-197, s. 1; SOR/2025-246, s. 1</sub>
 
 **A.01.011** The Minister shall, upon request, furnish copies of official methods.
 
@@ -7793,11 +7793,11 @@ if sodium chloride has been added to that food.
 
 ***hospital*** has the same meaning as in section B.24.001. (***hôpital***)
 
-***nurse practitioner*** has the same meaning as in section 1 of the [New Classes of Practitioners Regulations](SOR-2012-230.md). (***infirmier praticien***)
+***nurse practitioner*** has the same meaning as in subsection 1(1) of the [Controlled Substances Regulations](SOR-2025-242.md). (***infirmier praticien***)
 
 ***physician*** has the same meaning as in section B.24.001. (***médecin***)
 
-<sub>History: SOR/2021-57, s. 13</sub>
+<sub>History: SOR/2021-57, s. 13; SOR/2025-246, s. 2</sub>
 
 **B.25.020** **(1)** The following information is required to be displayed on the outer label of a human milk fortifier:
 
@@ -9952,15 +9952,17 @@ if sodium chloride has been added to that food.
 
 - **(b)** on the upper left quarter of the principal display panel
 
-  - **(i)** the symbol “Pr” in the case of a prescription drug, but the symbol “Pr” shall not appear on the label of any other drug,
+  - **(i)** in the case of a prescription drug, the symbol “Pr”, which must not appear on the label of any other drug,
 
-  - **(ii)** the symbol “*[Image: Symbol consisting of a diamond shape outline in which an uppercase letter C is centred.]*” in a clear manner and a conspicuous colour and size, in the case of a controlled drug, other than a controlled drug contained in an agricultural implant and set out in Part III of the schedule to Part G,
+  - **(ii)** in the case of a *controlled drug*, as defined in subsection 1(1) of the [Controlled Substances Regulations](SOR-2025-242.md), other than one contained in a finished product referred to in section 3 of those Regulations, the following symbol in a clear manner and a conspicuous colour and size,
 
-  - **(iii)** the symbol “N” in a colour contrasting with the rest of the label or in type not less than half the size of any letters used thereon, in the case of a narcotic as defined in the Narcotic Control Regulations, and
+    *[Image: Symbol consisting of a diamond-shaped outline where the longest diagonal is vertical and in which an uppercase letter C is centred.]*
 
-  - **(iv)** in the case of a targeted substance as defined in section 1 of the [Benzodiazepines and Other Targeted Substances Regulations](SOR-2000-217.md), the following symbol in a colour contrasting with the rest of the label and in type not less than half the size of any other letter used on the main panel, namely,
+  - **(iii)** in the case of a *narcotic*, as defined in subsection 1(1) of the [Controlled Substances Regulations](SOR-2025-242.md), the symbol “N” in a colour contrasting with the rest of the label or in type not less than half the size of any other letter used on the label, and
 
-    *[Image: Symbol consisting of a square outline divided in half from top left corner to bottom right corner. The top right half has an uppercase letter C inside and lower left half has an uppercase letter T inside.]*
+  - **(iv)** in the case of a *targeted substance*, as defined in subsection 1(1) of the [Controlled Substances Regulations](SOR-2025-242.md), the following symbol in a colour contrasting with the rest of the label or in type not less than half the size of any other letter used on the principal display panel,
+
+    *[Image: Image showing the bilingual symbol associated with a targeted substance. Text version below.]* Symbol consisting of a square outline divided diagonally in half from top left corner to bottom right corner. The top right half has an uppercase letter C inside. The lower left half has an uppercase letter T inside.
 
 - **(c)** on any panel
 
@@ -10022,7 +10024,7 @@ if sodium chloride has been added to that food.
 
 - **(c)** listed in Schedule D to the Act.
 
-<sub>History: SOR/80-543, s. 2; SOR/81-334, s. 1(E); SOR/85-715, s. 2; SOR/89-229, s. 1; SOR/90-216, s. 1; SOR/90-586, s. 1; SOR/92-654, s. 2; SOR/93-202, s. 2; SOR/97-228, s. 1; SOR/97-515, s. 1; SOR/2000-219, s. 1; SOR/2001-181, s. 4; SOR/2010-105, s. 2; SOR/2011-88, s. 1; SOR/2013-122, ss. 4, 5; SOR/2014-158, s. 3; SOR/2019-170, s. 18; SOR/2023-247, s. 2; SOR/2024-238, s. 3</sub>
+<sub>History: SOR/80-543, s. 2; SOR/81-334, s. 1(E); SOR/85-715, s. 2; SOR/89-229, s. 1; SOR/90-216, s. 1; SOR/90-586, s. 1; SOR/92-654, s. 2; SOR/93-202, s. 2; SOR/97-228, s. 1; SOR/97-515, s. 1; SOR/2000-219, s. 1; SOR/2001-181, s. 4; SOR/2010-105, s. 2; SOR/2011-88, s. 1; SOR/2013-122, ss. 4, 5; SOR/2014-158, s. 3; SOR/2019-170, s. 18; SOR/2023-247, s. 2; SOR/2024-238, s. 3; SOR/2025-246, s. 3</sub>
 
 **C.01.004.01** **(1)** Every label of a drug for human use in dosage form shall display the following:
 
@@ -10922,9 +10924,9 @@ Accurate dosagesmay be expressed in either metric units or imperial units. If th
 
 - **(b)** dispensed pursuant to a prescription; or
 
-- **(c)** a prescription drug or a drug that is required to be sold under a prescription by Part G, the [Benzodiazepines and Other Targeted Substances Regulations](SOR-2000-217.md) or the [Narcotic Control Regulations](CRC-c-1041.md).
+- **(c)** a prescription drug or a *controlled drug*, *narcotic* or *targeted substance*, as those terms are defined in subsection 1(1) of the [Controlled Substances Regulations](SOR-2025-242.md), that is required by those Regulations to be sold under a *prescription*, as defined in that subsection.
 
-<sub>History: SOR/86-93, s. 2; SOR/88-323, s. 2(F); SOR/93-411, s. 2; SOR/2013-122, s. 7</sub>
+<sub>History: SOR/86-93, s. 2; SOR/88-323, s. 2(F); SOR/93-411, s. 2; SOR/2013-122, s. 7; SOR/2025-246, s. 4</sub>
 
 **C.01.029** **(1)** Subject to subsections C.01.031.2(1) and (2), the inner and outer labels of a drug
 
@@ -10988,7 +10990,7 @@ shall carry a cautionary statement to the effect that the drug should be kept ou
 
 **C.01.031.2** **(1)** Sections C.01.029 to C.01.031 do not apply to a drug that is
 
-- **(a)** a prescription drug or a drug that is required to be sold under a prescription by Part G, the [Benzodiazepines and Other Targeted Substances Regulations](SOR-2000-217.md) or the [Narcotic Control Regulations](CRC-c-1041.md);
+- **(a)** a prescription drug or a *controlled drug*, *narcotic* or *targeted substance*, as those terms are defined in subsection 1(1) of the [Controlled Substances Regulations](SOR-2025-242.md), that is required by those Regulations to be sold under a *prescription*, as defined in that subsection;
 
 - **(b)** intended for parenteral use only;
 
@@ -11012,7 +11014,7 @@ shall carry a cautionary statement to the effect that the drug should be kept ou
 
 - **(c)** intended solely for use in dentists’ offices, or packaged for hospital use only.
 
-<sub>History: SOR/86-93, s. 2; SOR/87-484, s. 4; SOR/88-323, s. 5(F); SOR/93-468, s. 3; SOR/2013-122, s. 8</sub>
+<sub>History: SOR/86-93, s. 2; SOR/87-484, s. 4; SOR/88-323, s. 5(F); SOR/93-468, s. 3; SOR/2013-122, s. 8; SOR/2025-246, s. 5</sub>
 
 **C.01.032** No person shall sell a corticosteroid drug for ophthalmic use unless
 
@@ -11512,13 +11514,13 @@ shall carry a cautionary statement to the effect that the drug should be kept ou
 
 **C.01.048** **(1)** If a practitioner or pharmacist has signed an order specifying the proper name or common name, the brand name and the quantity of a drug, other than the following, the person who receives the order may distribute or cause to be distributed the drug, in dosage form, as a sample to that practitioner or pharmacist if the drug meets the requirements of these Regulations:
 
-- **(a)** a *narcotic* as defined in the [Narcotic Control Regulations](CRC-c-1041.md);
+- **(a)** a *controlled drug* or *narcotic*, as those terms are defined in subsection 1(1) of the [Controlled Substances Regulations](SOR-2025-242.md); or
 
-- **(b)** a *controlled drug* as defined in section G.01.001; or
+- **(b)** a *prescription drug*, as defined in subsection 1(2) of the [Cannabis Regulations](SOR-2018-144.md).
 
 - **(c)** \[Repealed, SOR/2020-74, s. 3\]
 
-- **(d)** a *prescription drug* as defined in subsection 1(2) of the [Cannabis Regulations](SOR-2018-144.md).
+- **(d)** \[Repealed, SOR/2025-246, s. 6\]
 
 **(1.1)** A person may distribute or cause to be distributed a prescription drug as a sample under subsection (1) only to a practitioner or pharmacist who is entitled, under the laws of the province in which they are practising, to prescribe or dispense that drug, as the case may be.
 
@@ -11536,7 +11538,7 @@ shall carry a cautionary statement to the effect that the drug should be kept ou
 
 - **(c)** the drug meets the requirements of these Regulations.
 
-<sub>History: SOR/93-202, s. 9; SOR/97-228, s. 2; SOR/2018-144, s. 366; SOR/2019-171, s. 24; SOR/2020-74, s. 3</sub>
+<sub>History: SOR/93-202, s. 9; SOR/97-228, s. 2; SOR/2018-144, s. 366; SOR/2019-171, s. 24; SOR/2020-74, s. 3; SOR/2025-246, s. 6</sub>
 
 **C.01.049** A person who, under subsection C.01.048(1), receives an order for and distributes or causes to be distributed a drug as a sample shall
 
@@ -11588,7 +11590,7 @@ shall carry a cautionary statement to the effect that the drug should be kept ou
 
 - **(a)** prescription drugs;
 
-- **(b)** drugs that are required to be sold under a prescription by Part G, the [Benzodiazepines and Other Targeted Substances Regulations](SOR-2000-217.md) or the [Narcotic Control Regulations](CRC-c-1041.md); and
+- **(b)** *controlled drugs*, *narcotics* or *targeted substances*, as those terms are defined in subsection 1(1) of the [Controlled Substances Regulations](SOR-2025-242.md), that are required by those Regulations to be sold under a *prescription*, as defined in that subsection; and
 
 - **(c)** drugs that are permitted to be sold without a prescription but that are to be administered only under the supervision of a practitioner.
 
@@ -11600,7 +11602,7 @@ shall carry a cautionary statement to the effect that the drug should be kept ou
 
 **(6)** In this section, ***foreign regulatory authority*** means a government agency or other entity outside Canada that has a legal right to control the manufacturing, use or sale of drugs within its jurisdiction and that may take enforcement action to ensure that drugs marketed within its jurisdiction comply with the applicable legal requirements.
 
-<sub>History: SOR/2018-84, s. 2; SOR/2020-262, s. 2(F)</sub>
+<sub>History: SOR/2018-84, s. 2; SOR/2020-262, s. 2(F); SOR/2025-246, s. 7</sub>
 
 #### Recall Reporting
 
@@ -11794,9 +11796,9 @@ shall carry a cautionary statement to the effect that the drug should be kept ou
 
 - **(a)** the average number of dosage units in the 10 packages is not less than the number of dosage units shown on the label;
 
-- **(b)** no package contains less than the number of dosage units shown on the label except as provided in the table; and
+- **(b)** no package contains less than the number of dosage units shown on the label except as provided in the table to this section; and
 
-- **(c)** where the drug is a controlled drug as defined in section G.01.001 or a narcotic as defined in the [Narcotic Control Regulations](CRC-c-1041.md), no package contains more than the number of dosage units shown on the label except as provided in the table to this section.
+- **(c)** in the case of a *controlled drug* or *narcotic*, as those terms are defined in subsection 1(1) of the [Controlled Substances Regulations](SOR-2025-242.md), no package contains more than the number of dosage units shown on the label except as provided in the table to this section.
 
 **TABLE**
 
@@ -11812,7 +11814,7 @@ shall carry a cautionary statement to the effect that the drug should be kept ou
 </tbody>
 </table>
 
-<sub>History: SOR/82-429, s. 4; SOR/89-455, s. 4; SOR/97-228, s. 3; SOR/2019-171, s. 24</sub>
+<sub>History: SOR/82-429, s. 4; SOR/89-455, s. 4; SOR/97-228, s. 3; SOR/2019-171, s. 24; SOR/2025-246, s. 8</sub>
 
 **C.01.062** **(1)** Subject to subsections (2) to (5), no manufacturer shall sell a drug in dosage form where the amount of any medicinal ingredient therein, determined using an acceptable method, is
 
@@ -12328,11 +12330,11 @@ shall carry a cautionary statement to the effect that the drug should be kept ou
 
 ***wholesaler*** means a person who is not a distributor described in section C.01A.003 and who sells any of the following drugs other than at retail sale:
 
-- **(a)** a drug in dosage form that is listed in Schedule C or D to the Act, a drug that is a prescription drug or a controlled drug as defined in section G.01.001;
+- **(a)** a drug in dosage form that is listed in Schedule C or D to the Act or a prescription drug;
 
 - **(b)** an active ingredient;
 
-- **(c)** a narcotic as defined in the [Narcotic Control Regulations](CRC-c-1041.md); or
+- **(c)** a *controlled drug* or *narcotic*, as those terms are defined in subsection 1(1) of the [Controlled Substances Regulations](SOR-2025-242.md); or
 
 - **(d)** a drug containing *cannabis* as defined in subsection 2(1) of the [Cannabis Act](../../acts/en/C-24.5.md). (***grossiste***)
 
@@ -12350,7 +12352,7 @@ shall carry a cautionary statement to the effect that the drug should be kept ou
 
 **(3)** Where the Minister designates additional dosage form classes, the Minister shall make a list of those classes available on request.
 
-<sub>History: SOR/97-12, s. 5; SOR/98-7, s. 1; SOR/2000-120, s. 1; SOR/2002-368, s. 1; SOR/2004-282, s. 1; SOR/2013-74, s. 2; SOR/2013-122, s. 14; SOR/2017-76, s. 7; SOR/2018-144, s. 367; SOR/2019-171, s. 24; SOR/2020-73, s. 1; SOR/2024-132, s. 86; SOR/2024-132, s. 87</sub>
+<sub>History: SOR/97-12, s. 5; SOR/98-7, s. 1; SOR/2000-120, s. 1; SOR/2002-368, s. 1; SOR/2004-282, s. 1; SOR/2013-74, s. 2; SOR/2013-122, s. 14; SOR/2017-76, s. 7; SOR/2018-144, s. 367; SOR/2019-171, s. 24; SOR/2020-73, s. 1; SOR/2024-132, s. 86; SOR/2024-132, s. 87; SOR/2025-246, s. 9</sub>
 
 #### Application
 
@@ -12432,13 +12434,13 @@ shall carry a cautionary statement to the effect that the drug should be kept ou
 
 **(3)** No person shall carry on an activity referred to in subsection (1) unless the person holds
 
-- **(a)** in respect of a *narcotic* as defined in the [Narcotic Control Regulations](CRC-c-1041.md), a licence for that narcotic under those Regulations;
+- **(a)** in the case of an activity with respect to a *controlled drug* or *narcotic*, as those terms are defined in subsection 1(1) of the [Controlled Substances Regulations](SOR-2025-242.md), a dealer’s licence issued under subsection 12(1) of those Regulations; or
 
-- **(b)** in respect of a *controlled drug* as defined in section G.01.001, a licence for that drug under Part G; or
+- **(b)** in the case of an activity with respect to a drug containing *cannabis*, as defined in subsection 2(1) of the [Cannabis Act](../../acts/en/C-24.5.md), a licence issued under that Act to conduct that activity in accordance with the [Cannabis Regulations](SOR-2018-144.md).
 
-- **(c)** in respect of a drug containing *cannabis* as defined in subsection 2(1) of the [Cannabis Act](../../acts/en/C-24.5.md), a licence for that drug to conduct that activity under the [Cannabis Regulations](SOR-2018-144.md).
+- **(c)** \[Repealed, SOR/2025-246, s. 10\]
 
-<sub>History: SOR/97-12, s. 5; SOR/2002-368, s. 3; SOR/2013-74, s. 4; SOR/2017-259, s. 13; SOR/2018-144, s. 368; SOR/2019-171, s. 24; SOR/2022-100, s. 3</sub>
+<sub>History: SOR/97-12, s. 5; SOR/2002-368, s. 3; SOR/2013-74, s. 4; SOR/2017-259, s. 13; SOR/2018-144, s. 368; SOR/2019-171, s. 24; SOR/2022-100, s. 3; SOR/2025-246, s. 10</sub>
 
 #### Application
 
@@ -12466,7 +12468,7 @@ shall carry a cautionary statement to the effect that the drug should be kept ou
 
 - **(j)** the drug identification number, if any, or a name that clearly identifies the drug,
 
-  - **(i)** for each *narcotic* as defined in the [Narcotic Control Regulations](CRC-c-1041.md), each *controlled drug* as defined in section G.01.001 or each drug containing *cannabis* as defined in subsection 2(1) of the [Cannabis Act](../../acts/en/C-24.5.md) for which the licence is requested, and
+  - **(i)** for each drug for which the licence is requested that is a *controlled drug* or *narcotic*, as those terms are defined in subsection 1(1) of the Controlled Substance Regulations, or a drug containing *cannabis*, as defined in subsection 2(1) of the [Cannabis Act](../../acts/en/C-24.5.md), and
 
   - **(ii)** for each other drug within a category of drugs for which the licence is requested, unless the licence is to perform tests required under Division 2, distribute as set out in paragraph C.01A.003(a), or wholesale;
 
@@ -12496,7 +12498,7 @@ shall carry a cautionary statement to the effect that the drug should be kept ou
 
 **(2)** An application for an establishment licence that relates to one or more activities set out in Table I to section C.01A.008 that are to be carried out in respect of a category of drugs that is set out in Table II to that section and that includes a drug that is fabricated, sold or represented for use in relation to a condition described in the *List of Conditions that Threaten Public Health*, as defined in section C.08.001.1, may include a statement to that effect.
 
-<sub>History: SOR/97-12, s. 5; SOR/2000-120, s. 2; SOR/2002-368, s. 4; SOR/2011-81, s. 2; SOR/2013-74, s. 5; SOR/2018-144, s. 369; SOR/2019-171, s. 24; SOR/2021-45, s. 3; SOR/2024-238, s. 9</sub>
+<sub>History: SOR/97-12, s. 5; SOR/2000-120, s. 2; SOR/2002-368, s. 4; SOR/2011-81, s. 2; SOR/2013-74, s. 5; SOR/2018-144, s. 369; SOR/2019-171, s. 24; SOR/2021-45, s. 3; SOR/2024-238, s. 9; SOR/2025-246, s. 11</sub>
 
 **C.01A.006** **(1)** A person who wishes to amend an establishment licence shall submit an application to the Minister, in a form established by the Minister, that contains the information and documents referred to in section C.01A.005 that relate to the amendment.
 
@@ -12582,10 +12584,10 @@ shall carry a cautionary statement to the effect that the drug should be kept ou
 | 3 | \[Repealed, SOR/2013-179, s. 2\] |
 | 4 | Drugs that are listed in Schedule D to the Act, other than vaccines |
 | 5 | Drugs listed in Schedule C to the Act |
-| 6 | Drugs that are prescription drugs, *controlled drugs* as defined in section G.01.001, *narcotics* as defined in the [Narcotic Control Regulations](CRC-c-1041.md) and drugs containing *cannabis* as defined in subsection 2(1) of the [Cannabis Act](../../acts/en/C-24.5.md) |
+| 6 | Prescription drugs, drugs that are *controlled drugs* or *narcotics* , as those terms are defined in subsection 1(1) of the [Controlled Substances Regulations](SOR-2025-242.md) , and drugs containing *cannabis* , as defined in subsection 2(1) of the [Cannabis Act](../../acts/en/C-24.5.md) |
 | 7 | Active pharmaceutical ingredients set out in List A that are for veterinary use |
 
-<sub>History: SOR/97-12, s. 5; SOR/2000-120, s. 3; SOR/2002-368, s. 5; SOR/2013-74, s. 6; SOR/2013-122, s. 15; SOR/2013-179, s. 2; SOR/2017-76, s. 9; SOR/2017-259, s. 14; SOR/2018-144, s. 370; SOR/2019-171, s. 24; SOR/2021-45, s. 6; SOR/2021-46, s. 11(E); SOR/2022-100, s. 4; SOR/2024-238, s. 11</sub>
+<sub>History: SOR/97-12, s. 5; SOR/2000-120, s. 3; SOR/2002-368, s. 5; SOR/2013-74, s. 6; SOR/2013-122, s. 15; SOR/2013-179, s. 2; SOR/2017-76, s. 9; SOR/2017-259, s. 14; SOR/2018-144, s. 370; SOR/2019-171, s. 24; SOR/2021-45, s. 6; SOR/2021-46, s. 11(E); SOR/2022-100, s. 4; SOR/2024-238, s. 11; SOR/2025-246, s. 12</sub>
 
 #### Annual Licence Review
 
@@ -16391,11 +16393,13 @@ the Minister shall issue an experimental studies certificate for the purposes of
 
 **C.09.001** This Division does not apply to
 
-- **(a)** a drug that is required by these Regulations or the [Narcotic Control Regulations](CRC-c-1041.md) to be sold only on prescription; or
+- **(a)** a drug that is required by these Regulations to be sold under a prescription;
 
-- **(b)** a drug for use exclusively in animals.
+- **(b)** a drug that is a *narcotic*, as defined in subsection 1(1) of the [Controlled Substances Regulations](SOR-2025-242.md), and that is required by those Regulations to be sold under a *prescription*, as defined in that subsection; or
 
-<sub>History: SOR/84-145, s. 4</sub>
+- **(c)** a drug that is intended for use exclusively in animals.
+
+<sub>History: SOR/84-145, s. 4; SOR/2025-246, s. 13</sub>
 
 #### Analgesics
 
@@ -17947,277 +17951,41 @@ per individual dosage form if it has a label that states that it is not a standa
 
 <sub>History: SOR/78-422, s. 4; SOR/2016-74, s. 16</sub>
 
-## PART G — Controlled Drugs
+## PART G — \[Repealed, SOR/2025-242, s. 237\]
 
-### DIVISION 1 — General
+**G.01.001** \[Repealed, SOR/2025-242, s. 237\]
 
-#### Definitions
-
-##### Definitions
-
-**G.01.001** The following definitions apply in this Part.
-
-***Act*** means the [Controlled Drugs and Substances Act](../../acts/en/C-38.8.md). (***Loi***)
-
-***advertisement*** includes any representation by any means whatever for the purpose of promoting, directly or indirectly, the sale or other disposal of a controlled drug. (***publicité***)
-
-***competent authority*** means a public authority of a foreign country that is authorized under the laws of the country to approve the importation or exportation of controlled drugs into or from the country. (***autorité compétente***)
-
-***compound*** includes a preparation. (***composé***)
-
-***controlled drug*** means
-
-- **(a)** a controlled substance set out in the schedule to this Part; or
-
-- **(b)** in respect of a midwife, nurse practitioner or podiatrist, a controlled substance set out in the schedule to this Part that the midwife, nurse practitioner or podiatrist may prescribe, possess or conduct an activity with, in accordance with sections 3 and 4 of the [New Classes of Practitioners Regulations](SOR-2012-230.md). (***drogue contrôlée***)
-
-***designated criminal offence*** means
-
-- **(a)** an offence involving the financing of terrorism against any of sections 83.02 to 83.04 of the [Criminal Code](../../acts/en/C-46.md);
-
-- **(b)** an offence involving fraud against any of sections 380 to 382 of the [Criminal Code](../../acts/en/C-46.md);
-
-- **(c)** the offence of laundering proceeds of crime against section 462.31 of the [Criminal Code](../../acts/en/C-46.md);
-
-- **(d)** an offence involving a criminal organization against any of sections 467.11 to 467.13 of the [Criminal Code](../../acts/en/C-46.md); or
-
-- **(e)** a conspiracy or an attempt to commit, being an accessory after the fact in relation to, or any counselling in relation to, an offence referred to in any of paragraphs (a) to (d). (***infraction désignée en matière criminelle***)
-
-***destroy***, in respect of a controlled drug, means to alter or denature it to such an extent that its consumption is rendered impossible or improbable. (***destruction***)
-
-***hospital*** means a facility that is
-
-- **(a)** licensed, approved or designated by a province in accordance with the laws of the province to provide care or treatment to persons or animals suffering from any form of disease or illness; or
-
-- **(b)** owned or operated by the Government of Canada or the government of a province and that provides health services. (***hôpital***)
-
-***international obligation*** means an obligation in respect of a controlled drug set out in a convention, treaty or other multilateral or bilateral instrument that Canada has ratified or to which Canada adheres. (***obligation internationale***)
-
-***label*** has the same meaning as in section 2 of the [Food and Drugs Act](../../acts/en/F-27.md). (***étiquette***)
-
-***licensed dealer*** means the holder of a licence issued under section G.02.007. (***distributeur autorisé***)
-
-***midwife*** has the same meaning as in section 1 of the [New Classes of Practitioners Regulations](SOR-2012-230.md). (***sage-femme***)
-
-***nurse practitioner*** has the same meaning as in section 1 of the [New Classes of Practitioners Regulations](SOR-2012-230.md). (***infirmier praticien***)
-
-***package*** includes anything in which a controlled drug is wholly or partly contained, placed or packed. (***emballage***)
-
-***pharmacist*** means a person who is entitled under the laws of a province to practise pharmacy and who is practising pharmacy in that province. (***pharmacien***)
-
-***podiatrist*** has the same meaning as in section 1 of the [New Classes of Practitioners Regulations](SOR-2012-230.md). (***podiatre***)
-
-***preparation*** means a drug that contains a controlled drug and an active medicinal ingredient in a recognized therapeutic dose, other than a controlled drug. (***préparation***)
-
-***prescription*** means an authorization given by a practitioner that a stated amount of a controlled drug be dispensed for the person named in it or the animal identified in it (***ordonnance***)
-
-***qualified person in charge*** means the individual designated under subsection G.02.004(1). (***responsable qualifié***)
-
-***Security Directive*** means the Directive on Physical Security Requirements for Controlled Substances and Drugs Containing Cannabis, as amended from time to time and published by the Government of Canada on its website. (***Directive en matière de sécurité***)
-
-***senior person in charge*** means the individual designated under section G.02.003. (***responsable principal***)
-
-***test kit*** means a kit
-
-- **(a)** that contains a controlled drug and a reagent system or buffering agent;
-
-- **(b)** that is used during the course of a chemical or analytical procedure to test for the presence or quantity of a controlled drug for a medical, laboratory, industrial, educational, law administration or enforcement, or research purpose; and
-
-- **(c)** the contents of which are not intended or likely to be consumed by, or administered to, a person or an animal. (***nécessaire d’essai***)
-
-<sub>History: SOR/78-220, s. 1; SOR/85-550, s. 1; SOR/86-91, s. 1; SOR/90-261, s. 1(F); SOR/92-386, s. 1; SOR/97-228, s. 7; SOR/97-515, s. 2; SOR/2003-135, s. 2; SOR/2004-238, s. 1; SOR/2012-230, s. 6; SOR/2018-147, s. 29; SOR/2019-171, s. 1</sub>
-
-#### Application
-
-##### Agricultural implants
-
-**G.01.002** **(1)** The Act and this Part do not apply in respect of a controlled drug that is contained in an agricultural implant and set out in Part III of the schedule to this Part, but nothing in this section exempts such a drug from the requirements of Part C.
-
-<em>Definition of *agricultural implant*</em>
-
-**(2)** In this section, ***agricultural implant*** means a product that is presented in a form suitable to allow sustained release of an active ingredient over a certain period of time and that is intended for insertion under the skin of a food-producing animal for the purpose of increasing weight gain and improving feed efficiency.
-
-<sub>History: SOR/97-515, s. 3; SOR/99-125, s. 1; SOR/2003-34, s. 1; SOR/2003-413, s. 1; SOR/2018-69, ss. 67, 68; SOR/2019-171, s. 1</sub>
+**G.01.002** \[Repealed, SOR/2025-242, s. 237\]
 
 **G.01.002.1** \[Repealed, SOR/2019-171, s. 1\]
 
-##### Member of police force
+**G.01.003** \[Repealed, SOR/2025-242, s. 237\]
 
-**G.01.003** A member of a police force or a person acting under their direction and control who, in respect of the conduct of the member or person, is exempt from the application of subsection 4(2) or section 5, 6 or 7 of the Act by virtue of the [Controlled Drugs and Substances Act (Police Enforcement) Regulations](SOR-97-234.md) is, in respect of that conduct, exempt from the application of this Part.
+**G.01.004** \[Repealed, SOR/2025-242, s. 237\]
 
-<sub>History: SOR/80-543, s. 11; SOR/2004-238, s. 2(F); SOR/2019-171, s. 1</sub>
+**G.01.005** \[Repealed, SOR/2025-242, s. 237\]
 
-##### Application of Parts C and D
+**G.01.006** \[Repealed, SOR/2025-242, s. 237\]
 
-**G.01.004** Except as otherwise provided in this Part, it is prohibited to sell or provide a controlled drug or a preparation that does not comply with all provisions of Parts C and D that are applicable to it.
+**G.01.007** \[Repealed, SOR/2025-242, s. 237\]
 
-<sub>History: SOR/92-386, s. 2; SOR/97-228, s. 8; SOR/2019-171, s. 1</sub>
+**G.01.008** \[Repealed, SOR/2025-242, s. 237\]
 
-#### Possession
-
-##### Authorized persons
-
-**G.01.005** **(1)** A person is authorized to possess a controlled drug set out in any of items 1 to 3, 8 to 10, 12 to 14, 16 and 17 of Part I of the schedule to this Part if the person has obtained the controlled drug in accordance with these Regulations, in the course of activities conducted in connection with the administration or enforcement of an Act or regulation, or from a person who is exempt under section 56 of the Act from the application of subsection 5(1) of the Act with respect to that controlled drug, and the person
-
-- **(a)** requires the controlled drug for their business or profession and is
-
-  - **(i)** a licensed dealer,
-
-  - **(ii)** a pharmacist, or
-
-  - **(iii)** a practitioner who is registered and entitled to practise in the province in which they possess that drug;
-
-- **(b)** is a practitioner who is registered and entitled to practise in a province other than the province in which they have that possession for emergency medical purposes only;
-
-- **(c)** is a hospital employee or a practitioner in a hospital;
-
-- **(d)** has obtained the controlled drug for their own use
-
-  - **(i)** from a practitioner, or
-
-  - **(ii)** in accordance with a prescription that was not issued or obtained in contravention of these Regulations;
-
-- **(e)** is a practitioner of medicine who received the controlled drug under subsection G.06.003(1) or (2) and their possession is for the purpose of providing or delivering it to a person referred to in subsection G.06.003(3);
-
-- **(f)** is an agent or mandatary of a practitioner of medicine who received the controlled drug under subsection G.06.003(1) and their possession is for the purpose of providing or delivering it to a person referred to in subsection G.06.003(2);
-
-- **(g)** is employed as an inspector, a member of the Royal Canadian Mounted Police, a police constable, a peace officer or a member of the technical or scientific staff of the Government of Canada, the government of a province or a university in Canada and their possession is in connection with that employment;
-
-- **(h)** is not a practitioner of medicine referred to in paragraph (e) or an agent or mandatary referred to in paragraph (f), is exempted under section 56 of the Act with respect to possession of that controlled drug and their possession is for a purpose set out in the exemption; or
-
-- **(i)** is the Minister.
-
-*Agent or mandatary*
-
-**(2)** A person is authorized to possess a controlled drug referred to in subsection (1) if the person is acting as the agent or mandatary of any person who is authorized to possess it in accordance with any of paragraphs (1)(a) to (e), (h) and (i).
-
-*Agent or mandatary — person referred to in paragraph (1)(g)*
-
-**(3)** A person is authorized to possess a controlled drug referred to in subsection (1) if they
-
-- **(a)** are acting as the agent or mandatary of a person who they have reasonable grounds to believe is a person referred to in paragraph (1)(g); and
-
-- **(b)** possess the controlled drug for the purpose of assisting that person in the administration or enforcement of an Act or a regulation.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-#### Test Kits
-
-##### Authorized activities
-
-**G.01.006** A person may sell, possess or otherwise deal in a test kit if the following conditions are met:
-
-- **(a)** a registration number has been issued for the test kit under section G.01.008 and has not been cancelled under section G.01.009;
-
-- **(b)** the test kit bears, on its external surface,
-
-  - **(i)** the name of the manufacturer,
-
-  - **(ii)** the trade name or trademark, and
-
-  - **(iii)** the registration number; and
-
-- **(c)** the test kit will be used for a medical, laboratory, industrial, educational, law administration or enforcement, or research purpose.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Application for registration number
-
-**G.01.007** **(1)** The manufacturer of a test kit may obtain a registration number for it by submitting to the Minister an application containing
-
-- **(a)** a detailed description of the design and construction of the test kit;
-
-- **(b)** a detailed description of the controlled drug and other substances, if any, contained in the test kit, including the qualitative and quantitative composition of each component; and
-
-- **(c)** a description of the proposed use of the test kit.
-
-*Signature and attestation*
-
-**(2)** The application must
-
-- **(a)** be signed and dated by the person authorized by the applicant for that purpose; and
-
-- **(b)** include an attestation by that person that all of the information submitted in support of the application is correct and complete to the best of their knowledge.
-
-*Additional information or document*
-
-**(3)** The applicant must, not later than the date specified in the Minister’s written request to that effect, provide the Minister with any information or document that the Minister determines is necessary to complete the review of the application.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Issuance of registration number
-
-**G.01.008** On completion of the review of the application for a registration number, the Minister must issue a registration number for the test kit, preceded by the letters “TK”, if the Minister determines that the test kit will only be used for a medical, laboratory, industrial, educational, law administration or enforcement, or research purpose and that it contains
-
-- **(a)** a controlled drug and an adulterating or denaturing agent that are combined in such a manner and in such a quantity, proportion or concentration that the preparation or mixture has no significant drug abuse potential; or
-
-- **(b)** such small quantities or concentrations of any controlled drug as to have no significant drug abuse potential.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Cancellation of registration number
-
-**G.01.009** The Minister must cancel the registration number for a test kit if
-
-- **(a)** the test kit is removed from the market by the manufacturer;
-
-- **(b)** the Minister has reasonable grounds to believe that the test kit is used or is likely to be used for any purpose other than a medical, laboratory, industrial, educational, law administration or enforcement, or research purpose; or
-
-- **(c)** the Minister has reasonable grounds to believe that the cancellation is necessary to protect public health or safety, including to prevent a controlled drug from being diverted to an illicit market or use.
-
-<sub>History: SOR/2019-171, s. 1</sub>
+**G.01.009** \[Repealed, SOR/2025-242, s. 237\]
 
 **G.01.010** \[Repealed, SOR/2019-171, s. 1\]
 
-### DIVISION 2 — Licensed Dealers
-
-#### Authorized Activities
-
-##### General
-
-**G.02.001** **(1)** A licensed dealer may produce, assemble, sell, provide, transport, send, deliver, import or export a controlled drug if they comply with this Part and the terms and conditions of their dealer’s licence and any permit issued under this Part.
-
-*Qualified person in charge present*
-
-**(2)** A licensed dealer may conduct an activity in relation to a controlled drug at their site only if the qualified person in charge or an alternate qualified person in charge is present at the site.
-
-*Permit — import and export*
-
-**(3)** A licensed dealer must obtain a permit to import or export a controlled drug.
-
-*Possession for export*
-
-**(4)** A licensed dealer may possess a controlled drug for the purpose of exporting it if they have obtained it in accordance with this Part.
-
-<sub>History: SOR/2004-238, s. 3; SOR/2019-171, s. 1</sub>
+**G.02.001** \[Repealed, SOR/2025-242, s. 237\]
 
 **G.02.001.1** \[Repealed, SOR/2019-171, s. 1\]
 
 **G.02.001.2** \[Repealed, SOR/2019-171, s. 1\]
 
-#### Dealer’s Licences
-
-##### Preliminary Requirements
-
-###### Eligible persons
-
-**G.02.002** The following persons may apply for a dealer’s licence:
-
-- **(a)** an individual who ordinarily resides in Canada;
-
-- **(b)** a corporation that has its head office in Canada or operates a branch office in Canada; or
-
-- **(c)** the holder of a position that includes responsibility for controlled drugs on behalf of the Government of Canada, the government of a province, a police force, a hospital or a university in Canada.
-
-<sub>History: SOR/2019-171, s. 1</sub>
+**G.02.002** \[Repealed, SOR/2025-242, s. 237\]
 
 **G.02.002.1** \[Repealed, SOR/2019-171, s. 1\]
 
-###### Senior person in charge
-
-**G.02.003** An applicant for a dealer’s licence must designate only one individual as the senior person in charge, who has overall responsibility for management of the activities with respect to controlled drugs that are specified in the licence application. The applicant may designate themself if the applicant is an individual.
-
-<sub>History: SOR/2004-238, s. 4; SOR/2010-222, s. 2; SOR/2012-230, s. 8; SOR/2014-260, ss. 1, 16(F); SOR/2019-171, s. 1</sub>
+**G.02.003** \[Repealed, SOR/2025-242, s. 237\]
 
 **G.02.003.1** \[Repealed, SOR/2019-171, s. 1\]
 
@@ -18239,2173 +18007,241 @@ per individual dosage form if it has a label that states that it is not a standa
 
 **G.02.003.91** \[Repealed, SOR/2019-171, s. 1\]
 
-###### Qualified person in charge
+**G.02.004** \[Repealed, SOR/2025-242, s. 237\]
 
-**G.02.004** **(1)** An applicant for a dealer’s licence must designate only one individual as the qualified person in charge, who is responsible for supervising the activities with respect to controlled drugs that are specified in the licence application and for ensuring that those activities comply with this Part. The applicant may designate themself if the applicant is an individual.
+**G.02.005** \[Repealed, SOR/2025-242, s. 237\]
 
-*Alternate qualified person in charge*
+**G.02.006** \[Repealed, SOR/2025-242, s. 237\]
 
-**(2)** An applicant for a dealer’s licence may designate an individual as an alternate qualified person in charge, who is authorized to replace the qualified person in charge when that person is absent. The applicant may designate themself if the applicant is an individual.
+**G.02.007** \[Repealed, SOR/2025-242, s. 237\]
 
-*Qualifications*
+**G.02.008** \[Repealed, SOR/2025-242, s. 237\]
 
-**(3)** Only an individual who meets the following requirements may be designated as a qualified person in charge or an alternate qualified person in charge:
+**G.02.009** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(a)** they work at the site specified in the dealer’s licence;
+**G.02.010** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(b)** they
-
-  - **(i)** are a person entitled or, if applicable, registered and entitled by a provincial professional licensing authority or a professional association in Canada and entitled to practise a profession that is relevant to their duties, such as pharmacist, practitioner, pharmacy technician or laboratory technician,
-
-  - **(ii)** hold a diploma, certificate or credential awarded by a post-secondary educational institution in Canada in a field or occupation that is relevant to their duties, such as pharmacy, medicine, dentistry, veterinary medicine, pharmacology, chemistry, biology, pharmacy technician, laboratory technician, pharmaceutical regulatory affairs or supply chain management or security, or
-
-  - **(iii)** hold a diploma, certificate or credential that is awarded by a foreign educational institution in a field or occupation referred to in subparagraph (ii) and hold
-
-    - **(A)** an *equivalency assessment* as defined in subsection 73(1) of the [Immigration and Refugee Protection Regulations](SOR-2002-227.md), or
-
-    - **(B)** an equivalency assessment issued by an organization or institution that is responsible for issuing equivalency assessments and is recognized by a province;
-
-- **(c)** they have sufficient knowledge of and experience with the use and handling of the controlled drugs specified in the dealer’s licence to properly carry out their duties; and
-
-- **(d)** they have sufficient knowledge of the provisions of the Act and this Part that are applicable to the activities specified in the dealer’s licence to properly carry out their duties.
-
-*Exception*
-
-**(4)** An applicant for a dealer’s licence may designate an individual who does not meet any of the requirements of paragraph (3)(b) as a qualified person in charge or an alternate qualified person in charge if
-
-- **(a)** no other individual working at the site meets those requirements;
-
-- **(b)** those requirements are not necessary for the activities specified in the licence; and
-
-- **(c)** the individual has sufficient knowledge — acquired from a combination of education, training or work experience — to properly carry out their duties.
-
-<sub>History: SOR/2004-238, s. 4; SOR/2019-171, s. 1</sub>
-
-###### Ineligibility
-
-**G.02.005** An individual is not eligible to be a senior person in charge, a qualified person in charge or an alternate qualified person in charge if, during the 10 years before the day on which the dealer’s licence application is submitted,
-
-- **(a)** in respect of a designated substance offence or a designated criminal offence or a *designated offence* as defined in subsection 2(1) of the [Cannabis Act](../../acts/en/C-24.5.md), the individual
-
-  - **(i)** was convicted as an adult, or
-
-  - **(ii)** was a *young person* who received an *adult sentence*, as those terms are defined in subsection 2(1) of the [Youth Criminal Justice Act](../../acts/en/Y-1.5.md); or
-
-- **(b)** in respect of an offence committed outside Canada that, if committed in Canada, would have constituted a designated substance offence or a designated criminal offence or a *designated offence* as defined in subsection 2(1) of the [Cannabis Act](../../acts/en/C-24.5.md),
-
-  - **(i)** the individual was convicted as an adult, or
-
-  - **(ii)** if they committed the offence when they were at least 14 years old but less than 18 years old, the person received a sentence that was longer than the maximum *youth sentence*, as that term is defined in subsection 2(1) of the [Youth Criminal Justice Act](../../acts/en/Y-1.5.md), that could have been imposed under that Act for such an offence.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Issuance of Licence
-
-###### Application
-
-**G.02.006** **(1)** A person who intends to conduct an activity referred to in section G.02.001 must obtain a dealer’s licence for each site at which they intend to conduct activities by submitting an application to the Minister that contains the following information:
-
-- **(a)** if the licence is requested by
-
-  - **(i)** an individual, the individual’s name,
-
-  - **(ii)** a corporation, its corporate name and any other name registered with a province, under which it intends to conduct the activities specified in its dealer’s licence or by which it intends to identify itself, and
-
-  - **(iii)** the holder of a position described in paragraph G.02.002(c), the applicant’s name and the title of the position;
-
-- **(b)** the municipal address, telephone number and, if applicable, the email address of the proposed site and, if different from the municipal address, its mailing address;
-
-- **(c)** the name, date of birth, telephone number and email address of the proposed senior person in charge;
-
-- **(d)** with respect to each of the proposed qualified person in charge and any proposed alternate qualified person in charge,
-
-  - **(i)** their name, date of birth, telephone number and email address,
-
-  - **(ii)** the title of their position at the site,
-
-  - **(iii)** the name and title of the position of their immediate supervisor at the site,
-
-  - **(iv)** if applicable, their profession they practise that is relevant to their duties, the name of the province that authorizes them to practise it and their authorization number, and
-
-  - **(v)** their education, training and work experience that are relevant to their duties;
-
-- **(e)** the activities that are to be conducted and the controlled drugs in respect of which each of the activities is to be conducted;
-
-- **(f)** if the licence is requested to manufacture or assemble a product or compound that contains a controlled drug, other than a test kit, a list that includes, for each product or compound,
-
-  - **(i)** the brand name of the product or the name of the compound,
-
-  - **(ii)** the drug identification number that is assigned to the product under section C.01.014.2, if any,
-
-  - **(iii)** the name of the controlled drug in the product or compound,
-
-  - **(iv)** the strength per unit of the controlled drug in it, the number of units per package and the number of packages,
-
-  - **(v)** if it is to be manufactured or assembled by or for another licensed dealer under a custom order, the name, municipal address and dealer’s licence number of the other licensed dealer, and
-
-  - **(vi)** if the applicant’s name appears on the label of the product or compound, a copy of the inner label;
-
-- **(g)** if the licence is requested in order to produce a controlled drug other than a product or compound that contains a controlled drug,
-
-  - **(i)** the name of the controlled drug,
-
-  - **(ii)** the quantity that the applicant expects to produce under their licence and the period during which that quantity would be produced, and
-
-  - **(iii)** if it is to be produced for another licensed dealer under a custom order, the name, municipal address and licence number of the other licensed dealer;
-
-- **(h)** if the licence is requested for an activity that is not described in paragraph (f) or (g), the name of the controlled drug for which the activity is to be conducted and the purpose of the activity;
-
-- **(i)** a detailed description of the security measures in place at the site, determined in accordance with the Security Directive; and
-
-- **(j)** a detailed description of the method for recording information that the applicant proposes to use for the purpose of section G.02.071.
-
-*Documents*
-
-**(2)** An application for a dealer’s licence must be accompanied by the following documents:
-
-- **(a)** if the applicant is a corporation, a copy of
-
-  - **(i)** the certificate of incorporation or other constituting instrument, and
-
-  - **(ii)** any document filed with the province in which its site is located that states its corporate name and any other name registered with the province under which the applicant intends to conduct the activities specified in its dealer’s licence or by which it intends to identify itself;
-
-- **(b)** individual declarations signed and dated by each of the proposed senior person in charge, and qualified person in charge and any proposed alternate qualified person in charge, attesting that the person is not ineligible for a reason specified in section G.02.005;
-
-- **(c)** a document issued by a Canadian police force in relation to each person referred to in paragraph (b), indicating whether, during the 10 years before the day on which the application is submitted, the person was convicted as specified in subparagraph G.02.005(a)(i) or received a sentence as specified in subparagraph G.02.005(a)(ii);
-
-- **(d)** if any of the persons referred to in paragraph (b) has ordinarily resided in a country other than Canada during the 10 years before the day on which the application is submitted, a document issued by a police force of that country indicating whether in that period that person was convicted as specified in subparagraph G.02.005(b)(i) or received a sentence as specified in subparagraph G.02.005(b)(ii);
-
-- **(e)** declaration, signed and dated by the proposed senior person in charge, attesting that the proposed qualified person in charge and any proposed alternate qualified person in charge have the knowledge and experience required under paragraphs G.02.004(3)(c) and (d); and
-
-- **(f)** if the proposed qualified person in charge or any proposed alternate qualified person in charge does not meet the requirement of subparagraph G.02.004(3)(b)(i), either
-
-  - **(i)** a copy of the person’s diploma, certificate or credential referred to in subparagraph G.02.004(3)(b)(ii) or (iii), or
-
-  - **(ii)** a detailed description of the education, training and work experience that is required under paragraph G.02.004(4)(c), together with supporting evidence, such as a copy of a course transcript or an attestation by the person who provided the training.
-
-*Signature and attestation*
-
-**(3)** The application must
-
-- **(a)** be signed and dated by the proposed senior person in charge; and
-
-- **(b)** include an attestation by that person that
-
-  - **(i)** all information and documents submitted in support of the application are correct and complete to the best of their knowledge, and
-
-  - **(ii)** they have the authority to bind the applicant.
-
-*Additional information and documents*
-
-**(4)** The applicant must, not later than the date specified in the Minister’s written request to that effect, provide the Minister with any information or document that the Minister determines is necessary to complete the review of the application.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-###### Issuance
-
-**G.02.007** Subject to section G.02.009, on completion of the review of the licence application, the Minister must issue a dealer’s licence, with or without terms and conditions, that contains
-
-- **(a)** the licence number;
-
-- **(b)** the name of the licensed dealer, their corporate name or the title of the position they hold;
-
-- **(c)** the activities that are authorized and the names of the controlled drugs in respect of which each activity may be conducted;
-
-- **(d)** the municipal address of the site at which the dealer may conduct the authorized activities;
-
-- **(e)** the security level at the site, determined in accordance with the Security Directive;
-
-- **(f)** the effective date of the licence;
-
-- **(g)** the expiry date of the licence, which must be not later than three years after its effective date;
-
-- **(h)** any terms and conditions that the Minister has reasonable grounds to believe are necessary to
-
-  - **(i)** ensure that an international obligation is respected,
-
-  - **(ii)** ensure conformity with the requirements associated with the security level that is referred to in paragraph (e), or
-
-  - **(iii)** reduce a risk to public health or safety, including the risk of a controlled drug being diverted to an illicit market or use; and
-
-- **(i)** if the licensed dealer produces a controlled drug, the quantity that they may produce and the authorized production period.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-###### Validity
-
-**G.02.008** A dealer’s licence is valid until the expiry date set out in the licence or, if it is earlier, the date of the suspension or revocation of the licence under section G.02.027 or G.02.028.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-###### Refusal
-
-**G.02.009** **(1)** The Minister must refuse to issue a dealer’s licence if
-
-- **(a)** the applicant may not apply for a licence under section G.02.002;
-
-- **(b)** during the 10 years before the day on which the licence application is submitted, the applicant has contravened
-
-  - **(i)** a provision of the Act, the [Cannabis Act](../../acts/en/C-24.5.md) or their regulations, or
-
-  - **(ii)** a term or condition of a licence or permit issued to the applicant under any regulations made under the Act or issued to the applicant under the [Cannabis Act](../../acts/en/C-24.5.md) or its regulations;
-
-- **(c)** during the 10 years before the day on which the application is submitted, the proposed senior person in charge or qualified person in charge or any proposed alternate qualified person in charge was convicted as specified in subparagraph G.02.005(a)(i) or (b)(i) or received a sentence as specified in subparagraph G.02.005(a)(ii) or (b)(ii);
-
-- **(d)** an activity for which the licence is requested would contravene an international obligation;
-
-- **(e)** the applicant does not have in place at the site the security measures set out in the Security Directive in respect of an activity for which the licence is requested;
-
-- **(f)** the method referred to in paragraph G.02.006(1)(j) does not permit the recording of information as required under section G.02.071;
-
-- **(g)** the applicant has not complied with the requirements of subsection G.02.006(4) or the information and documents that they have provided are not sufficient to complete the review of the licence application;
-
-- **(h)** the Minister has reasonable grounds to believe that the applicant has submitted false or misleading information or false or falsified documents in or in support of the licence application;
-
-- **(i)** information received from a competent authority or the United Nations gives the Minister reasonable grounds to believe that the applicant has been involved in the diversion of a controlled drug to an illicit market or use or has been involved in an activity that contravened an international obligation; or
-
-- **(j)** the Minister has reasonable grounds to believe that the issuance of the licence would likely create a risk to public health or safety, including the risk of a controlled drug being diverted to an illicit market or use.
-
-*Exceptions*
-
-**(2)** The Minister must not refuse to issue a licence under paragraph (1)(b) or (h) if the applicant meets the following conditions, unless the Minister has reasonable grounds to believe that it is necessary to do so to protect public health or safety, including to prevent a controlled drug from being diverted to an illicit market or use:
-
-- **(a)** the applicant does not have a history of non-compliance with the Act, the [Cannabis Act](../../acts/en/C-24.5.md) or their regulations; and
-
-- **(b)** the applicant has carried out, or signed an undertaking to carry out, the necessary corrective measures to ensure compliance with the Act, the [Cannabis Act](../../acts/en/C-24.5.md) and their regulations.
-
-*Notice*
-
-**(3)** Before refusing to issue a licence, the Minister must send the applicant a notice that sets out the Minister’s reasons and gives the applicant an opportunity to be heard.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Renewal of Licence
-
-###### Application
-
-**G.02.010** **(1)** To apply to renew a dealer’s licence, a licensed dealer must submit to the Minister an application that contains the information and documents referred to in subsections G.02.006(1) and (2).
-
-*Signature and attestation*
-
-**(2)** The application must
-
-- **(a)** be signed and dated by the senior person in charge of the site specified in the application; and
-
-- **(b)** include an attestation by that person that
-
-  - **(i)** all of the information and documents submitted in support of the application are correct and complete to the best of their knowledge, and
-
-  - **(ii)** they have the authority to bind the licensed dealer.
-
-*Additional information and documents*
-
-**(3)** The licensed dealer must, not later than the date specified in the Minister’s written request to that effect, provide the Minister with any information or document that the Minister determines is necessary to complete the review of the application.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-###### Renewal
-
-**G.02.011** **(1)** Subject to section G.02.013, on completion of the review of the renewal application, the Minister must issue a renewed dealer’s licence that contains the information specified in section G.02.007.
-
-*Terms and conditions*
-
-**(2)** When renewing a dealer’s licence, the Minister may, if he or she has reasonable grounds to believe that it is necessary to do so, add a term or condition to it or modify or delete one in order to
-
-- **(a)** ensure that an international obligation is respected;
-
-- **(b)** ensure conformity with the requirements associated with the security level specified in the licence or the new level required as a result of the licence renewal; or
-
-- **(c)** reduce a risk to public health or safety, including the risk of a controlled drug being diverted to an illicit market or use.
-
-<sub>History: SOR/2004-238, s. 5; SOR/2010-222, s. 7; SOR/2019-171, s. 1</sub>
+**G.02.011** \[Repealed, SOR/2025-242, s. 237\]
 
 **G.02.011.1** \[Repealed, SOR/2019-171, s. 1\]
 
 **G.02.011.2** \[Repealed, SOR/2019-171, s. 1\]
 
-###### Validity
+**G.02.012** \[Repealed, SOR/2025-242, s. 237\]
 
-**G.02.012** A renewed dealer’s licence is valid until the expiry date set out in the licence or, if it is earlier, the date of the suspension or revocation of the licence under section G.02.027 or G.02.028.
+**G.02.013** \[Repealed, SOR/2025-242, s. 237\]
 
-<sub>History: SOR/2004-238, s. 5; SOR/2019-171, s. 1</sub>
+**G.02.014** \[Repealed, SOR/2025-242, s. 237\]
 
-###### Refusal
+**G.02.015** \[Repealed, SOR/2025-242, s. 237\]
 
-**G.02.013** **(1)** The Minister must refuse to renew a dealer’s licence if
+**G.02.016** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(a)** the licensed dealer may no longer apply for a licence under section G.02.002;
+**G.02.017** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(b)** during the 10 years before the day on which the renewal application is submitted, the licensed dealer has contravened
+**G.02.018** \[Repealed, SOR/2025-242, s. 237\]
 
-  - **(i)** a provision of the Act, the [Cannabis Act](../../acts/en/C-24.5.md) or their Regulations, or
+**G.02.019** \[Repealed, SOR/2025-242, s. 237\]
 
-  - **(ii)** a term or condition of a licence or permit issued to the dealer under a regulation made under the Act or issued to the dealer under the [Cannabis Act](../../acts/en/C-24.5.md) or its regulations;
+**G.02.020** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(c)** during the 10 years before the day on which the renewal application is submitted, the proposed senior person in charge or qualified person in charge or any proposed alternate qualified person in charge was convicted as specified in subparagraph G.02.005(a)(i) or (b)(i) or received a sentence as specified in subparagraph G.02.005(a)(ii) or (b)(ii);
+**G.02.021** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(d)** an activity for which the renewal is requested would contravene an international obligation;
+**G.02.022** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(e)** the licensed dealer does not have in place at the site the security measures set out in the Security Directive in respect of an activity for which the renewal is requested;
+**G.02.023** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(f)** the method referred to in paragraph G.02.006(1)(j) does not permit the recording of information as required by section G.02.071;
-
-- **(g)** the licensed dealer has not complied with the requirements of subsection G.02.010(3) or the information or documents that they have provided are not sufficient to complete the review of the renewal application;
-
-- **(h)** the Minister has reasonable grounds to believe that the licensed dealer has submitted false or misleading information or false or falsified documents in or in support of the renewal application;
-
-- **(i)** information received from a competent authority or the United Nations gives the Minister reasonable grounds to believe that the licensed dealer has been involved in the diversion of a controlled drug to an illicit market or use or has been involved in an activity that contravened an international obligation; or
-
-- **(j)** the Minister has reasonable grounds to believe that the renewal of the licence would likely create a risk to public health or safety, including the risk of a controlled drug being diverted to an illicit market or use.
-
-*Exceptions*
-
-**(2)** The Minister must not refuse to renew a licence under paragraph (1)(b) or (h) if the licensed dealer meets the following conditions, unless the Minister has reasonable grounds to believe that it is necessary to do so to protect public health or safety, including to prevent a controlled drug from being diverted to an illicit market or use:
-
-- **(a)** the licensed dealer does not have a history of non-compliance with the Act, the [Cannabis Act](../../acts/en/C-24.5.md) or their regulations; and
-
-- **(b)** the licensed dealer has carried out, or signed an undertaking to carry out, the necessary corrective measures to ensure compliance with the Act, the [Cannabis Act](../../acts/en/C-24.5.md) and their regulations.
-
-*Notice*
-
-**(3)** Before refusing to renew a licence, the Minister must send the licensed dealer a notice that sets out the Minister’s reasons and gives the dealer an opportunity to be heard.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Amendment of Licence
-
-###### Application
-
-**G.02.014** **(1)** Before making a change affecting any information referred to in section G.02.007 that is contained in their dealer’s licence, a licensed dealer must submit to the Minister an application to amend the licence that contains a description of the proposed amendment, as well as the information and documents referred to in section G.02.006 that are relevant to the proposed amendment.
-
-*Signature and attestation*
-
-**(2)** The application must
-
-- **(a)** be signed and dated by the senior person in charge of the site specified in the application; and
-
-- **(b)** include an attestation by that person that
-
-  - **(i)** all of the information and documents submitted in support of the application are correct and complete to the best of their knowledge, and
-
-  - **(ii)** they have the authority to bind the licensed dealer.
-
-*Additional information and documents*
-
-**(3)** The licensed dealer must, not later than the date specified in the Minister’s written request to that effect, provide the Minister with any information or document that the Minister determines is necessary to complete the review of the application.
-
-<sub>History: SOR/78-427, s. 1; SOR/97-228, s. 10; SOR/2004-238, s. 6; SOR/2010-222, s. 8(E); SOR/2019-171, s. 1</sub>
-
-###### Amendment
-
-**G.02.015** **(1)** Subject to section G.02.017, on completion of the review of the amendment application, the Minister must amend the dealer’s licence.
-
-*Terms and conditions*
-
-**(2)** When amending a dealer’s licence, the Minister may, if he or she has reasonable grounds to believe that it is necessary to do so, add a term or condition to it or modify or delete one in order to
-
-- **(a)** ensure that an international obligation is respected;
-
-- **(b)** ensure conformity with the requirements associated with the security level specified in the licence or the new level required as a result of the amendment; or
-
-- **(c)** reduce a risk to public health or safety, including the risk of a controlled drug being diverted to an illicit market or use.
-
-<sub>History: SOR/78-427, s. 2; SOR/2004-238, s. 7; SOR/2010-222, s. 9; SOR/2019-171, s. 1</sub>
-
-###### Validity
-
-**G.02.016** An amended dealer’s licence is valid until the expiry date set out in the licence or, if it is earlier, the date of the suspension or revocation of the licence under section G.02.027 or G.02.028.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-###### Refusal
-
-**G.02.017** **(1)** The Minister must refuse to amend a dealer’s licence if
-
-- **(a)** an activity for which the licence amendment is requested would contravene an international obligation;
-
-- **(b)** the licensed dealer does not have in place at the site the security measures set out in the Security Directive in respect of an activity for which the licence amendment is requested;
-
-- **(c)** the method referred to in paragraph G.02.006(1)(j) does not permit the recording of information as required by section G.02.071;
-
-- **(d)** the licensed dealer has not complied with the requirements of subsection G.02.014(3) or the information or documents that they have provided are not sufficient to complete the review of the amendment application;
-
-- **(e)** the Minister has reasonable grounds to believe that the licensed dealer has submitted false or misleading information or false or falsified documents in or in support of the amendment application; or
-
-- **(f)** the Minister has reasonable grounds to believe that the amendment of the licence would likely create a risk to public health or safety, including the risk of a controlled drug being diverted to an illicit market or use.
-
-*Exceptions*
-
-**(2)** The Minister must not refuse to amend a licence under paragraph (1)(e) if the licensed dealer meets the following conditions, unless the Minister has reasonable grounds to believe that it is necessary to do so to protect public health or safety, including to prevent a controlled drug from being diverted to an illicit market or use:
-
-- **(a)** the licensed dealer does not have a history of non-compliance with the Act, the [Cannabis Act](../../acts/en/C-24.5.md) or their regulations; and
-
-- **(b)** the licensed dealer has carried out, or signed an undertaking to carry out, the necessary corrective measures to ensure compliance with the Act, the [Cannabis Act](../../acts/en/C-24.5.md) and their regulations.
-
-*Notice*
-
-**(3)** Before refusing to amend a licence, the Minister must send the licensed dealer a notice that sets out the Minister’s reasons and gives the dealer an opportunity to be heard.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Changes Requiring Prior Approval by Minister
-
-###### Application
-
-**G.02.018** **(1)** A licensed dealer must obtain the Minister’s approval before making any of the following changes by submitting a written request to the Minister:
-
-- **(a)** a change affecting the security measures at the site specified in the dealer’s licence;
-
-- **(b)** the replacement of the senior person in charge;
-
-- **(c)** the replacement of the qualified person in charge; or
-
-- **(d)** the replacement or addition of an alternate qualified person in charge.
-
-*Information and documents*
-
-**(2)** The licensed dealer must provide the Minister with the following with respect to a change referred to in subsection (1):
-
-- **(a)** in the case of a change affecting the security measures in place at the site specified in the dealer’s licence;
-
-- **(b)** in the case of the senior person in charge,
-
-  - **(i)** the information specified in paragraph G.02.006(1)(c), and
-
-  - **(ii)** the declaration specified in paragraph G.02.006(2)(b) and the documents specified in paragraphs G.02.006(2)(c) and (d); and
-
-- **(c)** in the case of the qualified person in charge or an alternate qualified person in charge,
-
-  - **(i)** the information specified in paragraph G.02.006(1)(d), and
-
-  - **(ii)** the declarations specified in paragraphs G.02.006(2)(b) and (e) and the documents specified in paragraphs G.02.006(2)(c), (d) and (f).
-
-*Additional information and documents*
-
-**(3)** The licensed dealer must, not later than the date specified in the Minister’s written request to that effect, provide the Minister with any information or document that the Minister determines is necessary to complete the review of the application.
-
-<sub>History: SOR/2004-238, s. 8; SOR/2010-222, s. 10; SOR/2019-171, s. 1</sub>
-
-###### Approval
-
-**G.02.019** **(1)** Subject to section G.02.020, on completion of the review of the application for approval of the change, the Minister must approve the change.
-
-*Terms and conditions*
-
-**(2)** When approving a change, the Minister may, if he or she has reasonable grounds to believe that it is necessary to do so, add a term or condition to the licence or modify or delete one in order to
-
-- **(a)** ensure that an international obligation is respected;
-
-- **(b)** ensure conformity with the requirements associated with the security level specified in the licence; or
-
-- **(c)** reduce a risk to public health or safety, including the risk of a controlled drug being diverted to an illicit market or use.
-
-<sub>History: SOR/88-482, s. 2(F); SOR/2019-171, s. 1</sub>
-
-###### Refusal
-
-**G.02.020** **(1)** The Minister must refuse to approve the change if
-
-- **(a)** during the 10 years before the day on which the application for approval of the change is submitted, the proposed senior person in charge or qualified person in charge or any proposed alternate qualified person in charge was convicted as specified in subparagraph G.02.005(a)(i) or (b)(i) or received a sentence as specified in subparagraph G.02.005(a)(ii) or (b)(ii);
-
-- **(b)** the licensed dealer has not complied with the requirements of subsection G.02.018(3) or the information or documents that they have provided are not sufficient to complete the review of the application for approval of the change;
-
-- **(c)** the Minister has reasonable grounds to believe that the licensed dealer has submitted false or misleading information or false or falsified documents in or in support of the application for approval of the change; or
-
-- **(d)** the Minister has reasonable grounds to believe that the change would likely create a risk to public health or safety, including the risk of a controlled drug being diverted to an illicit market or use.
-
-*Exception*
-
-**(2)** The Minister must not refuse to approve a change under paragraph (1)(c) if the licensed dealer has carried out, or signed an undertaking to carry out, the necessary corrective measures to ensure compliance with the Act, the [Cannabis Act](../../acts/en/C-24.5.md) and their regulations, unless the Minister has reasonable grounds to believe that it is necessary to do so to protect public health or safety, including to prevent a controlled drug from being diverted to an illicit market or use.
-
-*Notice*
-
-**(3)** Before refusing to approve a change, the Minister must send the licensed dealer a notice that sets out the Minister’s reasons and gives the dealer an opportunity to be heard in respect of them.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Changes Requiring Notice to Minister
-
-###### Prior notice
-
-**G.02.021** **(1)** A licensed dealer must notify the Minister in writing before
-
-- **(a)** making or assembling a product or compound that is not set out in the most recent version of the list referred to in paragraph G.02.006(1)(f) that has been submitted to the Minister; or
-
-- **(b)** making a change to a product or compound that is set out in the list, if the change affects any of the information that has previously been submitted.
-
-*Information and list*
-
-**(2)** The notice must contain the information referred to in paragraph G.02.006(1)(f) that is necessary to update the list and be accompanied by the revised version of the list.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-###### Notice — five days
-
-**G.02.022** A licensed dealer must notify the Minister in writing within five days after a person ceases to act as the qualified person in charge or an alternate qualified person in charge.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-###### Notice — 10 days
-
-**G.02.023** **(1)** A licensed dealer must notify the Minister in writing within 10 days after one of the following changes occurs:
-
-- **(a)** a person ceases to act as the senior person in charge; or
-
-- **(b)** the licensed dealer ceases to manufacture or assemble a product or compound that is set out in the most recent version of the list referred to in paragraph G.02.006(1)(f) has been submitted to the Minister.
-
-*Information and list*
-
-**(2)** A notice submitted under paragraph (1)(b) must specify which information referred to in paragraph G.02.006(1)(f) is being changed and be accompanied by the revised version of the list.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-###### Notice of cessation of activities
-
-**G.02.024** **(1)** A licensed dealer that intends to cease conducting activities at their site — whether on or before the expiry of their licence — must notify the Minister in writing to that effect at least 30 days before ceasing those activities.
-
-*Content of notice*
-
-**(2)** The notice must be signed and dated by the senior person in charge and contain the following information:
-
-- **(a)** the expected date of the cessation of activities at the site;
-
-- **(b)** a description of the manner in which any remaining controlled drugs on the site as of that date will be disposed of by the licensed dealer, including
-
-  - **(i)** if some or all of them will be sold or provided to another licensed dealer that will be conducting activities at the same site, the name of that dealer,
-
-  - **(ii)** if some or all of them will be sold or provided to another licensed dealer that will not be conducting activities at the same site, the name of that dealer and the municipal address of their site, and
-
-  - **(iii)** if some or all of them will be destroyed, the date on which and the municipal address of the location at which the destruction is to take place;
-
-- **(c)** the municipal address of the location at which the licensed dealer’s documents will be kept after activities have ceased; and
-
-- **(d)** the name, municipal address, telephone number and, if applicable, the email address of a person who the Minister may contact for further information after activities have ceased.
-
-*Update*
-
-**(3)** After having ceased to conduct the activities, the licensed dealer must submit to the Minister a detailed update of the information referred to in subsection (2) if it differs from what was set out in the notice. The update must be signed and dated by the senior person in charge.
-
-<sub>History: SOR/78-220, s. 3; SOR/85-550, s. 2; SOR/99-125, s. 2; SOR/2004-238, s. 9; SOR/2010-222, s. 11; SOR/2012-230, s. 9; SOR/2019-171, s. 1</sub>
+**G.02.024** \[Repealed, SOR/2025-242, s. 237\]
 
 **G.02.024.1** \[Repealed, SOR/2019-171, s. 1\]
 
 **G.02.024.2** \[Repealed, SOR/2019-171, s. 1\]
 
-##### Changes to Terms and Conditions of Licence
+**G.02.025** \[Repealed, SOR/2025-242, s. 237\]
 
-###### Addition of or modification to term or condition
+**G.02.026** \[Repealed, SOR/2025-242, s. 237\]
 
-**G.02.025** **(1)** The Minister may, at any time other than the issuance, renewal or amendment of a dealer’s licence, add a term or condition to it or modify one if the Minister has reasonable grounds to believe that it is necessary to do so to
+**G.02.027** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(a)** ensure that an international obligation is respected;
+**G.02.028** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(b)** ensure conformity with the requirements associated with the security level specified in the licence; or
+**G.02.029** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(c)** reduce a risk to public health or safety, including the risk of a controlled drug being diverted to an illicit market or use.
+**G.02.030** \[Repealed, SOR/2025-242, s. 237\]
 
-*Notice*
+**G.02.031** \[Repealed, SOR/2025-242, s. 237\]
 
-**(2)** Before adding a term or condition to a licence or modifying one, the Minister must send the licensed dealer a notice that sets out the Minister’s reasons and gives the dealer an opportunity to be heard.
+**G.02.032** \[Repealed, SOR/2025-242, s. 237\]
 
-*Urgent circumstances*
+**G.02.033** \[Repealed, SOR/2025-242, s. 237\]
 
-**(3)** Despite subsection (2), the Minister may add a term or condition to a licence or modify one without prior notice if the Minister has reasonable grounds to believe that it is necessary to do so to protect public health or safety, including to prevent a controlled drug from being diverted to an illicit market or use.
+**G.02.034** \[Repealed, SOR/2025-242, s. 237\]
 
-*Urgent circumstances — notice*
+**G.02.035** \[Repealed, SOR/2025-242, s. 237\]
 
-**(4)** The addition or modification of a term or condition that is made under subsection (3) takes effect as soon as the Minister sends the licensed dealer a notice that
+**G.02.036** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(a)** sets out the reasons for the addition or modification;
+**G.02.037** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(b)** gives the dealer an opportunity to be heard; and
+**G.02.038** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(c)** if applicable, specifies the corrective measures that must be carried out and the date by which they must be carried out.
+**G.02.039** \[Repealed, SOR/2025-242, s. 237\]
 
-<sub>History: SOR/78-220, s. 4; SOR/78-427, s. 4; SOR/85-550, s. 3; SOR/88-482, s. 3(F); SOR/90-261, s. 2(F); SOR/97-228, s. 11; SOR/2004-238, s. 11; SOR/2010-222, s. 12; SOR/2012-230, s. 10; SOR/2014-260, ss. 6(E), 14(F); SOR/2019-171, s. 1</sub>
+**G.02.040** \[Repealed, SOR/2025-242, s. 237\]
 
-###### Deletion of term or condition
+**G.02.041** \[Repealed, SOR/2025-242, s. 237\]
 
-**G.02.026** **(1)** The Minister may delete a term or condition of a dealer’s licence that the Minister determines is no longer necessary.
+**G.02.042** \[Repealed, SOR/2025-242, s. 237\]
 
-*Notice*
+**G.02.043** \[Repealed, SOR/2025-242, s. 237\]
 
-**(2)** The deletion takes effect as soon as the Minister sends the licensed dealer a notice to that effect.
+**G.02.044** \[Repealed, SOR/2025-242, s. 237\]
 
-<sub>History: SOR/2004-238, s. 12; SOR/2010-222, s. 13(F); SOR/2014-260, s. 7; SOR/2019-171, s. 1</sub>
+**G.02.045** \[Repealed, SOR/2025-242, s. 237\]
 
-##### Suspension and Revocation of Licence
+**G.02.046** \[Repealed, SOR/2025-242, s. 237\]
 
-###### Suspension
+**G.02.047** \[Repealed, SOR/2025-242, s. 237\]
 
-**G.02.027** **(1)** The Minister must suspend a dealer’s licence without prior notice if the Minister has reasonable grounds to believe that it is necessary to do so to protect public health or safety, including to prevent a controlled drug from being diverted to an illicit market or use.
+**G.02.048** \[Repealed, SOR/2025-242, s. 237\]
 
-*Notice*
+**G.02.049** \[Repealed, SOR/2025-242, s. 237\]
 
-**(2)** The suspension takes effect as soon as the Minister sends the licensed dealer a notice that
+**G.02.050** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(a)** sets out the reasons for the suspension;
+**G.02.051** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(b)** gives the dealer an opportunity to be heard; and
+**G.02.052** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(c)** if applicable, specifies the corrective measures that must be carried out and the date by which they must be carried out.
+**G.02.053** \[Repealed, SOR/2025-242, s. 237\]
 
-*Reinstatement of licence*
+**G.02.054** \[Repealed, SOR/2025-242, s. 237\]
 
-**(3)** The Minister must reinstate the licence if the Minister has reasonable grounds to believe that the suspension is no longer necessary.
+**G.02.055** \[Repealed, SOR/2025-242, s. 237\]
 
-<sub>History: SOR/2019-171, s. 1</sub>
+**G.02.056** \[Repealed, SOR/2025-242, s. 237\]
 
-###### Revocation
+**G.02.057** \[Repealed, SOR/2025-242, s. 237\]
 
-**G.02.028** **(1)** Subject to subsection (2), the Minister must revoke a dealer’s licence if
+**G.02.058** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(a)** the licensed dealer may no longer apply for a licence under section G.02.002;
+**G.02.059** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(b)** the licensed dealer requests the Minister to do so or informs the Minister of the loss or theft of the licence or the actual or potential unauthorized use of the licence;
+**G.02.060** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(c)** the licensed dealer ceases to conduct activities at their site before the expiry of their licence;
+**G.02.061** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(d)** the licensed dealer does not take the corrective measures specified in an undertaking or notice;
+**G.02.062** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(e)** the licensed dealer has contravened
+**G.02.063** \[Repealed, SOR/2025-242, s. 237\]
 
-  - **(i)** a provision of the Act, the [Cannabis Act](../../acts/en/C-24.5.md) or their regulations, or
+**G.02.064** \[Repealed, SOR/2025-242, s. 237\]
 
-  - **(ii)** a term or condition of a licence or permit issued to the dealer under a regulation made under the Act or issued to the dealer under the [Cannabis Act](../../acts/en/C-24.5.md) or its regulations;
+**G.02.065** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(f)** during the 10 years before the day on which the licence is revoked, the senior person in charge, the qualified person in charge or any alternate qualified person in charge was convicted as specified in subparagraph G.02.005(a)(i) or (b)(i) or received a sentence as specified in subparagraph G.02.005(a)(ii) or (b)(ii);
+**G.02.066** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(g)** the Minister has reasonable grounds to believe that the licensed dealer submitted false or misleading information or false or falsified documents in or in support of an application relating to the licence; or
+**G.02.067** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(h)** information received from a competent authority or the United Nations gives the Minister reasonable grounds to believe that the licensed dealer has been involved in the diversion of a controlled drug to an illicit market or use.
+**G.02.068** \[Repealed, SOR/2025-242, s. 237\]
 
-*Exceptions*
+**G.02.069** \[Repealed, SOR/2025-242, s. 237\]
 
-**(2)** The Minister must not revoke a dealer’s licence for a ground set out in paragraph (1)(e) or (g) if the licensed dealer meets the following conditions, unless the Minister has reasonable grounds to believe that it is necessary to do so to protect public health or safety, including to prevent a controlled drug from being diverted to an illicit market or use:
+**G.02.070** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(a)** the licensed dealer does not have a history of non-compliance with the Act, the [Cannabis Act](../../acts/en/C-24.5.md) or their regulations; and
+**G.02.071** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(b)** the licensed dealer has carried out, or signed an undertaking to carry out, the necessary corrective measures to ensure compliance with the Act, the [Cannabis Act](../../acts/en/C-24.5.md) and their regulations.
+**G.02.072** \[Repealed, SOR/2025-242, s. 237\]
 
-*Notice*
+**G.02.073** \[Repealed, SOR/2025-242, s. 237\]
 
-**(3)** Before revoking a licence, the Minister must send the licensed dealer a notice that sets out the Minister’s reasons and gives the dealer an opportunity to be heard.
+**G.02.074** \[Repealed, SOR/2025-242, s. 237\]
 
-<sub>History: SOR/2019-171, s. 1</sub>
+**G.02.075** \[Repealed, SOR/2025-242, s. 237\]
 
-###### Return of licence
+**G.02.076** \[Repealed, SOR/2025-242, s. 237\]
 
-**G.02.029** The licensed dealer must return the original of the licence to the Minister within 15 days after the effective date of the revocation.
+**G.02.077** \[Repealed, SOR/2025-242, s. 237\]
 
-<sub>History: SOR/2019-171, s. 1</sub>
+**G.02.078** \[Repealed, SOR/2025-242, s. 237\]
 
-#### Import Permits
+**G.02.079** \[Repealed, SOR/2025-242, s. 237\]
 
-##### Application
+**G.03.001** \[Repealed, SOR/2025-242, s. 237\]
 
-**G.02.030** **(1)** A licensed dealer must submit to the Minister, before each importation of a controlled drug, an application for an import permit that contains the following information:
+**G.03.002** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(a)** their name, municipal address and dealer’s licence number;
+**G.03.002.1** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(b)** with respect to the controlled drug to be imported,
+**G.03.002.2** \[Repealed, SOR/2025-242, s. 237\]
 
-  - **(i)** its name, as specified in the dealer’s licence,
+**G.03.003** \[Repealed, SOR/2025-242, s. 237\]
 
-  - **(ii)** if it is a salt, the name of the salt,
+**G.03.004** \[Repealed, SOR/2025-242, s. 237\]
 
-  - **(iii)** its quantity, and
+**G.03.005** \[Repealed, SOR/2025-242, s. 237\]
 
-  - **(iv)** in the case of a raw material, its purity and its anhydrous content;
+**G.03.006** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(c)** if the controlled drug is contained in a product to be imported,
+**G.03.007** \[Repealed, SOR/2025-242, s. 237\]
 
-  - **(i)** the brand name of the product,
+**G.03.008** \[Repealed, SOR/2025-242, s. 237\]
 
-  - **(ii)** the drug identification number that has been assigned to the product under section C.01.014.2, if any, and
+**G.03.009** \[Repealed, SOR/2025-242, s. 237\]
 
-  - **(iii)** the strength per unit of the controlled drug in the product, the number of units per package and the number of packages;
+**G.03.010** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(d)** the name and municipal address, in the country of export, of the exporter from whom the controlled drug is being obtained;
+**G.03.011** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(e)** the name of the customs office where the importation is anticipated; and
+**G.03.012** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(f)** each proposed mode of transportation and any proposed country of transit or transhipment.
+**G.03.013** \[Repealed, SOR/2025-242, s. 237\]
 
-*Signature and attestation*
+**G.03.014** \[Repealed, SOR/2025-242, s. 237\]
 
-**(2)** The application must
+**G.03.015** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(a)** be signed and dated by the qualified person in charge or an alternate qualified person in charge; and
+**G.03.016** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(b)** include an attestation by that person that all of the information submitted in support of the application is correct and complete to the best of their knowledge.
+**G.03.017** \[Repealed, SOR/2025-242, s. 237\]
 
-*Additional information and documents*
+**G.03.017.1** \[Repealed, SOR/2025-242, s. 237\]
 
-**(3)** The licensed dealer must, not later than the date specified in the Minister’s written request to that effect, provide the Minister with any information or document that the Minister determines is necessary to complete the review of the application.
+**G.03.017.2** \[Repealed, SOR/2025-242, s. 237\]
 
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Issuance
-
-**G.02.031** Subject to section G.02.034, on completion of the review of the import permit application, the Minister must issue to the licensed dealer an import permit that contains
-
-- **(a)** the permit number;
-
-- **(b)** the information set out in subsection G.02.030(1);
-
-- **(c)** the effective date of the permit;
-
-- **(d)** the expiry date of the permit, being the earlier of
-
-  - **(i)** a date specified by the Minister that is not more than 180 days after its effective date, and
-
-  - **(ii)** the expiry date of the dealer’s licence; and
-
-- **(e)** any terms and conditions that the Minister has reasonable grounds to believe are necessary to
-
-  - **(i)** ensure that an international obligation is respected, or
-
-  - **(ii)** reduce a risk to public health or safety, including the risk of a controlled drug being diverted to an illicit market or use.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Validity
-
-**G.02.032** An import permit is valid until the earliest of
-
-- **(a)** the expiry date set out in the permit,
-
-- **(b)** the date of the suspension or revocation of the permit under section G.02.037 or G.02.038,
-
-- **(c)** the date of the suspension or revocation of the dealer’s licence under section G.02.027 or G.02.028, and
-
-- **(d)** the date of the suspension or revocation of the export permit that applies to the controlled drug to be imported and that is issued by the competent authority in the country of export.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Return of permit
-
-**G.02.033** If an import permit expires, the licensed dealer must return the original of the permit to the Minister within 15 days after its expiry.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Refusal
-
-**G.02.034** **(1)** The Minister must refuse to issue an import permit if
-
-- **(a)** the licensed dealer is not authorized by their dealer’s licence to import the relevant controlled drug or their licence will expire before the date of importation;
-
-- **(b)** the Minister has reasonable grounds to believe that the importation would contravene an international obligation;
-
-- **(c)** the licensed dealer does not have in place at the site the security measures set out in the Security Directive in respect of the importation;
-
-- **(d)** the licensed dealer has not complied with the requirements of subsection G.02.030(3) or the information or documents that they have provided are not sufficient to complete the review of the permit application;
-
-- **(e)** the Minister has reasonable grounds to believe that the licensed dealer has submitted false or misleading information or false or falsified documents in or in support of the permit application;
-
-- **(f)** the licensed dealer has been notified that their application to renew or amend their licence will be refused;
-
-- **(g)** the Minister has reasonable grounds to believe that the importation would contravene the laws of the country of export or any country of transit or transhipment; or
-
-- **(h)** the Minister has reasonable grounds to believe that the issuance of the permit would likely create a risk to public health or safety, including the risk of a controlled drug being diverted to an illicit market or use.
-
-*Notice*
-
-**(2)** Before refusing to issue the import permit, the Minister must send the licensed dealer a notice that sets out the Minister’s reasons and gives the dealer an opportunity to be heard.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Providing copy of permit
-
-**G.02.035** The holder of an import permit must provide a copy of the permit to the customs office at the time of importation.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Declaration
-
-**G.02.036** The holder of an import permit must provide the Minister, within 15 days after the day of release of the controlled drug specified in the permit in accordance with the [Customs Act](../../acts/en/C-52.6.md), with a declaration that contains the following information:
-
-- **(a)** their name and the numbers of their dealer’s licence and the import permit that applies to the controlled drug;
-
-- **(b)** with respect to the controlled drug,
-
-  - **(i)** its name, as set out in the dealer’s licence,
-
-  - **(ii)** if it is a salt, the name of the salt, and
-
-  - **(iii)** its quantity;
-
-- **(c)** if the controlled drug is contained in a product that they have imported,
-
-  - **(i)** the brand name of the product,
-
-  - **(ii)** the drug identification number that has been assigned to the product under section C.01.014.2, if any, and
-
-  - **(iii)** the strength per unit of the controlled drug in the product, the number of units per package and the number of packages; and
-
-- **(d)** the name of the customs office from which the controlled drug was released and the date of the release.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Suspension
-
-**G.02.037** **(1)** The Minister must suspend an import permit without prior notice if
-
-- **(a)** the dealer’s licence is suspended;
-
-- **(b)** the Minister has reasonable grounds to believe that the suspension is necessary to protect public health or safety, including to prevent a controlled drug from being diverted to an illicit market or use; or
-
-- **(c)** the importation would contravene the laws of the country of export or any country of transit or transhipment.
-
-*Notice*
-
-**(2)** The suspension takes effect as soon as the Minister sends the licensed dealer a notice that
-
-- **(a)** sets out the reasons for the suspension;
-
-- **(b)** gives the dealer an opportunity to be heard; and
-
-- **(c)** if applicable, specifies the corrective measures that must be carried out and the date by which they must be carried out.
-
-*Reinstatement of permit*
-
-**(3)** The Minister must reinstate the import permit if the Minister has reasonable grounds to believe that the suspension is no longer necessary.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Revocation
-
-**G.02.038** **(1)** Subject to subsection (2), the Minister must revoke an import permit if
-
-- **(a)** the licensed dealer requests the Minister to do so or informs the Minister of the loss or theft of the permit or the actual or potential unauthorized use of the permit;
-
-- **(b)** the licensed dealer does not carry out the corrective measures specified by the Minister under paragraph G.02.037(2)(c) by the specified date;
-
-- **(c)** the licensed dealer has contravened a term or condition of the permit;
-
-- **(d)** the Minister has reasonable grounds to believe that the licensed dealer submitted false or misleading information or false or falsified documents in or in support of the application for the permit;
-
-- **(e)** information received from a competent authority or the United Nations gives the Minister reasonable grounds to believe that the licensed dealer has been involved in the diversion of a controlled drug to an illicit market or use; or
-
-- **(f)** the dealer’s licence has been revoked.
-
-*Exceptions*
-
-**(2)** The Minister must not revoke an import permit for a ground set out in paragraph (1)(d) or G.02.028(1)(e) or (g) if the licensed dealer meets the following conditions, unless the Minister has reasonable grounds to believe that it is necessary to do so to protect public health or safety, including to prevent a controlled drug from being diverted to an illicit market or use:
-
-- **(a)** the licensed dealer does not have a history of non-compliance with the Act, the [Cannabis Act](../../acts/en/C-24.5.md) or their regulations; and
-
-- **(b)** the licensed dealer has carried out, or signed an undertaking to carry out, the necessary corrective measures to ensure compliance with the Act, the [Cannabis Act](../../acts/en/C-24.5.md) and their regulations.
-
-*Notice*
-
-**(3)** Before revoking an import permit, the Minister must send the licensed dealer a notice that sets out the Minister’s reasons and gives the dealer an opportunity to be heard.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Return of permit
-
-**G.02.039** If an import permit is revoked, the licensed dealer must return the original of the permit to the Minister within 15 days after the effective date of the revocation.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-#### Export Permits
-
-##### Application
-
-**G.02.040** **(1)** A licensed dealer must submit to the Minister, before each exportation of a controlled drug, an application for an export permit that contains the following information and document:
-
-- **(a)** their name, municipal address and dealer’s licence number;
-
-- **(b)** with respect to the controlled drug to be exported,
-
-  - **(i)** its name, as specified in the dealer’s licence,
-
-  - **(ii)** if it is a salt, the name of the salt,
-
-  - **(iii)** its quantity, and
-
-  - **(iv)** in the case of a raw material, its purity and its anhydrous content;
-
-- **(c)** if the controlled drug is contained in a product to be exported,
-
-  - **(i)** the brand name of the product,
-
-  - **(ii)** the drug identification number that has been assigned to the product under section C.01.014.2, if any, and
-
-  - **(iii)** the strength per unit of the controlled drug in the product, the number of units per package and the number of packages;
-
-- **(d)** the name and municipal address of the importer in the country of final destination;
-
-- **(e)** the name of the customs office where the exportation is anticipated;
-
-- **(f)** each proposed mode of transportation and any proposed country of transit or transhipment; and
-
-- **(g)** a copy of the import permit issued by the competent authority in the country of final destination that sets out the name of the importer and the municipal address of their site in that country.
-
-*Signature and attestation*
-
-**(2)** The application must
-
-- **(a)** be signed and dated by the qualified person in charge or an alternate qualified person in charge; and
-
-- **(b)** include an attestation by that person that, to the best of their knowledge,
-
-  - **(i)** the exportation does not contravene the laws of the country of final destination or any country of transit or transhipment, and
-
-  - **(ii)** all of the information and documents submitted in support of the application are correct and complete.
-
-*Additional information and documents*
-
-**(3)** The licensed dealer must, not later than the date specified in the Minister’s written request to that effect, provide the Minister with any information or document that the Minister determines is necessary to complete the review of the application.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Issuance
-
-**G.02.041** Subject to section G.02.044, on completion of the review of the export permit application, the Minister must issue to the licensed dealer an export permit that contains
-
-- **(a)** the permit number;
-
-- **(b)** the information set out in paragraphs G.02.040(1)(a) to (f);
-
-- **(c)** the effective date of the permit;
-
-- **(d)** the expiry date of the permit, being the earliest of
-
-  - **(i)** a date specified by the Minister that is not more than 180 days after its effective date,
-
-  - **(ii)** the expiry date of the dealer’s licence, and
-
-  - **(iii)** the expiry date of the import permit issued by the competent authority in the country of final destination; and
-
-- **(e)** any terms and conditions that the Minister has reasonable grounds to believe are necessary to
-
-  - **(i)** ensure that an international obligation is respected, or
-
-  - **(ii)** reduce a risk to public health or safety, including the risk of a controlled drug being diverted to an illicit market or use.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Validity
-
-**G.02.042** An export permit is valid until the earliest of
-
-- **(a)** the expiry date set out in the permit,
-
-- **(b)** the date of the suspension or revocation of the permit under section G.02.047 or G.02.048,
-
-- **(c)** the date of the suspension or revocation of the dealer’s licence under section G.02.027 or G.02.028, and
-
-- **(d)** the date of the expiry, suspension or revocation of the import permit that applies to the controlled drug to be exported and that is issued by the competent authority in the country of final destination.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Return of permit
-
-**G.02.043** If an export permit expires, the licensed dealer must return the original of the permit to the Minister within 15 days after its expiry.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Refusal
-
-**G.02.044** **(1)** The Minister must refuse to issue an export permit if
-
-- **(a)** the licensed dealer is not authorized by their dealer’s licence to export the relevant controlled drug or their dealer’s licence will expire before the date of export;
-
-- **(b)** the Minister has reasonable grounds to believe that the exportation would contravene an international obligation;
-
-- **(c)** the licensed dealer has not complied with the requirements of subsection G.02.040(3) or the information or documents that they have provided are not sufficient to complete the review of the permit application;
-
-- **(d)** the Minister has reasonable grounds to believe that the licensed dealer has submitted false or misleading information or false or falsified documents in or in support of the permit application;
-
-- **(e)** the licensed dealer has been notified that their application to renew or amend their licence will be refused;
-
-- **(f)** the Minister has reasonable grounds to believe that the exportation would not be in conformity with the import permit issued by the competent authority of the country of final destination;
-
-- **(g)** the Minister has reasonable grounds to believe that the exportation would contravene the laws of the country of final destination or any country of transit or transhipment; or
-
-- **(h)** the Minister has reasonable grounds to believe that the issuance of the permit would likely create a risk to public health or safety, including the risk of a controlled drug being diverted to an illicit market or use.
-
-*Notice*
-
-**(2)** Before refusing to issue the export permit, the Minister must send the licensed dealer a notice that sets out the Minister’s reasons and gives the dealer an opportunity to be heard.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Providing copy of permit
-
-**G.02.045** The holder of an export permit must provide a copy of the permit to the customs office at the time of exportation.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Declaration
-
-**G.02.046** The holder of an export permit must provide the Minister, within 15 days after the day of export of the controlled drug specified in the permit, with a declaration that contains the following information:
-
-- **(a)** their name and the numbers of their dealer’s licence and the export permit that applies to the controlled drug;
-
-- **(b)** with respect to the controlled drug,
-
-  - **(i)** its name, as specified in the dealer’s licence,
-
-  - **(ii)** if it is a salt, the name of the salt, and
-
-  - **(iii)** its quantity;
-
-- **(c)** if the controlled drug is contained in a product that they have exported,
-
-  - **(i)** the brand name of the product,
-
-  - **(ii)** the drug identification number that has been assigned to the product under section C.01.014.2, if any, and
-
-  - **(iii)** the strength per unit of the controlled drug in the product, the number of units per package and the number of packages; and
-
-- **(d)** the name of the customs office from which the controlled drug was exported and the date of export.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Suspension
-
-**G.02.047** **(1)** The Minister must suspend an export permit without prior notice if
-
-- **(a)** the dealer’s licence is suspended;
-
-- **(b)** the Minister has reasonable grounds to believe that the suspension is necessary to protect public health or safety, including to prevent a controlled drug from being diverted to an illicit market or use; or
-
-- **(c)** the exportation would contravene the laws of the country of final destination or any country of transit or transhipment.
-
-*Notice*
-
-**(2)** The suspension takes effect as soon as the Minister sends the licensed dealer a notice that
-
-- **(a)** sets out the reasons for the suspension;
-
-- **(b)** gives the dealer an opportunity to be heard; and
-
-- **(c)** if applicable, specifies the corrective measures that must be carried out and the date by which they must be carried out.
-
-*Reinstatement of permit*
-
-**(3)** The Minister must reinstate the export permit if the Minister has reasonable grounds to believe that the suspension is no longer necessary.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Revocation
-
-**G.02.048** **(1)** Subject to subsection (2), the Minister must revoke an export permit if
-
-- **(a)** the licensed dealer requests the Minister to do so or informs the Minister of the loss or theft of the permit or the actual or potential unauthorized use of the permit;
-
-- **(b)** the licensed dealer does not carry out the corrective measures specified by the Minister under paragraph G.02.047(2)(c) by the specified date;
-
-- **(c)** the licensed dealer has contravened a term or condition of the permit;
-
-- **(d)** the Minister has reasonable grounds to believe that the licensed dealer submitted false or misleading information or false or falsified documents in or in support of the application for the permit;
-
-- **(e)** information received from a competent authority or the United Nations gives the Minister reasonable grounds to believe that the licensed dealer has been involved in the diversion of a controlled drug to an illicit market or use; or
-
-- **(f)** the dealer’s licence has been revoked.
-
-*Exceptions*
-
-**(2)** The Minister must not revoke an export permit for a ground set out in paragraph (1)(d) or G.02.028(1)(e) or (g) if the licensed dealer meets the following conditions, unless the Minister has reasonable grounds to believe that it is necessary to do so to protect public health or safety, including to prevent a controlled drug from being diverted to an illicit market or use:
-
-- **(a)** the licensed dealer does not have a history of non-compliance with the Act, the [Cannabis Act](../../acts/en/C-24.5.md) or their regulations; and
-
-- **(b)** the licensed dealer has carried out, or signed an undertaking to carry out, the necessary corrective measures to ensure compliance with the Act, the [Cannabis Act](../../acts/en/C-24.5.md) and their regulations.
-
-*Notice*
-
-**(3)** Before revoking an export permit, the Minister must send the licensed dealer a notice that sets out the Minister’s reasons and gives the dealer an opportunity to be heard.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Return of permit
-
-**G.02.049** If an export permit is revoked, the licensed dealer must return the original of the permit to the Minister within 15 days after the effective date of the revocation.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-#### Identification
-
-##### Name
-
-**G.02.050** A licensed dealer must include their name, as set out in their dealer’s licence, on all the means by which they identify themself in regard to their activities in relation to controlled drugs, including labels, orders, shipping documents, invoices and advertising
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-#### Sale of Controlled Drugs
-
-##### Sale to another licensed dealer
-
-**G.02.051** A licensed dealer may sell or provide a controlled drug to another licensed dealer.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Sale to pharmacist
-
-**G.02.052** **(1)** Subject to subsection (2), a licensed dealer may sell or provide a controlled drug to a pharmacist.
-
-*Exception — pharmacist named in notice*
-
-**(2)** A licensed dealer must not sell or provide to a pharmacist named in a notice issued under section G.03.017.2 the controlled drugs referred to in the notice unless the dealer has received a notice of retraction issued under section G.03.017.3.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Sale to practitioner
-
-**G.02.053** **(1)** Subject to subsection (2), a licensed dealer may sell or provide a controlled drug to a practitioner.
-
-*Exception — practitioner named in notice*
-
-**(2)** A licensed dealer must not sell or provide to a practitioner who is named in a notice issued under section G.04.004.2 the controlled drugs referred to in the notice, unless the dealer has received a notice of retraction issued under section G.04.004.3.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Provision to hospital employee
-
-**G.02.054** A licensed dealer may provide a controlled drug to a hospital employee.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Sale to exempted person
-
-**G.02.055** A licensed dealer may sell or provide a controlled drug to a person who is exempted under section 56 of the Act with respect to the possession of that drug.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Sale to Minister
-
-**G.02.056** A licensed dealer may sell or provide a drug to the Minister.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Written order
-
-**G.02.057** A licensed dealer may sell or provide a controlled drug under any of sections G.02.051 to G.02.055 if
-
-- **(a)** the dealer has received a written order that specifies the name and quantity of the drug to be supplied and is signed and dated
-
-  - **(i)** in the case of a drug to be provided to a hospital employee or a practitioner in a hospital, by the pharmacist in charge of the hospital’s pharmacy or by a practitioner authorized by the person in charge of the hospital to sign the order, and
-
-  - **(ii)** in any other case, by the person to whom the drug is to be sold or provided; and
-
-- **(b)** the dealer has verified the signature, if it is unknown to them.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Verbal order
-
-**G.02.058** **(1)** A licensed dealer may sell or provide a controlled drug listed in Part II or III of the schedule to this Part if
-
-- **(a)** the dealer has received a verbal order that specifies the name and quantity of the drug to be supplied; and
-
-- **(b)** in the case of the provision of the drug to a hospital employee or a practitioner in a hospital, the order has been placed by the pharmacist in charge of the hospital’s pharmacy or by a practitioner authorized by the person in charge of the hospital to place the order.
-
-*Receipt*
-
-**(2)** A licensed dealer that has received a verbal order from a pharmacist or practitioner must, within five working days after filling the order, obtain and keep a receipt that includes
-
-- **(a)** the signature of the pharmacist or practitioner who received the controlled drug;
-
-- **(b)** the date on which the pharmacist or practitioner received the controlled drug; and
-
-- **(c)** the name and quantity of the controlled drug.
-
-*No further sale without receipt*
-
-**(3)** If the licensed dealer has not obtained the receipt within five working days, the dealer must not sell or provide a controlled drug to the pharmacist or practitioner in accordance with a further verbal order received from them until after obtaining the receipt.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Anticipated multiple sales
-
-**G.02.059** **(1)** A licensed dealer may sell or provide a controlled drug more than once in respect of one order if the order indicates
-
-- **(a)** the number of sales or provisions, not exceeding four;
-
-- **(b)** the specific quantity for each sale or provision; and
-
-- **(c)** the intervals between each sale or provision.
-
-*Multiple sales — insufficient stock*
-
-**(2)** A licensed dealer may sell or provide a controlled drug more than once in respect of one order if, at the time of receipt of the order, the dealer temporarily does not have in stock the quantity of the drug ordered, in which case the dealer may sell or provide against the order the quantity of the drug that the dealer has available and deliver the balance later.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-#### Packaging and Transportation
-
-##### Packaging — sale and provision
-
-**G.02.060** **(1)** A licensed dealer that sells or provides a controlled drug must securely package it in its immediate container, which must be sealed in such a manner that the container cannot be opened without breaking the seal.
-
-*Packaging — transport and export*
-
-**(2)** A licensed dealer that transports or exports a controlled drug must ensure that its package is sealed in such a manner that the package cannot be opened without breaking the seal.
-
-*Exception*
-
-**(3)** Subsection (1) does not apply to a test kit that contains a controlled drug and that has a registration number.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Transport
-
-**G.02.061** **(1)** A licensed dealer must, in taking delivery of a controlled drug that they have imported or in making delivery of a controlled drug,
-
-- **(a)** take any measures that are necessary to ensure the security of the drug while it is being transported;
-
-- **(b)** subject to subsection (2), use a method of transportation that permits an accurate record to be kept of all handling of the drug as well as the signatures of every person handling it until it is delivered to the consignee;
-
-- **(c)** in the case of an imported drug, transport it directly to the site specified in their licence after it is released under the [Customs Act](../../acts/en/C-52.6.md); and
-
-- **(d)** in the case of a drug to be exported, transport it directly from the site specified in their licence to the customs office where it will be exported.
-
-*Exception*
-
-**(2)** A licensed dealer may have a preparation transported by a common carrier.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-#### Thefts, Losses and Suspicious Transactions
-
-##### Protective measures
-
-**G.02.062** A licensed dealer must take any measures that are necessary to ensure the security of any controlled drug in their possession and any licence or permit in their possession.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Theft or loss — licence and permit
-
-**G.02.063** A licensed dealer that becomes aware of a theft or loss of their licence or permit must provide a written report to the Minister within 72 hours after becoming aware of it.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Theft or unexplainable loss — controlled drug
-
-**G.02.064** A licensed dealer that becomes aware of a theft of a controlled drug or of a loss of a controlled drug that cannot be explained on the basis of normally accepted business activities must
-
-- **(a)** provide a written report to a member of a police force within 24 hours after becoming aware of the theft or loss; and
-
-- **(b)** provide a written report to the Minister within 72 hours after becoming aware of the theft or loss and include a confirmation that the report required under paragraph (a) has been provided.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Suspicious transaction
-
-**G.02.065** **(1)** A licensed dealer must provide a written report containing the following information to the Minister within 72 hours after becoming aware of a transaction occurring in the course of their activities that they have reasonable grounds to suspect may be related to the diversion of a controlled drug to an illicit market or use:
-
-- **(a)** their name, municipal address, telephone number and, if the licensed dealer is a corporation, the position held by the individual making the report;
-
-- **(b)** the name and municipal address of the other party to the transaction;
-
-- **(c)** details of the transaction, including its date and time, its type, the name and quantity of the controlled drug and, in the case of a product or compound, the quantity of every controlled drug that it contains;
-
-- **(d)** in the case of a product that contains the controlled drug, other than a test kit, the drug identification number that is assigned to the product under section C.01.014.2; and
-
-- **(e)** a detailed description of the reasons for those suspicions.
-
-*Good faith*
-
-**(2)** No civil proceedings lie against a licensed dealer for having provided the report in good faith.
-
-*Non-disclosure*
-
-**(3)** A licensed dealer must not disclose that they have provided the report or disclose details of it, with the intent to prejudice a criminal investigation, whether or not a criminal investigation has begun.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Partial protection against self-incrimination
-
-**G.02.066** A report made under any of sections G.02.063 to G.02.065, or any evidence derived from it, is not to be used or received to incriminate the licensed dealer in any criminal proceeding against them other than a prosecution under section 132, 136 or 137 of the [Criminal Code](../../acts/en/C-46.md).
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-#### Destruction of Controlled Drugs
-
-##### Destruction at site
-
-**G.02.067** A licensed dealer that intends to destroy a controlled drug at the site specified in their licence must ensure that the following conditions are met:
-
-- **(a)** the licensed dealer obtains the prior approval of the Minister;
-
-- **(b)** the destruction occurs in the presence of two of the following persons, at least one of whom must be a person referred to in subparagraph (i):
-
-  - **(i)** the senior person in charge, the qualified person in charge or an alternate qualified person in charge, and
-
-  - **(ii)** a person who works for or provides services to the licensed dealer and holds a senior position;
-
-- **(c)** the destruction is carried out in accordance with a method that complies with all federal, provincial and municipal environmental protection legislation applicable to the place of destruction; and
-
-- **(d)** as soon as the destruction is completed, the person who carried out the destruction and each of the two persons referred to in paragraph (b) who were present at the destruction sign and date a joint declaration attesting that the controlled drug was completely destroyed, to which each signatory must add their name in printed letters.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Destruction elsewhere than at site
-
-**G.02.068** A licensed dealer that intends to destroy a controlled drug elsewhere than at the site specified in their licence must ensure that the following conditions are met:
-
-- **(a)** the licensed dealer obtains the prior approval of the Minister;
-
-- **(b)** the licensed dealer takes any measures that are necessary to ensure the security of the controlled drug while it is being transported in order to prevent its diversion to an illicit market or use;
-
-- **(c)** the destruction is carried out by a person working for a business that specializes in the destruction of dangerous goods and in the presence of another person working for that business;
-
-- **(d)** the destruction is carried out in accordance with a method that complies with all federal, provincial and municipal environmental protection legislation applicable to the place of destruction; and
-
-- **(e)** as soon as the destruction is completed, the person who carried out the destruction provides the licensed dealer with a dated declaration attesting that the controlled drug was completely destroyed and containing
-
-  - **(i)** the municipal address of the place of destruction,
-
-  - **(ii)** the name and quantity of the controlled drug and, if applicable, the brand name and quantity of the product containing it or the name and quantity of the compound containing it,
-
-  - **(iii)** the method of destruction,
-
-  - **(iv)** the date of destruction, and
-
-  - **(v)** the names in printed letters and signatures of that person and the other person who was present at the destruction.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Application for prior approval
-
-**G.02.069** **(1)** A licensed dealer must submit to the Minister an application that contains the following information in order to obtain the Minister’s prior approval to destroy a controlled drug:
-
-- **(a)** their name, municipal address and dealer’s licence number;
-
-- **(b)** the proposed date of destruction;
-
-- **(c)** the municipal address of the place of destruction;
-
-- **(d)** a brief description of the method of destruction;
-
-- **(e)** if the destruction is to be carried out at the site specified in the dealer’s licence, the names of the persons proposed for the purpose of paragraph G.02.067(b) and information establishing that they meet the conditions of that paragraph;
-
-- **(f)** the name of the controlled drug and, if applicable, the brand name of the product containing it or the name of the compound containing it; and
-
-- **(g)** the form and quantity of the controlled drug or the product or compound containing it and, if applicable, the strength per unit of the controlled drug in the product or compound, the number of units per package and the number of packages.
-
-*Signature and attestation*
-
-**(2)** The application must
-
-- **(a)** be signed and dated by the qualified person in charge or an alternate qualified person in charge; and
-
-- **(b)** include an attestation by that person that
-
-  - **(i)** the proposed method of destruction complies with all federal, provincial and municipal environmental protection legislation applicable to the place of destruction, and
-
-  - **(ii)** all of the information submitted in support of the application is correct and complete to the best of the signatory’s knowledge.
-
-*Additional information and documents*
-
-**(3)** The licensed dealer must, not later than the date specified in the Minister’s written request to that effect, provide the Minister with any information or document that the Minister determines is necessary to complete the review of the application.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Approval
-
-**G.02.070** On completion of the review of the approval application, the Minister must approve the destruction of the controlled drug unless
-
-- **(a)** in the case of a destruction that is to be carried out at the site specified in the dealer’s licence, the persons proposed for the purpose of paragraph G.02.067(b) do not meet the conditions of that paragraph;
-
-- **(b)** the Minister has reasonable grounds to believe that the controlled drug would not be destroyed;
-
-- **(c)** the Minister has reasonable grounds to believe that the licensed dealer has submitted false or misleading information or false or falsified documents in or in support of the approval application;
-
-- **(d)** the controlled drug or a portion of it is required for the purposes of a criminal or administrative investigation or a preliminary inquiry, trial or other proceeding under any Act or its regulations; or
-
-- **(e)** the Minister has reasonable grounds to believe that the approval would likely create a risk to public health or safety, including the risk of the controlled drug being diverted to an illicit market or use.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-#### Documents
-
-##### Method of recording information
-
-**G.02.071** A licensed dealer must record any information that they are required to record under this Part using a method that permits an audit of it to be made at any time.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Information — general
-
-**G.02.072** A licensed dealer must record the following information:
-
-- **(a)** the name, form and quantity of any controlled drug that the dealer orders, the name of the person who placed the order on the dealer’s behalf and the date of the order;
-
-- **(b)** the name, form and quantity of any controlled drug that the dealer receives, the name and municipal address of the person who sold or provided it and the date on which it was received;
-
-- **(c)** in the case of a controlled drug that the dealer sells or provides,
-
-  - **(i)** the brand name of the product or the name of the compound containing the controlled drug and the name of the controlled drug,
-
-  - **(ii)** the drug identification number that has been assigned to the product under section C.01.014.2, if any,
-
-  - **(iii)** the form and quantity of the controlled drug and, if applicable, the strength per unit of the controlled drug in the product or compound, the number of units per package and the number of packages,
-
-  - **(iv)** the name and municipal address of the person to whom it was sold or provided, and
-
-  - **(v)** the date on which it was sold or provided;
-
-- **(d)** the name, form and quantity of any controlled drug that the dealer manufactures or assembles and the date on which it was placed in stock and, if applicable, the strength per unit of the controlled drug in the product or compound, the number of units per package and the number of packages;
-
-- **(e)** the name and quantity of any controlled drug that the dealer uses in the manufacturing or assembling of a product or compound, as well as the brand name and quantity of the product or the name and quantity of the compound, and the date on which the product or compound was placed in stock;
-
-- **(f)** the name, form and quantity of any controlled drug in stock at the end of each month;
-
-- **(g)** the name, form and quantity of any controlled drug that the dealer delivers, transports or sends, the name and municipal address of the consignee and the date on which it was delivered, transported or sent;
-
-- **(h)** the name, form and quantity of any controlled drug that the dealer imports, the date on which it was imported, the name and municipal address of the exporter, the country of exportation and any country of transit or transhipment; and
-
-- **(i)** the name, form and quantity of any controlled drug that the dealer exports, the date on which it was exported, the name and municipal address of the importer, the country of final destination and any country of transit or transhipment.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Verbal order
-
-**G.02.073** A licensed dealer that receives a verbal order for a controlled drug listed in Part II or III of the schedule to this Part and sells or provides it to a pharmacist, practitioner or hospital employee must immediately record
-
-- **(a)** the name of the person who placed the order;
-
-- **(b)** the date on which the order was received; and
-
-- **(c)** the name of the person recording the order.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Explainable loss of controlled drug
-
-**G.02.074** A licensed dealer that becomes aware of a loss of a controlled drug that can be explained on the basis of normally accepted business activities must record the following information:
-
-- **(a)** the name of the lost controlled drug and, if applicable, the brand name of the product or the name of the compound containing it;
-
-- **(b)** the form and quantity of the controlled drug and, if applicable, the form of the product or compound containing it, the strength per unit of the controlled drug in the product or compound, the number of units per package and the number of packages;
-
-- **(c)** the date on which the dealer became aware of the loss; and
-
-- **(d)** the explanation for the loss.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Destruction
-
-**G.02.075** A licensed dealer must record the following information concerning any controlled drug that they destroy at the site specified in their licence:
-
-- **(a)** the municipal address of the place of destruction;
-
-- **(b)** the name, form and quantity of the controlled drug and, if applicable, the brand name and quantity of the product containing the drug or the name and quantity of the compound containing the drug;
-
-- **(c)** the method of destruction; and
-
-- **(d)** the date of destruction.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Annual report
-
-**G.02.076** **(1)** Subject to subsections (2) and (3), a licensed dealer must provide to the Minister, within three months after the end of each calendar year, an annual report that contains
-
-- **(a)** the name, form and total quantity of each controlled drug that they receive, produce, sell, provide, import, export or destroy during the calendar year, as well as the name and total quantity of each controlled drug that they use to manufacture or assemble a product or compound;
-
-- **(b)** the name, form and quantity of each controlled drug in physical inventory taken at the site specified in their licence at the end of the calendar year; and
-
-- **(c)** the name, form and quantity of any controlled drug that has been lost or stolen in the course of conducting activities during the calendar year.
-
-*Non-renewal or revocation within first three months*
-
-**(2)** If a licensed dealer’s licence expires without being renewed or is revoked during the first three months of a calendar year, the dealer must provide to the Minister
-
-- **(a)** within three months after the end of the preceding calendar year, the annual report in respect of that year; and
-
-- **(b)** within three months after the expiry or revocation, a report in respect of the portion of the current calendar year during which the licence was valid that contains the information referred to in subsection (1), in which the quantity in physical inventory is to be calculated as of the date of expiry or revocation.
-
-*Non-renewal or revocation after third month*
-
-**(3)** If a licensed dealer’s licence expires without being renewed or is revoked after the first three months of a calendar year, the dealer must provide to the Minister, within three months after the expiry or revocation, a report in respect of the portion of the calendar year during which the licence was valid that contains the information referred to in subsection (1) for that period, in which the quantity in physical inventory is to be calculated as of the date of expiry or revocation.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Retention period
-
-**G.02.077** A licensed dealer and a former licensed dealer must keep any document containing the information that they are required to record under this Part, including every declaration and a copy of every report, for a period of two years following the day on which the last record is recorded in the document and in a manner that permits an audit of the document to be made at any time.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Location
-
-**G.02.078** The documents must be kept
-
-- **(a)** in the case of a licensed dealer, at the site specified in their licence; and
-
-- **(b)** in the case of a former licensed dealer, at a location in Canada.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-##### Quality of documents
-
-**G.02.079** The documents must be complete and readily retrievable and the information in them must be legible and indelible.
-
-<sub>History: SOR/2019-171, s. 1</sub>
-
-### DIVISION 3 — Pharmacists
-
-<sub>History: SOR/2019-171, s. 2(F)</sub>
-
-#### Record of Controlled Drugs Received
-
-<sub>History: SOR/2019-171, s. 2</sub>
-
-##### General information
-
-**G.03.001** **(1)** A pharmacist, on receipt of a controlled drug from a licensed dealer or from another pharmacist, shall keep a record of the name and quantity of the controlled drug received by them, the name and address of the person who sold or provided it and the date it was received.
-
-*Record*
-
-**(2)** The record of information referred to in subsection (1) shall be kept
-
-- **(a)** in a manner that permits an audit to be made; and
-
-- **(b)** subject to subsection (3), in a book, register or similar record maintained exclusively for controlled drugs.
-
-*Exception*
-
-**(3)** The record of information referred to in subsection (1) may, with respect to a controlled drug listed in Part II or III of the schedule to this Part, be kept in a form other than that specified in paragraph (2)(b).
-
-<sub>History: SOR/78-427, s. 5; SOR/85-550, s. 4; SOR/86-91, s. 2(F); SOR/90-261, s. 3(F); SOR/97-228, s. 12; SOR/2004-238, s. 13; SOR/2010-222, s. 14(E)</sub>
-
-#### Sale of Controlled Drugs
-
-<sub>History: SOR/2019-171, s. 3</sub>
-
-##### No sale without prescription
-
-**G.03.002** No pharmacist shall, except as otherwise provided in this Part, sell or provide a controlled drug to any person unless the pharmacist has first been provided with a prescription for it, and
-
-- **(a)** if the prescription is in writing, it has been signed and dated by the practitioner issuing the same and the signature of the practitioner where not known to the pharmacist, has been verified by him; or
-
-- **(b)** if the prescription is given verbally, the pharmacist has taken reasonable precaution to satisfy himself that the person giving the prescription is a practitioner.
-
-<sub>History: SOR/2004-238, s. 14</sub>
-
-##### Prohibition — pharmacist or practitioner named in notice
-
-**G.03.002.1** Subject to section G.03.002.2 and notwithstanding sections G.03.002, G.03.003 and G.03.005, no pharmacist shall
-
-- **(a)** sell or provide a controlled drug, other than a preparation, to a pharmacist named in a notice given by the Minister under section G.03.017.2;
-
-- **(b)** sell or provide a preparation to a pharmacist named in a notice given by the Minister under section G.03.017.2;
-
-- **(c)** dispense, sell or provide a controlled drug, other than a preparation, to, or pursuant to a prescription or order given by, a practitioner named in a notice given by the Minister under section G.04.004.2; or
-
-- **(d)** dispense, sell or provide a preparation to a practitioner or pursuant to a prescription or order given by a practitioner named in a notice given by the Minister under section G.04.004.2.
-
-<sub>History: SOR/2003-135, ss. 7, 8; SOR/2004-238, s. 15; SOR/2019-171, s. 4(F)</sub>
-
-##### Exception — notice of retraction
-
-**G.03.002.2** Section G.03.002.1 does not apply to a pharmacist to whom the Minister has issued a notice of retraction of the notice
-
-- **(a)** under section G.03.017.3, in respect of a pharmacist named in a notice issued by the Minister under section G.03.017.2; or
-
-- **(b)** under section G.04.004.3, in respect of a practitioner named in a notice issued by the Minister under section G.04.004.2.
-
-<sub>History: SOR/2003-135, s. 4</sub>
-
-##### Sale to practitioner – order
-
-**G.03.003** **(1)** A pharmacist may sell or provide a controlled drug to a practitioner for use in their practice
-
-- **(a)** upon a written order, signed and dated by that practitioner, that has been verified if the signature of the practitioner is unknown to the pharmacist; or
-
-- **(b)** upon a verbal order specifying the name and quantity of the drug if the pharmacist has taken reasonable precautions to satisfy themself that the person making the order is a practitioner.
-
-**(2)** \[Repealed, SOR/2019-171, s. 5\]
-
-<sub>History: SOR/85-550, s. 5; SOR/2004-238, s. 16; SOR/2012-230, s. 11; SOR/2019-171, s. 5</sub>
-
-##### Prescription file
-
-**G.03.004** A pharmacist shall, in respect of controlled drugs sold or provided to a practitioner under section G.03.003, keep in a special prescription file a record showing the date, the name and address of the practitioner, and the quantity and kind of controlled drug sold or provided.
-
-<sub>History: SOR/2004-238, s. 17</sub>
-
-##### Provision to hospital
-
-**G.03.005** A pharmacist may provide a controlled drug to a hospital employee or to a practitioner in a hospital on receipt of a written order signed and dated by the pharmacist in charge of the hospital’s pharmacy or by a practitioner authorized by the person in charge of the hospital to sign the order, if the signature of that pharmacist or practitioner is known to the pharmacist or, if unknown, has been verified by the pharmacist.
-
-<sub>History: SOR/85-550, s. 6; SOR/2004-238, s. 18(E); SOR/2019-171, s. 6</sub>
-
-##### Refilling prescription
-
-**G.03.006** A pharmacist shall not refill a prescription for a controlled drug unless
-
-- **(a)** the practitioner, at the time that he issued the prescription, directed in writing, in the case of a controlled drug listed in Part I of the schedule to this Part, or directed in writing or orally, in the case of a controlled drug listed in Part II or III of the schedule to this Part, that the prescription be refilled, the number of times that it may be refilled and the dates for or the intervals between refills; and
-
-- **(b)** the pharmacist keeps a record of each refilling of a prescription.
-
-<sub>History: SOR/78-427, s. 6; SOR/97-228, s. 13</sub>
-
-#### Records
-
-##### Written order or prescription
-
-**G.03.007** If, in accordance with a written order or prescription, a pharmacist dispenses a controlled drug listed in Part I of the schedule to this Part, other than a preparation, the pharmacist must immediately enter in a book, register or similar record maintained for such purposes
-
-- **(a)** their name or initials;
-
-- **(b)** the name, initials and municipal address of the practitioner who issued the order or prescription;
-
-- **(c)** the name and municipal address of the person named in the order or prescription;
-
-- **(d)** the name, form and quantity of the controlled drug dispensed;
-
-- **(e)** the date on which the controlled drug was dispensed; and
-
-- **(f)** the number assigned to the order or prescription.
-
-<sub>History: SOR/78-427, s. 7; SOR/81-359, s. 1(F); SOR/97-228, s. 14; SOR/2004-238; s. 19; SOR/2019-171, s. 7</sub>
-
-##### Verbal order or prescription
-
-**G.03.008** A pharmacist must, before dispensing a controlled drug in accordance with a verbal order or prescription, make a written record of it that sets out
-
-- **(a)** their name or initials;
-
-- **(b)** the name, initials and municipal address of the practitioner who issued the order or prescription;
-
-- **(c)** the name and municipal address of the person named in the order or prescription;
-
-- **(d)** the name, form and quantity of the controlled drug;
-
-- **(e)** the directions for use given with the order or prescription;
-
-- **(f)** the date on which the controlled drug was dispensed; and
-
-- **(g)** the number assigned to the order or prescription.
-
-<sub>History: SOR/85-550, s. 7; SOR/2004-238, s. 20; SOR/2019-171, s. 7</sub>
-
-##### File by date and number
-
-**G.03.009** A pharmacist must maintain a special prescription file in which are filed, in sequence as to date and number, all written orders and prescriptions for controlled drugs that they have dispensed and the written record of all controlled drugs that they have dispensed in accordance with a verbal order or prescription.
-
-<sub>History: SOR/2019-171, s. 7</sub>
-
-##### Retention period
-
-**G.03.010** A pharmacist shall retain in his possession for a period of at least two years, any records which he is required to keep by this Part.
-
-#### General Obligations of Pharmacist
-
-<sub>History: SOR/2019-171, s. 8</sub>
-
-##### Providing information and assisting inspector
-
-**G.03.011** A pharmacist shall
-
-- **(a)** furnish such information respecting the dealings of the pharmacist in any controlled drug in such form and at such times as the Minister may require;
-
-- **(b)** make available and produce to an inspector upon request his special prescription file together with any books, records or documents which he is required to keep;
-
-- **(c)** permit an inspector to make copies of or to take extracts from such files, books, records or documents; and
-
-- **(d)** permit an inspector to check all stocks of controlled drugs on his premises.
-
-##### Loss or theft — protective measures
-
-**G.03.012** A pharmacist shall take all reasonable steps that are necessary to protect controlled drugs on his premises or under his control against loss or theft.
-
-<sub>History: SOR/85-550, s. 8</sub>
-
-##### Loss or theft — report
-
-**G.03.013** A pharmacist shall report to the Minister any loss or theft of a controlled drug within 10 days of his discovery thereof.
-
-#### Return, Sale and Transfer
-
-<sub>History: SOR/2019-171, s. 9</sub>
-
-##### Written order
-
-**G.03.014** A pharmacist may, upon receiving a written order for a controlled drug signed and dated by
-
-- **(a)** the licensed dealer who sold or provided that drug to them, return that drug to that licensed dealer;
-
-- **(b)** another pharmacist, sell or provide any quantity of that drug to that other pharmacist that is specified in the order as being required for emergency purposes;
-
-- **(c)** the Minister, sell or provide to the Minister any quantity of that drug, specified in the order, that is required by the Minister in connection with his or her duties; and
-
-- **(d)** a person exempted under section 56 of the Act with respect to that controlled drug, sell or provide to that person any quantity of that drug that is specified in the order.
-
-<sub>History: SOR/81-359, s. 2; SOR/85-550, s. 9; SOR/99-125, s. 3; SOR/2004-238, s. 21; SOR/2014-260, s. 8(E); SOR/2018-69, s. 65; SOR/2019-171, s. 10</sub>
-
-##### Record
-
-**G.03.015** A pharmacist shall immediately after receiving, selling or providing a controlled drug under paragraph G.03.014(b) or (c) or subsection G.05.003(4) enter the details of the transaction in a book, register or other record maintained for the purpose of recording such transactions.
-
-<sub>History: SOR/85-550, s. 10; SOR/2004-238, s. 22</sub>
-
-##### Notice to Minister
-
-**G.03.016** A pharmacist shall forthwith after removing, transporting or transferring a controlled drug from his place of business to any other place of business operated by him notify the Minister, setting out the details.
-
-#### Communication of Information by Minister to Licensing Authority
-
-##### Contraventions by pharmacist
-
-**G.03.017** The Minister must provide in writing any factual information about a pharmacist that has been obtained under the Act or this Part to the provincial professional licensing authority that is responsible for the authorization of the person to practise their profession
-
-- **(a)** in the province in which the pharmacist is or was entitled to practise if
-
-  - **(i)** the authority submits to the Minister a written request that sets out the pharmacist’s name and address, a description of the information being requested and a statement that the information is required for the purpose of assisting a lawful investigation by the authority, or
-
-  - **(ii)** the Minister has reasonable grounds to believe that the pharmacist has
-
-    - **(A)** contravened a rule of conduct established by the authority,
-
-    - **(B)** been convicted of a designated substance offence, or
-
-    - **(C)** contravened this Part; or
-
-- **(b)** in a province in which the pharmacist is not entitled to practise, if the authority submits to the Minister
-
-  - **(i)** a written request that sets out the pharmacist’s name and address and a description of the information being requested, and
-
-  - **(ii)** a document that shows that
-
-    - **(A)** the pharmacist has applied to that authority to practise in that province, or
-
-    - **(B)** the authority has reasonable grounds to believe that the pharmacist is practising in that province without being authorized to do so.
-
-<sub>History: SOR/86-881, s. 1; SOR/97-228, s. 15; SOR/2003-135, s. 5; SOR/2010-222, s. 15; SOR/2019-171, s. 11</sub>
-
-#### Notice of Prohibition of Sale
-
-##### Request by pharmacist
-
-**G.03.017.1** A pharmacist may make a written request to the Minister to send to the persons and authorities specified in subsection G.03.017.2(3) a notice, issued under section G.03.017.2, advising them that recipients of the notice must not sell or provide a controlled drug other than a preparation, a preparation, or both, to that pharmacist.
-
-<sub>History: SOR/2003-135, s. 5</sub>
-
-##### Notice by Minister
-
-**G.03.017.2** **(1)** In the circumstances described in subsection (2), the Minister must send a notice to the persons and authorities specified in subsection (3) advising them that pharmacists practising in the notified pharmacies and licensed dealers must not sell or provide to the pharmacist named in the notice a controlled drug other than a preparation or a preparation.
-
-*Circumstances requiring a notice*
-
-**(2)** The notice must be sent if the pharmacist named in the notice has
-
-- **(a)** made a request to the Minister in accordance with section G.03.017.1 to send the notice;
-
-- **(b)** contravened a rule of conduct established by the provincial professional licensing authority of the province in which the pharmacist is practising and the authority has requested the Minister in writing to send the notice; or
-
-- **(c)** been convicted of a designated substance offence or of a contravention of this Part.
-
-*Recipients*
-
-**(3)** The notice must be sent to
-
-- **(a)** all licensed dealers;
-
-- **(b)** all pharmacies within the province in which the pharmacist named in the notice is entitled to practice and is practising;
-
-- **(c)** the provincial professional licensing authority of the province in which the pharmacist named in the notice is entitled to practise;
-
-- **(d)** all pharmacies in an adjacent province in which an order from the pharmacist named in the notice may be filled; and
-
-- **(e)** any provincial professional licensing authority in another province that has requested the Minister in writing to send the notice.
-
-*Other circumstances*
-
-**(4)** The Minister may send the notice described in subsection (1) to the persons and authorities specified in subsection (3) if the Minister has taken the measures specified in subsection (5) and has reasonable grounds to believe that the pharmacist named in the notice
-
-- **(a)** has contravened a provision of the Act or this Part;
-
-- **(b)** has, on more than one occasion, self-administered a controlled drug, other than a preparation, contrary to accepted pharmaceutical practice;
-
-- **(c)** has, on more than one occasion, self-administered a preparation, contrary to accepted pharmaceutical practice;
-
-- **(d)** has, on more than one occasion, provided or administered a controlled drug, other than a preparation, to a person who is a spouse, common-law partner, parent or child of the pharmacist, including a child adopted in fact, contrary to accepted pharmaceutical practice;
-
-- **(e)** has, on more than one occasion, provided or administered a preparation to a person who is a spouse, common-law partner, parent or child of the pharmacist, including a child adopted in fact, contrary to accepted pharmaceutical practice; or
-
-- **(f)** is unable to account for the quantity of controlled drug for which the pharmacist was responsible under this Part.
-
-*Measures before sending notice*
-
-**(5)** The measures that must be taken before sending the notice are that the Minister has
-
-- **(a)** consulted with the provincial professional licensing authority of the province in which the pharmacist to whom the notice relates is entitled to practise;
-
-- **(b)** given that pharmacist an opportunity to be heard; and
-
-- **(c)** considered
-
-  - **(i)** the compliance history of the pharmacist in respect of the Act and its regulations, and
-
-  - **(ii)** whether the actions of the pharmacist pose a risk to public health or safety, including the risk of the controlled drug being diverted to an illicit market or use.
-
-<sub>History: SOR/2003-135, s. 5; SOR/2010-222, ss. 16, 35(F); SOR/2019-171, s. 12</sub>
-
-##### Notice of retraction
-
-**G.03.017.3** The Minister must provide the licensed dealers, pharmacies and provincial professional licensing authorities who were sent a notice under subsection G.03.017.2(1) with a notice of retraction of that notice if
-
-- **(a)** in the circumstance described in paragraph G.03.017.2(2)(a), the requirements set out in subparagraphs (b)(i) and (ii) have been met and one year has elapsed since the notice was sent by the Minister; or
-
-- **(b)** in a circumstance described in any of paragraphs G.03.017.2(2)(b) and (c) and (4)(a) to (f), the pharmacist named in the notice has
-
-  - **(i)** requested in writing that a retraction of the notice be sent, and
-
-  - **(ii)** provided a letter from the provincial professional licensing authority of the province in which the pharmacist is entitled to practise, in which the authority consents to the retraction of the notice.
-
-<sub>History: SOR/2003-135, s. 5; SOR/2010-222, s. 17; SOR/2019-171, s. 12</sub>
+**G.03.017.3** \[Repealed, SOR/2025-242, s. 237\]
 
 **G.03.017.4 and G.03.017.5** \[Repealed, SOR/2003-135, s. 5\]
 
-### DIVISION 4 — Practitioners
+**G.04.001** \[Repealed, SOR/2025-242, s. 237\]
 
-#### Administration of Designated Drugs and Other Controlled Drugs
+**G.04.002** \[Repealed, SOR/2025-242, s. 237\]
 
-##### Restriction
-
-**G.04.001** **(1)** Subject to subsections (2) and (3) and to an exemption granted under section 56 of the Act with respect to the administration of the controlled drug specified in the exemption, a practitioner must not administer a controlled drug to any person or animal.
-
-*Conditions*
-
-**(2)** A practitioner may administer a controlled drug, other than a designated drug, to a person or to an animal, if
-
-- **(a)** that person or animal is under their professional treatment; and
-
-- **(b)** the controlled drug is required for the condition for which that person or animal is receiving treatment.
-
-*Purposes*
-
-**(3)** A practitioner of medicine, dentistry or veterinary medicine or a nurse practitioner may administer a designated drug to a person or animal who is under their professional treatment if the designated drug is for the treatment of any of the following conditions:
-
-- **(a)** in the case of persons,
-
-  - **(i)** narcolepsy,
-
-  - **(ii)** hyperkinetic disorders in children,
-
-  - **(iii)** epilepsy,
-
-  - **(iv)** parkinsonism, or
-
-  - **(v)** hypotensive states associated with anesthesia; or
-
-- **(b)** in the case of animals, depression of cardiac and respiratory centres.
-
-*Definitions*
-
-**(4)** The following definitions apply in this section.
-
-***administer*** includes to prescribe, sell or provide a drug. (***administrer***)
-
-***designated drug*** means any of the following controlled drugs:
-
-- **(a)** amphetamine and its salts;
-
-- **(b)** benzphetamine and its salts;
-
-- **(c)** methamphetamine and its salts;
-
-- **(d)** phenmetrazine and its salts; or
-
-- **(e)** phendimetrazine and its salts. (***drogue désignée***)
-
-<sub>History: SOR/99-125, s. 4; SOR/2004-238, s. 23; SOR/2012-230, s. 12; SOR/2019-171, s. 13</sub>
-
-#### Records
-
-##### Record of controlled drugs sold or provided
-
-**G.04.002** **(1)** A practitioner who sells or provides a controlled drug to a person for self-administration or for administration to an animal shall, whether or not the practitioner charges for the drug, keep a record showing the name and quantity of the controlled drug sold or provided, the name and address of the person to whom it was sold or provided and the date on which it was sold or provided if the quantity of the controlled drug exceeds
-
-- **(a)** three times the maximum daily dosage recommended by the manufacturer or assembler of the controlled drug; or
-
-- **(b)** three times the generally recognized maximum daily therapeutic dosage for that controlled drug if the manufacturer or assembler has not recommended a maximum daily dosage.
-
-*Accessibility of record*
-
-**(2)** A practitioner who is required by this section to keep a record shall keep the record in a place, form and manner that will permit an inspector readily to examine and obtain information from it.
-
-<sub>History: SOR/88-482, s. 4(F); SOR/2004-238, s. 24; SOR/2019-171, s. 14</sub>
-
-#### General Obligations of Practitioner
-
-<sub>History: SOR/2019-171, s. 15</sub>
-
-##### Requirements
-
-**G.04.002A** A practitioner shall
-
-- **(a)** furnish to the Minister on request such information respecting
-
-  - **(i)** the use by the practitioner of controlled drugs received — including the administering, selling or providing of the drugs to a person — , and
-
-  - **(ii)** the prescriptions for controlled drugs issued by the practitioner,
-
-  as the Minister may require;
-
-- **(b)** produce to an inspector on request any records that these Regulations require the practitioner to keep;
-
-- **(c)** permit an inspector to make copies of such records or to take extracts therefrom;
-
-- **(d)** permit an inspector to check all stocks of controlled drugs on the practitioner’s premises;
-
-- **(e)** retain in his possession for at least two years any record that these Regulations require him to keep;
-
-- **(f)** take adequate steps to protect controlled drugs in his possession from loss or theft; and
-
-- **(g)** report to the Minister any loss or theft of a controlled drug within 10 days of the practitioner’s discovery of the loss or theft.
-
-<sub>History: SOR/2004-238, s. 25</sub>
+**G.04.002A** \[Repealed, SOR/2025-242, s. 237\]
 
 **G.04.003** \[Repealed, SOR/2010-222, s. 18\]
 
-#### Communication of Information by Minister to Licensing Authority
+**G.04.004** \[Repealed, SOR/2025-242, s. 237\]
 
-##### Contraventions by practitioner
+**G.04.004.1** \[Repealed, SOR/2025-242, s. 237\]
 
-**G.04.004** The Minister must provide in writing any factual information about a practitioner that has been obtained under the Act or this Part to the provincial professional licensing authority responsible for the registration and authorization of the person to practise their profession
+**G.04.004.2** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(a)** in the province in which the practitioner is or was registered and entitled to practise if
-
-  - **(i)** the authority submits to the Minister a written request that sets out the practitioner’s name and address, a description of the information being requested and a statement that the information is required for the purpose of assisting a lawful investigation by the authority, or
-
-  - **(ii)** the Minister has reasonable grounds to believe that the practitioner has
-
-    - **(A)** contravened a rule of conduct established by the authority,
-
-    - **(B)** been convicted of a designated substance offence, or
-
-    - **(C)** contravened this Part; or
-
-- **(b)** in a province in which the practitioner is not registered and entitled to practise, if the authority submits to the Minister
-
-  - **(i)** a written request that sets out the practitioner’s name and address and a description of the information being requested, and
-
-  - **(ii)** a document that shows that
-
-    - **(A)** the practitioner has applied to that authority to practise in that province, or
-
-    - **(B)** the authority has reasonable grounds to believe that the practitioner is practising in that province without being authorized to do so.
-
-<sub>History: SOR/86-881, s. 2; SOR/97-228, s. 17; SOR/2003-135, s. 6; SOR/2010-222, s. 19; SOR/2019-171, s. 16</sub>
-
-#### Notice of Prohibition of Sale
-
-##### Request by practitioner
-
-**G.04.004.1** A practitioner may make a written request to the Minister to send to licensed dealers and pharmacies a notice, issued under section G.04.004.2, advising them of one or more of the following requirements:
-
-- **(a)** recipients of the notice must not sell or provide a controlled drug, other than a preparation, to that practitioner;
-
-- **(b)** recipients of the notice must not sell or provide a preparation to that practitioner;
-
-- **(c)** pharmacists practising in the notified pharmacies must not fill a prescription or order for a controlled drug, other than a preparation, from that practitioner; and
-
-- **(d)** pharmacists practising in the notified pharmacies must not fill a prescription or order for a preparation from that practitioner.
-
-<sub>History: SOR/2003-135, s. 6</sub>
-
-##### Notice by Minister
-
-**G.04.004.2** **(1)** In the circumstances described in subsection (2), the Minister must send a notice to the persons and authorities specified in subsection (3) advising them that
-
-- **(a)** pharmacists practising in the notified pharmacies and licensed dealers must not sell or provide to the practitioner named in the notice a controlled drug other than a preparation or a preparation;
-
-- **(b)** pharmacists practising in the notified pharmacies must not fill a prescription or order from the practitioner named in the notice for a controlled drug other than a preparation or a preparation; or
-
-- **(c)** the prohibitions in both paragraphs (a) and (b) apply with respect to the practitioner named in the notice.
-
-*Circumstances requiring a notice*
-
-**(2)** The notice must be sent if the practitioner named in the notice has
-
-- **(a)** made a request to the Minister in accordance with section G.04.004.1 to send the notice;
-
-- **(b)** contravened a rule of conduct established by the provincial professional licensing authority of the province in which the practitioner is practising and the authority has requested the Minister in writing to issue the notice; or
-
-- **(c)** been convicted of a designated substance offence or of a contravention of this Part.
-
-*Recipients*
-
-**(3)** The notice must be sent to
-
-- **(a)** all licensed dealers;
-
-- **(b)** all pharmacies within the province in which the practitioner named in the notice is registeredand entitled to practice and is practising;
-
-- **(c)** the provincial professional licensing authority of the province in which the practitioner named in the notice is registered and entitled to practise;
-
-- **(d)** all pharmacies in an adjacent province in which a prescription or order from the practitioner named in the notice may be filled; and
-
-- **(e)** any provincial professional licensing authority in another province that has requested the Minister in writing to send the notice; and
-
-*Other circumstances*
-
-**(4)** The Minister may send the notice described in subsection (1) to the persons and authorities specified in subsection (3) if the Minister has taken the measures specified in subsection (5) and has reasonable grounds to believe that the practitioner named in the notice
-
-- **(a)** has contravened a provision of the Act or this Part;
-
-- **(b)** has, on more than one occasion, self-administered a controlled drug, other than a preparation, under a self-directed prescription or order or, in the absence of a prescription or order, contrary to accepted professional practice;
-
-- **(c)** has, on more than one occasion, self-administered a preparation, under a self-directed prescription or order or, in the absence of a prescription or order, contrary to accepted professional practice;
-
-- **(d)** has, on more than one occasion, prescribed, provided or administered a controlled drug, other than a preparation, to a person who is a spouse, common-law partner, parent or child of the practitioner, including a child adopted in fact, contrary to accepted professional practice;
-
-- **(e)** has, on more than one occasion, prescribed, provided or administered a preparation to a person who is a spouse, common-law partner, parent or child of the practitioner, including a child adopted in fact, contrary to accepted professional; or
-
-- **(f)** is unable to account for the quantity of controlled drug for which the practitioner was responsible under this Part.
-
-*Measures before sending notice*
-
-**(5)** The measures that must be taken before sending the notice are that the Minister has
-
-- **(a)** consulted with the provincial professional licensing authority of the province in which the practitioner to whom the notice relates is registered and entitled to practise;
-
-- **(b)** given that practitioner an opportunity to be heard
-
-- **(c)** considered
-
-  - **(i)** the compliance history of the practitioner in respect of the Act and its regulations, and
-
-  - **(ii)** whether the actions of the practitioner pose a risk to public health or safety, including the risk of the controlled drug being diverted to an illicit market or use.
-
-<sub>History: SOR/2003-135, s. 6; SOR/2010-222, ss. 20, 35(F); SOR/2019-171, s. 17</sub>
-
-##### Notice of retraction
-
-**G.04.004.3** The Minister must provide the licensed dealers, pharmacies and provincial professional licensing authorities who were sent a notice under subsection G.04.004.2(1) with a notice of retraction of that notice if
-
-- **(a)** in the circumstance described in paragraph G.04.004.2(2)(a), the requirements set out in subparagraphs (b)(i) and (ii) have been met and one year has elapsed since the notice was sent by the Minister; or
-
-- **(b)** in a circumstance described in any of paragraphs G.04.004.2(2)(b) and (c) and (4)(a) to (f), the practitioner named in the notice has
-
-  - **(i)** requested in writing that a retraction of the notice be sent, and
-
-  - **(ii)** provided a letter from the provincial professional licensing authority of the province in which the practitioner is registered and entitled to practise, in which the authority consents to the retraction of the notice.
-
-<sub>History: SOR/88-482, s. 5(F); SOR/2003-135, s. 6; SOR/2010-222, s. 21; SOR/2019-171, s. 17</sub>
+**G.04.004.3** \[Repealed, SOR/2025-242, s. 237\]
 
 **G.04.004.4 and G.04.004.5** \[Repealed, SOR/2003-135, s. 6\]
 
-### DIVISION 5 — Hospitals
+**G.05.001** \[Repealed, SOR/2025-242, s. 237\]
 
-#### Record — controlled drugs
+**G.05.002** \[Repealed, SOR/2025-242, s. 237\]
 
-**G.05.001** **(1)** A person who is in charge of a hospital shall keep or cause to be kept a record of the following information:
+**G.05.003** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(a)** the name and quantity of any controlled drug received for the hospital by a hospital employee or a practitioner in the hospital;
+**G.05.004** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(b)** the name and address of the person from whom any controlled drug was received and the date on which it was received;
+**G.06.001** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(c)** the name and quantity of any controlled drug used in the making or assembling of a product or compound containing that controlled drug, the name and quantity of the product or compound made or assembled and the date on which the product or compound was placed in stock;
-
-- **(c.1)** the name and quantity of any controlled drug produced and the date on which it was placed in stock;
-
-- **(d)** the name of the patient for whom a controlled drug was dispensed;
-
-- **(e)** the name of the practitioner ordering or prescribing a controlled drug; and
-
-- **(f)** the date on which a controlled drug was ordered or prescribed and the form and quantity thereof.
-
-*Record keeping*
-
-**(2)** Subject to subsections (3) and (4), the record of information referred to in subsection (1) shall be kept
-
-- **(a)** in a manner that permits an audit to be made;
-
-- **(b)** in a book, register or similar record maintained exclusively for controlled drugs; and
-
-- **(c)** for a period of at least two years.
-
-*Exception — preparation*
-
-**(3)** The information referred to in paragraphs (1)(d) to (f) may, with respect to a preparation, be kept in a form other than that specified in paragraph (2)(b).
-
-*Exception — Part II or III of schedule*
-
-**(4)** The information referred to in subsection (1) may, with respect to a controlled drug listed in Part II or III of the schedule to this Part, be kept in a form other than that specified in paragraph (2)(b).
-
-<sub>History: SOR/78-427, s. 8; SOR/85-550, s. 11; SOR/88-482, s. 6; SOR/97-228, s. 18; SOR/2004-238, s. 27; SOR/2019-171, s. 18(F)</sub>
-
-#### Providing information and assisting inspector
-
-**G.05.002** A person who is in charge of a hospital shall
-
-- **(a)** furnish such information respecting the use of controlled drugs therein, in such form and at such times as the Minister may require;
-
-- **(b)** produce to an inspector any books, records or documents required by these Regulations to be kept;
-
-- **(c)** permit an inspector to make copies thereof or take extracts from such books, records and documents; and
-
-- **(d)** permit an inspector to check all stocks of controlled drugs in the hospital.
-
-<sub>History: SOR/2019-171, s. 25(F)</sub>
-
-#### Selling, providing or administering controlled drug
-
-**G.05.003** **(1)** No person in charge of a hospital shall permit a controlled drug to be sold, provided or administered except in accordance with this section.
-
-*Prescription or written order*
-
-**(2)** On receipt of a prescription or a written order signed and dated by a practitioner, the person in charge of a hospital may permit a controlled drug to be administered to a person or an animal under treatment as an in-patient or out-patient of the hospital, or to be sold or provided to the person or to the person in charge of the animal.
-
-*Emergency — other hospital*
-
-**(3)** Subject to subsection (6), the person in charge of a hospital may permit a controlled drug to be provided, for emergency purposes, to a hospital employee or a practitioner in another hospital on receipt of a written order signed and dated by a pharmacist in the other hospital or a practitioner authorized by the person in charge of the other hospital to sign the order.
-
-*Emergency — pharmacist*
-
-**(4)** Subject to subsection (6), the person in charge of a hospital may permit a controlled drug to be sold or provided, for emergency purposes, to a pharmacist on receipt of a written order signed and dated by the pharmacist.
-
-*Research purposes*
-
-**(5)** The person in charge of a hospital may permit a controlled drug to be provided to a person employed in a research laboratory in that hospital for the purpose of research.
-
-*Signature*
-
-**(6)** No person in charge of a hospital shall permit a controlled drug to be sold or provided under subsection (3) or (4) unless the signature of the pharmacist in the other hospital or of the practitioner authorized by the person in charge of the other hospital to sign an order is known to the person who sells or provides the controlled drug or has been verified.
-
-<sub>History: SOR/85-550, s. 12; SOR/88-482, s. 7; SOR/2004-238, s. 28; SOR/2010-222, s. 22(F); SOR/2019-171, s. 19(F); SOR/2019-171, s. 25(F)</sub>
-
-#### Loss or theft
-
-**G.05.004** A person who is in charge of a hospital shall take all steps necessary to protect controlled drugs in the hospital against loss or theft and shall report to the Minister any loss or theft of a controlled drug within 10 days of his discovery thereof.
-
-<sub>History: SOR/78-427, s. 9</sub>
-
-### DIVISION 6 — General
-
-#### Labelling — drug dispensed in accordance with prescription
-
-**G.06.001** In the case of a controlled drug that is dispensed by a pharmacist in accordance with a prescription, section C.01.004 does not apply but the label of the package in which the controlled drug is contained must include the following:
-
-- **(a)** the name and municipal address of the pharmacy or pharmacist;
-
-- **(b)** the date and number of the prescription;
-
-- **(c)** the name of the person for whom the controlled drug is dispensed;
-
-- **(d)** the name of the practitioner;
-
-- **(e)** directions for use; and
-
-- **(f)** any other information that the prescription requires be shown on the label.
-
-<sub>History: SOR/99-125, s. 5; SOR/2004-238, s. 29; SOR/2018-69, ss. 67, 69; SOR/2019-171, s. 20</sub>
-
-#### Labelling — test kit
-
-**G.06.002** Section C.01.004 does not apply to a test kit that contains a controlled drug and that has a registration number.
-
-<sub>History: SOR/85-550, s. 13; SOR/88-482, s. 8(F); SOR/99-125, s. 6; SOR/2019-171, s. 20</sub>
+**G.06.002** \[Repealed, SOR/2025-242, s. 237\]
 
 **G.06.002.1** \[Repealed, SOR/2019-171, s. 20\]
 
@@ -20415,95 +18251,15 @@ per individual dosage form if it has a label that states that it is not a standa
 
 **G.06.002.4** \[Repealed, SOR/2019-171, s. 20\]
 
-#### Identification or analysis of controlled drug
+**G.06.003** \[Repealed, SOR/2025-242, s. 237\]
 
-**G.06.003** **(1)** Despite anything in this Part, a person may, for the purpose of identification or analysis of a controlled drug, provide or deliver the drug to
+**G.06.004** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(a)** a practitioner of medicine; or
+**G.06.005** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(b)** an agent or mandatary of a practitioner of medicine, if the agent or mandatary is exempted under section 56 of the Act with respect to the possession of that drug for that purpose.
+**G.06.006** \[Repealed, SOR/2025-242, s. 237\]
 
-*Agent or mandatary of practitioner of medicine*
-
-**(2)** An agent or mandatary of a practitioner of medicine who receives the controlled drug must immediately provide or deliver it to
-
-- **(a)** the practitioner; or
-
-- **(b)** the Minister.
-
-*Practitioner of medicine*
-
-**(3)** A practitioner of medicine who receives the controlled drug must immediately provide or deliver it
-
-- **(a)** for the purpose of its identification or analysis, to a person exempted under section 56 of the Act with respect to the possession of that drug for that purpose; or
-
-- **(b)** to the Minister.
-
-<sub>History: SOR/2019-171, s. 20</sub>
-
-#### Advertising
-
-**G.06.004** It is prohibited to
-
-- **(a)** advertise a controlled drug to the general public; or
-
-- **(b)** publish any written advertisement respecting a controlled drug unless that advertisement displays the following symbol in a clear and conspicuous colour and size in the upper left quarter of its first page:*[Image: The symbol consists of a diamond shape outline in which an uppercase letter C is centred.]*
-
-<sub>History: SOR/2019-171, s. 20</sub>
-
-#### Record keeping — specific cases
-
-**G.06.005** Every person who is exempted under section 56 of the Act with respect to the possession or administration of a controlled drug and every practitioner of medicine who has received a controlled drug under subsection G.06.003(1) or (2) and every agent or mandatary of a practitioner of medicine who has received a controlled drug under subsection G.06.003(1) must
-
-- **(a)** keep a record of the following information for a two-year period beginning on the day on which the record is made:
-
-  - **(i)** the name and quantity of any controlled drug purchased or received by them and the date on which it was purchased or received,
-
-  - **(ii)** the name and address of the person from whom the controlled drug was purchased or received, and
-
-  - **(iii)** details of the use of the controlled drug;
-
-- **(b)** provide any information respecting those controlled drugs that the Minister may require; and
-
-- **(c)** permit access to the records required to be kept by this Part.
-
-<sub>History: SOR/2019-171, s. 20</sub>
-
-#### Communication of information by Minister to nursing statutory body
-
-**G.06.006** **(1)** The Minister may provide to a nursing statutory body any information concerning any member of that body that has been obtained under this Part, the Act or the [Food and Drugs Act](../../acts/en/F-27.md).
-
-*Non-application*
-
-**(2)** Subsection (1) does not apply to a nurse practitioner.
-
-*Definitions*
-
-**(3)** The following definitions apply in this section.
-
-***member*** means any person who is authorized by a nursing statutory body to practice nursing. (***membre***)
-
-***nursing statutory body*** means any provincial professional licensing authority that, in accordance with the laws of that province, authorizes a person to practise nursing. (***organisme régissant la profession d’infirmier***)
-
-<sub>History: SOR/2019-171, s. 20</sub>
-
-#### Notification of application for order of restoration
-
-**G.06.007** **(1)** For the purpose of subsection 24(1) of the Act, notification of an application for an order of restoration must be given in writing to the Attorney General by registered mail and be mailed not less than 15 days before the date on which the application is to be made to a justice.
-
-*Content of notification*
-
-**(2)** The notification must specify
-
-- **(a)** the name of the justice to whom the application is to be made;
-
-- **(b)** the time and place at which the application is to be heard;
-
-- **(c)** details concerning the controlled drug or other thing in respect of which the application is to be made; and
-
-- **(d)** the evidence on which the applicant intends to rely to establish that they are entitled to possession of the controlled drug or other thing referred to in paragraph (c).
-
-<sub>History: SOR/2019-171, s. 20</sub>
+**G.06.007** \[Repealed, SOR/2025-242, s. 237\]
 
 **G.07.001** \[Repealed, SOR/2019-171, s. 20\]
 
@@ -20511,433 +18267,29 @@ per individual dosage form if it has a label that states that it is not a standa
 
 ## SCHEDULE
 
-*(Sections G.01.001 and G.01.002, subsections G.01.005(1) and G.02.058(1), section G.02.073, subsection G.03.001(3), paragraph G.03.006(a), section G.03.007 and subsection G.05.001(4))*
+\[Repealed, SOR/2025-242, s. 237\]
 
-## PART I
+## PART J — \[Repealed, SOR/2025-242, s. 237\]
 
-- **1** Amphetamines, their salts, derivatives, isomers and analogues and salts of derivatives, isomers and analogues, excluding those substances set out in item 1 of Part I of the schedule to Part J but including:
+**J.01.001** \[Repealed, SOR/2025-242, s. 237\]
 
-  - **(1)** amphetamine (α-methylbenzeneethanamine)
+**J.01.002** \[Repealed, SOR/2025-242, s. 237\]
 
-  - **(2)** methamphetamine (N,α-dimethylbenzeneethanamine)
-
-  - **(3)** Benzphetamine (N-benzyl-N,α-dimethylbenzeneethanamine)
-
-- **2** Methylphenidate (methyl 2-phenyl-2-(piperidin-2-yl)acetate), its salts, derivatives, isomers and analogues and salts of derivatives, isomers and analogues, including:
-
-  - **(1)** Ethylphenidate (ethyl 2-phenyl-2-(piperidin-2-yl)acetate)
-
-  - **(2)** Isopropylphenidate (isopropyl 2-phenyl-2-(piperidin-2-yl)acetate)
-
-  - **(3)** Propylphenidate (propyl 2-phenyl-2-(piperidin-2-yl)acetate)
-
-  - **(4)** 3,4-Dichloromethylphenidate (methyl 2-(3,4-dichlorophenyl)-2-(piperidin-2-yl)acetate)
-
-  - **(5)** 4-Methylmethylphenidate (methyl 2-(4-methylphenyl)-2-(piperidin-2-yl)acetate)
-
-  - **(6)** 4-Fluoromethylphenidate (methyl 2-(4-fluorophenyl)-2-(piperidin-2-yl)acetate)
-
-  - **(7)** Methylnaphthidate (methyl 2-(naphthalen-2-yl)-2-(piperidin-2-yl)acetate)
-
-  - **(8)** Ethylnaphthidate (ethyl 2-(naphthalen-2-yl)-2-(piperidin-2-yl)acetate)
-
-- **3** Methaqualone (2-methyl-3-(2-methylphenyl)-4(3H)quinazolinone) and any salt thereof
-
-- **4** Phendimetrazine (d-3,4-dimethyl-2-phenylmorpholine) and any salt thereof
-
-- **5** Phenmetrazine (3-methyl-2-phenylmorpholine) and any salt thereof
-
-- **6** Pentobarbital (5-ethyl-5-(1-methylbutyl)barbituric acid)
-
-- **7** Secobarbital (5-allyl-5-(1-methylbutyl)barbituric acid)
-
-- **8** 4-hydroxybutanoic acid (GHB) and any salt thereof
-
-- **9** Aminorex (5-phenyl-4,5-dihydro-1,3-oxazol-2-amine), its salts, derivatives, isomers and analogues and salts of derivatives, isomers and analogues, including
-
-  - **(1)** 4-Methylaminorex (4-methyl-5-phenyl-4,5-dihydro-1,3-oxazol-2-amine)
-
-  - **(2)** 4,4’-Dimethylaminorex (4-methyl-5-(4-methylphenyl)-4,5-dihydro-1,3-oxazol-2-amine)
-
-- **10** Fenetylline (d,l-3,7-dihydro-1,3-dimethyl-7-(2-\[(1-methyl-2-phenethyl)amino\]ethyl)-1H-purine-2,6-dione) and any salt thereof
-
-- **11** Glutethimide (2-ethyl-2-phenylglutarimide)
-
-- **12** Lefetamine ((-)-N,N-dimethyl-α-phenylbenzeneethanamine), its salts, derivatives and isomers and salts of derivatives and isomers
-
-- **13** Mecloqualone (2-methyl-3-(2-chlorophenyl)-4(3H)-quinazolinone) and any salt thereof
-
-- **14** Mesocarb (3-(α-methylphenethyl)-N-(phenylcarbamoyl)sydnone imine) and any salt thereof
-
-- **15** Pemoline (2-amino-5-phenyl-oxazolin-4-one) and any salt thereof
-
-- **16** Zipeprol (4-(2-methoxy-2-phenylethyl)-α-(methoxyphenylmethyl)-1-piperazineethanol) and any salt thereof
-
-- **17** Amineptine (7-\[(10,11-dihydro-5H-dibenzo\[a,d\]cyclohepten-5-yl)amino\]heptanoic acid) and any salt thereof
-
-## PART II
-
-- **1** Barbiturates, their salts and derivatives, excluding the substances set out in items 6 and 7 of Part I of this schedule, as well as barbituric acid (2,4,6(1H,3H,5H)-pyrimidinetrione) and its salts and 1,3-dimethylbarbituric acid (1,3-dimethyl-2,4,6(1H,3H,5H)-pyrimidinetrione) and its salts, but including
-
-  - **(1)** Allobarbital (5,5-diallylbarbituric acid)
-
-  - **(2)** Alphenal (5-allyl-5-phenylbarbituric acid)
-
-  - **(3)** Amobarbital (5-ethyl-5-(3-methylbutyl)barbituric acid)
-
-  - **(4)** Aprobarbital (5-allyl-5-isopropylbarbituric acid)
-
-  - **(5)** Barbital (5,5-diethylbarbituric acid)
-
-  - **(6)** \[Repealed, SOR/2017-12, s. 1\]
-
-  - **(7)** Butabarbital (5-sec-butyl-5-ethylbarbituric acid)
-
-  - **(8)** Butalbital (5-allyl-5-isobutylbarbituric acid)
-
-  - **(9)** Butallylonal (5-(2-bromoallyl)-5-sec-butylbarbituric acid)
-
-  - **(10)** Butethal (5-butyl-5-ethylbarbituric acid)
-
-  - **(11)** Cyclobarbital (5-(1-cyclohexen-1-yl)-5-ethylbarbituric acid)
-
-  - **(12)** Cyclopal (5-allyl-5-(2-cyclopenten-1-yl)barbituric acid)
-
-  - **(13)** Heptabarbital (5-(1-cyclohepten-1-yl)-5-ethylbarbituric acid)
-
-  - **(14)** Hexethal (5-ethyl-5-hexylbarbituric acid)
-
-  - **(15)** Hexobarbital (5-(1-cyclohexen-1-yl)-1,5-dimethylbarbituric acid)
-
-  - **(16)** Mephobarbital (5-ethyl-1-methyl-5-phenylbarbituric acid)
-
-  - **(17)** Methabarbital (5,5-diethyl-1-methylbarbituric acid)
-
-  - **(18)** Methylphenobarbital (5-ethyl-1-methyl-5-phenylbarbituric acid)
-
-  - **(19)** Propallylonal (5-(2-bromoallyl)-5-isopropyl-barbituric acid)
-
-  - **(20)** Phenobarbital (5-ethyl-5-phenylbarbituric acid)
-
-  - **(21)** Probarbital (5-ethyl-5-isopropylbarbituric acid)
-
-  - **(22)** Phenylmethylbarbituric Acid (5-methyl-5-phenylbarbituric acid)
-
-  - **(23)** Sigmodal(5-(2-bromoallyl)-5-(1-methylbutyl)- barbituric acid)
-
-  - **(24)** Talbutal (5-allyl-5-sec-butylbarbituric acid)
-
-  - **(25)** Vinbarbital (5-ethyl-5-(1-methyl-1-butenyl)barbituric acid)
-
-  - **(26)** Vinylbital (5-(1-methylbutyl)-5-vinylbarbituric acid)
-
-- **2** Thiobarbiturates, their salts and derivatives, including:
-
-  - **(1)** Thialbarbital (5-allyl-5-(2-cyclohexen-1-yl)-2-thiobarbituric acid)
-
-  - **(2)** Thiamylal (5-allyl-5-(1-methylbutyl)-2-thiobarbituric acid)
-
-  - **(3)** Thiobarbituric Acid (2-thiobarbituric acid)
-
-  - **(4)** Thiopental(5-ethyl-5-(1-methylbutyl)-2- thiobarbituric acid)
-
-- **3** Chlorphentermine (1-(p-chlorophenyl)-2-methyl-2-aminopropane) and any salt thereof
-
-- **4** Diethylpropion (2-(diethylamino)propiophenone) and any salt thereof
-
-- **5** Phentermine (α,α-dimethylbenzeneethanamine) and any salt thereof
-
-- **6** Butorphanol (1-N-cyclobutylmethyl-3,14-dihydroxymorphinan) and its salts
-
-- **7** Nalbuphine (N-cyclobutylmethyl-4,5-epoxy-morphinan-3,6,14-triol) and any salt thereof
-
-- **8** Pyrovalerone (4′-methyl-2-(1-pyrrolidinyl)valerophenone) and any salt thereof
-
-## PART III
-
-- **1** Anabolic steroids and their derivatives, including:
-
-  - **(1)** Androisoxazole (17ß-hydroxy-17α-methylandrostano\[3,2-c\]isoxazole)
-
-  - **(2)** Androstanolone (17ß-hydroxy-5α-androstan-3-one)
-
-  - **(3)** Androstenediol (androst-5-ene-3ß,17ß-diol)
-
-  - **(4)** Bolandiol (estr-4-ene-3b,17ß-diol)
-
-  - **(5)** Bolasterone (17ß-hydroxy-7α,17-dimethylandrost-4-en-3-one)
-
-  - **(6)** Bolazine (17ß-hydroxy-2α-methyl-5α-androstan-3-one azine)
-
-  - **(7)** Boldenone (17ß-hydroxyandrosta-1,4-dien-3-one)
-
-  - **(8)** Bolenol (19-nor-17α-pregn-5-en-17-ol)
-
-  - **(9)** Calusterone (17ß-hydroxy-7b,17-dimethylandrost-4-en-3-one)
-
-  - **(10)** Clostebol (4-chloro-17ß-hydroxyandrost-4-en-3-one)
-
-  - **(11)** Drostanolone (17ß-hydroxy-2α-methyl-5α-androstan-3-one)
-
-  - **(12)** Enestebol (4,17ß-dihydroxy-17-methylandrosta-1,4-dien-3-one)
-
-  - **(13)** Epitiostanol (2α, 3α-epithio-5α-androstan-17ß-ol)
-
-  - **(14)** Ethylestrenol (19-nor-17α-pregn-4-en-17-ol)
-
-  - **(15)** 4-Hydroxy-19-nor testosterone
-
-  - **(16)** Fluoxymesterone (9-fluoro-11ß,17ß-dihydroxy — 17-methylandrost-4-en-3-one)
-
-  - **(17)** Formebolone (11α,17ß-dihydroxy-17-methyl-3-oxoandrosta-1,4-dien-2-carboxaldehyde)
-
-  - **(18)** Furazabol (17-methyl-5α-androstano\[2,3-c\]furazan-17ß-ol)
-
-  - **(19)** Mebolazine (17ß-hydroxy-2α,17-dimethyl-5α-androstan-3-one azine)
-
-  - **(20)** Mesabolone (17ß-\[(1-methoxycyclohexyl)oxy\]-5α-androst-1-en-3-one)
-
-  - **(21)** Mesterolone (17ß-hydroxy-1α-methyl-5α-androstan-3-one)
-
-  - **(22)** Metandienone (17ß-hydroxy-17-methylandrosta-1,4-dien-3-one)
-
-  - **(23)** Metenolone (17ß-hydroxy-1-methyl-5α-androst-1-en-3-one)
-
-  - **(24)** Methandriol (17α-methylandrost-5-ene-3ß,17ß-diol)
-
-  - **(25)** Methyltestosterone (17ß-hydroxy-17-methyl-androst-4-en-3-one)
-
-  - **(26)** Metribolone (17ß-hydroxy-17-methylestra-4,9,11-trien-3-one)
-
-  - **(27)** Mibolerone (17ß-hydroxy-7α,17-dimethylestr-4-en-3-one)
-
-  - **(28)** Nandrolone (17ß-hydroxyestr-4-en-3-one)
-
-  - **(29)** Norboletone (13-ethyl-17ß-hydroxy-18,19-dinorpregn-4-en-3-one)
-
-  - **(30)** Norclostebol (4-chloro-17ß-hydroxyestr-4-en-3-one)
-
-  - **(31)** Norethandrolone (17α-ethyl-17ß-hydroxyestr-4-en-3-one)
-
-  - **(32)** Oxabolone (4,17ß-dihydroxyestr-4-en-3-one)
-
-  - **(33)** Oxandrolone (17ß-hydroxy-17-methyl-2-oxa-5α-androstan-3-one)
-
-  - **(34)** Oxymesterone (4,17ß-dihydroxy-17-methylandrost-4-en-3-one)
-
-  - **(35)** Oxymetholone (17ß-hydroxy-2-(hydroxymethylene)-17-methyl-5α-androstan-3-one)
-
-  - **(36)** Prasterone (3ß-hydroxyandrost-5-en-17-one)
-
-  - **(37)** Quinbolone (17ß-(1-cyclopenten-1-yloxy)androsta-1,4-dien-3-one)
-
-  - **(38)** Stanozolol (17ß-hydroxy-17-methyl-5α-androstano\[3,2-c\]pyrazole)
-
-  - **(39)** Stenbolone (17ß-hydroxy-2-methyl-5α-androst-1-en-3-one)
-
-  - **(40)** Testosterone (17ß-hydroxyandrost-4-en-3-one)
-
-  - **(41)** Tibolone ((7α,17α)-17-hydroxy-7-methyl-19-norpregn-5(10)en-20-yn-3-one)
-
-  - **(42)** Tiomesterone (1α,7α-bis(acetylthio)-17ß-hydroxy-17-methylandrost-4-en-3-one)
-
-  - **(43)** Trenbolone (17ß-hydroxyestra-4,9,11-trien-3-one)
-
-- **2** Zeranol (3,4,5,6,7,8,9,10,11,12-decahydro-7,14,16-trihydroxy-3-methyl-1H-2-benzoxacyclotetradecin-1-one)
-
-<sub>History: SOR/78-427, s. 10; SOR/79-753, s. 1; SOR/81-84, s. 1; SOR/85-550, s. 14(F); SOR/86-678, s. 1; SOR/89-381, s. 1; SOR/92-386, s. 3; SOR/97-228, s. 21; SOR/99-425, s. 1; SOR/2003-34, ss. 2, 3; SOR/2003-413, s. 2; SOR/2015-210, s. 1; SOR/2016-106, s. 1; SOR/2017-12, ss. 1, 2(E); SOR/2017-43, s. 1; SOR/2017-250, s. 1; SOR/2019-171, s. 21</sub>
-
-## PART J — Restricted Drugs
-
-### Definitions
-
-#### Definitions
-
-**J.01.001** The following definitions apply in this Part.
-
-***Act*** means the [Controlled Drugs and Substances Act](../../acts/en/C-38.8.md). (***Loi***)
-
-***competent authority*** means a public authority of a foreign country that is authorized under the laws of the country to approve the importation or exportation of restricted drugs into or from the country. (***autorité compétente***)
-
-***compound*** includes a preparation. (***composé***)
-
-***designated criminal offence*** means
-
-- **(a)** an offence involving the financing of terrorism against any of sections 83.02 to 83.04 of the [Criminal Code](../../acts/en/C-46.md);
-
-- **(b)** an offence involving fraud against any of sections 380 to 382 of the [Criminal Code](../../acts/en/C-46.md);
-
-- **(c)** the offence of laundering proceeds of crime against section 462.31 of the [Criminal Code](../../acts/en/C-46.md);
-
-- **(d)** an offence involving a criminal organization against any of sections 467.11 to 467.13 of the [Criminal Code](../../acts/en/C-46.md); or
-
-- **(e)** a conspiracy or an attempt to commit, being an accessory after the fact in relation to, or any counselling in relation to, an offence referred to in any of paragraphs (a) to (d). (***infraction désignée en matière criminelle***)
-
-***destroy***, in respect of a restricted drug, means to alter or denature it to such an extent that its consumption is rendered impossible or improbable. (***destruction***)
-
-***hospital*** means a facility that is
-
-- **(a)** licensed, approved or designated by a province in accordance with the laws of the province to provide care or treatment to persons or animals suffering from any form of disease or illness; or
-
-- **(b)** owned or operated by the Government of Canada or the government of a province and that provides health services. (***hôpital***)
-
-***institution*** means any institution engaged in research on drugs and includes a hospital, a university in Canada or a department or agency of the Government of Canada or of a government of a province or any part of them. (***établissement***)
-
-***international obligation*** means an obligation in respect of a restricted drug set out in a convention, treaty or other multilateral or bilateral instrument that Canada has ratified or to which Canada adheres. (***obligation internationale***)
-
-***label*** has the same meaning as in section 2 of the [Food and Drugs Act](../../acts/en/F-27.md). (***étiquette***)
-
-***licensed dealer*** means the holder of a licence issued under section J.01.015. (***distributeur autorisé***)
-
-***package*** includes anything in which a restricted drug is wholly or partly contained, placed or packed. (***emballage***)
-
-***pharmacist***\[Repealed, SOR/2021-271, s. 1\]
-
-***prescription***\[Repealed, SOR/2021-271, s. 1\]
-
-***proper name***, in respect of a restricted drug, means the name in English or French that
-
-- **(a)** is assigned to the drug in section C.01.002;
-
-- **(b)** appears in bold face type for the drug in these Regulations and, if the drug is dispensed in a form other than that described in Part C, the name of the dispensing form; or
-
-- **(c)** is assigned in any of the publications mentioned in Schedule B to the [Food and Drugs Act](../../acts/en/F-27.md) in the case of a drug not included in paragraph (a) or (b). (***nom propre***)
-
-***qualified investigator*** means, in respect of a restricted drug, a person whose use and possession of that drug are authorized by the Minister under subsection J.01.059(4) and who is
-
-- **(a)** employed by or connected with an institution; or
-
-- **(b)** engaged in clinical testing or laboratory research in an institution in respect of that drug. (***chercheur compétent***)
-
-***qualified person in charge*** means the individual designated under subsection J.01.012(1). (***responsable qualifié***)
-
-***restricted drug*** means a controlled substance that is set out in the schedule to this Part. (***drogue d’usage restreint***)
-
-***Security Directive*** means the Directive on Physical Security Requirements for Controlled Substances and Drugs Containing Cannabis, as amended from time to time and published by the Government of Canada on its website. (***Directive en matière de sécurité***)
-
-***senior person in charge*** means the individual designated under section J.01.011. (***responsable principal***)
-
-***test kit*** means a kit
-
-- **(a)** that contains a restricted drug and a reagent system or buffering agent;
-
-- **(b)** that is used during the course of a chemical or analytical procedure to test for the presence or quantity of a restricted drug for a medical, laboratory, industrial, educational, law administration or enforcement, or research purpose; and
-
-- **(c)** the contents of which are not intended or likely to be consumed by, or administered to, a person or an animal. (***nécessaire d’essai***)
-
-<sub>History: SOR/97-228, s. 22; SOR/2004-238, s. 31; SOR/2013-172, s. 1; SOR/2019-171, s. 22; SOR/2021-271, s. 1</sub>
-
-### General
-
-#### Temporary accelerated scheduling
-
-**J.01.002** **(1)** The Minister may, by order, add to column 1 of Part III of the schedule to this Part any item or portion of an item listed in Schedule V to the Act for a period referred to in column 2 that is the same as that listed in Schedule V for that item.
-
-*Deletion*
-
-**(2)** The Minister may, by order, delete any item or portion of an item from column 1 of Part III of the schedule to this Part.
-
-*Deletion — Schedule V to Act*
-
-**(3)** An item or portion of an item listed in Part III of the schedule to this Part is deemed to be deleted on the day on which it is no longer listed in Schedule V to the Act.
-
-<sub>History: SOR/97-228, s. 23; SOR/99-125, s. 7; SOR/2010-222, s. 23; SOR/2015-210, s. 2; SOR/2018-85, s. 1; SOR/2019-171, s. 22</sub>
-
-#### Non-application — member of police force
-
-**J.01.003** A member of a police force or a person acting under their direction and control who, in respect of the conduct of the member or person, is exempt from the application of subsection 4(2) or section 5, 6 or 7 of the Act by virtue of the [Controlled Drugs and Substances Act (Police Enforcement) Regulations](SOR-97-234.md) is, in respect of that conduct, exempt from the application of this Part.
-
-<sub>History: SOR/2004-238, s. 32; SOR/2019-171, s. 22</sub>
+**J.01.003** \[Repealed, SOR/2025-242, s. 237\]
 
 **J.01.003.1** \[Repealed, SOR/2019-171, s. 22\]
 
 **J.01.003.2** \[Repealed, SOR/2019-171, s. 22\]
 
-### Possession
-
-#### Authorized persons
-
-**J.01.004** **(1)** The following persons are authorized to possess a restricted drug listed in Part I of the schedule to this Part:
-
-- **(a)** a licensed dealer;
-
-- **(b)** a qualified investigator who possesses the drug for the purpose of conducting clinical testing or laboratory research in an institution;
-
-- **(c)** an inspector, member of the Royal Canadian Mounted Police, police constable, peace officer, member of the technical or scientific staff of the Government of Canada, the government of a province or a university in Canada who possesses the drug in connection with their employment;
-
-- **(d)** a person exempted under section 56 of the Act with respect to the possession of that drug; and
-
-- **(e)** the Minister.
-
-*Agent or mandatary*
-
-**(2)** A person is authorized to possess a restricted drug listed in Part I of the schedule to this Part if they are acting as the agent or mandatary of a person referred to in paragraph (1)(a), (b), (d) or (e).
-
-*Agent or mandatary — person referred to in paragraph (1)(c)*
-
-**(3)** A person is authorized to possess a restricted drug listed in Part I of the schedule to this Part if they
-
-- **(a)** are acting as the agent or mandatary of a person who they have reasonable grounds to believe is a person referred to in paragraph (1)(c); and
-
-- **(b)** possess the restricted drug for the purpose of assisting that person in the administration or enforcement of an Act or regulation.
-
-<sub>History: SOR/2019-171, s. 22; SOR/2021-271, s. 2</sub>
+**J.01.004** \[Repealed, SOR/2025-242, s. 237\]
 
 **J.01.004.1** \[Repealed, SOR/2019-171, s. 22\]
 
-### Test Kits
+**J.01.005** \[Repealed, SOR/2025-242, s. 237\]
 
-#### Authorized activities
+**J.01.006** \[Repealed, SOR/2025-242, s. 237\]
 
-**J.01.005** A person may sell, possess or otherwise deal in a test kit if the following conditions are met:
-
-- **(a)** a registration number has been issued for the test kit under section J.01.007 and has not been cancelled under section J.01.008;
-
-- **(b)** the test kit bears, on its external surface,
-
-  - **(i)** the name of the manufacturer,
-
-  - **(ii)** the trade name or trademark, and
-
-  - **(iii)** the registration number; and
-
-- **(c)** the test kit will be used for a medical, laboratory, industrial, educational, law administration or enforcement, or research purpose.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-#### Application for registration number
-
-**J.01.006** **(1)** The manufacturer of a test kit may obtain a registration number for it by submitting to the Minister an application containing
-
-- **(a)** a detailed description of the design and construction of the test kit;
-
-- **(b)** a detailed description of the restricted drug and other substances, if any, contained in the test kit, including the qualitative and quantitative composition of each component; and
-
-- **(c)** a description of the proposed use of the test kit.
-
-*Signature and attestation*
-
-**(2)** The application must
-
-- **(a)** be signed and dated by the person authorized by the applicant for that purpose; and
-
-- **(b)** include an attestation by that person that all of the information submitted in support of the application is correct and complete to the best of their knowledge.
-
-*Additional information or document*
-
-**(3)** The applicant must, not later than the date specified in the Minister’s written request to that effect, provide the Minister with any information or document that the Minister determines is necessary to complete the review of the application.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-#### Issuance of registration number
-
-**J.01.007** On completion of the review of the application for a registration number, the Minister must issue a registration number for the test kit, preceded by the letters “TK”, if the Minister determines that the test kit will only be used for a medical, laboratory, industrial, educational, law administration or enforcement, or research purpose and that it contains
-
-- **(a)** a restricted drug and an adulterating or denaturing agent that are combined in such a manner and in such a quantity, proportion or concentration that the preparation or mixture has no significant drug abuse potential; or
-
-- **(b)** such small quantities or concentrations of any restricted drug as to have no significant drug abuse potential.
-
-<sub>History: SOR/2004-238, s. 33; SOR/2010-222, s. 25; SOR/2014-260, ss. 9, 16(F); SOR/2019-171, s. 22</sub>
+**J.01.007** \[Repealed, SOR/2025-242, s. 237\]
 
 **J.01.007.1** \[Repealed, SOR/2019-171, s. 22\]
 
@@ -20959,641 +18311,63 @@ per individual dosage form if it has a label that states that it is not a standa
 
 **J.01.007.91** \[Repealed, SOR/2019-171, s. 22\]
 
-#### Cancellation of registration number
+**J.01.008** \[Repealed, SOR/2025-242, s. 237\]
 
-**J.01.008** The Minister must cancel the registration number for a test kit if
+**J.01.009** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(a)** the test kit is removed from the market by the manufacturer;
+**J.01.010** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(b)** the Minister has reasonable grounds to believe that the test kit is used or is likely to be used for any purpose other than a medical, laboratory, industrial, educational, law administration or enforcement, or research purpose; or
+**J.01.011** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(c)** the Minister has reasonable grounds to believe that the cancellation is necessary to protect public health or safety, including to prevent a restricted drug from being diverted to an illicit market or use.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-### Licensed Dealers
-
-#### Authorized Activities
-
-##### General
-
-**J.01.009** **(1)** A licensed dealer may produce, assemble, sell, provide, transport, send, deliver, import or export a restricted drug if they comply with this Part and the terms and conditions of their dealer’s licence and any permit issued under this Part.
-
-*Qualified person in charge present*
-
-**(2)** A licensed dealer may conduct an activity in relation to a restricted drug at their site only if the qualified person in charge or an alternate qualified person in charge is present at the site.
-
-*Permit — import and export*
-
-**(3)** A licensed dealer must obtain a permit to import or export a restricted drug.
-
-*Possession for export*
-
-**(4)** A licensed dealer may possess a restricted drug for the purpose of exporting it if they have obtained it in accordance with this Part.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-#### Dealer’s Licences
-
-##### Preliminary Requirements
-
-###### Eligible persons
-
-**J.01.010** The following persons may apply for a dealer’s licence:
-
-- **(a)** an individual who ordinarily resides in Canada;
-
-- **(b)** a corporation that has its head office in Canada or operates a branch office in Canada; or
-
-- **(c)** the holder of a position that includes responsibility for restricted drugs on behalf of the Government of Canada or of a government of a province, a police force, a hospital or a university in Canada.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-###### Senior person in charge
-
-**J.01.011** An applicant for a dealer’s licence must designate only one individual as the senior person in charge, who has overall responsibility for management of the activities with respect to restricted drugs that are specified in the licence application. The applicant may designate themself if the applicant is an individual.
-
-<sub>History: SOR/2004-238, s. 34; SOR/2019-171, s. 22</sub>
-
-###### Qualified person in charge
-
-**J.01.012** **(1)** An applicant for a dealer’s licence must designate only one individual as the qualified person in charge, who is responsible for supervising the activities with respect to restricted drugs that are specified in the licence application and for ensuring that those activities comply with this Part. The applicant may designate themself if the applicant is an individual.
-
-*Alternate qualified person in charge*
-
-**(2)** An applicant for a dealer’s licence may designate an individual as an alternate qualified person in charge, who is authorized to replace the qualified person in charge when that person is absent. The applicant may designate themself if the applicant is an individual.
-
-*Qualifications*
-
-**(3)** Only an individual who meets the following requirements may be designated as a qualified person in charge or an alternate qualified person in charge:
-
-- **(a)** they work at the site specified in the dealer’s licence;
-
-- **(b)** they
-
-  - **(i)** are a person entitled or, if applicable, registered and entitled by a provincial professional licensing authority or a professional association in Canada and entitled to practise a profession that is relevant to their duties, such as pharmacist, practitioner, pharmacy technician or laboratory technician,
-
-  - **(ii)** hold a diploma, certificate or credential awarded by a post-secondary educational institution in Canada in a field or occupation that is relevant to their duties, such as pharmacy, medicine, dentistry, veterinary medicine, pharmacology, chemistry, biology, pharmacy technician, laboratory technician, pharmaceutical regulatory affairs or supply chain management or security, or
-
-  - **(iii)** hold a diploma, certificate or credential that is awarded by a foreign educational institution in a field or occupation referred to in subparagraph (ii) and hold
-
-    - **(A)** an *equivalency assessment* as defined in subsection 73(1) of the [Immigration and Refugee Protection Regulations](SOR-2002-227.md), or
-
-    - **(B)** an equivalency assessment issued by an organization or institution that is responsible for issuing equivalency assessments and is recognized by a province;
-
-- **(c)** they have sufficient knowledge of and experience with the use and handling of the restricted drugs specified in the dealer’s licence to properly carry out their duties; and
-
-- **(d)** they have sufficient knowledge of the provisions of the Act and this Part that are applicable to the activities specified in the dealer’s licence to properly carry out their duties.
-
-*Exception*
-
-**(4)** An applicant for a dealer’s licence may designate an individual who does not meet any of the requirements of paragraph (3)(b) as a qualified person in charge or an alternate qualified person in charge if
-
-- **(a)** no other individual working at the site meets those requirements;
-
-- **(b)** those requirements are not necessary for the activities specified in the licence; and
-
-- **(c)** the individual has sufficient knowledge — acquired from a combination of education, training or work experience — to properly carry out their duties.
-
-<sub>History: SOR/2004-238, s. 34; SOR/2010-222, s. 30; SOR/2019-171, s. 22</sub>
+**J.01.012** \[Repealed, SOR/2025-242, s. 237\]
 
 **J.01.012.1** \[Repealed, SOR/2019-171, s. 22\]
 
 **J.01.012.2** \[Repealed, SOR/2019-171, s. 22\]
 
-###### Ineligibility
+**J.01.013** \[Repealed, SOR/2025-242, s. 237\]
 
-**J.01.013** An individual is not eligible to be a senior person in charge, a qualified person in charge or an alternate qualified person in charge if, during the 10 years before the day on which the dealer’s licence application is submitted,
+**J.01.014** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(a)** in respect of a designated substance offence or a designated criminal offence or a *designated offence* as defined in subsection 2(1) of the [Cannabis Act](../../acts/en/C-24.5.md), the individual
+**J.01.015** \[Repealed, SOR/2025-242, s. 237\]
 
-  - **(i)** was convicted as an adult, or
+**J.01.016** \[Repealed, SOR/2025-242, s. 237\]
 
-  - **(ii)** was a *young person* who received an *adult sentence*, as those terms are defined in subsection 2(1) of the [Youth Criminal Justice Act](../../acts/en/Y-1.5.md); or
+**J.01.017** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(b)** in respect of an offence committed outside Canada that, if committed in Canada, would have constituted a designated substance offence or a designated criminal offence or a *designated offence* as defined in subsection 2(1) of the [Cannabis Act](../../acts/en/C-24.5.md),
+**J.01.018** \[Repealed, SOR/2025-242, s. 237\]
 
-  - **(i)** the individual was convicted as an adult, or
+**J.01.019** \[Repealed, SOR/2025-242, s. 237\]
 
-  - **(ii)** if they committed the offence when they were at least 14 years old but less than 18 years old, the individual received a sentence that was longer than the maximum *youth sentence*, as that term is defined in subsection 2(1) of the [Youth Criminal Justice Act](../../acts/en/Y-1.5.md), that could have been imposed under that Act for such an offence.
+**J.01.020** \[Repealed, SOR/2025-242, s. 237\]
 
-<sub>History: SOR/2004-238, s. 34; SOR/2019-171, s. 22</sub>
+**J.01.021** \[Repealed, SOR/2025-242, s. 237\]
 
-##### Issuance of Licence
+**J.01.022** \[Repealed, SOR/2025-242, s. 237\]
 
-###### Application
+**J.01.023** \[Repealed, SOR/2025-242, s. 237\]
 
-**J.01.014** **(1)** A person who intends to conduct an activity referred to in section J.01.009 must obtain a dealer’s licence for each site at which they intend to conduct activities by submitting an application to the Minister that contains the following information:
+**J.01.024** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(a)** if the licence is requested by
+**J.01.025** \[Repealed, SOR/2025-242, s. 237\]
 
-  - **(i)** an individual, the individual’s name,
+**J.01.026** \[Repealed, SOR/2025-242, s. 237\]
 
-  - **(ii)** a corporation, its corporate name and any other name registered with a province under which it intends to conduct the activities specified in its dealer’s licence or by which it intends to identify itself, and
+**J.01.027** \[Repealed, SOR/2025-242, s. 237\]
 
-  - **(iii)** the holder of a position mentioned in paragraph J.01.010(c), the applicant’s name and the title of the position;
+**J.01.028** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(b)** the municipal address, telephone number and, if applicable, the email address of the proposed site and, if different from the municipal address, its mailing address;
+**J.01.029** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(c)** the name, date of birth, telephone number and email address of the proposed senior person in charge;
+**J.01.030** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(d)** with respect to each of the proposed qualified person in charge and any proposed alternate qualified person in charge,
+**J.01.031** \[Repealed, SOR/2025-242, s. 237\]
 
-  - **(i)** their name, date of birth, telephone number and email address,
-
-  - **(ii)** the title of their position at the site,
-
-  - **(iii)** the name and title of the position of their immediate supervisor at the site,
-
-  - **(iv)** if applicable, the profession they practise that is relevant to their duties, the name of the province that authorizes them to practise it and their authorization number, and
-
-  - **(v)** their education, training and work experience that are relevant to their duties;
-
-- **(e)** the activities that are to be conducted and the restricted drugs in respect of which each of the activities is to be conducted;
-
-- **(f)** if the licence is requested to manufacture or assemble a product or compound that contains a restricted drug, other than a test kit, a list that includes, for each product or compound,
-
-  - **(i)** the brand name of the product or the name of the compound,
-
-  - **(ii)** the name of the restricted drug in the product or compound,
-
-  - **(iii)** the strength per unit of the restricted drug in it, the number of units per package and the number of packages,
-
-  - **(iv)** if it is to be manufactured or assembled by or for another licensed dealer under a custom order, the name, municipal address and dealer’s licence number of the other licensed dealer, and
-
-  - **(v)** if the applicant’s name appears on the label of the product or compound, a copy of the inner label;
-
-- **(g)** if the licence is requested in order to produce a restricted drug other than a product or compound that contains a restricted drug,
-
-  - **(i)** the name of the restricted drug,
-
-  - **(ii)** the quantity that the applicant expects to produce under their licence and the period during which that quantity would be produced, and
-
-  - **(iii)** if it is to be produced for another licensed dealer under a custom order, the name, municipal address and licence number of the other licensed dealer;
-
-- **(h)** if the licence is requested for an activity that is not described in paragraph (f) or (g), the name of the restricted drug for which the activity is to be conducted and the purpose of the activity;
-
-- **(i)** a detailed description of the security measures in place at the site, determined in accordance with the Security Directive; and
-
-- **(j)** a detailed description of the method for recording information that the applicant proposes to use for the purpose of section J.01.075.
-
-*Documents*
-
-**(2)** An application for a dealer’s licence must be accompanied by the following documents:
-
-- **(a)** if the applicant is a corporation, a copy of
-
-  - **(i)** the certificate of incorporation or other constituting instrument, and
-
-  - **(ii)** any document filed with the province in which its site is located that states its corporate name and any other name registered with the province under which the applicant intends to conduct the activities specified in its dealer’s licence or by which it intends to identify itself;
-
-- **(b)** individual declarations signed and dated by each of the proposed senior person in charge, and qualified person in charge and any proposed alternate qualified person in charge, attesting that the person is not ineligible for a reason specified in section J.01.013;
-
-- **(c)** a document issued by a Canadian police force in relation to each person referred to in paragraph (b), indicating whether, during the 10 years before the day on which the application is submitted, the person was convicted as specified in subparagraph J.01.013(a)(i) or received a sentence as specified in subparagraph J.01.013(a)(ii);
-
-- **(d)** if any of the persons referred to in paragraph (b) has ordinarily resided in a country other than Canada during the 10 years before the day on which the application is submitted, a document issued by a police force of that country indicating whether in that period that person was convicted as specified in subparagraph J.01.013(b)(i) or received a sentence as specified in subparagraph J.01.013(b)(ii);
-
-- **(e)** declaration, signed and dated by the proposed senior person in charge, attesting that the proposed qualified person in charge and any proposed alternate qualified person in charge have the knowledge and experience required under paragraphs J.01.012(3)(c) and (d); and
-
-- **(f)** if the proposed qualified person in charge or any proposed alternate qualified person in charge does not meet the requirement of subparagraph J.01.012(3)(b)(i), either
-
-  - **(i)** a copy of the person’s diploma, certificate or credential referred to in subparagraph J.01.012(3)(b)(ii) or (iii), or
-
-  - **(ii)** a detailed description of the education, training and work experience that is required under paragraph J.01.012(4)(c), together with supporting evidence, such as a copy of a course transcript or an attestation by the person who provided the training.
-
-*Signature and attestation*
-
-**(3)** The application must
-
-- **(a)** be signed and dated by the proposed senior person in charge; and
-
-- **(b)** include an attestation by that person that
-
-  - **(i)** all information and documents submitted in support of the application are correct and complete to the best of their knowledge, and
-
-  - **(ii)** they have the authority to bind the applicant.
-
-*Additional information and documents*
-
-**(4)** The applicant must, not later than the date specified in the Minister’s written request to that effect, provide the Minister with any information or document that the Minister determines is necessary to complete the review of the application.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-###### Issuance
-
-**J.01.015** Subject to section J.01.017, on completion of the review of the licence application, the Minister must issue a dealer’s licence, with or without terms and conditions, that contains
-
-- **(a)** the licence number;
-
-- **(b)** the name of the licensed dealer, their corporate name or the title of the position they hold;
-
-- **(c)** the activities that are authorized and the names of the restricted drugs in respect of which each activity may be conducted;
-
-- **(d)** the municipal address of the site at which the dealer may conduct the authorized activities;
-
-- **(e)** the security level at the site, determined in accordance with the Security Directive;
-
-- **(f)** the effective date of the licence;
-
-- **(g)** the expiry date of the licence, which must be not later than three years after its effective date;
-
-- **(h)** any terms and conditions that the Minister has reasonable grounds to believe are necessary to
-
-  - **(i)** ensure that an international obligation is respected,
-
-  - **(ii)** ensure conformity with the requirements associated with the security level that is referred to in paragraph (e), or
-
-  - **(iii)** reduce a risk to public health or safety, including the risk of a restricted drug being diverted to an illicit market or use; and
-
-- **(i)** if the licensed dealer produces a restricted drug, the quantity that they may produce and the authorized production period.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-###### Validity
-
-**J.01.016** A dealer’s licence is valid until the expiry date set out in the licence or, if it is earlier, the date of the suspension or revocation of the licence under section J.01.035 or J.01.036.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-###### Refusal
-
-**J.01.017** **(1)** The Minister must refuse to issue a dealer’s licence if
-
-- **(a)** the applicant may not apply for a licence under section J.01.010;
-
-- **(b)** during the 10 years before the day on which the licence application is submitted, the applicant has contravened
-
-  - **(i)** a provision of the Act, the [Cannabis Act](../../acts/en/C-24.5.md) or their regulations, or
-
-  - **(ii)** a term or condition of a licence or permit issued to the applicant under any regulations made under the Act or issued to the applicant under the [Cannabis Act](../../acts/en/C-24.5.md) or its regulations;
-
-- **(c)** during the 10 years before the day on which the licence application is submitted the proposed senior person in charge or qualified person in charge or any proposed alternate qualified person in charge was convicted as specified in subparagraph J.01.013(a)(i) or (b)(i) or received a sentence as specified in subparagraph J.01.013(a)(ii) or (b)(ii);
-
-- **(d)** an activity for which the licence is requested would contravene an international obligation;
-
-- **(e)** the applicant does not have in place at the site the security measures set out in the Security Directive in respect of an activity for which the licence is requested;
-
-- **(f)** the method referred to in paragraph J.01.014(1)(j) does not permit the recording of information as required under section J.01.075;
-
-- **(g)** the applicant has not complied with the requirements of subsection J.01.014(4) or the information and documents that they have provided are not sufficient to complete the review of the licence application;
-
-- **(h)** the Minister has reasonable grounds to believe that the applicant has submitted false or misleading information or false or falsified documents in or in support of the licence application;
-
-- **(i)** information received from a competent authority or the United Nations gives the Minister reasonable grounds to believe that the applicant has been involved in the diversion of a restricted drug to an illicit market or use or has been involved in an activity that contravened an international obligation; or
-
-- **(j)** the Minister has reasonable grounds to believe that the issuance of the licence would likely create a risk to public health or safety, including the risk of a restricted drug being diverted to an illicit market or use.
-
-*Exceptions*
-
-**(2)** The Minister must not refuse to issue a licence under paragraph (1)(b) or (h) if the applicant meets the following conditions, unless the Minister has reasonable grounds to believe that it is necessary to do so to protect public health or safety, including to prevent a restricted drug from being diverted to an illicit market or use:
-
-- **(a)** the applicant does not have a history of non-compliance with the Act, the [Cannabis Act](../../acts/en/C-24.5.md) or their regulations; and
-
-- **(b)** the applicant has carried out, or signed an undertaking to carry out, the necessary corrective measures to ensure compliance with the Act, the [Cannabis Act](../../acts/en/C-24.5.md) and their regulations.
-
-*Notice*
-
-**(3)** Before refusing to issue a licence, the Minister must send the applicant a notice that sets out the Minister’s reasons and gives the applicant an opportunity to be heard.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-##### Renewal of Licence
-
-###### Application
-
-**J.01.018** **(1)** To apply to renew a dealer’s licence, a licensed dealer must submit to the Minister an application that contains the information and documents referred to in subsections J.01.014(1) and (2).
-
-*Signature and attestation*
-
-**(2)** The application must
-
-- **(a)** be signed and dated by the senior person in charge of the site specified in the application; and
-
-- **(b)** include an attestation by that person that
-
-  - **(i)** all of the information and documents submitted in support of the application are correct and complete to the best of their knowledge, and
-
-  - **(ii)** they have the authority to bind the licensed dealer.
-
-*Additional information and documents*
-
-**(3)** The licensed dealer must, not later than the date specified in the Minister’s written request to that effect, provide the Minister with any information or document that the Minister determines is necessary to complete the review of the application.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-###### Renewal
-
-**J.01.019** **(1)** Subject to section J.01.021, on completion of the review of the renewal application, the Minister must issue a renewed dealer’s licence that contains the information specified in section J.01.015.
-
-*Terms and conditions*
-
-**(2)** When renewing a dealer’s licence, the Minister may, if he or she has reasonable grounds to believe that it is necessary to do so, add a term or condition to it or modify or delete one in order to
-
-- **(a)** ensure that an international obligation is respected;
-
-- **(b)** ensure conformity with the requirements associated with the security level specified in the licence or the new level required as a result of the licence renewal; or
-
-- **(c)** reduce a risk to public health or safety, including the risk of a restricted drug being diverted to an illicit market or use.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-###### Validity
-
-**J.01.020** A renewed dealer’s licence is valid until the expiry date set out in the licence or, if it is earlier, the date of the suspension or revocation of the licence under section J.01.035 or J.01.036.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-###### Refusal
-
-**J.01.021** **(1)** The Minister must refuse to renew a dealer’s licence if
-
-- **(a)** the licensed dealer may no longer apply for a licence under section J.01.010;
-
-- **(b)** during the 10 years before the day on which the renewal application is submitted, the licensed dealer has contravened
-
-  - **(i)** a provision of the Act, the [Cannabis Act](../../acts/en/C-24.5.md) or their Regulations, or
-
-  - **(ii)** a term or condition of a licence or permit issued to the dealer under a regulation made under the Act or issued to the dealer under the [Cannabis Act](../../acts/en/C-24.5.md) or its regulations;
-
-- **(c)** during the 10 years before the day on which the renewal application is submitted, the proposed senior person in charge or qualified person in charge or any proposed alternate qualified person in charge was convicted as specified in subparagraph J.01.013(a)(i) or (b)(i) or received a sentence as specified in subparagraph J.01.013(a)(ii) or (b)(ii);
-
-- **(d)** an activity for which the renewal is requested would contravene an international obligation;
-
-- **(e)** the licensed dealer does not have in place at the site the security measures set out in the Security Directive in respect of an activity for which the renewal is requested;
-
-- **(f)** the method referred to in paragraph J.01.014(1)(j) does not permit the recording of information as required under section J.01.075;
-
-- **(g)** the licensed dealer has not complied with the requirements of subsection J.01.018(3) or the information or documents that they have provided are not sufficient to complete the review of the renewal application;
-
-- **(h)** the Minister has reasonable grounds to believe that the licensed dealer has submitted false or misleading information or false or falsified documents in or in support of the renewal application;
-
-- **(i)** information received from a competent authority or the United Nations gives the Minister reasonable grounds to believe that the licensed dealer has been involved in the diversion of a restricted drug to an illicit market or use or has been involved in an activity that contravened an international obligation; or
-
-- **(j)** the Minister has reasonable grounds to believe that the renewal of the licence would likely create a risk to public health or safety, including the risk of a restricted drug being diverted to an illicit market or use.
-
-*Exceptions*
-
-**(2)** The Minister must not refuse to renew a licence under paragraph (1)(b) or (h) if the licensed dealer meets the following conditions, unless the Minister has reasonable grounds to believe that it is necessary to do so to protect public health or safety, including to prevent a restricted drug from being diverted to an illicit market or use:
-
-- **(a)** the licensed dealer does not have a history of non-compliance with the Act, the [Cannabis Act](../../acts/en/C-24.5.md) or their regulations; and
-
-- **(b)** the licensed dealer has carried out, or signed an undertaking to carry out, the necessary corrective measures to ensure compliance with the Act, the [Cannabis Act](../../acts/en/C-24.5.md) and their regulations.
-
-*Notice*
-
-**(3)** Before refusing to renew a licence, the Minister must send the licensed dealer a notice that sets out the Minister’s reasons and gives the dealer an opportunity to be heard.
-
-<sub>History: SOR/85-550, s. 15; SOR/2019-171, s. 22</sub>
-
-##### Amendment of Licence
-
-###### Application
-
-**J.01.022** **(1)** Before making a change affecting any information referred to in section J.01.015 that is contained in their dealer’s licence, a licensed dealer must submit to the Minister an application to amend the licence that contains a description of the proposed amendment, as well as the information and documents referred to in section J.01.014 that are relevant to the proposed amendment.
-
-*Signature and attestation*
-
-**(2)** The application must
-
-- **(a)** be signed and dated by the senior person in charge of the site specified in the application; and
-
-- **(b)** include an attestation by that person that
-
-  - **(i)** all of the information and documents submitted in support of the application are correct and complete to the best of their knowledge, and
-
-  - **(ii)** they have the authority to bind the licensed dealer.
-
-*Additional information and documents*
-
-**(3)** The licensed dealer must, not later than the date specified in the Minister’s written request to that effect, provide the Minister with any information or document that the Minister determines is necessary to complete the review of the application.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-###### Amendment
-
-**J.01.023** **(1)** Subject to section J.01.025, on completion of the review of the amendment application, the Minister must amend the dealer’s licence.
-
-*Terms and conditions*
-
-**(2)** When amending a dealer’s licence, the Minister may, if he or she has reasonable grounds to believe that it is necessary to do so, add a term or condition to it or modify or delete one in order to
-
-- **(a)** ensure that an international obligation is respected;
-
-- **(b)** ensure conformity with the requirements associated with the security level specified in the licence or the new level required as a result of the amendment; or
-
-- **(c)** reduce a risk to public health or safety, including the risk of a restricted drug being diverted to an illicit market or use.
-
-<sub>History: SOR/2004-238, s. 35; SOR/2010-222, s. 31(F); SOR/2019-171, s. 22</sub>
-
-###### Validity
-
-**J.01.024** An amended dealer’s licence is valid until the expiry date set out in the licence or, if it is earlier, the date of the suspension or revocation of the licence under section J.01.035 or J.01.036.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-###### Refusal
-
-**J.01.025** **(1)** The Minister must refuse to amend a dealer’s licence if
-
-- **(a)** an activity for which the licence amendment is requested would contravene an international obligation;
-
-- **(b)** the licensed dealer does not have in place at the site the security measures set out in the Security Directive in respect of an activity for which the licence amendment is requested;
-
-- **(c)** the method referred to in paragraph J.01.014(1)(j) does not permit the recording of information as required by section J.01.075;
-
-- **(d)** the licensed dealer has not complied with the requirements of subsection J.01.022(3) or the information or documents that they have provided are not sufficient to complete the review of the amendment application;
-
-- **(e)** the Minister has reasonable grounds to believe that the licensed dealer has submitted false or misleading information or false or falsified documents in or in support of the amendment application; or
-
-- **(f)** the Minister has reasonable grounds to believe that the amendment of the licence would likely create a risk to public health or safety, including the risk of a restricted drug being diverted to an illicit market or use.
-
-*Exceptions*
-
-**(2)** The Minister must not refuse to amend a licence under paragraph (1)(e) if the licensed dealer meets the following conditions, unless the Minister has reasonable grounds to believe that it is necessary to do so to protect public health or safety, including to prevent a restricted drug from being diverted to an illicit market or use:
-
-- **(a)** the licensed dealer does not have a history of non-compliance with the Act, the [Cannabis Act](../../acts/en/C-24.5.md) or their regulations; and
-
-- **(b)** the licensed dealer has carried out, or signed an undertaking to carry out, the necessary corrective measures to ensure compliance with the Act, the [Cannabis Act](../../acts/en/C-24.5.md) and their regulations.
-
-*Notice*
-
-**(3)** Before refusing to amend a licence, the Minister must send the licensed dealer a notice that sets out the Minister’s reasons and gives the dealer an opportunity to be heard.
-
-<sub>History: SOR/2004-238, s. 36; SOR/2010-222, s. 32; SOR/2019-171, s. 22</sub>
-
-##### Changes Requiring Prior Approval by Minister
-
-###### Application
-
-**J.01.026** **(1)** A licensed dealer must obtain the Minister’s approval before making any of the following changes by submitting a written application to the Minister:
-
-- **(a)** a change affecting the security measures in place at the site specified in the dealer’s licence;
-
-- **(b)** the replacement of the senior person in charge;
-
-- **(c)** the replacement of the qualified person in charge; or
-
-- **(d)** the replacement or addition of an alternate qualified person in charge.
-
-*Information and documents*
-
-**(2)** The licensed dealer must provide the Minister with the following with respect to a change referred to in subsection (1):
-
-- **(a)** in the case of a change affecting the security measures in place at the site specified in the dealer’s licence, details of the change;
-
-- **(b)** in the case of the senior person in charge,
-
-  - **(i)** the information specified in paragraph J.01.014(1)(c), and
-
-  - **(ii)** the declaration specified in paragraph J.01.014(2)(b) and the documents specified in paragraphs J.01.014(2)(c) and (d); and
-
-- **(c)** in the case of the qualified person in charge or an alternate qualified person in charge,
-
-  - **(i)** the information specified in paragraph J.01.014(1)(d), and
-
-  - **(ii)** the declarations specified in paragraphs J.01.014(2)(b) and (e) and the documents specified in paragraphs J.01.014(2)(c), (d) and (f).
-
-*Additional information and documents*
-
-**(3)** The licensed dealer must, not later than the date specified in the Minister’s written request to that effect, provide the Minister with any information or document that the Minister determines is necessary to complete the review of the application.
-
-<sub>History: SOR/2004-238, s. 37; SOR/2019-171, s. 22</sub>
-
-###### Approval
-
-**J.01.027** **(1)** Subject to section J.01.028, on completion of the review of the application for approval of the change, the Minister must approve the change.
-
-*Terms and conditions*
-
-**(2)** When approving a change, the Minister may, if he or she has reasonable grounds to believe that it is necessary to do so, add a term or condition to the licence or modify or delete one in order to
-
-- **(a)** ensure that an international obligation is respected;
-
-- **(b)** ensure conformity with the requirements associated with the security level specified in the licence; or
-
-- **(c)** reduce a risk to public health or safety, including the risk of a restricted drug being diverted to an illicit market or use.
-
-<sub>History: SOR/2004-238, s. 38; SOR/2010-222, s. 33; SOR/2019-171, s. 22</sub>
-
-###### Refusal
-
-**J.01.028** **(1)** The Minister must refuse to approve the change if
-
-- **(a)** during the 10 years before the day on which the application for approval of the change is submitted, the proposed senior person in charge or qualified person in charge or any proposed alternate qualified person in charge was convicted as specified in subpa/ragraph J.01.013(a)(i) or (b)(i) or received a sentence as specified in subparagraph J.01.0013(a)(ii) or (b)(ii);
-
-- **(b)** the licensed dealer has not complied with the requirements of subsection J.01.026(3) or the information or documents that they have provided are not sufficient to complete the review of the application for approval of the change;
-
-- **(c)** the Minister has reasonable grounds to believe that the licensed dealer has submitted false or misleading information or false or falsified documents in or in support of the application for approval of the change; or
-
-- **(d)** the Minister has reasonable grounds to believe that the change would likely create a risk to public health or safety, including the risk of a restricted drug being diverted to an illicit market or use.
-
-*Exception*
-
-**(2)** The Minister must not refuse to approve a change under paragraph (1)(c) if the licensed dealer has carried out, or signed an undertaking to carry out, the necessary corrective measures to ensure compliance with the Act, the [Cannabis Act](../../acts/en/C-24.5.md) and their regulations, unless the Minister has reasonable grounds to believe that it is necessary to do so to protect public health or safety, including to prevent a restricted drug from being diverted to an illicit market or use.
-
-*Notice*
-
-**(3)** Before refusing to approve a change, the Minister must send the licensed dealer a notice that sets out the Minister’s reasons and gives the dealer an opportunity to be heard in respect of them.
-
-<sub>History: SOR/2015-210, s. 3; SOR/2018-85, s. 2; SOR/2019-171, s. 22</sub>
-
-##### Changes Requiring Notice to Minister
-
-###### Prior notice
-
-**J.01.029** **(1)** A licensed dealer must notify the Minister in writing before
-
-- **(a)** making or assembling a product or compound that is not set out in the most recent version of the list referred to in paragraph J.01.014(1)(f) that has been submitted to the Minister; or
-
-- **(b)** making a change to a product or compound that is set out in the list, if the change affects any of the information that has previously been submitted.
-
-*Information and list*
-
-**(2)** The notice must contain the information referred to in paragraph J.01.014(1)(f) that is necessary to update the list and be accompanied by the revised version of the list.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-###### Notice — five days
-
-**J.01.030** A licensed dealer must notify the Minister in writing within five days after a person ceases to act as the qualified person in charge or an alternate qualified person in charge.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-###### Notice — 10 days
-
-**J.01.031** **(1)** A licensed dealer must notify the Minister in writing within 10 days after one of the following changes occurs:
-
-- **(a)** a person ceases to act as the senior person in charge; or
-
-- **(b)** the licensed dealer ceases to manufacture or assemble a product or compound that is set out in the most recent version of the list referred to in paragraph J.01.014(1)(f) that has been submitted to the Minister.
-
-*Information and list*
-
-**(2)** A notice submitted under paragraph (1)(b) must specify which information referred to in paragraph J.01.014(1)(f) is being changed and be accompanied by the revised version of the list.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-###### Notice of cessation of activities
-
-**J.01.032** **(1)** A licensed dealer that intends to cease conducting activities at their site — whether on or before the expiry of their licence — must notify the Minister in writing to that effect at least 30 days before ceasing those activities.
-
-*Content of notice*
-
-**(2)** The notice must be signed and dated by the senior person in charge and contain the following information:
-
-- **(a)** the expected date of the cessation of activities at the site;
-
-- **(b)** a description of the manner in which any remaining restricted drugs on the site as of that date will be disposed of by the licensed dealer, including
-
-  - **(i)** if some or all of them will be sold or provided to another licensed dealer that will be conducting activities at the same site, the name of that dealer,
-
-  - **(ii)** if some or all of them will be sold or provided to another licensed dealer that will not be conducting activities at the same site, the name of that dealer and the municipal address of their site, and
-
-  - **(iii)** if some or all of them will be destroyed, the date on which and the municipal address of the location at which the destruction is to take place;
-
-- **(c)** the municipal address of the location at which the licensed dealer’s documents will be kept after activities have ceased; and
-
-- **(d)** the name, municipal address, telephone number and, if applicable, the email address of a person who the Minister may contact for further information after activities have ceased.
-
-*Update*
-
-**(3)** After having ceased to conduct the activities, the licensed dealer must submit to the Minister a detailed update of the information referred to in subsection (2) if it differs from what was set out in the notice. The update must be signed and dated by the senior person in charge.
-
-<sub>History: SOR/2004-238, s. 39; SOR/2019-171, s. 22</sub>
+**J.01.032** \[Repealed, SOR/2025-242, s. 237\]
 
 **J.01.032.1** \[Repealed, SOR/2019-171, s. 22\]
 
-##### Changes to Terms and Conditions of Licence
-
-###### Addition of or modification to term or condition
-
-**J.01.033** **(1)** The Minister may, at any time other than at the issuance, renewal or amendment of a dealer’s licence, add a term or condition to it or modify one if the Minister has reasonable grounds to believe that it is necessary to do so to
-
-- **(a)** ensure that an international obligation is respected;
-
-- **(b)** ensure conformity with the requirements associated with the security level specified in the licence; or
-
-- **(c)** reduce a risk to public health or safety, including the risk of a restricted drug being diverted to an illicit market or use.
-
-*Notice*
-
-**(2)** Before adding a term or condition to a licence or modifying one, the Minister must send the licensed dealer a notice that sets out the Minister’s reasons and gives the dealer an opportunity to be heard.
-
-*Urgent circumstances*
-
-**(3)** Despite subsection (2), the Minister may add a term or condition to a licence or modify one without prior notice if the Minister has reasonable grounds to believe that it is necessary to do so to protect public health or safety, including to prevent a restricted drug from being diverted to an illicit market or use.
-
-*Urgent circumstances — notice*
-
-**(4)** The addition or modification of a term or condition that is made under subsection (3) takes effect as soon as the Minister sends the licensed dealer a notice that
-
-- **(a)** sets out the reasons for the addition or modification;
-
-- **(b)** gives the dealer an opportunity to be heard; and
-
-- **(c)** if applicable, specifies the corrective measures that must be carried out and the date by which they must be carried out.
-
-<sub>History: SOR/99-125, s. 8; SOR/2004-238, s. 40; SOR/2018-69, ss. 67, 69; SOR/2019-171, s. 22</sub>
+**J.01.033** \[Repealed, SOR/2025-242, s. 237\]
 
 **J.01.033.1** \[Repealed, SOR/2019-171, s. 22\]
 
@@ -21603,1164 +18377,117 @@ per individual dosage form if it has a label that states that it is not a standa
 
 **J.01.033.4** \[Repealed, SOR/2019-171, s. 22\]
 
-###### Deletion of term or condition
+**J.01.034** \[Repealed, SOR/2025-242, s. 237\]
 
-**J.01.034** **(1)** The Minister may delete a term or condition of a dealer’s licence that the Minister determines is no longer necessary.
+**J.01.035** \[Repealed, SOR/2025-242, s. 237\]
 
-*Notice*
+**J.01.036** \[Repealed, SOR/2025-242, s. 237\]
 
-**(2)** The deletion takes effect as soon as the Minister sends the licensed dealer a notice to that effect.
+**J.01.037** \[Repealed, SOR/2025-242, s. 237\]
 
-<sub>History: SOR/2019-171, s. 22</sub>
+**J.01.038** \[Repealed, SOR/2025-242, s. 237\]
 
-##### Suspension and Revocation of Licence
+**J.01.039** \[Repealed, SOR/2025-242, s. 237\]
 
-###### Suspension
+**J.01.040** \[Repealed, SOR/2025-242, s. 237\]
 
-**J.01.035** **(1)** The Minister must suspend a dealer’s licence without prior notice if the Minister has reasonable grounds to believe that it is necessary to do so to protect public health or safety, including to prevent a restricted drug from being diverted to an illicit market or use.
+**J.01.041** \[Repealed, SOR/2025-242, s. 237\]
 
-*Notice*
+**J.01.042** \[Repealed, SOR/2025-242, s. 237\]
 
-**(2)** The suspension takes effect as soon as the Minister sends the licensed dealer a notice that
+**J.01.043** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(a)** sets out the reasons for the suspension;
+**J.01.044** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(b)** gives the dealer an opportunity to be heard; and
+**J.01.045** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(c)** if applicable, specifies the corrective measures that must be carried out and the date by which they must be carried out.
+**J.01.046** \[Repealed, SOR/2025-242, s. 237\]
 
-*Reinstatement of licence*
+**J.01.047** \[Repealed, SOR/2025-242, s. 237\]
 
-**(3)** The Minister must reinstate the licence if the Minister has reasonable grounds to believe that the suspension is no longer necessary.
+**J.01.048** \[Repealed, SOR/2025-242, s. 237\]
 
-<sub>History: SOR/97-228, s. 24; SOR/2019-171, s. 22</sub>
+**J.01.049** \[Repealed, SOR/2025-242, s. 237\]
 
-###### Revocation
+**J.01.050** \[Repealed, SOR/2025-242, s. 237\]
 
-**J.01.036** **(1)** Subject to subsection (2), the Minister must revoke a dealer’s licence if
+**J.01.051** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(a)** the licensed dealer may no longer apply for a licence under section J.01.010;
+**J.01.052** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(b)** the licensed dealer requests the Minister to do so or informs the Minister of the loss or theft of the licence or the actual or potential unauthorized use of the licence;
+**J.01.053** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(c)** the licensed dealer ceases to conduct activities at their site before the expiry of their licence;
+**J.01.054** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(d)** the licensed dealer does not take the corrective measures specified in an undertaking or notice;
+**J.01.055** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(e)** the licensed dealer has contravened
+**J.01.056** \[Repealed, SOR/2025-242, s. 237\]
 
-  - **(i)** a provision of the Act, the [Cannabis Act](../../acts/en/C-24.5.md) or their regulations, or
+**J.01.057** \[Repealed, SOR/2025-242, s. 237\]
 
-  - **(ii)** a term or condition of a licence or permit issued to the dealer under a regulation made under the Act or issued to the dealer under the [Cannabis Act](../../acts/en/C-24.5.md) or its regulations;
+**J.01.058** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(f)** during the 10 years before the day on which the licence is revoked, the senior person in charge, the qualified person in charge or any alternate qualified person in charge was convicted as specified in subparagraph J.01.013(a)(i) or (b)(i) or received a sentence as specified in subparagraph J.01.013(a)(ii) or (b)(ii);
+**J.01.059** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(g)** the Minister has reasonable grounds to believe that the licensed dealer submitted false or misleading information or false or falsified documents in or in support of an application relating to the licence; or
+**J.01.060** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(h)** information received from a competent authority or the United Nations gives the Minister reasonable grounds to believe that the licensed dealer has been involved in the diversion of a restricted drug to an illicit market or use.
+**J.01.061** \[Repealed, SOR/2025-242, s. 237\]
 
-*Exceptions*
+**J.01.062** \[Repealed, SOR/2025-242, s. 237\]
 
-**(2)** The Minister must not revoke a dealer’s licence for a ground set out in paragraph (1)(e) or (g) if the licensed dealer meets the following conditions, unless the Minister has reasonable grounds to believe that it is necessary to do so to protect public health or safety, including to prevent a restricted drug from being diverted to an illicit market or use:
+**J.01.063** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(a)** the licensed dealer does not have a history of non-compliance with the Act, the [Cannabis Act](../../acts/en/C-24.5.md) or their regulations; and
+**J.01.064** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(b)** the licensed dealer has carried out, or signed an undertaking to carry out, the necessary corrective measures to ensure compliance with the Act, the [Cannabis Act](../../acts/en/C-24.5.md) and their regulations.
+**J.01.065** \[Repealed, SOR/2025-242, s. 237\]
 
-*Notice*
+**J.01.066** \[Repealed, SOR/2025-242, s. 237\]
 
-**(3)** Before revoking a licence, the Minister must send the licensed dealer a notice that sets out the Minister’s reasons and gives the dealer an opportunity to be heard.
+**J.01.067** \[Repealed, SOR/2025-242, s. 237\]
 
-<sub>History: SOR/97-228, s. 25; SOR/2019-171, s. 22</sub>
+**J.01.068** \[Repealed, SOR/2025-242, s. 237\]
 
-###### Return of licence
+**J.01.069** \[Repealed, SOR/2025-242, s. 237\]
 
-**J.01.037** The licensed dealer must return the original of the licence to the Minister within 15 days after the effective date of the revocation.
+**J.01.070** \[Repealed, SOR/2025-242, s. 237\]
 
-<sub>History: SOR/2018-85, s. 3; SOR/2019-171, s. 22</sub>
+**J.01.071** \[Repealed, SOR/2025-242, s. 237\]
 
-#### Import Permits
+**J.01.072** \[Repealed, SOR/2025-242, s. 237\]
 
-##### Application
+**J.01.073** \[Repealed, SOR/2025-242, s. 237\]
 
-**J.01.038** **(1)** A licensed dealer must submit to the Minister, before each importation of a restricted drug, an application for an import permit that contains the following information:
+**J.01.074** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(a)** their name, municipal address and dealer’s licence number;
+**J.01.075** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(b)** with respect to the restricted drug to be imported,
+**J.01.076** \[Repealed, SOR/2025-242, s. 237\]
 
-  - **(i)** its name, as specified in the dealer’s licence,
+**J.01.077** \[Repealed, SOR/2025-242, s. 237\]
 
-  - **(ii)** if it is a salt, the name of the salt,
+**J.01.078** \[Repealed, SOR/2025-242, s. 237\]
 
-  - **(iii)** its quantity, and
+**J.01.079** \[Repealed, SOR/2025-242, s. 237\]
 
-  - **(iv)** in the case of a raw material, its purity and its anhydrous content;
+**J.01.080** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(c)** if the restricted drug is contained in a product to be imported,
+**J.01.081** \[Repealed, SOR/2025-242, s. 237\]
 
-  - **(i)** the brand name of the product,
+**J.01.082** \[Repealed, SOR/2025-242, s. 237\]
 
-  - **(ii)** the drug identification number that has been assigned to the product under section C.01.014.2, if any, and
+**J.01.083** \[Repealed, SOR/2025-242, s. 237\]
 
-  - **(iii)** the strength per unit of the restricted drug in the product, the number of units per package and the number of packages;
+**J.01.084** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(d)** the name and municipal address, in the country of export, of the exporter from whom the restricted drug is being obtained;
+**J.01.085** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(e)** the name of the customs office where the importation is anticipated; and
+**J.01.086** \[Repealed, SOR/2025-242, s. 237\]
 
-- **(f)** each proposed mode of transportation and any proposed country of transit or transhipment.
-
-*Signature and attestation*
-
-**(2)** The application must
-
-- **(a)** be signed and dated by the qualified person in charge or an alternate qualified person in charge; and
-
-- **(b)** include an attestation by that person that all of the information submitted in support of the application is correct and complete to the best of their knowledge.
-
-*Additional information and documents*
-
-**(3)** The licensed dealer must, not later than the date specified in the Minister’s written request to that effect, provide the Minister with any information or document that the Minister determines is necessary to complete the review of the application.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-##### Issuance
-
-**J.01.039** Subject to section J.01.042, on completion of the review of the import permit application, the Minister must issue to the licensed dealer an import permit that contains
-
-- **(a)** the permit number;
-
-- **(b)** the information set out in subsection J.01.038(1);
-
-- **(c)** the effective date of the permit;
-
-- **(d)** the expiry date of the permit, being the earlier of
-
-  - **(i)** a date specified by the Minister that is not more than 180 days after its effective date, and
-
-  - **(ii)** the expiry date of the dealer’s licence; and
-
-- **(e)** any terms and conditions that the Minister has reasonable grounds to believe are necessary to
-
-  - **(i)** ensure that an international obligation is respected, or
-
-  - **(ii)** reduce a risk to public health or safety, including the risk of a restricted drug being diverted to an illicit market or use.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-##### Validity
-
-**J.01.040** An import permit is valid until the earliest of
-
-- **(a)** the expiry date set out in the permit,
-
-- **(b)** the date of the suspension or revocation of the permit under section J.01.045 or J.01.046,
-
-- **(c)** the date of the suspension or revocation of the dealer’s licence under section J.01.035 or J.01.036, and
-
-- **(d)** the date of the suspension or revocation of the export permit that applies to the restricted drug to be imported and that is issued by the competent authority in the country of export.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-##### Return of permit
-
-**J.01.041** If an import permit expires, the licensed dealer must return the original of the permit to the Minister within 15 days after its expiry.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-##### Refusal
-
-**J.01.042** **(1)** The Minister must refuse to issue an import permit if
-
-- **(a)** the licensed dealer is not authorized by their dealer’s licence to import the relevant restricted drug or their licence will expire before the date of importation;
-
-- **(b)** the Minister has reasonable grounds to believe that the importation would contravene an international obligation;
-
-- **(c)** the licensed dealer does not have in place at the site the security measures set out in the Security Directive in respect of the importation;
-
-- **(d)** the licensed dealer has not complied with the requirements of subsection J.01.038(3) or the information or documents that they have provided are not sufficient to complete the review of the permit application;
-
-- **(e)** the Minister has reasonable grounds to believe that the licensed dealer has submitted false or misleading information or false or falsified documents in or in support of the permit application;
-
-- **(f)** the licensed dealer has been notified that their application to renew or amend their licence will be refused;
-
-- **(g)** the Minister has reasonable grounds to believe that the importation would contravene the laws of the country of export or any country of transit or transhipment; or
-
-- **(h)** the Minister has reasonable grounds to believe that the issuance of the permit would likely create a risk to public health or safety, including the risk of a restricted drug being diverted to an illicit market or use.
-
-*Notice*
-
-**(2)** Before refusing to issue the import permit, the Minister must send the licensed dealer a notice that sets out the Minister’s reasons and gives the dealer an opportunity to be heard.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-##### Providing copy of permit
-
-**J.01.043** The holder of an import permit must provide a copy of the permit to the customs office at the time of importation.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-##### Declaration
-
-**J.01.044** The holder of an import permit must provide the Minister, within 15 days after the day of release of the restricted drug specified in the permit in accordance with the [Customs Act](../../acts/en/C-52.6.md), with a declaration that contains the following information:
-
-- **(a)** their name and the numbers of their dealer’s licence and the import permit that applies to the restricted drug;
-
-- **(b)** with respect to the restricted drug,
-
-  - **(i)** its name, as set out in the dealer’s licence,
-
-  - **(ii)** if it is a salt, the name of the salt, and
-
-  - **(iii)** its quantity;
-
-- **(c)** if the restricted drug is contained in a product that they have imported,
-
-  - **(i)** the brand name of the product,
-
-  - **(ii)** the drug identification number that has been assigned to the product under section C.01.014.2, if any, and
-
-  - **(iii)** the strength per unit of the restricted drug in the product, the number of units per package and the number of packages; and
-
-- **(d)** the name of the customs office from which the restricted drug was released and the date of the release.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-##### Suspension
-
-**J.01.045** **(1)** The Minister must suspend an import permit without prior notice if
-
-- **(a)** the dealer’s licence is suspended;
-
-- **(b)** the Minister has reasonable grounds to believe that the suspension is necessary to protect public health or safety, including to prevent a restricted drug from being diverted to an illicit market or use; or
-
-- **(c)** the importation would contravene the laws of the country of export or any country of transit or transhipment.
-
-*Notice*
-
-**(2)** The suspension takes effect as soon as the Minister sends the licensed dealer a notice that
-
-- **(a)** sets out the reasons for the suspension;
-
-- **(b)** gives the dealer an opportunity to be heard; and
-
-- **(c)** if applicable, specifies the corrective measures that must be carried out and the date by which they must be carried out.
-
-*Reinstatement of permit*
-
-**(3)** The Minister must reinstate the import permit if the Minister has reasonable grounds to believe that the suspension is no longer necessary.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-##### Revocation
-
-**J.01.046** **(1)** Subject to subsection (2), the Minister must revoke an import permit if
-
-- **(a)** the licensed dealer requests the Minister to do so or informs the Minister of the loss or theft of the permit or the actual or potential unauthorized use of the permit;
-
-- **(b)** the licensed dealer does not carry out the corrective measures specified by the Minister under paragraph J.01.045(2)(c) by the specified date;
-
-- **(c)** the licensed dealer has contravened a term or condition of the permit;
-
-- **(d)** the Minister has reasonable grounds to believe that the licensed dealer submitted false or misleading information or false or falsified documents in or in support of the application for the permit;
-
-- **(e)** information received from a competent authority or the United Nations gives the Minister reasonable grounds to believe that the licensed dealer has been involved in the diversion of a restricted drug to an illicit market or use; or
-
-- **(f)** the dealer’s licence has been revoked.
-
-*Exceptions*
-
-**(2)** The Minister must not revoke an import permit for a ground set out in paragraph (1)(d) or J.01.036(1)(e) or (g) if the licensed dealer meets the following conditions, unless the Minister has reasonable grounds to believe that it is necessary to do so to protect public health or safety, including to prevent a restricted drug from being diverted to an illicit market or use:
-
-- **(a)** the licensed dealer does not have a history of non-compliance with the Act, the [Cannabis Act](../../acts/en/C-24.5.md) or their regulations; and
-
-- **(b)** the licensed dealer has carried out, or signed an undertaking to carry out, the necessary corrective measures to ensure compliance with the Act, the [Cannabis Act](../../acts/en/C-24.5.md) and their regulations.
-
-*Notice*
-
-**(3)** Before revoking an import permit, the Minister must send the licensed dealer a notice that sets out the Minister’s reasons and gives the dealer an opportunity to be heard.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-##### Return of permit
-
-**J.01.047** If an import permit is revoked, the licensed dealer must return the original of the permit to the Minister within 15 days after the effective date of the revocation.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-#### Export Permits
-
-##### Application
-
-**J.01.048** **(1)** A licensed dealer must submit to the Minister, before each exportation of a restricted drug, an application for an export permit that contains the following information and document:
-
-- **(a)** their name, municipal address and dealer’s licence number;
-
-- **(b)** with respect to the restricted drug to be exported,
-
-  - **(i)** its name, as specified in the dealer’s licence,
-
-  - **(ii)** if it is a salt, the name of the salt,
-
-  - **(iii)** its quantity, and
-
-  - **(iv)** in the case of a raw material, its purity and its anhydrous content;
-
-- **(c)** if the restricted drug is contained in a product to be exported,
-
-  - **(i)** the brand name of the product,
-
-  - **(ii)** the drug identification number that has been assigned to the product under section C.01.014.2, if any, and
-
-  - **(iii)** the strength per unit of the restricted drug in the product, the number of units per package and the number of packages;
-
-- **(d)** the name and municipal address of the importer in the country of final destination;
-
-- **(e)** the name of the customs office where the exportation is anticipated;
-
-- **(f)** each proposed mode of transportation and any proposed country of transit or transhipment; and
-
-- **(g)** a copy of the import permit issued by the competent authority in the country of final destination that sets out the name of the importer and the municipal address of their site in that country.
-
-*Signature and attestation*
-
-**(2)** The application must
-
-- **(a)** be signed and dated by the qualified person in charge or an alternate qualified person in charge; and
-
-- **(b)** include an attestation by that person that, to the best of their knowledge,
-
-  - **(i)** the exportation does not contravene the laws of the country of final destination or any country of transit or transhipment, and
-
-  - **(ii)** all of the information and documents submitted in support of the application are correct and complete.
-
-*Additional information and documents*
-
-**(3)** The licensed dealer must, not later than the date specified in the Minister’s written request to that effect, provide the Minister with any information or document that the Minister determines is necessary to complete the review of the application.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-##### Issuance
-
-**J.01.049** Subject to section J.01.052, on completion of the review of the export permit application, the Minister must issue to the licensed dealer an export permit that contains
-
-- **(a)** the permit number;
-
-- **(b)** the information set out in paragraphs J.01.048(1)(a) to (f);
-
-- **(c)** the effective date of the permit;
-
-- **(d)** the expiry date of the permit, being the earliest of
-
-  - **(i)** a date specified by the Minister that is not more than 180 days after its effective date,
-
-  - **(ii)** the expiry date of the dealer’s licence, and
-
-  - **(iii)** the expiry date of the import permit issued by the competent authority in the country of final destination; and
-
-- **(e)** any terms and conditions that the Minister has reasonable grounds to believe are necessary to
-
-  - **(i)** ensure that an international obligation is respected, or
-
-  - **(ii)** reduce a risk to public health or safety, including the risk of a restricted drug being diverted to an illicit market or use.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-##### Validity
-
-**J.01.050** An export permit is valid until the earliest of
-
-- **(a)** the expiry date set out in the permit,
-
-- **(b)** the date of the suspension or revocation of the permit under section J.01.055 or J.01.056,
-
-- **(c)** the date of the suspension or revocation of the dealer’s licence under section J.01.035 or J.01.036, and
-
-- **(d)** the date of the expiry, suspension or revocation of the import permit that applies to the restricted drug to be exported and that is issued by the competent authority in the country of final destination.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-##### Return of permit
-
-**J.01.051** If an export permit expires, the licensed dealer must return the original of the permit to the Minister within 15 days after its expiry.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-##### Refusal
-
-**J.01.052** **(1)** The Minister must refuse to issue an export permit if
-
-- **(a)** the licensed dealer is not authorized by their dealer’s licence to export the relevant restricted drug or their dealer’s licence will expire before the date of export;
-
-- **(b)** the Minister has reasonable grounds to believe that the exportation would contravene an international obligation;
-
-- **(c)** the licensed dealer has not complied with the requirements of subsection J.01.048(3) or the information or documents that they have provided are not sufficient to complete the review of the permit application;
-
-- **(d)** the Minister has reasonable grounds to believe that the licensed dealer has submitted false or misleading information or false or falsified documents in or in support of the permit application;
-
-- **(e)** the licensed dealer has been notified that their application to renew or amend their licence will be refused;
-
-- **(f)** the Minister has reasonable grounds to believe that the exportation would not be in conformity with the import permit issued by the competent authority of the country of final destination;
-
-- **(g)** the Minister has reasonable grounds to believe that the exportation would contravene the laws of the country of final destination or any country of transit or transhipment; or
-
-- **(h)** the Minister has reasonable grounds to believe that the issuance of the permit would likely create a risk to public health or safety, including the risk of a restricted drug being diverted to an illicit market or use.
-
-*Notice*
-
-**(2)** Before refusing to issue the export permit, the Minister must send the licensed dealer a notice that sets out the Minister’s reasons and gives the dealer an opportunity to be heard.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-##### Providing copy of permit
-
-**J.01.053** The holder of an export permit must provide a copy of the permit to the customs office at the time of exportation.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-##### Declaration
-
-**J.01.054** The holder of an export permit must provide the Minister, within 15 days after the day of export of the restricted drug specified in the permit, with a declaration that contains the following information:
-
-- **(a)** their name and the numbers of their dealer’s licence and the export permit that applies to the restricted drug;
-
-- **(b)** with respect to the restricted drug,
-
-  - **(i)** its name, as specified in the dealer’s licence,
-
-  - **(ii)** if it is a salt, the name of the salt, and
-
-  - **(iii)** its quantity;
-
-- **(c)** if the restricted drug is contained in a product that they have exported,
-
-  - **(i)** the brand name of the product,
-
-  - **(ii)** the drug identification number that has been assigned to the product under section C.01.014.2, if any, and
-
-  - **(iii)** the strength per unit of the restricted drug in the product, the number of units per package and the number of packages; and
-
-- **(d)** the name of the customs office from which the restricted drug was exported and the date of export.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-##### Suspension
-
-**J.01.055** **(1)** The Minister must suspend an export permit without prior notice if
-
-- **(a)** the dealer’s licence is suspended;
-
-- **(b)** the Minister has reasonable grounds to believe that the suspension is necessary to protect public health or safety, including to prevent a restricted drug from being diverted to an illicit market or use; or
-
-- **(c)** the exportation would contravene the laws of the country of final destination or any country of transit or transhipment.
-
-*Notice*
-
-**(2)** The suspension takes effect as soon as the Minister sends the licensed dealer a notice that
-
-- **(a)** sets out the reasons for the suspension;
-
-- **(b)** gives the dealer an opportunity to be heard; and
-
-- **(c)** if applicable, specifies the corrective measures that must be carried out and the date by which they must be carried out.
-
-*Reinstatement of permit*
-
-**(3)** The Minister must reinstate the export permit if the Minister has reasonable grounds to believe that the suspension is no longer necessary.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-##### Revocation
-
-**J.01.056** **(1)** Subject to subsection (2), the Minister must revoke an export permit if
-
-- **(a)** the licensed dealer requests the Minister to do so or informs the Minister of the loss or theft of the permit or the actual or potential unauthorized use of the permit;
-
-- **(b)** the licensed dealer does not carry out the corrective measures specified by the Minister under paragraph J.01.055(2)(c) by the specified date;
-
-- **(c)** the licensed dealer has contravened a term or condition of the permit;
-
-- **(d)** the Minister has reasonable grounds to believe that the licensed dealer submitted false or misleading information or false or falsified documents in or in support of the application for the permit;
-
-- **(e)** information received from a competent authority or the United Nations gives the Minister reasonable grounds to believe that the licensed dealer has been involved in the diversion of a restricted drug to an illicit market or use; or
-
-- **(f)** the dealer’s licence has been revoked.
-
-*Exceptions*
-
-**(2)** The Minister must not revoke an export permit for a ground set out in paragraph (1)(d) or J.01.036(1)(e) or (g) if the licensed dealer meets the following conditions, unless the Minister has reasonable grounds to believe that it is necessary to do so to protect public health or safety, including to prevent a restricted drug from being diverted to an illicit market or use:
-
-- **(a)** the licensed dealer does not have a history of non-compliance with the Act, the [Cannabis Act](../../acts/en/C-24.5.md) or their regulations; and
-
-- **(b)** the licensed dealer has carried out, or signed an undertaking to carry out, the necessary corrective measures to ensure compliance with the Act, the [Cannabis Act](../../acts/en/C-24.5.md) and their regulations.
-
-*Notice*
-
-**(3)** Before revoking an export permit, the Minister must send the licensed dealer a notice that sets out the Minister’s reasons and gives the dealer an opportunity to be heard.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-##### Return of permit
-
-**J.01.057** If an export permit is revoked, the licensed dealer must return the original of the permit to the Minister within 15 days after the effective date of the revocation.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-#### Identification
-
-##### Name
-
-**J.01.058** A licensed dealer must include their name, as set out in their dealer’s licence, on all the means by which they identify themself in regard to their activities in relation to restricted drugs, including labels, orders, shipping documents, invoices and advertising.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-#### Sale of Restricted Drugs
-
-##### Sale to institution
-
-**J.01.059** **(1)** Despite section C.08.002 and subject to subsections (3) and (4), a licensed dealer may sell a restricted drug to an institution for one of the following purposes if the institution submits to the dealer or the Minister an application to purchase the drug and the Minister issues a prior written authorization for the sale:
-
-- **(a)** clinical testing in the institution by qualified investigators for the purpose of determining the hazards and efficacy of the drug; or
-
-- **(b)** laboratory research in the institution by qualified investigators.
-
-*Content of application*
-
-**(2)** The application must contain the following information:
-
-- **(a)** the name and the municipal address of the institution;
-
-- **(b)** the names and qualifications of the qualified investigators;
-
-- **(c)** the name, form, quantity and strength per unit of the restricted drug being requested;
-
-- **(d)** details of the proposed use of the drug; and
-
-- **(e)** the name and municipal address of the licensed dealer from whom the institution proposes to purchase the drug.
-
-*Application to licensed dealer*
-
-**(3)** If the institution submits the application to the licensed dealer, the dealer must provide a copy of it to the Minister.
-
-*Authorization by Minister*
-
-**(4)** After reviewing the application received from the institution or the copy of it received from the licensed dealer, the Minister may, subject to any terms and conditions that the Minister has reasonable grounds to believe are necessary, authorize in writing
-
-- **(a)** the sale by the licensed dealer to the institution of the restricted drug applied for in the form, quantity and strength per unit specified by the Minister; and
-
-- **(b)** the possession of the restricted drug by qualified investigators for clinical testing of the drug in the institution for the purpose of determining its hazards and efficacy or to conduct laboratory research with the drug in the institution.
-
-*Authorized use only*
-
-**(5)** The institution must use the restricted drug only in accordance with the written authorization.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-##### Sale to Minister
-
-**J.01.060** A licensed dealer may sell or provide a restricted drug to the Minister.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-##### Provision for identification or analysis
-
-**J.01.061** **(1)** Despite anything in this Part, a person may, for the purpose of identification or analysis of a restricted drug, provide or deliver it to
-
-- **(a)** a practitioner of medicine; or
-
-- **(b)** an agent or mandatary of a practitioner of medicine, if the agent or mandatary has been exempted under section 56 of the Act with respect to the possession of that restricted drug for that purpose.
-
-*Agent or mandatary of practitioner of medicine*
-
-**(2)** An agent or mandatary of a practitioner of medicine who receives the restricted drug must immediately provide or deliver it to
-
-- **(a)** the practitioner; or
-
-- **(b)** the Minister.
-
-*Practitioner of medicine*
-
-**(3)** A practitioner of medicine who receives the restricted drug must immediately provide or deliver it
-
-- **(a)** for the purpose of its identification or analysis, to a person exempted under section 56 of the Act with respect to the possession of that restricted drug for that purpose; or
-
-- **(b)** to the Minister.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-#### Packaging, Labelling and Transportation
-
-##### Packaging — sale and provision
-
-**J.01.062** **(1)** A licensed dealer that sells or provides a restricted drug must securely package it in its immediate container, which must be sealed in such a manner that the container cannot be opened without breaking the seal.
-
-*Packaging — transport and export*
-
-**(2)** A licensed dealer that transports or exports a restricted drug must ensure that its package is sealed in such a manner that the package cannot be opened without breaking the seal.
-
-*Exception*
-
-**(3)** Subsection (1) does not apply to a test kit that contains a restricted drug and that has a registration number.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-##### Labelling
-
-**J.01.063** **(1)** A licensed dealer that sells or provides a restricted drug must ensure that its package is labelled so that its inner and outer labels show
-
-- **(a)** the proper name or, if there is no proper name, the name of the drug;
-
-- **(b)** the net contents of the package;
-
-- **(c)** the unit strength of the drug and the number of units per package, if applicable;
-
-- **(d)** the lot number of the drug;
-
-- **(e)** the expression “Restricted Drug”; and
-
-- **(f)** the name and municipal address of the manufacturer or assembler of the drug.
-
-*Exception*
-
-**(2)** Subsection (1) does not apply to a test kit that contains a restricted drug and that has a registration number.
-
-*Non-application*
-
-**(3)** The labelling requirements set out in section C.01.004 do not apply to a restricted drug.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-##### Transport
-
-**J.01.064** A licensed dealer must, in taking delivery of a restricted drug that they have imported or in making delivery of a restricted drug,
-
-- **(a)** take any measures that are necessary to ensure the security of the drug while it is being transported;
-
-- **(b)** use a method of transportation that permits an accurate record to be kept of all handling of the drug as well as of the signatures of every person handling it until it is delivered to the consignee;
-
-- **(c)** in the case of an imported drug, transport it directly to the site specified in their licence after it is released under the [Customs Act](../../acts/en/C-52.6.md); and
-
-- **(d)** in the case of a drug to be exported, transport it directly from the site specified in their licence to the customs office where it will be exported.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-### Thefts, Losses and Suspicious Transactions
-
-#### Protective measures — licences and permits
-
-**J.01.065** A licensed dealer must take any measures that are necessary to ensure the security of any licence or permit in their possession.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-#### Protective measures — restricted drugs
-
-**J.01.066** The following persons must take any measures that are necessary to ensure the security of any restricted drugs in their possession:
-
-- **(a)** a licensed dealer;
-
-- **(b)** an institution;
-
-- **(c)** a qualified investigator who possesses the restricted drug for the purpose of clinical testing or laboratory research in an institution; and
-
-- **(d)** a person exempted under section 56 of the Act with respect to the possession of the restricted drug.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-#### Theft or loss — licences and permits
-
-**J.01.067** A licensed dealer that becomes aware of a theft or loss of their licence or permit must provide a written report to the Minister within 72 hours after becoming aware of it.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-#### Theft or loss — restricted drugs
-
-**J.01.068** **(1)** Subject to subsection (2), any person referred to in section J.01.066 who becomes aware of a theft or loss of a restricted drug must
-
-- **(a)** provide a written report to a member of a police force within 24 hours after becoming aware of the theft or loss; and
-
-- **(b)** provide a written report to the Minister within 72 hours after becoming aware of the theft or loss and include a confirmation that the report required under paragraph (a) has been provided.
-
-*Explainable loss — licensed dealer*
-
-**(2)** Subsection (1) does not apply to a licensed dealer that becomes aware of a loss of a restricted drug that can be explained on the basis of normally accepted business activities.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-#### Suspicious transaction
-
-**J.01.069** **(1)** A licensed dealer must provide a written report containing the following information to the Minister within 72 hours after becoming aware of a transaction occurring in the course of their activities that they have reasonable grounds to suspect may be related to the diversion of a restricted drug to an illicit market or use:
-
-- **(a)** their name, municipal address, telephone number and, if the licensed dealer is a corporation, the position held by the individual making the report;
-
-- **(b)** the name and municipal address of the other party to the transaction;
-
-- **(c)** details of the transaction, including its date and time, its type, the name and quantity of the restricted drug and, in the case of a product or compound, the quantity of every restricted drug that it contains;
-
-- **(d)** in the case of a product that contains the restricted drug, other than a test kit, the drug identification number that is assigned to the product under section C.01.014.2, if any; and
-
-- **(e)** a detailed description of the reasons for those suspicions.
-
-*Good faith*
-
-**(2)** No civil proceedings lie against a licensed dealer for having provided the report in good faith.
-
-*Non-disclosure*
-
-**(3)** A licensed dealer must not disclose that they have provided the report or disclose details of it, with the intent to prejudice a criminal investigation, whether or not a criminal investigation has begun.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-#### Partial protection against self-incrimination
-
-**J.01.070** A report made under any of sections J.01.067 to J.01.069, or any evidence derived from it, is not to be used or received to incriminate the licensed dealer in any criminal proceeding against them other than a prosecution under section 132, 136 or 137 of the [Criminal Code](../../acts/en/C-46.md).
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-### Destruction of Restricted Drugs
-
-#### Destruction at site
-
-**J.01.071** A licensed dealer that intends to destroy a restricted drug at the site specified in their licence must ensure that the following conditions are met:
-
-- **(a)** the licensed dealer obtains the prior approval of the Minister;
-
-- **(b)** the destruction occurs in the presence of two of the following persons, at least one of whom must be a person referred to in subparagraph (i):
-
-  - **(i)** the senior person in charge, the qualified person in charge or an alternate qualified person in charge, and
-
-  - **(ii)** a person who works for or provides services to the licensed dealer and holds a senior position;
-
-- **(c)** the destruction is carried out in accordance with a method that complies with all federal, provincial and municipal environmental protection legislation applicable to the place of destruction; and
-
-- **(d)** as soon as the destruction is completed, the person who carried out the destruction and each of the two persons referred to in paragraph (b) who were present at the destruction sign and date a joint declaration attesting that the restricted drug was completely destroyed, to which each signatory must add their name in printed letters.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-#### Destruction elsewhere than at site
-
-**J.01.072** A licensed dealer that intends to destroy a restricted drug elsewhere than at the site specified in their licence must ensure that the following conditions are met:
-
-- **(a)** the licensed dealer obtains the prior approval of the Minister;
-
-- **(b)** the licensed dealer takes any measures that are necessary to ensure the security of the restricted drug while it is being transported in order to prevent its diversion to an illicit market or use;
-
-- **(c)** the destruction is carried out by a person working for a business that specializes in the destruction of dangerous goods and in the presence of another person working for that business;
-
-- **(d)** the destruction is carried out in accordance with a method that complies with all federal, provincial and municipal environmental protection legislation applicable to the place of destruction; and
-
-- **(e)** as soon as the destruction is completed, the person who carried out the destruction provides the licensed dealer with a dated declaration attesting that the restricted drug was completely destroyed and containing
-
-  - **(i)** the municipal address of the place of destruction,
-
-  - **(ii)** the name and quantity of the restricted drug and, if applicable, the brand name and quantity of the product containing it or the name and quantity of the compound containing it,
-
-  - **(iii)** the method of destruction,
-
-  - **(iv)** the date of destruction, and
-
-  - **(v)** the names in printed letters and signatures of that person and the other person who was present at the destruction.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-#### Application for prior approval
-
-**J.01.073** **(1)** A licensed dealer must submit to the Minister an application that contains the following information in order to obtain the Minister’s prior approval to destroy a restricted drug:
-
-- **(a)** their name, municipal address and dealer’s licence number;
-
-- **(b)** the proposed date of destruction;
-
-- **(c)** the municipal address of the place of destruction;
-
-- **(d)** a brief description of the method of destruction;
-
-- **(e)** if the destruction is to be carried out at the site specified in the dealer’s licence, the names of the persons proposed for the purpose of paragraph J.01.071(b) and information establishing that they meet the conditions of that paragraph;
-
-- **(f)** the name of the restricted drug and, if applicable, the brand name of the product containing it or the name of the compound containing it; and
-
-- **(g)** the form and quantity of the restricted drug or the product or compound containing it and if applicable, the strength per unit of the restricted drug in the product or compound, the number of units per package and the number of packages.
-
-*Signature and attestation*
-
-**(2)** The application must
-
-- **(a)** be signed and dated by the qualified person in charge or an alternate qualified person in charge; and
-
-- **(b)** include an attestation by that person that
-
-  - **(i)** the proposed method of destruction complies with all federal, provincial and municipal environmental protection legislation applicable to the place of destruction, and
-
-  - **(ii)** all of the information submitted in support of the application is correct and complete to the best of the signatory’s knowledge.
-
-*Additional information and documents*
-
-**(3)** The licensed dealer must, not later than the date specified in the Minister’s written request to that effect, provide the Minister with any information or document that the Minister determines is necessary to complete the review of the application.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-#### Approval
-
-**J.01.074** On completion of the review of the application for approval, the Minister must approve the destruction of the restricted drug unless
-
-- **(a)** in the case of a destruction that is to be carried out at the site specified in the dealer’s licence, the persons proposed for the purpose of paragraph J.01.071(b) do not meet the conditions of that paragraph;
-
-- **(b)** the Minister has reasonable grounds to believe that the restricted drug would not be destroyed;
-
-- **(c)** the Minister has reasonable grounds to believe that the licensed dealer has submitted false or misleading information or false or falsified documents in or in support of the approval application;
-
-- **(d)** the restricted drug or a portion of it is required for the purposes of a criminal or administrative investigation or a preliminary inquiry, trial or other proceeding under any Act or its regulations; or
-
-- **(e)** the Minister has reasonable grounds to believe that the approval would likely create a risk to public health or safety, including the risk of the restricted drug being diverted to an illicit market or use.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-### Documents
-
-#### Licensed Dealers
-
-##### Method of recording information
-
-**J.01.075** A licensed dealer must record any information that they are required to record under this Part using a method that permits an audit of it to be made at any time.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-##### Information — general
-
-**J.01.076** A licensed dealer must record the following information:
-
-- **(a)** the name, form and quantity of any restricted drug that the dealer orders, the name of the person who placed the order on the dealer’s behalf and the date of the order;
-
-- **(b)** the name, form and quantity of any restricted drug that the dealer receives, the name and municipal address of the person who sold or provided it and the date on which it was received;
-
-- **(c)** in the case of a restricted drug that the dealer sells or provides,
-
-  - **(i)** the brand name of the product or the name of the compound containing the restricted drug and the name of the restricted drug,
-
-  - **(ii)** the drug identification number that has been assigned to the product under section C.01.014.2, if any,
-
-  - **(iii)** the form and quantity of the restricted drug and, if applicable, the strength per unit of the restricted drug in the product or compound, the number of units per package and the number of packages,
-
-  - **(iv)** the name and municipal address of the person to whom it was sold or provided, and
-
-  - **(v)** the date on which it was sold or provided;
-
-- **(d)** the name, form and quantity of any restricted drug that the dealer manufactures or assembles and the date on which it was placed in stock and, if applicable, the strength per unit of the restricted drug in the product or compound, the number of units per package and the number of packages;
-
-- **(e)** the name and quantity of any restricted drug that the dealer uses in the manufacturing or assembling of a product or compound, as well as the brand name and quantity of the product or the name and quantity of the compound, and the date on which the product or compound was placed in stock;
-
-- **(f)** the name, form and quantity of any restricted drug in stock at the end of each month;
-
-- **(g)** the name, form and quantity of any restricted drug that the dealer delivers, transports or sends, the name and municipal address of the consignee and the date on which it was delivered, transported or sent;
-
-- **(h)** the name, form and quantity of any restricted drug imported, the date on which it was that the dealer imports, the name and municipal address of the exporter, the country of exportation and any country of transit or transhipment; and
-
-- **(i)** the name, form and quantity of any restricted drug that the dealer exports, the date on which it was exported, the name and municipal address of the importer, the country of final destination and any country of transit or transhipment.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-##### Explainable loss of restricted drug
-
-**J.01.077** A licensed dealer that becomes aware of a loss of a restricted drug that can be explained on the basis of normally accepted business activities must record the following information:
-
-- **(a)** the name of the lost restricted drug and, if applicable, the brand name of the product or the name of the compound containing it;
-
-- **(b)** the form and quantity of the restricted drug and, if applicable, the form of the product or compound containing it, the strength per unit of the restricted drug in the product or compound, the number of units per package and the number of packages;
-
-- **(c)** the date on which the dealer became aware of the loss; and
-
-- **(d)** the explanation for the loss.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-##### Destruction
-
-**J.01.078** A licensed dealer must record the following information concerning any restricted drug that they destroy at the site specified in their licence:
-
-- **(a)** the municipal address of the place of destruction;
-
-- **(b)** the name, form and quantity of the restricted drug and, if applicable, the brand name and quantity of the product containing the drug or the name and quantity of the compound containing the drug;
-
-- **(c)** the method of destruction; and
-
-- **(d)** the date of destruction.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-##### Annual report
-
-**J.01.079** **(1)** Subject to subsections (2) and (3), a licensed dealer must provide to the Minister, within three months after the end of each calendar year, an annual report that contains
-
-- **(a)** the name, form and total quantity of each restricted drug that they receive, produce, sell, provide, import, export or destroy during the calendar year, as well as the name and total quantity of each restricted drug that they use to manufacture or assemble a product or compound;
-
-- **(b)** the name, form and quantity of each restricted drug in physical inventory taken at the site specified in their licence at the end of the calendar year; and
-
-- **(c)** the name, form and quantity of any restricted drug that has been lost in the course of conducting activities during the calendar year.
-
-*Non-renewal or revocation within first three months*
-
-**(2)** If a licensed dealer’s licence expires without being renewed or is revoked during the first three months of a calendar year, the dealer must provide to the Minister
-
-- **(a)** within three months after the end of the preceding calendar year, the annual report in respect of that year; and
-
-- **(b)** within three months after the expiry or revocation, a report in respect of the portion of the current calendar year during which the licence was valid that contains the information referred to in subsection (1), in which the quantity in physical inventory is to be calculated as of the date of expiry or revocation.
-
-*Non-renewal or revocation after third month*
-
-**(3)** If a licensed dealer’s licence expires without being renewed or is revoked after the first three months of a calendar year, the dealer must provide to the Minister, within three months after the expiry or revocation, a report in respect of the portion of the calendar year during which the licence was valid that contains the information referred to in subsection (1) for that period, in which the quantity in physical inventory is to be calculated as of the date of expiry or revocation.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-#### Institutions
-
-##### Method of recording information
-
-**J.01.080** An institution must record any information that it is required to record under this Part using a method that permits an audit of the information to be made at any time.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-##### Information
-
-**J.01.081** An institution must record the following information:
-
-- **(a)** the name and quantity of any restricted drug that the institution orders, the name of the person who placed the order on the institution’s behalf and the date of the order;
-
-- **(b)** the name and quantity of any restricted drug that the institution receives as well as the name and municipal address of the licensed dealer that sold or provided it and the date on which it was received;
-
-- **(c)** details of the use of restricted drugs in the institution;
-
-- **(d)** the names and qualifications of every person who makes use of a restricted drug in the institution; and
-
-- **(e)** all clinical data with respect to the use of every restricted drug received by the institution.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-#### Drug Received for Identification and Analysis
-
-##### Method of recording information
-
-**J.01.082** A person who records information in accordance with section J.01.083 must do so using a method that permits an audit of the information to be made at any time.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-##### Information
-
-**J.01.083** A person who receives a restricted drug in accordance with section J.01.061 must record the following information:
-
-- **(a)** the name and quantity of the restricted drug, as well as the name and municipal address of the person who provided it to them and the date on which it was received;
-
-- **(b)** details regarding the identification or analysis of the restricted drug; and
-
-- **(c)** the names of the persons who handled the restricted drug during the process of identifying or analyzing it.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-#### Record Keeping
-
-##### Retention period
-
-**J.01.084** A licensed dealer, a former licensed dealer, an institution and a person referred to in section J.01.083 must keep any document containing the information that they are required to record under this Part, including every declaration and a copy of every report, for a period of two years following the day on which the last record is recorded in the document and in a manner that permits an audit of the document to be made at any time.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-##### Location
-
-**J.01.085** The documents must be kept
-
-- **(a)** in the case of a licensed dealer, at the site specified in their licence;
-
-- **(b)** in the case of an institution, at the institution;
-
-- **(c)** in the case of a person referred to in section J.01.083, at a location in Canada; and
-
-- **(d)** in the case of a former licensed dealer, at a location in Canada.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-##### Quality of documents
-
-**J.01.086** The documents must be complete and readily retrievable and the information in them must be legible and indelible.
-
-<sub>History: SOR/2019-171, s. 22</sub>
-
-### Notification of Application for Order of Restoration
-
-#### Written notification
-
-**J.01.087** **(1)** For the purpose of subsection 24(1) of the Act, notification of an application for an order of restoration must be given in writing to the Attorney General by registered mail and be mailed at least 15 days before the date on which the application is to be made to a justice.
-
-*Content of notification*
-
-**(2)** The notification must specify
-
-- **(a)** the name of the justice to whom the application is to be made;
-
-- **(b)** the time and place at which the application is to be heard;
-
-- **(c)** details concerning the restricted drug or other thing in respect of which the application is to be made; and
-
-- **(d)** the evidence on which the applicant intends to rely to establish that they are entitled to possession of the restricted drug or other thing referred to in paragraph (c).
-
-<sub>History: SOR/2019-171, s. 22</sub>
+**J.01.087** \[Repealed, SOR/2025-242, s. 237\]
 
 ## SCHEDULE
 
-*(Sections J.01.001, J.01.002 and J.01.004)*
-
-## PART I
-
-- **1** The following amphetamines, their salts, derivatives, isomers and analogues and salts of derivatives, isomers and analogues:
-
-  - **(1)** N-ethylamphetamine (N-ethyl-α-methylbenzeneethanamine)
-
-  - **(2)** 4-methyl-2,5-dimethoxyamphetamine (STP) (2,5-dimethoxy-4,α-dimethylbenzeneethanamine)
-
-  - **(3)** 3,4-methylenedioxyamphetamine (MDA) (α-methyl-1,3-benzodioxole-5-ethanamine)
-
-  - **(4)** 2,5-dimethoxyamphetamine(2,5-dimethoxy-α-methylbenzeneethanamine)
-
-  - **(5)** 4-methoxyamphetamine (4-methoxy-α-methylbenzeneethanamine)
-
-  - **(6)** 2,4,5-trimethoxyamphetamine (2,4,5-trimethoxy-α-methylbenzeneethanamine)
-
-  - **(7)** N-methyl-3,4-methylenedioxyamphetamine (N,α-dimethyl-1,3-benzodioxole-5-ethanamine)
-
-  - **(8)** 4-ethoxy-2,5-dimethoxyamphetamine (4-ethoxy-2,5-dimethoxy-α-methylbenzeneethanamine)
-
-  - **(9)** 5-methoxy-3,4-methylenedioxyamphetamine (7-methoxy-α-methyl-1,3-benzodioxole-5-ethanamine)
-
-  - **(10)** N,N-dimethyl-3,4-methylenedioxyamphetamine (N,N, α-trimethyl-1,3-benzodioxole-5-ethanamine)
-
-  - **(11)** N-ethyl-3,4-methylenedioxyamphetamine (N-ethyl-α-methyl-1,3-benzodioxole-5-ethanamine)
-
-  - **(12)** 4-ethyl-2,5-dimethoxyamphetamine (DOET) (4-ethyl-2,5-dimethoxy-α-methylbenzeneethanamine)
-
-  - **(13)** 4-bromo-2,5-dimethoxyamphetamine (4-bromo-2,5-dimethoxy-α-methylbenzeneethanamine)
-
-  - **(14)** 4-chloro-2,5-dimethoxyamphetamine (4-chloro-2,5-dimethoxy-α-methylbenzeneethanamine)
-
-  - **(15)** 4-ethoxyamphetamine (4-ethoxy-α-methyl-benzeneethanamine)
-
-  - **(16)** N-Propyl-3,4-methylenedioxyamphetamine (α-methyl-N-propyl-1,3-benzodioxole-5-ethanamine)
-
-  - **(17)** N-hydroxy-3,4-methylenedioxyamphetamine (N-\[α-methyl-3,4-(methylenedioxy)phenethyl\]hydroxylamine)
-
-  - **(18)** 3,4,5-trimethoxyamphetamine (3,4,5-trimethoxy-α-methylbenzeneethanamine)
-
-- **2** Lysergic acid diethylamide (LSD) (N,N-diethyllysergamide) and any salt thereof
-
-- **3** N,N-Diethyltryptamine (DET) (3-\[(2-diethylamino)ethyl\]indole) and any salt thereof
-
-- **4** N,N-Dimethyltryptamine (DMT) (3-\[(2-dimethylamino)ethyl\]indole) and any salt thereof
-
-- **5** N-Methyl-3-piperidyl benzilate (LBJ) (3-\[(hydroxydiphenylacetyl)oxy\]-1-methylpiperidine) and any salt thereof
-
-- **6** Harmaline (4,9-dihydro-7-methoxy-1-methyl-3H-pyrido(3,4-b)indole) and any salt thereof
-
-- **7** Harmalol (4,9-dihydro-1-methyl-3H-pyrido(3,4-ß)indol-7-ol) and any salt thereof
-
-- **8** Psilocin (3-\[2-(dimethylamino)ethyl\]-4-hydroxyindole) and any salt thereof
-
-- **9** Psilocybin (3-\[2-(dimethylamino)ethyl\]-4-phosphoryloxyindole) and any salt thereof
-
-- **10** N-(1-phenylcyclohexyl)ethylamine (PCE) and any salt thereof
-
-- **11** 1-\[1-(2-Thienyl)cyclohexyl\]piperidine (TCP) and any salt thereof
-
-- **12** 1-Phenyl-N-propylcyclohexanamine and any salt thereof
-
-- **13** Mescaline (3,4,5-trimethoxybenzeneethanamine) and any salt thereof, but not peyote (lophophora)
-
-- **14** \[Repealed, SOR/2017-250, s. 2\]
-
-- **15** 2-Methylamino-1-phenyl-1-propanone and any salt thereof
-
-- **16** 1-\[1-(Phenylmethyl)cyclohexyl\]piperidine and any salt thereof
-
-- **17** 1-\[1-(4-Methylphenyl)cyclohexyl\]piperidine and any salt thereof
-
-- **18** Etryptamine (3-(2-aminobutyl)indole) and any salt thereof
-
-- **19** Rolicyclidine (1-(1-phenylcyclohexyl) pyrrolidine) and any salt thereof
-
-- **20** Benzylpiperazine \[BZP\], namely 1-benzylpiperazine and its salts, isomers and salts of isomers
-
-- **21** Trifluoromethylphenylpiperazine \[TFMPP\], namely 1-(3-trifluoromethylphenyl)piperazine and its salts, isomers and salts of isomers
-
-- **22** Methylenedioxypyrovalerone (MDPV), its salts, derivatives, isomers and analogues and salts of derivatives, isomers and analogues
-
-- **23** Cathinone ((-)-α-aminopropiophenone) and its salts
-
-- **24** 2C-phenethylamines and their salts, derivatives, isomers and salts of derivatives and isomers that correspond to the following chemical description:
-
-  - any substance that has a 1-amino-2-phenylethane structure substituted at the 2’ and 5’ or 2’ and 6’ positions of the benzene ring by an alkoxy or haloalkoxy group, or substituted at two adjacent carbon atoms of the benzene ring which results in the formation of a furan, dihydrofuran, pyran, dihydropyran or methylenedioxy group — whether or not further substituted on the benzene ring to any extent, whether or not substituted at the amino group by one or two, or a combination of, methyl, ethyl, propyl, isopropyl, hydroxyl, benzyl (or benzyl substituted to any extent) or benzylene (or benzylene substituted to any extent) groups and whether or not substituted at the 2-ethyl (beta carbon) position by a hydroxyl, oxo or alkoxy group — and its salts and derivatives and salts of derivatives, including
-
-    - **(1)** 4-bromo-2,5-dimethoxy-N-(2-methoxybenzyl)phenethylamine (25B-NBOMe)
-
-    - **(2)** 4-chloro-2,5-dimethoxy-N-(2-methoxybenzyl)phenethylamine (25C-NBOMe)
-
-    - **(3)** 4-iodo-2,5-dimethoxy-N-(2-methoxybenzyl)phenethylamine (25I-NBOMe)
-
-    - **(4)** 4-bromo-2,5-dimethoxybenzeneethanamine (2C-B)
-
-- **25** AH-7921 (1-(3,4-dichlorobenzamidomethyl)cyclohexyldimethylamine), its salts, isomers and salts of isomers
-
-- **26** MT-45 (1-cyclohexyl-4-(1,2-diphenylethyl)piperazine), its salts, derivatives, isomers and analogues and salts of derivatives, isomers and analogues, including
-
-  - **(1)** Diphenidine (DEP) (1-(1,2-diphenylethyl)piperidine)
-
-  - **(2)** Methoxphenidine (2-MeO-Diphenidine, MXP) (1-\[1-(2-methoxyphenyl)-2-phenylethyl\]piperidine)
-
-  - **(3)** Ephenidine (NEDPA, EPE) (N-ethyl-1,2-diphenylethylamine)
-
-  - **(4)** Isophenidine (NPDPA) (N-isopropyl-1,2-diphenylethylamine)
-
-  - but not including
-
-  - **(5)** Lefetamine ((-)-N,N-dimethyl-α-phenylbenzeneethanamine), its salts, derivatives and isomers and salts of derivatives and isomers
-
-- **27** W-18 (4-chloro-N-\[1-\[2-(4-nitrophenyl)ethyl\]-2-piperidinylidene\]benzenesulfonamide), its salts, derivatives, isomers and analogues and salts of derivatives, isomers and analogues
-
-- **28** U-47700 (3,4-dichloro-N-(2-(dimethylamino)cyclohexyl)-N-methylbenzamide), its salts, derivatives, isomers and analogues, and salts of derivatives, isomers and analogues, including
-
-  - **(1)** Bromadoline (4-bromo-N-(2-(dimethylamino)cyclohexyl)benzamide)
-
-  - **(2)** U-47109 (3,4-dichloro-N-(2-(dimethylamino)cyclohexyl)benzamide)
-
-  - **(3)** U-48520 (4-chloro-N-(2-(dimethylamino)cyclohexyl)-N-methylbenzamide)
-
-  - **(4)** U-50211 (N-(2-(dimethylamino)cyclohexyl)-4-hydroxy-N-methylbenzamide)
-
-  - **(5)** U-77891 (3,4-dibromo-N-methyl-N-(1-methyl-1-azaspiro\[4.5\]decan-6-yl)benzamide)
-
-## PART II
-
-- **1** Salvia divinorum (S. divinorum), its preparations and derivatives, including
-
-  - **(1)** Salvinorin A ((2S,4aR,6aR,7R,9S,10aS,10bR)-9-(acetyloxy)-2-(3-furanyl)dodecahydro-6a,10b-dimethyl-4,10-dioxo-2H-naphtho\[2,1-c\]pyran-7-carboxylic acid methyl ester)
-
-- **2** Catha edulis Forsk, its preparations, derivatives, alkaloids and salts, including
-
-  - **(1)** Cathine (*d*-threo-2-amino-1-hydroxy-1-phenylpropane)
-
-  - but not including
-
-  - **(2)** Cathinone ((-)-α-aminopropiophenone) and its salts
-
-## PART III
-
-<table>
-<thead>
-<tr><th rowspan="2">Item</th><th>Column 1</th><th>Column 2</th></tr>
-<tr><th>Substance</th><th>Period</th></tr>
-</thead>
-<tbody>
-<tr><td>1</td><td>Spirobrorphine (8-[1-(4-bromophenyl)ethyl]-1-phenyl-1,3,8-triazaspiro[4.5]decan-4-one) and its salts</td><td>June 5, 2026 to September 30, 2026</td></tr>
-<tr><td>2</td><td>Spirochlorphine (8-[1-(4-chlorophenyl)ethyl]-1-phenyl-1,3,8-triazaspiro[4.5]decan-4-one) and its salts</td><td>June 5, 2026 to September 30, 2026</td></tr>
-</tbody>
-</table>
-
-<sub>History: SOR/97-228, s. 25; SOR/2003-34, ss. 4, 5; SOR/2012-65, s. 1; SOR/2012-177, s. 1; SOR/2013-172, s. 2; SOR/2015-210, ss. 4 to 6; SOR/2016-72, s. 1; SOR/2016-106, s. 2; SOR/2016-239, s. 1; SOR/2017-12, ss. 3, 4; SOR/2017-250, s. 2; SOR/2017-278, s. 1; SOR/2018-69, s. 66; SOR/2018-85, s. 4; SOR/2019-171, s. 23; SOR/2025-65, s. 1; SOR/2025-65, s. 2; SOR/2026-72, s. 1</sub>
+\[Repealed, SOR/2025-242, s. 237\]
 
 ## SCHEDULE F
 
@@ -23977,126 +19704,10 @@ per individual dosage form if it has a label that states that it is not a standa
 
 **(2)** The most recent version of the risk management plan for a drug that has been provided to the Minister before the day on which section 8 of these Regulations comes into force and in respect of which the Minister provided, either by that day or after it, an indication that the plan was acceptable is considered to be the *existing risk management plan* as defined in section C.01.700 of the [Food and Drug Regulations](CRC-c-870.md).
 
-###### — SOR/2025-242, s. 237
-
-**237** Parts G and J of the [Food and Drug Regulations](CRC-c-870.md)[^fn_81200-2-535_hq_30454] are repealed.
-
-###### — SOR/2025-246, s. 1
-
-**1** The definition *Act* in section A.01.010 of the [Food and Drug Regulations](CRC-c-870.md)[^fn_81200-2-652_E_hq_1682081442] is replaced by the following:
-
-> ***Act*** means the [Food and Drugs Act](../../acts/en/F-27.md); (***Loi***)
-
-###### — SOR/2025-246, s. 2
-
-**2** The definition *nurse practitioner* in subsection B.25.019(2) of the Regulations is replaced by the following:
-
-> ***nurse practitioner*** has the same meaning as in subsection 1(1) of the [Controlled Substances Regulations](SOR-2025-242.md). (***infirmier praticien***)
-
-###### — SOR/2025-246, s. 3
-
-**3** Subparagraphs C.01.004(1)(b)(i) to (iv) of the Regulations are replaced by the following:
-
-> - **(i)** in the case of a prescription drug, the symbol “Pr”, which must not appear on the label of any other drug,
->
-> - **(ii)** in the case of a *controlled drug*, as defined in subsection 1(1) of the [Controlled Substances Regulations](SOR-2025-242.md), other than one contained in a finished product referred to in section 3 of those Regulations, the following symbol in a clear manner and a conspicuous colour and size,
->
->   *[Image: Symbol consisting of a diamond-shaped outline where the longest diagonal is vertical and in which an uppercase letter C is centred.]*
->
-> - **(iii)** in the case of a *narcotic*, as defined in subsection 1(1) of the [Controlled Substances Regulations](SOR-2025-242.md), the symbol “N” in a colour contrasting with the rest of the label or in type not less than half the size of any other letter used on the label, and
->
-> - **(iv)** in the case of a *targeted substance*, as defined in subsection 1(1) of the [Controlled Substances Regulations](SOR-2025-242.md), the following symbol in a colour contrasting with the rest of the label or in type not less than half the size of any other letter used on the principal display panel,
->
->   *[Image: Image showing the bilingual symbol associated with a targeted substance. Text version below.]* Symbol consisting of a square outline divided diagonally in half from top left corner to bottom right corner. The top right half has an uppercase letter C inside. The lower left half has an uppercase letter T inside.
-
-###### — SOR/2025-246, s. 4
-
-**4** Paragraph C.01.028(2)(c) of the Regulations is replaced by the following:
-
-> - **(c)** a prescription drug or a *controlled drug*, *narcotic* or *targeted substance*, as those terms are defined in subsection 1(1) of the [Controlled Substances Regulations](SOR-2025-242.md), that is required by those Regulations to be sold under a *prescription*, as defined in that subsection.
-
-###### — SOR/2025-246, s. 5
-
-**5** **(1)** The portion of subsection C.01.031.2(1) of the French version of the Regulations before paragraph (a) is replaced by the following:
-
-> **C.01.031.2** **(1)** Les articles C.01.029 à C.01.031 ne s’appliquent pas aux drogues suivantes :
-
-**(2)** Paragraph C.01.031.2(1)(a) of the Regulations is replaced by the following:
-
-> - **(a)** a prescription drug or a *controlled drug*, *narcotic* or *targeted substance*, as those terms are defined in subsection 1(1) of the [Controlled Substances Regulations](SOR-2025-242.md), that is required by those Regulations to be sold under a *prescription*, as defined in that subsection;
-
-###### — SOR/2025-246, s. 6
-
-**6** Paragraphs C.01.048(1)(a) to (d) of the Regulations are replaced by the following:
-
-> - **(a)** a *controlled drug* or *narcotic*, as those terms are defined in subsection 1(1) of the [Controlled Substances Regulations](SOR-2025-242.md); or
->
-> - **(b)** a *prescription drug*, as defined in subsection 1(2) of the [Cannabis Regulations](SOR-2018-144.md).
-
-###### — SOR/2025-246, s. 7
-
-**7** Paragraph C.01.050(4)(b) of the Regulations is replaced by the following:
-
-> - **(b)** *controlled drugs*, *narcotics* or *targeted substances*, as those terms are defined in subsection 1(1) of the [Controlled Substances Regulations](SOR-2025-242.md), that are required by those Regulations to be sold under a *prescription*, as defined in that subsection; and
-
-###### — SOR/2025-246, s. 8
-
-**8** **(1)** Paragraph C.01.061(2)(b) of the English version of the Regulations is replaced by the following:
-
-> - **(b)** no package contains less than the number of dosage units shown on the label except as provided in the table to this section; and
-
-**(2)** Paragraph C.01.061(2)(c) of the Regulations is replaced by the following:
-
-> - **(c)** in the case of a *controlled drug* or *narcotic*, as those terms are defined in subsection 1(1) of the [Controlled Substances Regulations](SOR-2025-242.md), no package contains more than the number of dosage units shown on the label except as provided in the table to this section.
-
-###### — SOR/2025-246, s. 9
-
-**9** **(1)** Paragraph (a) of the definition *wholesaler* in subsection C.01A.001(1) of the Regulations is replaced by the following:
-
-> - **(a)** a drug in dosage form that is listed in Schedule C or D to the Act or a prescription drug;
-
-**(2)** Paragraph (c) of the definition *wholesaler* in subsection C.01A.001(1) of the Regulations is replaced by the following:
-
-> - **(c)** a *controlled drug* or *narcotic*, as those terms are defined in subsection 1(1) of the [Controlled Substances Regulations](SOR-2025-242.md); or
-
-###### — SOR/2025-246, s. 10
-
-**10** Paragraphs C.01A.004(3)(a) to (c) of the Regulations are replaced by the following:
-
-> - **(a)** in the case of an activity with respect to a *controlled drug* or *narcotic*, as those terms are defined in subsection 1(1) of the [Controlled Substances Regulations](SOR-2025-242.md), a dealer’s licence issued under subsection 12(1) of those Regulations; or
->
-> - **(b)** in the case of an activity with respect to a drug containing *cannabis*, as defined in subsection 2(1) of the [Cannabis Act](../../acts/en/C-24.5.md), a licence issued under that Act to conduct that activity in accordance with the [Cannabis Regulations](SOR-2018-144.md).
-
-###### — SOR/2025-246, s. 11
-
-**11** Subparagraph C.01A.005(1)(j)(i) of the Regulations is replaced by the following:
-
-> - **(i)** for each drug for which the licence is requested that is a *controlled drug* or *narcotic*, as those terms are defined in subsection 1(1) of the Controlled Substance Regulations, or a drug containing *cannabis*, as defined in subsection 2(1) of the [Cannabis Act](../../acts/en/C-24.5.md), and
-
-###### — SOR/2025-246, s. 12
-
-**12** Item 6 of Table II to section C.01A.008 of the Regulations is replaced by the following:
-
-> | **Item** | **Categories of drugs** |
-> |---|---|
-> | **6** | Prescription drugs, drugs that are *controlled drugs* or *narcotics* , as those terms are defined in subsection 1(1) of the [Controlled Substances Regulations](SOR-2025-242.md) , and drugs containing *cannabis* , as defined in subsection 2(1) of the [Cannabis Act](../../acts/en/C-24.5.md) |
-
-###### — SOR/2025-246, s. 13
-
-**13** **(1)** The portion of section C.09.001 of the French version of the Regulations before paragraph (a) is replaced by the following:
-
-> **C.09.001** Le présent titre ne s’applique pas aux drogues suivantes :
-
-**(2)** Paragraphs C.09.001(a) and (b) of the Regulations are replaced by the following:
-
-> - **(a)** a drug that is required by these Regulations to be sold under a prescription;
->
-> - **(b)** a drug that is a *narcotic*, as defined in subsection 1(1) of the [Controlled Substances Regulations](SOR-2025-242.md), and that is required by those Regulations to be sold under a *prescription*, as defined in that subsection; or
->
-> - **(c)** a drug that is intended for use exclusively in animals.
-
 ## Recent amendments
 
+- SOR/2025-242 2026-10-01
+- SOR/2025-246 2026-10-01
 - SOR/2026-96 2026-06-17
 - SOR/2026-72 2026-06-05
 - SOR/2026-113 2026-06-04
@@ -24105,11 +19716,3 @@ per individual dosage form if it has a label that states that it is not a standa
 - SOR/2024-110 2025-05-31
 - SOR/2025-65 2025-04-14
 - SOR/2024-238 2024-12-18
-- SOR/2024-244 2024-12-18
-- SOR/2024-136 2024-12-14
-
----
-
-[^fn_81200-2-535_hq_30454]: C.R.C., c. 870
-
-[^fn_81200-2-652_E_hq_1682081442]: C.R.C., c. 870

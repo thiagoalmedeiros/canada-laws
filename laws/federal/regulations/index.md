@@ -1,4 +1,4 @@
 # Canada (federal): regulations
 
-* [Regulations (English)](en/) - 4897 documents.
-* [Règlements (français)](fr/) - 4897 documents.
+* [Regulations (English)](en/) - 4901 documents.
+* [Règlements (français)](fr/) - 4901 documents.

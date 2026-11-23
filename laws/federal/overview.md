@@ -1,14 +1,14 @@
 ---
 type: "Jurisdiction"
 title: "Canada (federal)"
-description: "971 consolidated federal Acts and 4897 regulations, in English and French, converted from Justice Canada's official XML."
+description: "973 consolidated federal Acts and 4901 regulations, in English and French, converted from Justice Canada's official XML."
 resource: "https://laws-lois.justice.gc.ca/"
 tags: ["federal", "jurisdiction"]
 jurisdiction: "federal"
-acts_en: 971
-acts_fr: 971
-regulations_en: 4897
-regulations_fr: 4897
+acts_en: 973
+acts_fr: 973
+regulations_en: 4901
+regulations_fr: 4901
 status: "stable"
 generated: { by: process:canada-laws-federal-converter }
 sources:
@@ -30,8 +30,8 @@ XML in [justicecanada/laws-lois-xml](https://github.com/justicecanada/laws-lois-
 
 | | English | Français |
 |---|---|---|
-| Acts / Lois | [971](acts/en/) | [971](acts/fr/) |
-| Regulations / Règlements | [4897](regulations/en/) | [4897](regulations/fr/) |
+| Acts / Lois | [973](acts/en/) | [973](acts/fr/) |
+| Regulations / Règlements | [4901](regulations/en/) | [4901](regulations/fr/) |
 
 # Concepts
 

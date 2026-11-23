@@ -2030,6 +2030,7 @@
 * [List of Pest Control Product Formulants and Contaminants of Health or Environmental Concern](SI-2005-114.md) - Federal regulation SI/2005-114, made under the Pest Control Products Act.
 * [List of Wildlife Species at Risk (Decision Not to Add Certain Species) Order (American Eel)](SI-2025-110.md) - Federal regulation SI/2025-110, made under the Species At Risk Act.
 * [List of Wildlife Species at Risk (Decision Not To Add or Referral Back to COSEWIC) Order](SI-2009-20.md) - Federal regulation SI/2009-20, made under the Species At Risk Act.
+* [List of Wildlife Species at Risk (Decision Not to Add the Striped Bass) Order](SI-2026-61.md) - Federal regulation SI/2026-61, made under the Species At Risk Act.
 * [List of Wildlife Species at Risk (Decisions Not to Add Certain Species) Order](SI-2012-45.md) - Federal regulation SI/2012-45, made under the Species At Risk Act.
 * [List of Wildlife Species at Risk (Decisions Not to Add Certain Species) Order](SI-2013-27.md) - Federal regulation SI/2013-27, made under the Species At Risk Act.
 * [List of Wildlife Species at Risk (Decisions Not to Add Certain Species) Order](SI-2017-24.md) - Federal regulation SI/2017-24, made under the Species At Risk Act.
@@ -2598,6 +2599,7 @@
 * [Order Acknowledging Receipt of the Assessment Done Pursuant to Subsection 23(1) of the Act](SI-2021-32.md) - Federal regulation SI/2021-32, made under the Species At Risk Act.
 * [Order Acknowledging Receipt of the Assessment Done Pursuant to Subsection 23(1) of the Act](SI-2023-66.md) - Federal regulation SI/2023-66, made under the Species At Risk Act.
 * [Order Acknowledging Receipt of the Assessment Done Under Subsection 23(1) of the Species at Risk Act (American Eel)](SI-2025-109.md) - Federal regulation SI/2025-109, made under the Species At Risk Act.
+* [Order Acknowledging Receipt of the Assessment Done Under Subsection 23(1) of the Species at Risk Act (Striped Bass)](SI-2026-60.md) - Federal regulation SI/2026-60, made under the Species At Risk Act.
 * [Order Acknowledging Receipt of the Assessments Done Pursuant to Subsection 23(1) of the Act](SI-2004-138.md) - Federal regulation SI/2004-138, made under the Species At Risk Act.
 * [Order Acknowledging Receipt of the Assessments Done Pursuant to Subsection 23(1) of the Act](SI-2005-71.md) - Federal regulation SI/2005-71, made under the Species At Risk Act.
 * [Order Acknowledging Receipt of the Assessments Done Pursuant to Subsection 23(1) of the Act](SI-2007-57.md) - Federal regulation SI/2007-57, made under the Species At Risk Act.
@@ -3390,6 +3392,7 @@
 * [Pension Plan Transfer Agreements Regulations](SOR-98-445.md) - Federal regulation SOR/98-445, made under the Public Service Superannuation Actfinancial Administration Act.
 * [Pensionable Service Order](SOR-65-262.md) - Federal regulation SOR/65-262, made under the Appropriation Act No. 5, 1961Appropriation Acts.
 * [Pensioners Training Regulations](CRC-c-1581.md) - Federal regulation C.R.C., c. 1581, made under the Department Of Veterans Affairs Act.
+* [Pensions and Allowances Annual Adjustment Regulations](SOR-2026-226.md) - Federal regulation SOR/2026-226, made under the Pension Act.
 * [Penticton Airport Zoning Regulations](CRC-c-101.md) - Federal regulation C.R.C., c. 101, made under the Aeronautics Act.
 * [Perfluorinated Ion-Exchange Membranes Remission Order](CRC-c-778.md) - Federal regulation C.R.C., c. 778, made under the Financial Administration Act.
 * [Perfluorooctane Sulfonate and its Salts and Certain Other Compounds Regulations](SOR-2008-178.md) - Federal regulation SOR/2008-178, made under the Canadian Environmental Protection Act, 1999.
@@ -4023,6 +4026,7 @@
 * [Remission Order from Debts Owed by Persons with Disabilities, their Caregivers or their Estates](SI-2022-21.md) - Federal regulation SI/2022-21, made under the Financial Administration Act.
 * [Remission Order in Respect of a Transfer of a Sahtu Dene and Metis Settlement Corporation’s Assets under a Self-Government Agreement](SI-2015-45.md) - Federal regulation SI/2015-45, made under the Financial Administration Act.
 * [Remission Order in respect of Canadian Dental Care Plan Eligibility Issues](SI-2025-103.md) - Federal regulation SI/2025-103, made under the Financial Administration Act.
+* [Remission Order in Respect of Canadian Dental Care Plan Eligibility Issues](SOR-2026-204.md) - Federal regulation SOR/2026-204, made under the Financial Administration Act.
 * [Remission Order in Respect of Certain Fees for the Issuance of Identity and Travel Documents (2021 British Columbia Floods)](SI-2024-18.md) - Federal regulation SI/2024-18, made under the Financial Administration Act.
 * [Remission Order in Respect of Certain Fees for the Issuance of Identity and Travel Documents (Hurricane Fiona)](SI-2024-17.md) - Federal regulation SI/2024-17, made under the Financial Administration Act.
 * [Remission Order in Respect of Certain Fees for the Issuance of Identity and Travel Documents (Port of Beirut Explosions)](SI-2024-19.md) - Federal regulation SI/2024-19, made under the Financial Administration Act.

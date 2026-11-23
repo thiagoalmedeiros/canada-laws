@@ -8,18 +8,18 @@ jurisdiction: "federal"
 language: "en"
 number: "C.R.C., c. 945"
 source_id: "C.R.C.,_c._945"
-current_to: "2026-06-21"
+current_to: "2026-10-29"
 last_amended: "2026-06-18"
 in_force: true
 translation: "../fr/CRC-ch-945.md"
 status: "stable"
-generated: { by: process:canada-laws-federal-converter, at: 2026-06-21T00:00:00Z }
+generated: { by: process:canada-laws-federal-converter, at: 2026-10-29T00:00:00Z }
 sources:
   - id: "justice-xml"
     resource: "https://github.com/justicecanada/laws-lois-xml/blob/main/eng/regulations/C.R.C.,_c._945.xml"
     title: "Justice Canada consolidated XML (laws-lois-xml)"
     author: "org:justice-canada"
-    last_modified: "2026-06-21T00:00:00Z"
+    last_modified: "2026-10-29T00:00:00Z"
   - id: "justice-laws"
     resource: "https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._945/"
     title: "Justice Laws Website"
@@ -29,7 +29,7 @@ sources:
 
 # Income Tax Regulations
 
-C.R.C., c. 945 · Consolidated: 2026-06-21 · Last amended: 2026-06-18
+C.R.C., c. 945 · Consolidated: 2026-10-29 · Last amended: 2026-06-18
 
 Enabling authority: [INCOME TAX ACT](../../acts/en/I-3.3.md)
 
@@ -32824,6 +32824,12 @@ where
 
 > - **(d.1)** a payment made during the lifetime of an annuitant referred to in the definition *annuitant* in subsection 146.3(1) of the Act under a registered retirement income fund of that annuitant, other than a payment to the extent that it is in respect of the minimum amount (determined in accordance with subsection 146.3(1), (1.6) or (1.7) of the Act, as the case may be) under the fund for a year,
 
+###### — SOR/2026-228, s. 1(1)
+
+**1** **(1)** Section 7100 of the [Income Tax Regulations](CRC-c-945.md)[^fn_EN_Income_Tax_Regulations_2026-July-22_hq_1784729555] is amended by striking out “and” the end of paragraph (j), by adding “and” at the end of paragraph (k) and by adding the following after paragraph (k):
+
+> - **(l)** Build Canada Homes Holdings Inc.
+
 ## Recent amendments
 
 - 2026, c. 22 2026-06-18
@@ -32836,3 +32842,7 @@ where
 - SOR/2024-231 2024-11-22
 - 2024, c. 15 2024-07-01
 - 2024, c. 15 2024-06-20
+
+---
+
+[^fn_EN_Income_Tax_Regulations_2026-July-22_hq_1784729555]: C.R.C., c. 945

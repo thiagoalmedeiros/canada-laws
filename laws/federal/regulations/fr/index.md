@@ -262,6 +262,7 @@
 * [Décret accusant réception de l’évaluation faite conformément au paragraphe 23(1) de la Loi](TR-2021-32.md) - Règlement fédéral TR/2021-32, pris en vertu de : Loi Sur Les Espèces En Péril.
 * [Décret accusant réception de l’évaluation faite conformément au paragraphe 23(1) de la Loi](TR-2023-66.md) - Règlement fédéral TR/2023-66, pris en vertu de : Loi Sur Les Espèces En Péril.
 * [Décret accusant réception de l’évaluation faite conformément au paragraphe 23(1) de la Loi sur les espèces en péril (anguille d’Amérique)](TR-2025-109.md) - Règlement fédéral TR/2025-109, pris en vertu de : Loi Sur Les Espèces En Péril.
+* [Décret accusant réception de l’évaluation faite conformément au paragraphe 23(1) de la Loi sur les espèces en péril (Bar rayé)](TR-2026-60.md) - Règlement fédéral TR/2026-60, pris en vertu de : Loi Sur Les Espèces En Péril.
 * [Décret accusant réception des évaluations faites conformément au paragraphe 23(1) de la Loi](TR-2004-138.md) - Règlement fédéral TR/2004-138, pris en vertu de : Loi Sur Les Espèces En Péril.
 * [Décret accusant réception des évaluations faites conformément au paragraphe 23(1) de la Loi](TR-2005-115.md) - Règlement fédéral TR/2005-115, pris en vertu de : Loi Sur Les Espèces En Péril.
 * [Décret accusant réception des évaluations faites conformément au paragraphe 23(1) de la Loi](TR-2005-71.md) - Règlement fédéral TR/2005-71, pris en vertu de : Loi Sur Les Espèces En Péril.
@@ -495,6 +496,7 @@
 * [Décret chargeant l’honorable Kirsty Duncan de l’application de la Loi sur le Conseil de recherches en sciences humaines et chargeant le ministre des Sciences aux fins de la Loi sur la gestion des finances publiques](TR-2017-9.md) - Règlement fédéral TR/2017-9, pris en vertu de : Loi Sur Le Conseil De Recherches En Sciences Humainesloi Sur La Gestion Des Finances Publiques.
 * [Décret chargeant l’honorable Kirsty Duncan de l’application de la Loi sur le Conseil de recherches en sciences naturelles et en génie et chargeant le ministre des Sciences aux fins de la Loi sur la gestion des finances publiques](TR-2017-8.md) - Règlement fédéral TR/2017-8, pris en vertu de : Loi Sur Le Conseil De Recherches En Sciences Naturelles Et En Génieloi Sur La Gestion Des Finances Publiques.
 * [Décret concernant la Liste des espèces en péril (décision de ne pas inscrire certaines espèces) (anguille d’Amérique)](TR-2025-110.md) - Règlement fédéral TR/2025-110, pris en vertu de : Loi Sur Les Espèces En Péril.
+* [Décret concernant la liste des espèces en péril (décision de ne pas inscrire le bar rayé)](TR-2026-61.md) - Règlement fédéral TR/2026-61, pris en vertu de : Loi Sur Les Espèces En Péril.
 * [Décret concernant la Liste des espèces en péril (décision de ne pas inscrire ou renvoi au COSEPAC)](TR-2009-20.md) - Règlement fédéral TR/2009-20, pris en vertu de : Loi Sur Les Espèces En Péril.
 * [Décret concernant la Liste des espèces en péril (décisions de ne pas inscrire certaines espèces)](TR-2012-45.md) - Règlement fédéral TR/2012-45, pris en vertu de : Loi Sur Les Espèces En Péril.
 * [Décret concernant la Liste des espèces en péril (décisions de ne pas inscrire certaines espèces)](TR-2013-27.md) - Règlement fédéral TR/2013-27, pris en vertu de : Loi Sur Les Espèces En Péril.
@@ -893,6 +895,7 @@
 * [Décret de remise visant des employés recrutés sur place par l’ambassade et les consulats du Canada aux États-Unis](TR-2018-30.md) - Règlement fédéral TR/2018-30, pris en vertu de : Loi Sur La Gestion Des Finances Publiques.
 * [Décret de remise visant des marchandises de l’Ukraine](DORS-2022-127.md) - Règlement fédéral DORS/2022-127, pris en vertu de : Tarif Des Douanes.
 * [Décret de remise visant des prestations complémentaires reçues par trois personnes nommées par le gouverneur en conseil au sein du ministère de l’Emploi et du Développement social](TR-2023-67.md) - Règlement fédéral TR/2023-67, pris en vertu de : Loi Sur La Gestion Des Finances Publiques.
+* [Décret de remise visant des questions d’admissibilité au Régime canadien de soins dentaires](DORS-2026-204.md) - Règlement fédéral DORS/2026-204, pris en vertu de : Loi Sur La Gestion Des Finances Publiques.
 * [Décret de remise visant des questions d’admissibilité au Régime canadien de soins dentaires](TR-2025-103.md) - Règlement fédéral TR/2025-103, pris en vertu de : Loi Sur La Gestion Des Finances Publiques.
 * [Décret de remise visant des résidents de l’Inde](TR-91-137.md) - Règlement fédéral TR/91-137, pris en vertu de : Loi Sur La Gestion Des Finances Publiques.
 * [Décret de remise visant DOMCO Industries Limited No 2](DORS-88-514.md) - Règlement fédéral DORS/88-514, pris en vertu de : Tarif Des Douanes.
@@ -3394,6 +3397,7 @@
 * [Règlement sur l’aide en matière d’éducation aux enfants des anciens combattants décédés](CRC-ch-399.md) - Règlement fédéral C.R.C., ch. 399, pris en vertu de : Loi Sur L’Aide En Matière D’Éducation Aux Enfants Des Anciens Combattants Décédés.
 * [Règlement sur l’aide financière internationale](DORS-2019-249.md) - Règlement fédéral DORS/2019-249, pris en vertu de : Loi Sur L’Aide Financière Internationale.
 * [Règlement sur l’aide générale de transition](CRC-ch-971.md) - Règlement fédéral C.R.C., ch. 971, pris en vertu de : Loi Sur Le Ministère De L’Industrielois De Crédits.
+* [Règlement sur l’ajustement annuel des pensions et allocations](DORS-2026-226.md) - Règlement fédéral DORS/2026-226, pris en vertu de : Loi Sur Les Pensions.
 * [Règlement sur l’ajustement annuel des pensions et allocations](DORS-91-620.md) - Règlement fédéral DORS/91-620, pris en vertu de : Loi Sur Les Pensions.
 * [Règlement sur l’alcool dénaturé et spécialement dénaturé](DORS-2005-22.md) - Règlement fédéral DORS/2005-22, pris en vertu de : Loi De 2001 Sur L’Accise.
 * [Règlement sur l’aliénation des biens saisis](DORS-94-303.md) - Règlement fédéral DORS/94-303, pris en vertu de : Loi Sur L’Administration Des Biens Saisis.

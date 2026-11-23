@@ -8,28 +8,28 @@ jurisdiction: "federal"
 language: "fr"
 number: "DORS/98-5"
 source_id: "DORS-98-5"
-current_to: "2025-12-02"
-last_amended: "2022-06-03"
+current_to: "2026-10-19"
+last_amended: "2026-10-01"
 in_force: true
 translation: "../en/SOR-98-5.md"
 status: "stable"
-generated: { by: process:canada-laws-federal-converter, at: 2025-12-02T00:00:00Z }
+generated: { by: process:canada-laws-federal-converter, at: 2026-10-19T00:00:00Z }
 sources:
   - id: "justice-xml"
     resource: "https://github.com/justicecanada/laws-lois-xml/blob/main/fra/reglements/DORS-98-5.xml"
     title: "Justice Canada consolidated XML (laws-lois-xml)"
     author: "org:justice-canada"
-    last_modified: "2025-12-02T00:00:00Z"
+    last_modified: "2026-10-19T00:00:00Z"
   - id: "justice-laws"
     resource: "https://laws-lois.justice.gc.ca/fra/reglements/DORS-98-5/"
     title: "Justice Laws Website"
     author: "org:justice-canada"
-    last_modified: "2022-06-03T00:00:00Z"
+    last_modified: "2026-10-01T00:00:00Z"
 ---
 
 # Règlement sur les prix à payer pour les licences de distributeurs autorisés de drogues contrôlées et de stupéfiants (usage vétérinaire)
 
-DORS/98-5 · Codification: 2025-12-02 · Dernière modification: 2022-06-03
+DORS/98-5 · Codification: 2026-10-19 · Dernière modification: 2026-10-01
 
 Autorité habilitante: [LOI SUR LA GESTION DES FINANCES PUBLIQUES](../../acts/fr/F-11.md)
 
@@ -47,15 +47,11 @@ Sur recommandation du ministre de la Santé et du Conseil du Trésor et en vertu
 
 **1** Les définitions qui suivent s’appliquent au présent règlement.
 
-***drogue contrôlée*** S’entend au sens de l’article G.01.001 du [Règlement sur les aliments et drogues](CRC-ch-870.md). (***controlled drug***)
+***drogue contrôlée*** S’entend au sens du paragraphe 1(1) du [Règlement sur les substances désignées](DORS-2025-242.md). (***controlled drug***)
 
 ***emballer-étiqueter*** Emballer une drogue contrôlée ou un stupéfiant dans son récipient immédiat ou apposer l’étiquette intérieure ou extérieure sur la drogue contrôlée ou le stupéfiant. (***package/label***)
 
-***licence de distributeur autorisé*** Selon le cas :
-
-- **a)** licence délivrée conformément à l’article G.02.007 du [Règlement sur les aliments et drogues](CRC-ch-870.md);
-
-- **b)** licence délivrée conformément à l’article 10.1 du [Règlement sur les stupéfiants](CRC-ch-1041.md). (***dealer’s licence***)
+***licence de distributeur autorisé*** Licence qui est délivrée en application du paragraphe 12(1) du [Règlement sur les substances désignées](DORS-2025-242.md) et qui vise une drogue contrôlée ou un stupéfiant. (***dealer’s licence***)
 
 ***licence de distributeur autorisé de drogues contrôlées***\[Abrogée, DORS/2011-83, art. 2\]
 
@@ -67,11 +63,11 @@ Sur recommandation du ministre de la Santé et du Conseil du Trésor et en vertu
 
 - **b)** de plusieurs bâtiments indiqués dans la licence de distributeur autorisé et tous situés à au plus un kilomètre de distance les uns des autres. (***site***)
 
-***stupéfiant*** S’entend au sens de l’article 2 du [Règlement sur les stupéfiants](CRC-ch-1041.md). (***narcotic***)
+***stupéfiant*** S’entend au sens du paragraphe 1(1) du [Règlement sur les substances désignées](DORS-2025-242.md). (***narcotic***)
 
 ***vente*** Est assimilé à la vente le fait de mettre en vente, d’exposer ou d’avoir en sa possession pour la vente ou de distribuer, que la distribution soit faite ou non à titre onéreux. (***sell***)
 
-<sub>Historique: DORS/2011-83, art. 2; DORS/2018-69, art. 82; DORS/2019-172, art. 1</sub>
+<sub>Historique: DORS/2011-83, art. 2; DORS/2018-69, art. 82; DORS/2019-172, art. 1; DORS/2025-245, art. 1</sub>
 
 ## Application
 
@@ -183,20 +179,9 @@ Sur recommandation du ministre de la Santé et du Conseil du Trésor et en vertu
 
 **14** Le présent règlement entre en vigueur le 1<sup>er</sup> janvier 1998.
 
-## MODIFICATIONS NON EN VIGUEUR
-
-###### — DORS/2025-245, art. 1
-
-**1** Les définitions de *drogue contrôlée*, *licence de distributeur autorisé* et *stupéfiant*, à l’article 1 du [Règlement sur les prix à payer pour les licences de distributeurs autorisés de drogues contrôlées et de stupéfiants (usage vétérinaire)](DORS-98-5.md)[^nbp_81200-2-730_hq_1758314523], sont respectivement remplacées par ce qui suit :
-
-> ***drogue contrôlée*** S’entend au sens du paragraphe 1(1) du [Règlement sur les substances désignées](DORS-2025-242.md). (***controlled drug***)
->
-> ***licence de distributeur autorisé*** Licence qui est délivrée en application du paragraphe 12(1) du [Règlement sur les substances désignées](DORS-2025-242.md) et qui vise une drogue contrôlée ou un stupéfiant. (***dealer’s licence***)
->
-> ***stupéfiant*** S’entend au sens du paragraphe 1(1) du [Règlement sur les substances désignées](DORS-2025-242.md). (***narcotic***)
-
 ## Modifications récentes
 
+- DORS/2025-245 2026-10-01
 - DORS/2022-123 2022-06-03
 - DORS/2019-172 2019-12-09
 
@@ -205,5 +190,3 @@ Sur recommandation du ministre de la Santé et du Conseil du Trésor et en vertu
 [^nbpa_f]: L.C. 1991, ch. 24, art. 6
 
 [^nbpb_f]: L.C. 1991, ch. 24, par. 7(2)
-
-[^nbp_81200-2-730_hq_1758314523]: DORS/98-5; DORS/2011-83, art. 1

@@ -8,30 +8,30 @@ jurisdiction: "federal"
 language: "fr"
 number: "C.R.C., ch. 1296"
 source_id: "C.R.C.,_ch._1296"
-current_to: "2025-07-24"
-last_amended: "2025-01-13"
+current_to: "2026-10-19"
+last_amended: "2026-10-09"
 in_force: true
 translation: "../en/CRC-c-1296.md"
 status: "stable"
-generated: { by: process:canada-laws-federal-converter, at: 2025-07-24T00:00:00Z }
+generated: { by: process:canada-laws-federal-converter, at: 2026-10-19T00:00:00Z }
 sources:
   - id: "justice-xml"
     resource: "https://github.com/justicecanada/laws-lois-xml/blob/main/fra/reglements/C.R.C.,_ch._1296.xml"
     title: "Justice Canada consolidated XML (laws-lois-xml)"
     author: "org:justice-canada"
-    last_modified: "2025-07-24T00:00:00Z"
+    last_modified: "2026-10-19T00:00:00Z"
   - id: "justice-laws"
     resource: "https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._1296/"
     title: "Justice Laws Website"
     author: "org:justice-canada"
-    last_modified: "2025-01-13T00:00:00Z"
+    last_modified: "2026-10-09T00:00:00Z"
 ---
 
 # Règlement sur les droits postaux de services spéciaux
 
 *Règlement concernant les droits postaux payables pour des services spéciaux*
 
-C.R.C., ch. 1296 · Codification: 2025-07-24 · Dernière modification: 2025-01-13
+C.R.C., ch. 1296 · Codification: 2026-10-19 · Dernière modification: 2026-10-09
 
 Autorité habilitante: [LOI SUR LA SOCIÉTÉ CANADIENNE DES POSTES](../../acts/fr/C-10.md)
 
@@ -63,11 +63,7 @@ Autorité habilitante: [LOI SUR LA SOCIÉTÉ CANADIENNE DES POSTES](../../acts/f
 
 <sub>Historique: DORS/81-386, art. 1; DORS/86-241, art. 1; DORS/90-17, art. 1; DORS/90-800, art. 1; DORS/91-628, art. 1; DORS/91-635, art. 1; DORS/98-559, art. 1; DORS/2003-378, art. 1; DORS/2003-382, art. 4; DORS/2005-360, art. 1; DORS/2009-335, art. 1; DORS/2014-53, art. 1; DORS/2018-276, art. 1; DORS/2021-91, art. 1</sub>
 
-## Tarifs de port — services spéciaux
-
-**2.1** Les tarifs de port payables pour les services spéciaux visés au présent règlement sont prévus à l’annexe VII.
-
-<sub>Historique: DORS/88-441, art. 1</sub>
+**2.1** \[Abrogé, DORS/2026-207, art. 4\]
 
 ## PARTIE I — \[Abrogée, DORS/91-635, art. 2\]
 
@@ -75,11 +71,7 @@ Autorité habilitante: [LOI SUR LA SOCIÉTÉ CANADIENNE DES POSTES](../../acts/f
 
 ### Recommandation du courrier
 
-**6** **(1)** Sont acceptés à la recommandation au tarif de port applicable prévu à la colonne II de l’article 1 de l’annexe VII les objets suivants :
-
-- **a)** les envois poste-lettres, au sens du [Règlement sur les envois poste-lettres](DORS-88-430.md);
-
-- **b)** les lettres visées dans le [Règlement sur les envois de la poste aux lettres du régime postal international](DORS-83-807.md).
+**6** **(1)** \[Abrogé, DORS/2026-207, art. 5\]
 
 **(2)** \[Abrogé, DORS/91-635, art. 3\]
 
@@ -95,9 +87,9 @@ Autorité habilitante: [LOI SUR LA SOCIÉTÉ CANADIENNE DES POSTES](../../acts/f
 
 **(9)** N’est pas accepté à la recommandation un objet qui ne porte que les initiales ou le nom de famille du destinataire, lorsque ces renseignements ne permettent pas de l’identifier clairement.
 
-**(10)** Lorsqu’un ruban adhésif est utilisé pour fermer un objet visé au paragraphe (1), l’expéditeur appose son nom, sa marque, son tampon ou sa signature sur le ruban.
+**(10)** Lorsqu’un ruban adhésif est utilisé pour fermer un objet, l’expéditeur appose son nom, sa marque, son tampon ou sa signature sur le ruban.
 
-<sub>Historique: DORS/78-902, art. 1; DORS/82-25, art. 2; DORS/83-802, art. 1; DORS/85-565, art. 2; DORS/86-241, art. 5; DORS/88-441, art. 4; DORS/88-621, art. 1; DORS/90-17, art. 3; DORS/90-800, art. 3; DORS/91-628, art. 2; DORS/91-635, art. 3; DORS/2000-199, art. 10; DORS/2001-447, art. 1; DORS/2002-167, art. 1; DORS/2003-378, art. 2; DORS/2003-382, art. 5(F); DORS/2008-285, art. 3(F); DORS/2010-287, art. 1</sub>
+<sub>Historique: DORS/78-902, art. 1; DORS/82-25, art. 2; DORS/83-802, art. 1; DORS/85-565, art. 2; DORS/86-241, art. 5; DORS/88-441, art. 4; DORS/88-621, art. 1; DORS/90-17, art. 3; DORS/90-800, art. 3; DORS/91-628, art. 2; DORS/91-635, art. 3; DORS/2000-199, art. 10; DORS/2001-447, art. 1; DORS/2002-167, art. 1; DORS/2003-378, art. 2; DORS/2003-382, art. 5(F); DORS/2008-285, art. 3(F); DORS/2010-287, art. 1; DORS/2026-207, art. 5</sub>
 
 **7** \[Abrogé, DORS/90-17, art. 4\]
 
@@ -337,38 +329,7 @@ et que
 
 ## ANNEXE VII
 
-*(articles 2.1 et 6 et paragraphe 16(1))*
-
-**Tarifs de port — services spéciaux**
-
-<table>
-<thead>
-<tr><th></th><th>Colonne I</th><th>Colonne II</th></tr>
-<tr><th>Article</th><th>Description</th><th>Tarif</th></tr>
-</thead>
-<tbody>
-<tr><td rowspan="5">1</td><td><i>Courrier recommandé</i></td><td></td></tr>
-<tr><td><b>(1)</b> Pour livraison au Canada</td><td></td></tr>
-<tr><td><b>a)</b> livraison</td><td>13,15 $</td></tr>
-<tr><td><b>b)</b> [Abrogé DORS/2006-345, art. 2]</td><td></td></tr>
-<tr><td><b>(2)</b> [Abrogé DORS/2006-345, art. 2]</td><td></td></tr>
-<tr><td rowspan="5">2</td><td><i>Avis de réception d’un envoi recommandé</i></td><td></td></tr>
-<tr><td><b>(1)</b> Envoi recommandé devant être livré au Canada, si :</td><td></td></tr>
-<tr><td><b>a)</b> un avis de réception sur papier est demandé après le dépôt de l’envoi</td><td>7,25 $</td></tr>
-<tr><td><b>b)</b> [Abrogé DORS/2006-345, art. 3]</td><td></td></tr>
-<tr><td><b>(2)</b> [Abrogé DORS/2006-345, art. 3]</td><td></td></tr>
-<tr><td>3</td><td>[Abrogé, DORS/98-559, art. 6]</td><td></td></tr>
-<tr><td>4</td><td>[Abrogé, DORS/91-635, art. 7]</td><td></td></tr>
-<tr><td>5</td><td>[Abrogé, DORS/2003-378, art. 13]</td><td></td></tr>
-<tr><td>6</td><td>[Abrogé, DORS/95-311, art. 6]</td><td></td></tr>
-<tr><td>7</td><td>[Abrogé, DORS/91-635, art. 8]</td><td></td></tr>
-<tr><td>8</td><td>[Abrogé, DORS/96-210, art. 4]</td><td></td></tr>
-<tr><td>9</td><td>[Abrogé, DORS/91-184, art. 3]</td><td></td></tr>
-<tr><td>10 à 14</td><td>[Abrogés, DORS/90-17, art. 21]</td><td></td></tr>
-</tbody>
-</table>
-
-<sub>Historique: DORS/88-441, art. 25; DORS/88-621, art. 4 et 5; DORS/90-17, art. 19 à 21; DORS/90-800, art. 7 à 9; DORS/91-184, art. 3; DORS/91-628, art. 9 à 11; DORS/91-635, art. 6 à 8; DORS/91-642, art. 1; DORS/92-698, art. 3 et 4; DORS/92-704, art. 1; DORS/94-199, art. 1 à 3; DORS/94-205, art. 1; DORS/95-141, art. 1; DORS/95-308, art. 1 à 3; DORS/95-311, art. 5 et 6; DORS/96-210, art. 3 et 4; DORS/98-558, art. 2; DORS/98-559, art. 5 à 7; DORS/2001-448, art. 1 à 3; DORS/2002-167, art. 6; DORS/2003-378, art. 12 et 13; DORS/2003-382, art. 6(A); DORS/2004-296, art. 1 et 2; DORS/2005-360, art. 3; DORS/2006-344, art. 1; DORS/2006-345, art. 2 et 3; DORS/2007-297, art. 1; DORS/2008-284, art. 2; DORS/2009-289, art. 1; DORS/2010-287, art. 8; DORS/2011-297, art. 1; DORS/2012-277, art. 1; DORS/2014-50, art. 1; DORS/2018-274, art. 1; DORS/2020-7, art. 1; DORS/2024-67, art. 1; DORS/2024-262, art. 1, err., Vol. 159, no 5</sub>
+\[Abrogée, DORS/2026-207, art. 6\]
 
 ## ANNEXE VIII
 
@@ -436,6 +397,7 @@ et que
 
 ## Modifications récentes
 
+- DORS/2026-207 2026-10-09
 - DORS/2024-262 2025-01-13
 - DORS/2024-67 2024-05-06
 - DORS/2021-91 2021-05-01

@@ -443,6 +443,7 @@
 * [Feeds Act](F-9.md) - An Act respecting feeds
 * [Fertilizers Act](F-10.md) - An Act respecting fertilizers and supplements
 * [Fighting Against Forced Labour and Child Labour in Supply Chains Act](F-10.6.md) - An Act to enact the Fighting Against Forced Labour and Child Labour in Supply Chains Act and to amend the Customs Tariff
+* [Final Self-Government Agreement for the Tłegǫ́hłı̨ Got’įnę Act](F-10.8.md) - An Act to give effect to the Final Self-Government Agreement for the Tłegǫ́hłı̨ Got’įnę and to make consequential amendments to other Acts
 * [Financial Administration Act](F-11.md) - An Act to provide for the financial administration of the Government of Canada, the establishment and maintenance of the accounts of Canada and the control of Crown corporations
 * [The Financial Advisors Association of Canada Act](T-10.3.md) - An Act to amalgamate the Canadian Association of Insurance and Financial Advisors and The Canadian Association of Financial Planners under the name The Financial Advisors Association of Canada
 * [Financial Consumer Agency of Canada Act](F-11.1.md) - An Act to establish the Financial Consumer Agency of Canada and to amend certain Acts in relation to financial institutions
@@ -920,6 +921,7 @@
 * [Trust and Loan Companies Act](T-19.8.md) - An Act to revise and amend the law governing federal trust and loan companies and to provide for related and consequential matters
 * [Tsawwassen First Nation Final Agreement Act](T-21.5.md) - An Act to give effect to the Tsawwassen First Nation Final Agreement and to make consequential amendments to other Acts
 * [Ukrainian Famine and Genocide (“Holodomor”) Memorial Day Act](U-0.4.md) - An Act to establish a Ukrainian Famine and Genocide (“Holodomor”) Memorial Day and to recognize the Ukrainian Famine of 1932-33 as an act of genocide
+* [Ukrainian Heritage Month Act](U-0.45.md) - An Act respecting Ukrainian Heritage Month
 * [Underused Housing Tax Act](U-0.5.md) - An Act respecting the taxation of underused housing
 * [Unemployment Assistance Act](U-0.6.md) - An Act to authorize contributions by Canada in respect of unemployment assistance costs in the provinces
 * [Unemployment Insurance Benefit Entitlement Adjustments (Pension Payments) Act](U-1.5.md) - An Act respecting the treatment of pension payments in determining certain unemployment insurance benefit entitlements and to amend the Unemployment Insurance Act, 1971

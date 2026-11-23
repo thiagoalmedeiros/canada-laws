@@ -8,28 +8,28 @@ jurisdiction: "federal"
 language: "en"
 number: "C.R.C., c. 986"
 source_id: "C.R.C.,_c._986"
-current_to: "2026-04-28"
-last_amended: "2025-12-12"
+current_to: "2026-10-29"
+last_amended: "2026-10-20"
 in_force: true
 translation: "../fr/CRC-ch-986.md"
 status: "stable"
-generated: { by: process:canada-laws-federal-converter, at: 2026-04-28T00:00:00Z }
+generated: { by: process:canada-laws-federal-converter, at: 2026-10-29T00:00:00Z }
 sources:
   - id: "justice-xml"
     resource: "https://github.com/justicecanada/laws-lois-xml/blob/main/eng/regulations/C.R.C.,_c._986.xml"
     title: "Justice Canada consolidated XML (laws-lois-xml)"
     author: "org:justice-canada"
-    last_modified: "2026-04-28T00:00:00Z"
+    last_modified: "2026-10-29T00:00:00Z"
   - id: "justice-laws"
     resource: "https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._986/"
     title: "Justice Laws Website"
     author: "org:justice-canada"
-    last_modified: "2025-12-12T00:00:00Z"
+    last_modified: "2026-10-20T00:00:00Z"
 ---
 
 # Canada Labour Standards Regulations
 
-C.R.C., c. 986 · Consolidated: 2026-04-28 · Last amended: 2025-12-12
+C.R.C., c. 986 · Consolidated: 2026-10-29 · Last amended: 2026-10-20
 
 Enabling authority: [CANADA LABOUR CODE](../../acts/en/L-2.md)
 
@@ -255,6 +255,96 @@ the hours of work of each of those employees in a day and in a week may be calcu
 
 <sub>History: SOR/91-461, s. 12</sub>
 
+## Equal Treatment
+
+**11.2** **(1)** The following definitions apply in this section.
+
+***full-time***, in respect of an employee, means that the employee is considered to be full-time under the terms of the collective agreement that applies to them or, in the absence of such an agreement, of their contract of employment. However, if the collective agreement or contract of employment, as the case may be, does not address the issue, it means
+
+- **(a)** that the employee is considered to be full-time under the terms of a policy of their employer that has been communicated to them; or
+
+- **(b)** if paragraph (a) does not apply, that the employee
+
+  - **(i)** is scheduled to work an average of 30 or more hours per week, if they are subject to an averaging plan under subsection 169(2) or 171(2) of the Act or a modified work schedule under section 170 or 172 of the Act, or
+
+  - **(ii)** usually works 30 or more hours per week, if they are not subject to such a plan or schedule. (***à temps plein***)
+
+***part-time***, in respect of an employee, means that they are not full-time. (***à temps partiel***)
+
+***permanent***, in respect of an employee, means that their contract of employment provides that they are employed for an indeterminate period. (***permanent***)
+
+***temporary***, in respect of an employee, means that their contract of employment provides that they are employed for a fixed term or on a seasonal, casual or irregular basis. (***temporaire***)
+
+**(2)** For the purposes of subparagraph (b)(i) of the definition *full-time* in subsection (1), the average number of hours of work per week is the total number of hours scheduled under the averaging plan or modified work schedule, as the case may be, divided by the number of weeks in the plan or schedule.
+
+**(3)** The following definitions apply for the purposes of Division III of the Act.
+
+***employment status*** means an employee’s status as a full-time, part-time, permanent or temporary employee. (***situation d’emploi***)
+
+***system*** means a system
+
+- **(a)** that applies to all employees whose rates of wages are comparable by reason of subsection 182.1(1) of the Act; and
+
+- **(b)** whose particulars have been communicated to those employees in writing or are readily available for examination by them. (***régime***)
+
+<sub>History: SOR/2026-75, s. 1</sub>
+
+**11.3** For the purposes of Division III of the Act, all branches, sections and other divisions of federal works, undertakings and businesses that are located in a region established under paragraph 54(w) of the [Employment Insurance Act](../../acts/en/E-5.6.md) are designated as industrial establishments.
+
+<sub>History: SOR/2026-75, s. 1</sub>
+
+**11.4** For the purposes of paragraph 182.1(1)(a) of the Act, if an employer has more than one industrial establishment, an employee is considered to work
+
+- **(a)** in the industrial establishment in which the employee most often reports for work in person;
+
+- **(b)** in the case of an employee whose main duty is the transportation of goods or passengers by motor vehicle, or an employee who works on board trains, aircraft or ships, in the industrial establishment in which the employee’s home terminal, station, base or port is located; or
+
+- **(c)** in the case of an employee who is subject to a remote work agreement that provides that all hours be worked remotely,
+
+  - **(i)** in the industrial establishment in which the employee most often reported for work in person before the remote work agreement took effect, if the nature of their duties and of those carried out in that industrial establishment has not since changed, or
+
+  - **(ii)** if subparagraph (i) does not apply or is not determinative of where the employee is considered to work, in the industrial establishment in which the employee would report for work in person if there were no remote work agreement, as determined using the following indicators:
+
+    - **(A)** the industrial establishment in which the employee would attend meetings in person,
+
+    - **(B)** the industrial establishment where the employee would report in person to receive work-related documents or material or associated instructions or assistance,
+
+    - **(C)** the industrial establishment where the employee would report in person to receive instructions regarding their duties,
+
+    - **(D)** the industrial establishment in which the employee’s supervisor reports for work in person or would report for work in person but for their own remote work agreement, and
+
+    - **(E)** the industrial establishment in which the employee would report for work in person based on the nature of their duties.
+
+<sub>History: SOR/2026-75, s. 1</sub>
+
+**11.5** For the purposes of paragraph 182.1(1)(e) of the Act, it is a factor that the employees’ wages for the performance of a job function are calculated using the same type of rate of wages, such as
+
+- **(a)** a rate based on time;
+
+- **(b)** a mileage rate;
+
+- **(c)** a piece rate;
+
+- **(d)** a per load rate; or
+
+- **(e)** a commission rate.
+
+<sub>History: SOR/2026-75, s. 1</sub>
+
+**11.6** For the purposes of paragraph 182.1(2)(d) of the Act, the criteria are
+
+- **(a)** the maintenance of an employee’s rate of wages following their reclassification or demotion to a position that has a lower rate of wages until the rate for the position is greater than the rate payable to the employee immediately before the reclassification or demotion;
+
+- **(b)** the increase in rates of wages due to difficulty, during a shortage of skilled workers, in recruiting or retaining employees with the requisite skills for certain positions;
+
+- **(c)** the geographic area in which an employee works;
+
+- **(d)** the geographic area in which an employee who is on travel status works; and
+
+- **(e)** the fact that an employee who is on travel status is paid a rate of wages that is different than the rate paid to an employee doing the same work who is not on travel status.
+
+<sub>History: SOR/2026-75, s. 1</sub>
+
 ## Annual Vacations
 
 **12** An employer shall, at least 30 days prior to determining a year of employment under paragraph (b) of the definition ***year of employment*** in section 183 of the Act, notify in writing the affected employees of
@@ -314,6 +404,68 @@ the hours of work of each of those employees in a day and in a week may be calcu
 **16** If, in accordance with subsection 195(1) of the Act, any other day is substituted for a general holiday in a written agreement between the parties to a collective agreement, the written agreement shall contain the information set out in paragraphs 15(1)(a) to (e).
 
 <sub>History: SOR/94-668, s. 5; SOR/2022-41, s. 2</sub>
+
+## Temporary Help Agencies
+
+**16.1** For the purposes of Division VI.1 of the Act, ***system*** means a client’s *system*, as defined in subsection 11.2(3) of these Regulations, whose particulars have been communicated in writing to an employee who performs a work assignment for the client or are readily available for examination by that employee.
+
+<sub>History: SOR/2026-75, s. 2</sub>
+
+**16.2** For the purposes of Division VI.1 of the Act, all branches, sections and other divisions of federal works, undertakings and businesses that are located in a region established under paragraph 54(w) of the [Employment Insurance Act](../../acts/en/E-5.6.md) are designated as industrial establishments.
+
+<sub>History: SOR/2026-75, s. 2</sub>
+
+**16.3** For the purposes of paragraph 203.2(1)(a) of the Act, if a client has more than one industrial establishment, an employee is considered to work
+
+- **(a)** in the industrial establishment in which the employee most often reports for work in person;
+
+- **(b)** in the case of an employee whose main duty is the transportation of goods or passengers by motor vehicle, or an employee who works on board trains, aircraft or ships, in the industrial establishment in which the employee’s home terminal, station, base or port is located; or
+
+- **(c)** in the case of an employee who is subject to a remote work agreement that provides that all hours be worked remotely,
+
+  - **(i)** in the industrial establishment in which the employee most often reported for work in person before the remote work agreement took effect, if the nature of their duties and of those carried out in that industrial establishment has not since changed, or
+
+  - **(ii)** if subparagraph (i) does not apply or is not determinative of where the employee is considered to work, in the industrial establishment in which the employee would report for work in person if there were no remote work agreement, as determined using the following indicators:
+
+    - **(A)** the industrial establishment in which the employee would attend meetings in person,
+
+    - **(B)** the industrial establishment where the employee would report in person to receive work-related documents or material or associated instructions or assistance,
+
+    - **(C)** the industrial establishment where the employee would report in person to receive instructions regarding their duties,
+
+    - **(D)** the industrial establishment in which the employee’s supervisor reports for work in person or would report for work in person but for their own remote work agreement, and
+
+    - **(E)** the industrial establishment in which the employee would report for work in person based on the nature of their duties.
+
+<sub>History: SOR/2026-75, s. 2</sub>
+
+**16.4** For the purposes of paragraph 203.2(1)(e) of the Act, it is a factor that the employees’ wages for the performance of a job function are calculated using the same type of rate of wages, such as
+
+- **(a)** a rate based on time;
+
+- **(b)** a mileage rate;
+
+- **(c)** a piece rate;
+
+- **(d)** a per load rate; or
+
+- **(e)** a commission rate.
+
+<sub>History: SOR/2026-75, s. 2</sub>
+
+**16.5** For the purposes of paragraph 203.2(2)(d) of the Act, the criteria are
+
+- **(a)** the maintenance of an employee’s rate of wages following their reclassification or demotion to a position that has a lower rate of wages until the rate for the position is greater than the rate payable to the employee immediately before the reclassification or demotion;
+
+- **(b)** the increase in rates of wages due to difficulty, during a shortage of skilled workers, in recruiting or retaining employees with the requisite skills for certain positions;
+
+- **(c)** the geographic area in which an employee works;
+
+- **(d)** the geographic area in which an employee who is on travel status works; and
+
+- **(e)** the fact that an employee who is on travel status is paid a rate of wages that is different than the rate paid to an employee doing the same work who is not on travel status.
+
+<sub>History: SOR/2026-75, s. 2</sub>
 
 ## Regular Rate of Wages for Purposes of General Holidays, Leave Related to Pregnancy Loss, Personal Leave, Leave for Victims of Family Violence, Bereavement Leave and Medical Leave
 
@@ -495,6 +647,12 @@ the hours of work of each of those employees in a day and in a week may be calcu
 
 - **(f)** the payments made each pay day after deductions, with clear details of the deductions made;
 
+- **(f.1)** a record describing any system referred to in subsection 182.1(2) or 203.2(2) of the Act on the basis of which the employee is paid a rate of wages that is less than the rate paid to another employee;
+
+- **(f.2)** any written request for review made by the employee under subsection 182.2(1) or 203.3(1) of the Act and a copy of the employer’s written response to that request;
+
+- **(f.3)** in the case of an employer who is a temporary help agency, a record of each client for whom the employee performs a work assignment and the dates of commencement and termination of the assignment;
+
 - **(g)** with respect to annual vacations
 
   - **(i)** the dates of commencement and termination of each vacation period,
@@ -599,7 +757,7 @@ the hours of work of each of those employees in a day and in a week may be calcu
 
 **(5)** \[Repealed, SOR/2014-305, s. 6\]
 
-<sub>History: SOR/78-560, s. 4; SOR/91-461, s. 21; SOR/94-668, s. 7; SOR/2009-194, s. 2; SOR/2014-305, s. 6; SOR/2019-168, s. 9; SOR/2022-41, s. 5; SOR/2022-228, s. 5; SOR/2023-40, s. 3; SOR/2023-79, s. 3(F); SOR/2025-240, s. 7</sub>
+<sub>History: SOR/78-560, s. 4; SOR/91-461, s. 21; SOR/94-668, s. 7; SOR/2009-194, s. 2; SOR/2014-305, s. 6; SOR/2019-168, s. 9; SOR/2022-41, s. 5; SOR/2022-228, s. 5; SOR/2023-40, s. 3; SOR/2023-79, s. 3(F); SOR/2025-240, s. 7; SOR/2026-75, s. 3</sub>
 
 ## Certificate Referred to in Subsection 181.1(2) of the Act
 
@@ -2993,13 +3151,15 @@ These provisions include standards relating to the following:
 
 **Minimum wages**
 
-**Equal wages**
+**Equal treatment**
 
 **Annual vacations**
 
 **General holidays**
 
 **Multi-employer employment**
+
+**Temporary help agencies**
 
 **Maternity-related reassignment and leave**
 
@@ -3023,7 +3183,7 @@ These provisions include standards relating to the following:
 
 **Bereavement leave**
 
-**Sick leave**
+**Medical leave**
 
 **Work-related illness and injury**
 
@@ -3047,11 +3207,11 @@ These provisions include standards relating to the following:
 
 For more information concerning these provisions, please contact your nearest Labour Program office of the Department of Employment and Social Development or visit the following website:
 
-https://www.canada.ca/en/employment-social-development/programs/employment-standards/federal-standards.html
+https://www.canada.ca/en/services/jobs/workplace/federal-labour-standards.html
 
 All inquiries will be treated confidentially.
 
-<sub>History: SOR/91-461, s. 36; SOR/94-668, s. 14; SOR/2006-231, s. 5; SOR/2009-194, s. 4; 2013, c. 40, s. 237; SOR/2014-305, s. 11; SOR/2019-168, s. 12; SOR/2020-130, s. 38; SOR/2025-240, s. 9</sub>
+<sub>History: SOR/91-461, s. 36; SOR/94-668, s. 14; SOR/2006-231, s. 5; SOR/2009-194, s. 4; 2013, c. 40, s. 237; SOR/2014-305, s. 11; SOR/2019-168, s. 12; SOR/2020-130, s. 38; SOR/2025-240, s. 9; SOR/2026-75, s. 4; SOR/2026-75, s. 5; SOR/2026-75, s. 6; SOR/2026-75, s. 7</sub>
 
 ## SCHEDULE III — Notice of Modified Work Schedule
 
@@ -3141,176 +3301,9 @@ All inquiries will be treated confidentially.
 
 > **Leave for placement of child**
 
-###### — SOR/2026-75, s. 1
-
-**1** The [Canada Labour Standards Regulations](CRC-c-986.md)[^fn_81000-2-5323_hq_1700513657] are amended by adding the following after section 11.1:
-
-> ## Equal Treatment
->
-> **11.2** **(1)** The following definitions apply in this section.
->
-> ***full-time***, in respect of an employee, means that the employee is considered to be full-time under the terms of the collective agreement that applies to them or, in the absence of such an agreement, of their contract of employment. However, if the collective agreement or contract of employment, as the case may be, does not address the issue, it means
->
-> - **(a)** that the employee is considered to be full-time under the terms of a policy of their employer that has been communicated to them; or
->
-> - **(b)** if paragraph (a) does not apply, that the employee
->
->   - **(i)** is scheduled to work an average of 30 or more hours per week, if they are subject to an averaging plan under subsection 169(2) or 171(2) of the Act or a modified work schedule under section 170 or 172 of the Act, or
->
->   - **(ii)** usually works 30 or more hours per week, if they are not subject to such a plan or schedule. (***à temps plein***)
->
-> ***part-time***, in respect of an employee, means that they are not full-time. (***à temps partiel***)
->
-> ***permanent***, in respect of an employee, means that their contract of employment provides that they are employed for an indeterminate period. (***permanent***)
->
-> ***temporary***, in respect of an employee, means that their contract of employment provides that they are employed for a fixed term or on a seasonal, casual or irregular basis. (***temporaire***)
->
-> **(2)** For the purposes of subparagraph (b)(i) of the definition *full-time* in subsection (1), the average number of hours of work per week is the total number of hours scheduled under the averaging plan or modified work schedule, as the case may be, divided by the number of weeks in the plan or schedule.
->
-> **(3)** The following definitions apply for the purposes of Division III of the Act.
->
-> ***employment status*** means an employee’s status as a full-time, part-time, permanent or temporary employee. (***situation d’emploi***)
->
-> ***system*** means a system
->
-> - **(a)** that applies to all employees whose rates of wages are comparable by reason of subsection 182.1(1) of the Act; and
->
-> - **(b)** whose particulars have been communicated to those employees in writing or are readily available for examination by them. (***régime***)
->
-> **11.3** For the purposes of Division III of the Act, all branches, sections and other divisions of federal works, undertakings and businesses that are located in a region established under paragraph 54(w) of the [Employment Insurance Act](../../acts/en/E-5.6.md) are designated as industrial establishments.
->
-> **11.4** For the purposes of paragraph 182.1(1)(a) of the Act, if an employer has more than one industrial establishment, an employee is considered to work
->
-> - **(a)** in the industrial establishment in which the employee most often reports for work in person;
->
-> - **(b)** in the case of an employee whose main duty is the transportation of goods or passengers by motor vehicle, or an employee who works on board trains, aircraft or ships, in the industrial establishment in which the employee’s home terminal, station, base or port is located; or
->
-> - **(c)** in the case of an employee who is subject to a remote work agreement that provides that all hours be worked remotely,
->
->   - **(i)** in the industrial establishment in which the employee most often reported for work in person before the remote work agreement took effect, if the nature of their duties and of those carried out in that industrial establishment has not since changed, or
->
->   - **(ii)** if subparagraph (i) does not apply or is not determinative of where the employee is considered to work, in the industrial establishment in which the employee would report for work in person if there were no remote work agreement, as determined using the following indicators:
->
->     - **(A)** the industrial establishment in which the employee would attend meetings in person,
->
->     - **(B)** the industrial establishment where the employee would report in person to receive work-related documents or material or associated instructions or assistance,
->
->     - **(C)** the industrial establishment where the employee would report in person to receive instructions regarding their duties,
->
->     - **(D)** the industrial establishment in which the employee’s supervisor reports for work in person or would report for work in person but for their own remote work agreement, and
->
->     - **(E)** the industrial establishment in which the employee would report for work in person based on the nature of their duties.
->
-> **11.5** For the purposes of paragraph 182.1(1)(e) of the Act, it is a factor that the employees’ wages for the performance of a job function are calculated using the same type of rate of wages, such as
->
-> - **(a)** a rate based on time;
->
-> - **(b)** a mileage rate;
->
-> - **(c)** a piece rate;
->
-> - **(d)** a per load rate; or
->
-> - **(e)** a commission rate.
->
-> **11.6** For the purposes of paragraph 182.1(2)(d) of the Act, the criteria are
->
-> - **(a)** the maintenance of an employee’s rate of wages following their reclassification or demotion to a position that has a lower rate of wages until the rate for the position is greater than the rate payable to the employee immediately before the reclassification or demotion;
->
-> - **(b)** the increase in rates of wages due to difficulty, during a shortage of skilled workers, in recruiting or retaining employees with the requisite skills for certain positions;
->
-> - **(c)** the geographic area in which an employee works;
->
-> - **(d)** the geographic area in which an employee who is on travel status works; and
->
-> - **(e)** the fact that an employee who is on travel status is paid a rate of wages that is different than the rate paid to an employee doing the same work who is not on travel status.
-
-###### — SOR/2026-75, s. 2
-
-**2** The Regulations are amended by adding the following after section 16:
-
-> ## Temporary Help Agencies
->
-> **16.1** For the purposes of Division VI.1 of the Act, ***system*** means a client’s *system*, as defined in subsection 11.2(3) of these Regulations, whose particulars have been communicated in writing to an employee who performs a work assignment for the client or are readily available for examination by that employee.
->
-> **16.2** For the purposes of Division VI.1 of the Act, all branches, sections and other divisions of federal works, undertakings and businesses that are located in a region established under paragraph 54(w) of the [Employment Insurance Act](../../acts/en/E-5.6.md) are designated as industrial establishments.
->
-> **16.3** For the purposes of paragraph 203.2(1)(a) of the Act, if a client has more than one industrial establishment, an employee is considered to work
->
-> - **(a)** in the industrial establishment in which the employee most often reports for work in person;
->
-> - **(b)** in the case of an employee whose main duty is the transportation of goods or passengers by motor vehicle, or an employee who works on board trains, aircraft or ships, in the industrial establishment in which the employee’s home terminal, station, base or port is located; or
->
-> - **(c)** in the case of an employee who is subject to a remote work agreement that provides that all hours be worked remotely,
->
->   - **(i)** in the industrial establishment in which the employee most often reported for work in person before the remote work agreement took effect, if the nature of their duties and of those carried out in that industrial establishment has not since changed, or
->
->   - **(ii)** if subparagraph (i) does not apply or is not determinative of where the employee is considered to work, in the industrial establishment in which the employee would report for work in person if there were no remote work agreement, as determined using the following indicators:
->
->     - **(A)** the industrial establishment in which the employee would attend meetings in person,
->
->     - **(B)** the industrial establishment where the employee would report in person to receive work-related documents or material or associated instructions or assistance,
->
->     - **(C)** the industrial establishment where the employee would report in person to receive instructions regarding their duties,
->
->     - **(D)** the industrial establishment in which the employee’s supervisor reports for work in person or would report for work in person but for their own remote work agreement, and
->
->     - **(E)** the industrial establishment in which the employee would report for work in person based on the nature of their duties.
->
-> **16.4** For the purposes of paragraph 203.2(1)(e) of the Act, it is a factor that the employees’ wages for the performance of a job function are calculated using the same type of rate of wages, such as
->
-> - **(a)** a rate based on time;
->
-> - **(b)** a mileage rate;
->
-> - **(c)** a piece rate;
->
-> - **(d)** a per load rate; or
->
-> - **(e)** a commission rate.
->
-> **16.5** For the purposes of paragraph 203.2(2)(d) of the Act, the criteria are
->
-> - **(a)** the maintenance of an employee’s rate of wages following their reclassification or demotion to a position that has a lower rate of wages until the rate for the position is greater than the rate payable to the employee immediately before the reclassification or demotion;
->
-> - **(b)** the increase in rates of wages due to difficulty, during a shortage of skilled workers, in recruiting or retaining employees with the requisite skills for certain positions;
->
-> - **(c)** the geographic area in which an employee works;
->
-> - **(d)** the geographic area in which an employee who is on travel status works; and
->
-> - **(e)** the fact that an employee who is on travel status is paid a rate of wages that is different than the rate paid to an employee doing the same work who is not on travel status.
-
-###### — SOR/2026-75, s. 3
-
-**3** Subsection 24(2) of the Regulations is amended by adding the following after paragraph (f):
-
-> - **(f.1)** a record describing any system referred to in subsection 182.1(2) or 203.2(2) of the Act on the basis of which the employee is paid a rate of wages that is less than the rate paid to another employee;
->
-> - **(f.2)** any written request for review made by the employee under subsection 182.2(1) or 203.3(1) of the Act and a copy of the employer’s written response to that request;
->
-> - **(f.3)** in the case of an employer who is a temporary help agency, a record of each client for whom the employee performs a work assignment and the dates of commencement and termination of the assignment;
-
-###### — SOR/2026-75, s. 4
-
-**4** Schedule II to the Regulations is amended by replacing “Equal wages” with “Equal treatment”.
-
-###### — SOR/2026-75, s. 5
-
-**5** Schedule II to the Regulations is amended by adding the following after “Multi-employer employment”:
-
-> **Temporary help agencies**
-
-###### — SOR/2026-75, s. 6
-
-**6** Schedule II to the Regulations is amended by replacing “Sick leave” with “Medical leave”.
-
-###### — SOR/2026-75, s. 7
-
-**7** Schedule II to the Regulations is amended by replacing “https://www.canada.ca/en/employment-social-development/programs/employment-standards/federal-standards.html” with “https://www.canada.ca/en/services/jobs/workplace/federal-labour-standards.html”.
-
 ## Recent amendments
 
+- SOR/2026-75 2026-10-20
 - SOR/2025-240 2025-12-12
 - SOR/2023-79 2023-07-09
 - SOR/2023-40 2023-06-12
@@ -3320,8 +3313,3 @@ All inquiries will be treated confidentially.
 - SOR/2022-41 2022-03-04
 - SOR/2021-36 2021-11-20
 - SOR/2020-226 2021-09-25
-- SOR/2021-118 2021-07-01
-
----
-
-[^fn_81000-2-5323_hq_1700513657]: C.R.C., c. 986; SOR/2019-168, s. 1

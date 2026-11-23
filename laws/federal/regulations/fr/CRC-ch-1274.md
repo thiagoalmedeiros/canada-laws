@@ -8,30 +8,30 @@ jurisdiction: "federal"
 language: "fr"
 number: "C.R.C., ch. 1274"
 source_id: "C.R.C.,_ch._1274"
-current_to: "2025-07-24"
-last_amended: "2006-03-22"
+current_to: "2026-10-19"
+last_amended: "2026-10-09"
 in_force: true
 translation: "../en/CRC-c-1274.md"
 status: "stable"
-generated: { by: process:canada-laws-federal-converter, at: 2025-07-24T00:00:00Z }
+generated: { by: process:canada-laws-federal-converter, at: 2026-10-19T00:00:00Z }
 sources:
   - id: "justice-xml"
     resource: "https://github.com/justicecanada/laws-lois-xml/blob/main/fra/reglements/C.R.C.,_ch._1274.xml"
     title: "Justice Canada consolidated XML (laws-lois-xml)"
     author: "org:justice-canada"
-    last_modified: "2025-07-24T00:00:00Z"
+    last_modified: "2026-10-19T00:00:00Z"
   - id: "justice-laws"
     resource: "https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._1274/"
     title: "Justice Laws Website"
     author: "org:justice-canada"
-    last_modified: "2006-03-22T00:00:00Z"
+    last_modified: "2026-10-09T00:00:00Z"
 ---
 
 # Règlement des postes pour les forces armées
 
 *Règlement concernant le courrier à destination ou en provenance des forces armées canadiennes à l’extérieur du Canada desservies par les bureaux de poste des forces canadiennes et par les adresses de la poste navale*
 
-C.R.C., ch. 1274 · Codification: 2025-07-24 · Dernière modification: 2006-03-22
+C.R.C., ch. 1274 · Codification: 2026-10-19 · Dernière modification: 2026-10-09
 
 Autorité habilitante: [LOI SUR LA SOCIÉTÉ CANADIENNE DES POSTES](../../acts/fr/C-10.md)
 
@@ -107,11 +107,7 @@ Autorité habilitante: [LOI SUR LA SOCIÉTÉ CANADIENNE DES POSTES](../../acts/f
 
 - **b)** tout civil qui reçoit normalement son courrier par l’intermédiaire d’un bureau de poste des Forces canadiennes.
 
-## Tarifs de port
-
-**4** Les tarifs indiqués ou visés à l’annexe s’appliquent aux envois déposés conformément au présent règlement.
-
-<sub>Historique: DORS/78-291, art. 1; DORS/79-189, art. 1; DORS/80-424, art. 2; DORS/81-836, art. 2; DORS/82-27, art. 2; DORS/83-60, art. 1; DORS/83-799, art. 1; DORS/86-248, art. 2; DORS/87-156, art. 2; DORS/87-685, art. 1; DORS/88-432, art. 2; DORS/88-611, art. 2; DORS/90-19, art. 2</sub>
+**4** \[Abrogé, DORS/2026-207, art. 1\]
 
 **4.1** \[Abrogé, DORS/87-685, art. 2\]
 
@@ -159,9 +155,9 @@ Autorité habilitante: [LOI SUR LA SOCIÉTÉ CANADIENNE DES POSTES](../../acts/f
 
 **7** **(1)** Les envois poste-lettres, les lettres et les lettres-avion pour militaires sont acceptés à la recommandation s’ils sont conformes aux exigences du [Règlement sur les droits postaux de services spéciaux](CRC-ch-1296.md) concernant le dépôt du courrier recommandé au Canada pour livraison au Canada.
 
-**(2)** Le tarif prescrit à l’annexe VII du [Règlement sur les droits postaux de services spéciaux](CRC-ch-1296.md) pour un objet recommandé posté au Canada pour livraison au Canada s’applique aux envois visés au paragraphe (1).
+**(2)** \[Abrogé, DORS/2026-207, art. 2\]
 
-<sub>Historique: DORS/82-27, art. 6; DORS/88-432, art. 2; DORS/90-802, art. 4; DORS/2003-382, art. 3(F)</sub>
+<sub>Historique: DORS/82-27, art. 6; DORS/88-432, art. 2; DORS/90-802, art. 4; DORS/2003-382, art. 3(F); DORS/2026-207, art. 2</sub>
 
 **8** \[Abrogé, DORS/90-19, art. 4\]
 
@@ -189,27 +185,7 @@ Autorité habilitante: [LOI SUR LA SOCIÉTÉ CANADIENNE DES POSTES](../../acts/f
 
 ## ANNEXE
 
-*(article 4)*
-
-**Tarifs de port — courrier des forces armées canadiennes**
-
-<table>
-<thead>
-<tr><th rowspan="2">Article</th><th>Colonne I</th><th>Colonne II</th></tr>
-<tr><th>Description</th><th>Tarif</th></tr>
-</thead>
-<tbody>
-<tr><td>1</td><td>Envois poste-lettres, par voie de surface, jusqu’à 500 g …</td><td>tarif prescrit à l’annexe du <a href="DORS-88-430.md">Règlement sur les envois poste-lettres</a></td></tr>
-<tr><td>2</td><td>[Abrogé, DORS/91-631, art. 4]</td><td></td></tr>
-<tr><td>3</td><td>[Abrogé, DORS/96-211, art. 2]</td><td></td></tr>
-<tr><td>4</td><td>[Abrogé, DORS/92-700, art. 1]</td><td></td></tr>
-<tr><td>5</td><td>Lettres, par avion, jusqu’à 500 g …</td><td>tarif prescrit à l’alinéa 1b) de l’annexe IV du <a href="DORS-83-807.md">Règlement sur les envois de la poste aux lettres du régime postal international</a></td></tr>
-<tr><td>6</td><td>Lettres-avion pour militaires, par avion, jusqu’à 30 g …</td><td>tarif prescrit à l’alinéa 1(1)a) de l’annexe du <a href="DORS-88-430.md">Règlement sur les envois poste-lettres</a></td></tr>
-<tr><td>7. et 8.</td><td>[Abrogés, DORS/2003-381, art. 3]</td><td></td></tr>
-</tbody>
-</table>
-
-<sub>Historique: DORS/88-432, art. 5; DORS/88-611, art. 6 et 7; DORS/90-19, art. 7; DORS/90-802, art. 6; DORS/91-182, art. 2; DORS/91-631, art. 4; DORS/91-644, art. 2; DORS/92-700, art. 1; DORS/96-211, art. 2; DORS/2000-379, art. 2; DORS/2001-446, art. 1 et 2; DORS/2003-381, art. 3; DORS/2003-382, art. 3(F)</sub>
+\[Abrogée, DORS/2026-207, art. 3\]
 
 ## ANNEXE I
 
@@ -218,3 +194,7 @@ Autorité habilitante: [LOI SUR LA SOCIÉTÉ CANADIENNE DES POSTES](../../acts/f
 ## ANNEXE II
 
 \[Abrogée, DORS/80-424, art. 7\]
+
+## Modifications récentes
+
+- DORS/2026-207 2026-10-09

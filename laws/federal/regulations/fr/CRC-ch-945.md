@@ -8,18 +8,18 @@ jurisdiction: "federal"
 language: "fr"
 number: "C.R.C., ch. 945"
 source_id: "C.R.C.,_ch._945"
-current_to: "2026-06-21"
+current_to: "2026-10-29"
 last_amended: "2026-06-18"
 in_force: true
 translation: "../en/CRC-c-945.md"
 status: "stable"
-generated: { by: process:canada-laws-federal-converter, at: 2026-06-21T00:00:00Z }
+generated: { by: process:canada-laws-federal-converter, at: 2026-10-29T00:00:00Z }
 sources:
   - id: "justice-xml"
     resource: "https://github.com/justicecanada/laws-lois-xml/blob/main/fra/reglements/C.R.C.,_ch._945.xml"
     title: "Justice Canada consolidated XML (laws-lois-xml)"
     author: "org:justice-canada"
-    last_modified: "2026-06-21T00:00:00Z"
+    last_modified: "2026-10-29T00:00:00Z"
   - id: "justice-laws"
     resource: "https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._945/"
     title: "Justice Laws Website"
@@ -29,7 +29,7 @@ sources:
 
 # Règlement de l’impôt sur le revenu
 
-C.R.C., ch. 945 · Codification: 2026-06-21 · Dernière modification: 2026-06-18
+C.R.C., ch. 945 · Codification: 2026-10-29 · Dernière modification: 2026-06-18
 
 Autorité habilitante: [LOI DE L’IMPÔT SUR LE REVENU](../../acts/fr/I-3.3.md)
 
@@ -32455,6 +32455,14 @@ où :
 
 > - **d.1)** un paiement versé durant la vie d’un rentier visé à la définition de *rentier*, au paragraphe 146.3(1) de la Loi, dans le cadre d’un fonds enregistré de revenu de retraite de celui-ci, à l’exclusion d’un montant versé au titre du minimum — déterminé conformément aux paragraphes 146.3(1), (1.6) ou (1.7) de la Loi, selon le cas — à retirer de ce fonds pour une année;
 
+###### — DORS/2026-228, art. 1
+
+**1** **(1)** L’article 7100 du [Règlement de l’impôt sur le revenu](CRC-ch-945.md)[^nbp_FR_Income_Tax_Regulations_2026-July-10_hq_1784729748] est modifié par adjonction, après l’alinéa k) de ce qui suit :
+
+> - **l)** Gestion Maisons Canada inc.
+
+**(2)** Le paragraphe (1) entre en vigueur à la date de sa publication dans la Gazette du Canada.
+
 ## Modifications récentes
 
 - 2026, ch. 22 2026-06-18
@@ -32467,3 +32475,7 @@ où :
 - DORS/2024-231 2024-11-22
 - 2024, ch. 15 2024-07-01
 - 2024, ch. 15 2024-06-20
+
+---
+
+[^nbp_FR_Income_Tax_Regulations_2026-July-10_hq_1784729748]: C.R.C., ch. 945

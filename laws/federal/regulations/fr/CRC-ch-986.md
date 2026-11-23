@@ -8,28 +8,28 @@ jurisdiction: "federal"
 language: "fr"
 number: "C.R.C., ch. 986"
 source_id: "C.R.C.,_ch._986"
-current_to: "2026-04-28"
-last_amended: "2025-12-12"
+current_to: "2026-10-29"
+last_amended: "2026-10-20"
 in_force: true
 translation: "../en/CRC-c-986.md"
 status: "stable"
-generated: { by: process:canada-laws-federal-converter, at: 2026-04-28T00:00:00Z }
+generated: { by: process:canada-laws-federal-converter, at: 2026-10-29T00:00:00Z }
 sources:
   - id: "justice-xml"
     resource: "https://github.com/justicecanada/laws-lois-xml/blob/main/fra/reglements/C.R.C.,_ch._986.xml"
     title: "Justice Canada consolidated XML (laws-lois-xml)"
     author: "org:justice-canada"
-    last_modified: "2026-04-28T00:00:00Z"
+    last_modified: "2026-10-29T00:00:00Z"
   - id: "justice-laws"
     resource: "https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._986/"
     title: "Justice Laws Website"
     author: "org:justice-canada"
-    last_modified: "2025-12-12T00:00:00Z"
+    last_modified: "2026-10-20T00:00:00Z"
 ---
 
 # Règlement du Canada sur les normes du travail
 
-C.R.C., ch. 986 · Codification: 2026-04-28 · Dernière modification: 2025-12-12
+C.R.C., ch. 986 · Codification: 2026-10-29 · Dernière modification: 2026-10-20
 
 Autorité habilitante: [CODE CANADIEN DU TRAVAIL](../../acts/fr/L-2.md)
 
@@ -253,6 +253,96 @@ Autorité habilitante: [CODE CANADIEN DU TRAVAIL](../../acts/fr/L-2.md)
 
 <sub>Historique: DORS/91-461, art. 12</sub>
 
+## Égalité de traitement
+
+**11.2** **(1)** Les définitions qui suivent s’appliquent au présent article.
+
+***à temps partiel*** Se dit de l’employé qui n’est pas à temps plein. (***part-time***)
+
+***à temps plein*** Se dit de l’employé qui est considéré comme à temps plein aux termes de la convention collective qui le régit ou, en l’absence d’une telle convention, de son contrat de travail. Toutefois, si la convention collective ou le contrat de travail, selon le cas, ne traite pas de la question, se dit :
+
+- **a)** de l’employé qui est considéré comme à temps plein aux termes d’une politique de l’employeur qui lui a été communiquée;
+
+- **b)** si l’alinéa a) ne s’applique pas, de l’employé :
+
+  - **(i)** dont l’horaire de travail prévoit qu’il travaille en moyenne trente heures ou plus par semaine, s’il est assujetti à un régime de calcul de la moyenne au titre des paragraphes 169(2) ou 171(2) de la Loi ou à un horaire de travail modifié au titre des articles 170 ou 172 de la Loi,
+
+  - **(ii)** qui travaille habituellement trente heures ou plus par semaine, s’il n’est pas assujetti à un tel régime ou horaire. (***full-time***)
+
+***permanent*** Se dit de l’employé dont le contrat de travail prévoit qu’il est embauché pour une durée indéterminée. (***permanent***)
+
+***temporaire*** Se dit de l’employé dont le contrat de travail prévoit qu’il est embauché pour une durée déterminée ou sur une base saisonnière, occasionnelle ou irrégulière. (***temporary***)
+
+**(2)** Pour l’application du sous-alinéa b)(i) de la définition de *à temps plein* au paragraphe (1), la moyenne hebdomadaire des heures de travail correspond au quotient obtenu par la division du nombre total d’heures de travail prévues dans le régime de calcul de la moyenne ou dans l’horaire de travail modifié, selon le cas, par le nombre de semaines comprises dans celui-ci.
+
+**(3)** Les termes ci-après sont ainsi définis pour l’application de la section III de la Loi.
+
+***régime*** S’entend de tout régime :
+
+- **a)** d’une part, qui s’applique à l’ensemble des employés ayant des taux de salaire comparables en application du paragraphe 182.1(1) de la Loi;
+
+- **b)** d’autre part, dont les détails leur ont été communiqués par écrit ou leur sont facilement accessibles pour consultation. (***system***)
+
+***situation d’emploi*** Statut d’employé à temps plein, à temps partiel, permanent ou temporaire. (***employment status***)
+
+<sub>Historique: DORS/2026-75, art. 1</sub>
+
+**11.3** Pour l’application de la section III de la Loi, sont désignées établissements les succursales, sections ou autres divisions des entreprises fédérales qui sont situées dans une région identifiée en vertu de l’alinéa 54w) de la [Loi sur l’assurance-emploi](../../acts/fr/E-5.6.md).
+
+<sub>Historique: DORS/2026-75, art. 1</sub>
+
+**11.4** Pour l’application de l’alinéa 182.1(1)a) de la Loi, lorsque l’employeur a plus d’un établissement, l’employé est considéré comme travaillant, selon le cas :
+
+- **a)** dans l’établissement où il se présente au travail en personne le plus souvent;
+
+- **b)** si sa principale fonction est le transport de marchandises ou de passagers par véhicule automobile, ou s’il travaille à bord de trains, d’aéronefs ou de navires, dans l’établissement où est situé sa gare d’attache, son terminal, sa base d’affectation ou son port d’attache;
+
+- **c)** s’il est lié par une entente de travail à distance prévoyant que toutes les heures sont travaillées à distance :
+
+  - **(i)** dans l’établissement où il se présentait au travail en personne le plus souvent avant l’entrée en vigueur de l’entente de travail à distance, si la nature de ses fonctions et de celles accomplies à cet établissement n’a pas changé depuis,
+
+  - **(ii)** si le sous-alinéa (i) ne s’applique pas ou ne permet pas d’établir clairement là où est considéré travailler l’employé, dans l’établissement où il se serait présenté au travail en personne n’eût été son entente de travail à distance, lequel est déterminé d’après les indicateurs suivants :
+
+    - **(A)** celui où il assisterait à des réunions en personne,
+
+    - **(B)** celui où il se présenterait en personne pour recevoir des documents ou du matériel liés au travail, ou des instructions et de l’aide connexes,
+
+    - **(C)** celui où il se présenterait en personne pour recevoir des instructions concernant ses fonctions,
+
+    - **(D)** celui où son superviseur se présente au travail en personne ou se serait présenté au travail en personne n’eût été son entente de travail à distance,
+
+    - **(E)** celui où il se présenterait au travail en personne vu la nature de ses fonctions.
+
+<sub>Historique: DORS/2026-75, art. 1</sub>
+
+**11.5** Pour l’application de l’alinéa 182.1(1)e) de la Loi, est une condition le fait que le salaire des employés pour l’exécution d’une tâche soit calculé en fonction d’un taux de salaire du même type, notamment :
+
+- **a)** en fonction du temps;
+
+- **b)** selon un taux kilométrique;
+
+- **c)** à la pièce;
+
+- **d)** en fonction du chargement;
+
+- **e)** à la commission.
+
+<sub>Historique: DORS/2026-75, art. 1</sub>
+
+**11.6** Pour l’application de l’alinéa 182.1(2)d) de la Loi, les critères sont les suivants :
+
+- **a)** le maintien du taux de salaire d’un employé à la suite d’un reclassement ou d’une rétrogradation à un poste dont le taux de salaire est inférieur à celui de l’employé, et ce jusqu’à ce que le taux de salaire du poste devienne supérieur au taux de salaire de l’employé immédiatement avant le reclassement ou la rétrogradation;
+
+- **b)** l’augmentation des taux de salaire en raison de la difficulté à recruter ou à maintenir en poste des employés ayant les compétences requises à l’égard de certains postes lors d’une pénurie de main-d’œuvre qualifiée;
+
+- **c)** la région où travaille un employé;
+
+- **d)** la région où travaille un employé en déplacement;
+
+- **e)** le fait qu’un employé en déplacement est payé à un taux de salaire différent de celui payé à un autre employé accomplissant le même travail et n’étant pas en déplacement.
+
+<sub>Historique: DORS/2026-75, art. 1</sub>
+
 ## Congé annuel
 
 **12** L’employeur doit, au moins 30 jours avant de déterminer une année de service conformément à l’alinéa b) de la définition de ***année de service*** à l’article 183 de la Loi, transmettre par écrit aux employés concernés les renseignements suivants :
@@ -312,6 +402,68 @@ Autorité habilitante: [CODE CANADIEN DU TRAVAIL](../../acts/fr/L-2.md)
 **16** Lorsque les parties à une convention collective s’entendent par écrit pour substituer conformément au paragraphe 195(1) de la Loi un jour à un jour férié, l’entente écrite doit renfermer les renseignements visés aux alinéas 15(1)a) à e).
 
 <sub>Historique: DORS/94-668, art. 5; DORS/2022-41, art. 2</sub>
+
+## Agences de placement temporaire
+
+**16.1** Pour l’application de la section VI.1 de la Loi, ***régime*** s’entend de tout *régime*, au sens du paragraphe 11.2(3) du présent règlement, du client, dont les détails ont été communiqués par écrit à l’employé qui travaille dans le cadre d’une affectation auprès de ce client ou qui lui sont facilement accessibles pour consultation.
+
+<sub>Historique: DORS/2026-75, art. 2</sub>
+
+**16.2** Pour l’application de la section VI.1 de la Loi, sont désignées établissements les succursales, sections ou autres divisions des entreprises fédérales qui sont situées dans une région identifiée en vertu de l’alinéa 54w) de la [Loi sur l’assurance-emploi](../../acts/fr/E-5.6.md).
+
+<sub>Historique: DORS/2026-75, art. 2</sub>
+
+**16.3** Pour l’application de l’alinéa 203.2(1)a) de la Loi, lorsque le client a plus d’un établissement, l’employé est considéré comme travaillant, selon le cas :
+
+- **a)** dans l’établissement où il se présente au travail en personne le plus souvent;
+
+- **b)** si sa principale fonction est le transport de marchandises ou de passagers par véhicule automobile, ou s’il travaille à bord de trains, d’aéronefs ou de navires, dans l’établissement où est situé sa gare d’attache, son terminal, sa base d’affectation ou son port d’attache;
+
+- **c)** s’il est lié par une entente de travail à distance prévoyant que toutes les heures sont travaillées à distance :
+
+  - **(i)** dans l’établissement où il se présentait au travail en personne le plus souvent avant l’entrée en vigueur de l’entente de travail à distance, si la nature de ses fonctions et de celles accomplies à cet établissement n’a pas changé depuis,
+
+  - **(ii)** si le sous-alinéa (i) ne s’applique pas ou ne permet pas d’établir clairement là où est considéré travailler l’employé, dans l’établissement où il se serait présenté au travail en personne n’eût été son entente de travail à distance, lequel est déterminé d’après les indicateurs suivants :
+
+    - **(A)** celui où il assisterait à des réunions en personne,
+
+    - **(B)** celui où il se présenterait en personne pour recevoir des documents ou du matériel liés au travail, ou des instructions et de l’aide connexes,
+
+    - **(C)** celui où il se présenterait en personne pour recevoir des instructions concernant ses fonctions,
+
+    - **(D)** celui où son superviseur se présente au travail en personne ou se serait présenté au travail en personne n’eût été son entente de travail à distance,
+
+    - **(E)** celui où il se présenterait au travail en personne vu la nature de ses fonctions.
+
+<sub>Historique: DORS/2026-75, art. 2</sub>
+
+**16.4** Pour l’application de l’alinéa 203.2(1)e) de la Loi, est une condition le fait que le salaire des employés pour l’exécution d’une tâche soit calculé en fonction d’un taux de salaire du même type, notamment :
+
+- **a)** en fonction du temps;
+
+- **b)** selon un taux kilométrique;
+
+- **c)** à la pièce;
+
+- **d)** en fonction du chargement;
+
+- **e)** à la commission.
+
+<sub>Historique: DORS/2026-75, art. 2</sub>
+
+**16.5** Pour l’application de l’alinéa 203.2(2)d) de la Loi, les critères sont les suivants :
+
+- **a)** le maintien du taux de salaire d’un employé à la suite d’un reclassement ou d’une rétrogradation à un poste dont le taux de salaire est inférieur à celui de l’employé, et ce jusqu’à ce que le taux de salaire du poste devienne supérieur au taux de salaire de l’employé immédiatement avant le reclassement ou la rétrogradation;
+
+- **b)** l’augmentation des taux de salaire en raison de la difficulté à recruter ou à maintenir en poste des employés ayant les compétences requises à l’égard de certains postes lors d’une pénurie de main-d’œuvre qualifiée;
+
+- **c)** la région où travaille un employé;
+
+- **d)** la région où travaille un employé en déplacement;
+
+- **e)** le fait qu’un employé en déplacement est payé à un taux de salaire différent de celui payé à un autre employé accomplissant le même travail et n’étant pas en déplacement.
+
+<sub>Historique: DORS/2026-75, art. 2</sub>
 
 ## Taux régulier de salaire pour les jours fériés, les congés en cas de perte de grossesse, les congés personnels, les congés pour les victimes de violence familiale, les congés de décès et les congés pour raisons médicales
 
@@ -495,6 +647,12 @@ Autorité habilitante: [CODE CANADIEN DU TRAVAIL](../../acts/fr/L-2.md)
 
 - **f)** les sommes versées chaque jour de paie, une fois les retenues effectuées, avec les détails précis sur les retenues effectuées;
 
+- **f.1)** *un registre décrivant tout régime visé aux paragraphes 182.1(2) ou 203.2(2) de la Loi et sur la base duquel l’employé est payé à un taux de salaire inférieur à celui payé à un autre employé;*
+
+- **f.2)** toute demande de révision écrite faite par l’employé au titre des paragraphes 182.2(1) ou 203.3(1) de la Loi et une copie de la réponse écrite de l’employeur à l’égard de cette demande;
+
+- **f.3)** dans le cas d’un employeur qui est une agence de placement temporaire, un registre indiquant tout client auprès duquel l’employé travaille dans le cadre d’une affectation et les dates de début et de fin de l’affectation;
+
 - **g)** les dates ci-après à l’égard des congés annuels :
 
   - **(i)** les dates de début et de fin de chaque période de congé,
@@ -599,7 +757,7 @@ Autorité habilitante: [CODE CANADIEN DU TRAVAIL](../../acts/fr/L-2.md)
 
 **(5)** \[Abrogé, DORS/2014-305, art. 6\]
 
-<sub>Historique: DORS/78-560, art. 4; DORS/91-461, art. 21; DORS/94-668, art. 7; DORS/2009-194, art. 2; DORS/2014-305, art. 6; DORS/2019-168, art. 9; DORS/2022-41, art. 5; DORS/2022-228, art. 5; DORS/2023-40, art. 3; DORS/2023-79, art. 3(F); DORS/2025-240, art. 7</sub>
+<sub>Historique: DORS/78-560, art. 4; DORS/91-461, art. 21; DORS/94-668, art. 7; DORS/2009-194, art. 2; DORS/2014-305, art. 6; DORS/2019-168, art. 9; DORS/2022-41, art. 5; DORS/2022-228, art. 5; DORS/2023-40, art. 3; DORS/2023-79, art. 3(F); DORS/2025-240, art. 7; DORS/2026-75, art. 3</sub>
 
 ## Certificat visé au paragraphe 181.1(2) de la Loi
 
@@ -2991,13 +3149,15 @@ Ces normes visent notamment les questions suivantes :
 
 **Le salaire minimum**
 
-**L’égalité des salaires**
+**L’égalité de traitement**
 
 **Les congés annuels**
 
 **Les jours fériés**
 
 **Le travail au service de plusieurs employeurs**
+
+**Les agences de placement temporaire**
 
 **La réaffectation et le congé liés à la maternité**
 
@@ -3021,7 +3181,7 @@ Ces normes visent notamment les questions suivantes :
 
 **Le congé de décès**
 
-**Le congé de maladie**
+**Le congé pour raisons médicales**
 
 **Les accidents et les maladies professionnels**
 
@@ -3045,11 +3205,11 @@ Ces normes visent notamment les questions suivantes :
 
 Pour de plus amples renseignements sur ces normes, veuillez communiquer avec le bureau du Programme du travail, Ministère de l’Emploi et du Développement social, ou consultez le site Web suivant :
 
-https ://www.canada.ca/fr/emploi-developpement-social/programmes/normes-travail/normes-federales.html
+https://www.canada.ca/fr/services/emplois/milieu-travail/normes-travail-federales.html
 
 Les demandes de renseignements seront traitées de façon confidentielle.
 
-<sub>Historique: DORS/91-461, art. 36; DORS/94-668, art. 14; DORS/2006-231, art. 5; DORS/2009-194, art. 4; 2013, ch. 40, art. 237; DORS/2014-305, art. 11; DORS/2019-168, art. 12; DORS/2020-130, art. 38; DORS/2025-240, art. 9</sub>
+<sub>Historique: DORS/91-461, art. 36; DORS/94-668, art. 14; DORS/2006-231, art. 5; DORS/2009-194, art. 4; 2013, ch. 40, art. 237; DORS/2014-305, art. 11; DORS/2019-168, art. 12; DORS/2020-130, art. 38; DORS/2025-240, art. 9; DORS/2026-75, art. 4; DORS/2026-75, art. 5; DORS/2026-75, art. 6; DORS/2026-75, art. 7</sub>
 
 ## ANNEXE III — Avis de modification de l’horaire de travail
 
@@ -3139,176 +3299,9 @@ Les demandes de renseignements seront traitées de façon confidentielle.
 
 > **Le congé pour placement d’un enfant**
 
-###### — DORS/2026-75, art. 1
-
-**1** Le [Règlement du Canada sur les normes du travail](CRC-ch-986.md)[^nbp_81000-2-5323_hq_1700513663] est modifié par adjonction, après l’article 11.1, de ce qui suit :
-
-> ## Égalité de traitement
->
-> **11.2** **(1)** Les définitions qui suivent s’appliquent au présent article.
->
-> ***à temps partiel*** Se dit de l’employé qui n’est pas à temps plein. (***part-time***)
->
-> ***à temps plein*** Se dit de l’employé qui est considéré comme à temps plein aux termes de la convention collective qui le régit ou, en l’absence d’une telle convention, de son contrat de travail. Toutefois, si la convention collective ou le contrat de travail, selon le cas, ne traite pas de la question, se dit :
->
-> - **a)** de l’employé qui est considéré comme à temps plein aux termes d’une politique de l’employeur qui lui a été communiquée;
->
-> - **b)** si l’alinéa a) ne s’applique pas, de l’employé :
->
->   - **(i)** dont l’horaire de travail prévoit qu’il travaille en moyenne trente heures ou plus par semaine, s’il est assujetti à un régime de calcul de la moyenne au titre des paragraphes 169(2) ou 171(2) de la Loi ou à un horaire de travail modifié au titre des articles 170 ou 172 de la Loi,
->
->   - **(ii)** qui travaille habituellement trente heures ou plus par semaine, s’il n’est pas assujetti à un tel régime ou horaire. (***full-time***)
->
-> ***permanent*** Se dit de l’employé dont le contrat de travail prévoit qu’il est embauché pour une durée indéterminée. (***permanent***)
->
-> ***temporaire*** Se dit de l’employé dont le contrat de travail prévoit qu’il est embauché pour une durée déterminée ou sur une base saisonnière, occasionnelle ou irrégulière. (***temporary***)
->
-> **(2)** Pour l’application du sous-alinéa b)(i) de la définition de *à temps plein* au paragraphe (1), la moyenne hebdomadaire des heures de travail correspond au quotient obtenu par la division du nombre total d’heures de travail prévues dans le régime de calcul de la moyenne ou dans l’horaire de travail modifié, selon le cas, par le nombre de semaines comprises dans celui-ci.
->
-> **(3)** Les termes ci-après sont ainsi définis pour l’application de la section III de la Loi.
->
-> ***régime*** S’entend de tout régime :
->
-> - **a)** d’une part, qui s’applique à l’ensemble des employés ayant des taux de salaire comparables en application du paragraphe 182.1(1) de la Loi;
->
-> - **b)** d’autre part, dont les détails leur ont été communiqués par écrit ou leur sont facilement accessibles pour consultation. (***system***)
->
-> ***situation d’emploi*** Statut d’employé à temps plein, à temps partiel, permanent ou temporaire. (***employment status***)
->
-> **11.3** Pour l’application de la section III de la Loi, sont désignées établissements les succursales, sections ou autres divisions des entreprises fédérales qui sont situées dans une région identifiée en vertu de l’alinéa 54w) de la [Loi sur l’assurance-emploi](../../acts/fr/E-5.6.md).
->
-> **11.4** Pour l’application de l’alinéa 182.1(1)a) de la Loi, lorsque l’employeur a plus d’un établissement, l’employé est considéré comme travaillant, selon le cas :
->
-> - **a)** dans l’établissement où il se présente au travail en personne le plus souvent;
->
-> - **b)** si sa principale fonction est le transport de marchandises ou de passagers par véhicule automobile, ou s’il travaille à bord de trains, d’aéronefs ou de navires, dans l’établissement où est situé sa gare d’attache, son terminal, sa base d’affectation ou son port d’attache;
->
-> - **c)** s’il est lié par une entente de travail à distance prévoyant que toutes les heures sont travaillées à distance :
->
->   - **(i)** dans l’établissement où il se présentait au travail en personne le plus souvent avant l’entrée en vigueur de l’entente de travail à distance, si la nature de ses fonctions et de celles accomplies à cet établissement n’a pas changé depuis,
->
->   - **(ii)** si le sous-alinéa (i) ne s’applique pas ou ne permet pas d’établir clairement là où est considéré travailler l’employé, dans l’établissement où il se serait présenté au travail en personne n’eût été son entente de travail à distance, lequel est déterminé d’après les indicateurs suivants :
->
->     - **(A)** celui où il assisterait à des réunions en personne,
->
->     - **(B)** celui où il se présenterait en personne pour recevoir des documents ou du matériel liés au travail, ou des instructions et de l’aide connexes,
->
->     - **(C)** celui où il se présenterait en personne pour recevoir des instructions concernant ses fonctions,
->
->     - **(D)** celui où son superviseur se présente au travail en personne ou se serait présenté au travail en personne n’eût été son entente de travail à distance,
->
->     - **(E)** celui où il se présenterait au travail en personne vu la nature de ses fonctions.
->
-> **11.5** Pour l’application de l’alinéa 182.1(1)e) de la Loi, est une condition le fait que le salaire des employés pour l’exécution d’une tâche soit calculé en fonction d’un taux de salaire du même type, notamment :
->
-> - **a)** en fonction du temps;
->
-> - **b)** selon un taux kilométrique;
->
-> - **c)** à la pièce;
->
-> - **d)** en fonction du chargement;
->
-> - **e)** à la commission.
->
-> **11.6** Pour l’application de l’alinéa 182.1(2)d) de la Loi, les critères sont les suivants :
->
-> - **a)** le maintien du taux de salaire d’un employé à la suite d’un reclassement ou d’une rétrogradation à un poste dont le taux de salaire est inférieur à celui de l’employé, et ce jusqu’à ce que le taux de salaire du poste devienne supérieur au taux de salaire de l’employé immédiatement avant le reclassement ou la rétrogradation;
->
-> - **b)** l’augmentation des taux de salaire en raison de la difficulté à recruter ou à maintenir en poste des employés ayant les compétences requises à l’égard de certains postes lors d’une pénurie de main-d’œuvre qualifiée;
->
-> - **c)** la région où travaille un employé;
->
-> - **d)** la région où travaille un employé en déplacement;
->
-> - **e)** le fait qu’un employé en déplacement est payé à un taux de salaire différent de celui payé à un autre employé accomplissant le même travail et n’étant pas en déplacement.
-
-###### — DORS/2026-75, art. 2
-
-**2** Le même règlement est modifié par adjonction, après l’article 16, de ce qui suit :
-
-> ## Agences de placement temporaire
->
-> **16.1** Pour l’application de la section VI.1 de la Loi, ***régime*** s’entend de tout *régime*, au sens du paragraphe 11.2(3) du présent règlement, du client, dont les détails ont été communiqués par écrit à l’employé qui travaille dans le cadre d’une affectation auprès de ce client ou qui lui sont facilement accessibles pour consultation.
->
-> **16.2** Pour l’application de la section VI.1 de la Loi, sont désignées établissements les succursales, sections ou autres divisions des entreprises fédérales qui sont situées dans une région identifiée en vertu de l’alinéa 54w) de la [Loi sur l’assurance-emploi](../../acts/fr/E-5.6.md).
->
-> **16.3** Pour l’application de l’alinéa 203.2(1)a) de la Loi, lorsque le client a plus d’un établissement, l’employé est considéré comme travaillant, selon le cas :
->
-> - **a)** dans l’établissement où il se présente au travail en personne le plus souvent;
->
-> - **b)** si sa principale fonction est le transport de marchandises ou de passagers par véhicule automobile, ou s’il travaille à bord de trains, d’aéronefs ou de navires, dans l’établissement où est situé sa gare d’attache, son terminal, sa base d’affectation ou son port d’attache;
->
-> - **c)** s’il est lié par une entente de travail à distance prévoyant que toutes les heures sont travaillées à distance :
->
->   - **(i)** dans l’établissement où il se présentait au travail en personne le plus souvent avant l’entrée en vigueur de l’entente de travail à distance, si la nature de ses fonctions et de celles accomplies à cet établissement n’a pas changé depuis,
->
->   - **(ii)** si le sous-alinéa (i) ne s’applique pas ou ne permet pas d’établir clairement là où est considéré travailler l’employé, dans l’établissement où il se serait présenté au travail en personne n’eût été son entente de travail à distance, lequel est déterminé d’après les indicateurs suivants :
->
->     - **(A)** celui où il assisterait à des réunions en personne,
->
->     - **(B)** celui où il se présenterait en personne pour recevoir des documents ou du matériel liés au travail, ou des instructions et de l’aide connexes,
->
->     - **(C)** celui où il se présenterait en personne pour recevoir des instructions concernant ses fonctions,
->
->     - **(D)** celui où son superviseur se présente au travail en personne ou se serait présenté au travail en personne n’eût été son entente de travail à distance,
->
->     - **(E)** celui où il se présenterait au travail en personne vu la nature de ses fonctions.
->
-> **16.4** Pour l’application de l’alinéa 203.2(1)e) de la Loi, est une condition le fait que le salaire des employés pour l’exécution d’une tâche soit calculé en fonction d’un taux de salaire du même type, notamment :
->
-> - **a)** en fonction du temps;
->
-> - **b)** selon un taux kilométrique;
->
-> - **c)** à la pièce;
->
-> - **d)** en fonction du chargement;
->
-> - **e)** à la commission.
->
-> **16.5** Pour l’application de l’alinéa 203.2(2)d) de la Loi, les critères sont les suivants :
->
-> - **a)** le maintien du taux de salaire d’un employé à la suite d’un reclassement ou d’une rétrogradation à un poste dont le taux de salaire est inférieur à celui de l’employé, et ce jusqu’à ce que le taux de salaire du poste devienne supérieur au taux de salaire de l’employé immédiatement avant le reclassement ou la rétrogradation;
->
-> - **b)** l’augmentation des taux de salaire en raison de la difficulté à recruter ou à maintenir en poste des employés ayant les compétences requises à l’égard de certains postes lors d’une pénurie de main-d’œuvre qualifiée;
->
-> - **c)** la région où travaille un employé;
->
-> - **d)** la région où travaille un employé en déplacement;
->
-> - **e)** le fait qu’un employé en déplacement est payé à un taux de salaire différent de celui payé à un autre employé accomplissant le même travail et n’étant pas en déplacement.
-
-###### — DORS/2026-75, art. 3
-
-**3** Le paragraphe 24(2) du même règlement est modifié par adjonction, après l’alinéa f), de ce qui suit :
-
-> - **f.1)** *un registre décrivant tout régime visé aux paragraphes 182.1(2) ou 203.2(2) de la Loi et sur la base duquel l’employé est payé à un taux de salaire inférieur à celui payé à un autre employé;*
->
-> - **f.2)** toute demande de révision écrite faite par l’employé au titre des paragraphes 182.2(1) ou 203.3(1) de la Loi et une copie de la réponse écrite de l’employeur à l’égard de cette demande;
->
-> - **f.3)** dans le cas d’un employeur qui est une agence de placement temporaire, un registre indiquant tout client auprès duquel l’employé travaille dans le cadre d’une affectation et les dates de début et de fin de l’affectation;
-
-###### — DORS/2026-75, art. 4
-
-**4** À l’annexe II du même règlement, « L’égalité des salaires » est remplacé par « L’égalité de traitement ».
-
-###### — DORS/2026-75, art. 5
-
-**5** L’annexe II du même règlement est modifiée par adjonction, après la mention « Le travail au service de plusieurs employeurs », de ce qui suit :
-
-> **Les agences de placement temporaire**
-
-###### — DORS/2026-75, art. 6
-
-**6** À l’annexe II du même règlement, « Le congé de maladie » est remplacé par « Le congé pour raisons médicales ».
-
-###### — DORS/2026-75, art. 7
-
-**7** À l’annexe II du même règlement, « https://www.canada.ca/fr/emploi-developpement-social/programmes/normes-travail/normes-federales.html » est remplacé par « https://www.canada.ca/fr/services/emplois/milieu-travail/normes-travail-federales.html ».
-
 ## Modifications récentes
 
+- DORS/2026-75 2026-10-20
 - DORS/2025-240 2025-12-12
 - DORS/2023-79 2023-07-09
 - DORS/2023-40 2023-06-12
@@ -3318,8 +3311,3 @@ Les demandes de renseignements seront traitées de façon confidentielle.
 - DORS/2022-41 2022-03-04
 - DORS/2021-36 2021-11-20
 - DORS/2020-226 2021-09-25
-- DORS/2021-118 2021-07-01
-
----
-
-[^nbp_81000-2-5323_hq_1700513663]: C.R.C., ch. 986; DORS/2019-168, art. 1

@@ -5,5 +5,5 @@
 
 # Contents
 
-* [Acts](acts/) - 971 EN, 971 FR documents.
-* [Regulations](regulations/) - 4897 EN, 4897 FR documents.
+* [Acts](acts/) - 973 EN, 973 FR documents.
+* [Regulations](regulations/) - 4901 EN, 4901 FR documents.

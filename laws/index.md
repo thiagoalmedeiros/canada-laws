@@ -9,7 +9,7 @@ okf_version: "0.2"
 
 # Federal
 
-* [Canada (federal)](federal/) - 971 consolidated federal Acts and 4897 regulations, in English and French, converted from Justice Canada's official XML.
+* [Canada (federal)](federal/) - 973 consolidated federal Acts and 4901 regulations, in English and French, converted from Justice Canada's official XML.
 
 # Provinces
 
