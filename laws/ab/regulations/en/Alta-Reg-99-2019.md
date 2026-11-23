@@ -10,7 +10,7 @@ citation: "Alta Reg 99/2019"
 document_date: "2019-08-16"
 upstream_license: "Users are responsible for identifying and complying with all legal restrictions on the reproduction or publication of these documents, including any valid license terms, publication bans, statutory anonymity requirements, and privacy obligations. License from upstream source: https://kings-printer.alberta.ca/copyright.cfm; Archived (as of 6 November 2026): https://perma.cc/7GUJ-2NNL; Note: © Alberta King's Printer. Source: Alberta King's Printer Laws Online catalogue (https://kings-printer.alberta.ca). This reproduction of Alberta regulations is not an official version and has not been made in affiliation with or with the endorsement of the Government of Alberta. The official Statutes and Regulations should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-11-14T12:44:53Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-21T12:45:42Z }
 sources:
   - id: "official"
     resource: "https://kings-printer.alberta.ca/1266.cfm?page=2019_099.cfm&leg_type=Regs&isbncln=9780779812370&display=html"
@@ -20,7 +20,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-AB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-11-14T12:44:53Z"
+    last_modified: "2026-11-21T12:45:42Z"
 ---
 
 # Separate School Regions Establishment Order
