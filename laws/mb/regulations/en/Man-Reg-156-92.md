@@ -11,7 +11,7 @@ document_date: "1992-08-10"
 translation: "../fr/Man-Reg-156-92.md"
 upstream_license: "Users are responsible for identifying and complying with all legal restrictions on the reproduction or publication of these documents, including any valid license terms, publication bans, statutory anonymity requirements, and privacy obligations. License from upstream source: https://manitoba.ca/legal/mb_laws.html; Archived (as of 6 November 2026): https://perma.cc/6XPS-5YTQ; Note: © King's Printer for Manitoba. Source: Manitoba Laws website (https://web2.gov.mb.ca/laws/). This reproduction of Manitoba regulations is not an official version and has not been made in affiliation with or with the endorsement of the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-11-14T11:45:21Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-21T11:45:26Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/regs/current/156-92.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-11-14T11:45:21Z"
+    last_modified: "2026-11-21T11:45:26Z"
 ---
 
 # Residential Rent Regulation
@@ -114,7 +114,7 @@ M.R. 171/92; 171/93; 155/94; 136/95; 171/96; 183/97; 106/98; 125/99; 117/2000; 1
 
 4.1(1) For the purpose of subsection 120(2) of the Act, a landlord may increase the rent charged for a rental unit by no more than the amount determined by the following formula and expressed as a percentage, rounded to one decimal place:
 
-| Maximum permitted rent increase | = 100 × (A-B)/B |
+| Maximum permitted rent increase | = 100 × (A−B)/B |
 | --- | --- |
 
 In this formula,
@@ -281,7 +281,7 @@ B is the total number of rental units in the complex.
 
 9(1.2) For the purpose of subsection (1), a landlord's capital expenses are considered to be incurred to the following extent:
 
-(a) 1/3 of the acquisition or replacement cost of
+(a) 20% of the acquisition or replacement cost of
 
 (i) caulking (interior),
 
@@ -293,7 +293,7 @@ B is the total number of rental units in the complex.
 
 (v) interior painting;
 
-(b) 1/4 of the acquisition or replacement cost of
+(b) 15% of the acquisition or replacement cost of
 
 (i) air conditioning units (wall or window units),
 
@@ -323,7 +323,7 @@ B is the total number of rental units in the complex.
 
 (xiv) water heaters (direct heat);
 
-(c) 1/6 of the acquisition or replacement cost of
+(c) 10% of the acquisition or replacement cost of
 
 (i) cabinetry and countertops,
 
@@ -371,7 +371,7 @@ B is the total number of rental units in the complex.
 
 (xxiii) windows, if the acquisition or replacement increases the energy efficiency of the residential complex in accordance with standards established by the director;
 
-(d) 1/8 of the acquisition or replacement cost of
+(d) 7.5% of the acquisition or replacement cost of
 
 (i) cable television wiring,
 
@@ -411,7 +411,7 @@ B is the total number of rental units in the complex.
 
 (xix) windows, if the acquisition or replacement does not increase the energy efficiency of the residential complex sufficiently to meet standards established by the director;
 
-(e) 1/3, 1/4, 1/6 or 1/8, as determined by the director, of the cost of other items as the director determines to be capital expenses.
+(e) 20%, 15%, 10% or 7.5%, as determined by the director, of the cost of other items as the director determines to be capital expenses.
 
 9(2) Where a capital expense is incurred to provide a substitute for an existing service and the substitution causes a reduction in operating expenses respecting that service in the period in which the capital expense was incurred, an equivalent amount shall be deducted from that category of operating expenses for the previous period.
 
@@ -465,7 +465,7 @@ B is the total number of rental units in the complex.
 
 ### Increase for added furniture
 
-10.2 For the purpose of subsection 132.1(1) of the Act, the portion of the cost of furniture by which rent may be increased on a monthly basis is 1/36.
+10.2 For the purpose of subsection 132.1(1) of the Act, the portion of the cost of furniture by which rent may be increased on a monthly basis is 2.78%.
 
 ### Prohibited expenses
 

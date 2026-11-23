@@ -11,7 +11,7 @@ document_date: "1992-08-10"
 translation: "../en/Man-Reg-156-92.md"
 upstream_license: "Users are responsible for identifying and complying with all legal restrictions on the reproduction or publication of these documents, including any valid license terms, publication bans, statutory anonymity requirements, and privacy obligations. License from upstream source: https://manitoba.ca/legal/mb_laws.html; Archived (as of 6 November 2026): https://perma.cc/6XPS-5YTQ; Note: © King's Printer for Manitoba. Source: Manitoba Laws website (https://web2.gov.mb.ca/laws/). This reproduction of Manitoba regulations is not an official version and has not been made in affiliation with or with the endorsement of the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-11-14T11:45:21Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-21T11:45:26Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/regs/current/156-92.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-11-14T11:45:21Z"
+    last_modified: "2026-11-21T11:45:26Z"
 ---
 
 # Règlement sur le contrôle du loyer des locaux d'habitation
@@ -84,7 +84,7 @@ d) les unités locatives à l'égard desquelles la Société canadienne d'hypoth
 
 e) les unités locatives à l'égard desquelles la Société canadienne d'hypothèques et de logement a versé une contribution en application de l'article 95 de la Loi nationale sur l'habitation (Canada);
 
-f) les unités locatives qui appartiennent à une association personnalisée ou qui sont louées par celle-ci et qui sont exploitées en vertu d'une entente conclue avec la Société d'habitation et de rénovation du Manitoba dans le cadre du programme Logements à louer à l'intention des personnes âgées du Manitoba créé en application du décret n° 1123/86;
+f) les unités locatives qui appartiennent à une association personnalisée ou qui sont louées par celle-ci et qui sont exploitées en vertu d'une entente conclue avec la Société d'habitation et de rénovation du Manitoba dans le cadre du programme Logements à louer à l'intention des personnes âgées du Manitoba créé en application du décret no 1123/86;
 
 g) les unités locatives financées et exploitées en vertu d'une entente de gestion immobilière conclue dans le cadre du Programme de logement pour les Autochtones et les habitants des régions rurales créé sous le régime de l'article 79 de la Loi nationale sur l'habitation (Canada);
 
@@ -108,7 +108,7 @@ R.M. 171/92; 171/93; 155/94; 136/95; 171/96; 183/97; 106/98; 125/99; 117/2000 ; 
 
 4.1(1) Pour l'application du paragraphe 120(2) de la Loi, les locateurs peuvent augmenter le loyer d'une unité locative d'au plus le pourcentage calculé à l'aide de la formule qui suit et arrondi à une décimale près :
 
-| augmentation maximale du loyer permise | = 100 × (A-B)/B |
+| augmentation maximale du loyer permise | = 100 × (A−B)/B |
 | --- | --- |
 
 Dans la présente formule :
@@ -271,7 +271,7 @@ b) la partie des dépenses visées aux alinéas (1)a) et b) qui ont pour objet d
 
 9(1.2) Pour l'application du paragraphe (1), les dépenses en immobilisations du locateur sont admissibles à ce titre jusqu'à concurrence :
 
-a) du tiers du coût d'acquisition ou de remplacement de ce qui suit :
+a) de 20 % du coût d'acquisition ou de remplacement de ce qui suit :
 
 (i) le calfeutrage (intérieur),
 
@@ -283,11 +283,11 @@ a) du tiers du coût d'acquisition ou de remplacement de ce qui suit :
 
 (v) la peinture d'intérieur;
 
-b) du quart du coût d'acquisition ou de remplacement de ce qui suit :
+b) de 15 % du coût d'acquisition ou de remplacement de ce qui suit :
 
 (i) les climatiseurs (muraux ou de fenêtre),
 
-(ii) les vélums en vinyle,
+(ii) les auvents en vinyle,
 
 (iii) les lave-vaisselle,
 
@@ -313,11 +313,11 @@ b) du quart du coût d'acquisition ou de remplacement de ce qui suit :
 
 (xiv) les chauffe-eau (chaleur directe);
 
-c) du sixième du coût d'acquisition ou de remplacement de ce qui suit :
+c) de 10 % du coût d'acquisition ou de remplacement de ce qui suit :
 
 (i) les armoires et les comptoirs,
 
-(ii) les vélums (de métal ou de béton),
+(ii) les auvents en métal ou en béton,
 
 (iii) le calfeutrage (extérieur),
 
@@ -361,7 +361,7 @@ c) du sixième du coût d'acquisition ou de remplacement de ce qui suit :
 
 (xxiii) les fenêtres, si l'acquisition ou le remplacement augmente le rendement énergétique de l'ensemble résidentiel conformément aux normes établies par le directeur;
 
-d) du huitième du coût d'acquisition ou de remplacement de ce qui suit :
+d) de 7,5 % du coût d'acquisition ou de remplacement de ce qui suit :
 
 (i) les câbles de câblodiffusion,
 
@@ -401,7 +401,7 @@ d) du huitième du coût d'acquisition ou de remplacement de ce qui suit :
 
 (xix) les fenêtres, si l'acquisition ou le remplacement n'augmente pas le rendement énergétique de l'ensemble résidentiel d'une manière qui satisfait aux normes établies par le directeur;
 
-e) du tiers, du quart, du sixième ou du huitième, selon ce que le directeur détermine, du coût des autres articles qu'il désigne à titre de dépenses en immobilisations.
+e) de 20 %, de 15 %, de 10 % ou de 7,5 %, selon ce que le directeur détermine, du coût des autres articles qu'il désigne à titre de dépenses en immobilisations.
 
 9(2) Si des dépenses en immobilisations sont engagées en vue du remplacement d'un service existant et si le remplacement en question entraîne la réduction des frais d'exploitation relatifs à ce service pour la période pendant laquelle les dépenses ont été engagées, un montant équivalent est déduit de cette catégorie de frais d'exploitation pour la période précédente.
 
@@ -455,7 +455,7 @@ b) tout changement fait aux installations de buanderie depuis la date de la dern
 
 ### Augmentation du loyer pour ajout de meubles
 
-10.2 Pour l'application du paragraphe 132.1(1) de la Loi, la partie du coût des meubles par laquelle le loyer peut être augmenté mensuellement est de 1/36.
+10.2 Pour l'application du paragraphe 132.1(1) de la Loi, la partie du coût des meubles par laquelle le loyer peut être augmenté mensuellement est de 2,78 %.
 
 ### Dépenses interdites
 

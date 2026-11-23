@@ -11,7 +11,7 @@ document_date: "1994-10-07"
 translation: "../fr/Man-Reg-196-94.md"
 upstream_license: "Users are responsible for identifying and complying with all legal restrictions on the reproduction or publication of these documents, including any valid license terms, publication bans, statutory anonymity requirements, and privacy obligations. License from upstream source: https://manitoba.ca/legal/mb_laws.html; Archived (as of 6 November 2026): https://perma.cc/6XPS-5YTQ; Note: © King's Printer for Manitoba. Source: Manitoba Laws website (https://web2.gov.mb.ca/laws/). This reproduction of Manitoba regulations is not an official version and has not been made in affiliation with or with the endorsement of the Government of Manitoba. The official versions should be consulted for all purposes of interpreting and applying the law."
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-11-14T11:49:50Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-21T11:49:54Z }
 sources:
   - id: "official"
     resource: "https://web2.gov.mb.ca/laws/regs/current/196-94.php?lang=en"
@@ -21,7 +21,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-MB/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-11-14T11:49:50Z"
+    last_modified: "2026-11-21T11:49:54Z"
 ---
 
 # Exempt Income Tax Remission Order, 1994

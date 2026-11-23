@@ -1,5 +1,8 @@
 # Manitoba: update log
 
+## 2026-11-23
+* **Update**: Refreshed from the A2AJ Canadian Laws dataset (3121 laws added, changed or removed).
+
 ## 2026-11-16
 * **Update**: Refreshed from the A2AJ Canadian Laws dataset (3121 laws added, changed or removed).
 
