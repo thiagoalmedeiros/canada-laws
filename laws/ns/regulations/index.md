@@ -1,3 +1,3 @@
 # Nova Scotia: regulations
 
-* [Regulations (English)](en/) - 1397 documents.
+* [Regulations (English)](en/) - 1393 documents.

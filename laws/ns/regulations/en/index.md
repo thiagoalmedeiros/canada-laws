@@ -363,9 +363,6 @@
 * [Designations of Notifiable and Reportable Diseases](NS-Reg-67-2021-2.md) - Nova Scotia regulation, NS Reg 67/2021.
 * [Designations of Persons Who May Access Records](NS-Reg-40-2004.md) - Nova Scotia regulation, NS Reg 40/2004.
 * [Determination of Boundaries Between the Town of Annapolis Royal and the Municipality of the County of Annapolis](NS-Reg-81-2019.md) - Nova Scotia regulation, NS Reg 81/2019.
-* [Determination of Boundaries Between the Town of Bridgetown and the Municipality of the County of Annapolis](NS-Reg-4-2011.md) - Nova Scotia regulation, NS Reg 4/2011.
-* [Determination of Boundaries Between the Town of Bridgetown and the Municipality of the County of Annapolis](NS-Reg-81-2006.md) - Nova Scotia regulation, NS Reg 81/2006.
-* [Determination of Boundaries Between the Town of Bridgetown and the Municipality of the County of Annapolis](NS-Reg-81-2012.md) - Nova Scotia regulation, NS Reg 81/2012.
 * [Determination of Boundaries Between the Town of Truro and the Municipality of the County of Colchester](NS-Reg-38-2019.md) - Nova Scotia regulation, NS Reg 38/2019.
 * [Development Approval Cost Freeze Expiration Date Regulations](NS-Reg-173-2025.md) - Nova Scotia regulation, NS Reg 173/2025.
 * [Devils Jaw Wilderness Area Designation](NS-Reg-389-2015.md) - Nova Scotia regulation, NS Reg 389/2015.
@@ -1237,7 +1234,6 @@
 * [Special Operating Agency Designations](NS-Reg-204-2004.md) - Nova Scotia regulation, NS Reg 204/2004.
 * [Specified Site Regulations](NS-Reg-116-2020.md) - Nova Scotia regulation, NS Reg 116/2020.
 * [Spinneys Heath Nature Reserve](NS-Reg-238-2004.md) - Nova Scotia regulation, NS Reg 238/2004.
-* [Sport and Recreation Activity Designation Regulations](NS-Reg-168-2005.md) - Nova Scotia regulation, NS Reg 168/2005.
 * [Sporting Lake Nature Reserve](NS-Reg-135-90.md) - Nova Scotia regulation, NS Reg 135/90.
 * [Spring Weight Restriction Regulations](NS-Reg-31-2018.md) - Nova Scotia regulation, NS Reg 31/2018.
 * [Springhill Geothermal Resource Area Designation](NS-Reg-195-1992.md) - Nova Scotia regulation, NS Reg 195/1992.

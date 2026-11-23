@@ -525,7 +525,6 @@
 * [Sale of Land Under Execution Act](RSNS-1989-c-409.md) - Nova Scotia Act, RSNS 1989, c 409.
 * [Sales Tax Act](SNS-1996-c-31.md) - Nova Scotia Act, SNS 1996, c 31.
 * [Scalers Act](SNS-2001-c-11.md) - Nova Scotia Act, SNS 2001, c 11.
-* [Scott Maritimes Limited Agreement (1965) Act](RSNS-1989-c-415.md) - Nova Scotia Act, RSNS 1989, c 415.
 * [Sea, Army, Air and Navy League Cadets Day Act](SNS-2010-c-7.md) - Nova Scotia Act, SNS 2010, c 7.
 * [Seamen's Memorial Day Act](RSNS-1989-c-417.md) - Nova Scotia Act, RSNS 1989, c 417.
 * [Securities Act](RSNS-1989-c-418.md) - Nova Scotia Act, RSNS 1989, c 418.
