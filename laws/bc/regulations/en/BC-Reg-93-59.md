@@ -8,7 +8,7 @@ jurisdiction: "bc"
 language: "en"
 citation: "BC Reg 93/59"
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-11-14T12:02:32Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-21T12:03:06Z }
 sources:
   - id: "official"
     resource: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/93_59/xml"
@@ -18,7 +18,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-BC/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-11-14T12:02:32Z"
+    last_modified: "2026-11-21T12:03:06Z"
 ---
 
 # Domestic Bacterial Ring Rot Regulation

@@ -9,7 +9,7 @@ language: "en"
 citation: "BC Reg 24/94"
 document_date: "1994-01-13"
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-11-14T11:49:56Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-21T11:49:42Z }
 sources:
   - id: "official"
     resource: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/24_94/xml"
@@ -19,7 +19,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-BC/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-11-14T11:49:56Z"
+    last_modified: "2026-11-21T11:49:42Z"
 ---
 
 # Squamish-Lillooet Regional District Regulation

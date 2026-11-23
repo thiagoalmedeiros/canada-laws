@@ -110,6 +110,7 @@
 * [BC Education Coaching Tax Credit Regulation](BC-Reg-82-2015.md) - British Columbia regulation, BC Reg 82/2015.
 * [BC Harmonized Sales Tax Credit Regulation](BC-Reg-184-2010.md) - British Columbia regulation, BC Reg 184/2010.
 * [BC Hydro Integrated Resource Plan Regulation](BC-Reg-266-2018.md) - British Columbia regulation, BC Reg 266/2018.
+* [BC Instrument 22-502 Registration by the Canadian Investment Regulatory Organization](BC-Reg-30-2026.md) - British Columbia regulation, BC Reg 30/2026.
 * [BC Instrument 81-513 Self-Dealing](BC-Reg-267-2010.md) - British Columbia regulation, BC Reg 267/2010.
 * [BC Online Regulation](BC-Reg-103-2014.md) - British Columbia regulation, BC Reg 103/2014.
 * [BC Parks Recreation User Fees Regulation](BC-Reg-136-2009.md) - British Columbia regulation, BC Reg 136/2009.

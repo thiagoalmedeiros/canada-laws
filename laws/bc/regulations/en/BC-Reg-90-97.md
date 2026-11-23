@@ -9,7 +9,7 @@ language: "en"
 citation: "BC Reg 90/97"
 document_date: "1997-03-13"
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-11-14T12:01:02Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-21T12:01:30Z }
 sources:
   - id: "official"
     resource: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/90_97/xml"
@@ -19,7 +19,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-BC/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-11-14T12:01:02Z"
+    last_modified: "2026-11-21T12:01:30Z"
 ---
 
 # Pension Fund Societies Act Regulation

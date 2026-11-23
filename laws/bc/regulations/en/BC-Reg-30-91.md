@@ -9,7 +9,7 @@ language: "en"
 citation: "BC Reg 30/91"
 document_date: "1991-02-01"
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-11-14T11:06:47Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-21T11:06:49Z }
 sources:
   - id: "official"
     resource: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/30_91/xml"
@@ -19,7 +19,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-BC/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-11-14T11:06:47Z"
+    last_modified: "2026-11-21T11:06:49Z"
 ---
 
 # British Columbia Transit Regulation

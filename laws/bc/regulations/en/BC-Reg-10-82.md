@@ -9,7 +9,7 @@ language: "en"
 citation: "BC Reg 10/82"
 document_date: "1982-01-11"
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-11-14T12:01:38Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-21T12:02:07Z }
 sources:
   - id: "official"
     resource: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/10_82/xml"
@@ -19,7 +19,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-BC/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-11-14T12:01:38Z"
+    last_modified: "2026-11-21T12:02:07Z"
 ---
 
 # Petroleum and Natural Gas Drilling Licence and Lease Regulation

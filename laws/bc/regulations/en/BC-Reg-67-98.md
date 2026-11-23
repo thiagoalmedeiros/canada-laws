@@ -9,7 +9,7 @@ language: "en"
 citation: "BC Reg 67/98"
 document_date: "1998-03-12"
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-11-14T11:56:52Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-21T11:56:39Z }
 sources:
   - id: "official"
     resource: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/67_98/xml"
@@ -19,7 +19,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-BC/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-11-14T11:56:52Z"
+    last_modified: "2026-11-21T11:56:39Z"
 ---
 
 # Municipal Finance Authority Regulation

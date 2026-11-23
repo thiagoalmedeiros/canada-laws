@@ -9,7 +9,7 @@ language: "en"
 citation: "BC Reg 17/90"
 document_date: "1990-01-19"
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-11-14T11:57:01Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-21T11:56:48Z }
 sources:
   - id: "official"
     resource: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/17_90/xml"
@@ -19,7 +19,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-BC/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-11-14T11:57:01Z"
+    last_modified: "2026-11-21T11:56:48Z"
 ---
 
 # Okanagan-Kootenay Sterile Insect Release Service Regulation

@@ -9,7 +9,7 @@ language: "en"
 citation: "BC Reg 87/91"
 document_date: "1991-03-22"
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-11-14T12:03:25Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-21T12:04:09Z }
 sources:
   - id: "official"
     resource: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/87_91/xml"
@@ -19,7 +19,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-BC/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-11-14T12:03:25Z"
+    last_modified: "2026-11-21T12:04:09Z"
 ---
 
 # Police (Disposal of Property) Regulation

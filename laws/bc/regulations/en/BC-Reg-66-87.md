@@ -9,7 +9,7 @@ language: "en"
 citation: "BC Reg 66/87"
 document_date: "1987-03-16"
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-11-14T11:39:03Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-21T11:38:47Z }
 sources:
   - id: "official"
     resource: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/66_87/xml"
@@ -19,7 +19,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-BC/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-11-14T11:39:03Z"
+    last_modified: "2026-11-21T11:38:47Z"
 ---
 
 # Applicability Regulation No. 2

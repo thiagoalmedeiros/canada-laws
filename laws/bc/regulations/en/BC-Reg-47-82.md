@@ -9,7 +9,7 @@ language: "en"
 citation: "BC Reg 47/82"
 document_date: "1982-02-22"
 status: "stable"
-generated: { by: process:canada-laws-provincial-converter, at: 2026-11-14T12:25:09Z }
+generated: { by: process:canada-laws-provincial-converter, at: 2026-11-21T12:27:08Z }
 sources:
   - id: "official"
     resource: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/47_82/xml"
@@ -19,7 +19,7 @@ sources:
     resource: "https://huggingface.co/datasets/a2aj/canadian-laws/blob/main/REGULATIONS-BC/train.parquet"
     title: "A2AJ Canadian Laws dataset"
     author: "org:a2aj"
-    last_modified: "2026-11-14T12:25:09Z"
+    last_modified: "2026-11-21T12:27:08Z"
 ---
 
 # Veterinary Drug and Medicated Feed Regulation
