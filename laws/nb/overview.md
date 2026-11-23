@@ -1,14 +1,14 @@
 ---
 type: "Jurisdiction"
 title: "New Brunswick"
-description: "422 Acts and 676 regulations of New Brunswick, from the official laws website via the A2AJ dataset. Unofficial; personal and non-commercial use."
+description: "422 Acts and 677 regulations of New Brunswick, from the official laws website via the A2AJ dataset. Unofficial; personal and non-commercial use."
 resource: "https://laws.gnb.ca"
 tags: ["nb", "jurisdiction"]
 jurisdiction: "nb"
 acts_en: 422
 acts_fr: 422
-regulations_en: 676
-regulations_fr: 676
+regulations_en: 677
+regulations_fr: 677
 status: "stable"
 generated: { by: process:canada-laws-provincial-converter }
 sources:
@@ -31,7 +31,7 @@ The Acts and regulations of New Brunswick (Nouveau-Brunswick), as published by G
 | | English | Français |
 |---|---|---|
 | Acts / Lois | [422](acts/en/) | [422](acts/fr/) |
-| Regulations / Règlements | [676](regulations/en/) | [676](regulations/fr/) |
+| Regulations / Règlements | [677](regulations/en/) | [677](regulations/fr/) |
 
 # Concepts
 

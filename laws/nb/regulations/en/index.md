@@ -304,6 +304,7 @@
 * [General](NB-Reg-2025-14.md) - New Brunswick regulation, NB Reg 2025-14.
 * [General](NB-Reg-2025-47.md) - New Brunswick regulation, NB Reg 2025-47.
 * [General](NB-Reg-2026-29.md) - New Brunswick regulation, NB Reg 2026-29.
+* [General](NB-Reg-2026-68.md) - New Brunswick regulation, NB Reg 2026-68.
 * [General](NB-Reg-81-147.md) - New Brunswick regulation, NB Reg 81-147.
 * [General](NB-Reg-82-100.md) - New Brunswick regulation, NB Reg 82-100.
 * [General](NB-Reg-82-218.md) - New Brunswick regulation, NB Reg 82-218.

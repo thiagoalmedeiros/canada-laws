@@ -16,7 +16,7 @@ okf_version: "0.2"
 * [Alberta](ab/) - 442 Acts and 928 regulations of Alberta, from the official laws website via the A2AJ dataset. Unofficial; personal and non-commercial use.
 * [British Columbia](bc/) - 572 Acts and 1477 regulations of British Columbia, from the official laws website via the A2AJ dataset. Unofficial; personal and non-commercial use.
 * [Manitoba](mb/) - 517 Acts and 1092 regulations of Manitoba, from the official laws website via the A2AJ dataset. Unofficial; personal and non-commercial use.
-* [New Brunswick](nb/) - 422 Acts and 676 regulations of New Brunswick, from the official laws website via the A2AJ dataset. Unofficial; personal and non-commercial use.
+* [New Brunswick](nb/) - 422 Acts and 677 regulations of New Brunswick, from the official laws website via the A2AJ dataset. Unofficial; personal and non-commercial use.
 * [Newfoundland and Labrador](nl/) - 402 Acts and 1666 regulations of Newfoundland and Labrador, from the official laws website via the A2AJ dataset. Unofficial; personal and non-commercial use.
 * [Nova Scotia](ns/) - 627 Acts and 1397 regulations of Nova Scotia, from the official laws website via the A2AJ dataset. Unofficial; personal and non-commercial use.
 * [Ontario](on/) - 856 Acts and 2217 regulations of Ontario, from the official laws website via the A2AJ dataset. Unofficial; personal and non-commercial use.

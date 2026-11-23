@@ -316,6 +316,7 @@
 * [Général](NB-Reg-2025-14.md) - Règlement (Nouveau-Brunswick), Règl du N-B 2025-14.
 * [Général](NB-Reg-2025-47.md) - Règlement (Nouveau-Brunswick), Règl du N-B 2025-47.
 * [Général](NB-Reg-2026-29.md) - Règlement (Nouveau-Brunswick), Règl du N-B 2026-29.
+* [Général](NB-Reg-2026-68.md) - Règlement (Nouveau-Brunswick), Règl du N-B 2026-68.
 * [Général](NB-Reg-81-147.md) - Règlement (Nouveau-Brunswick), Règl du N-B 81-147.
 * [Général](NB-Reg-82-100.md) - Règlement (Nouveau-Brunswick), Règl du N-B 82-100.
 * [Général](NB-Reg-82-218.md) - Règlement (Nouveau-Brunswick), Règl du N-B 82-218.
