@@ -1,6 +1,7 @@
 # Canadian laws: update log
 
 ## 2026-11-23
+* **Update**: [nl](nl/): 2068 laws added, changed or removed.
 * **Update**: [nb](nb/): 2198 laws added, changed or removed.
 * **Update**: [mb](mb/): 3121 laws added, changed or removed.
 * **Update**: [bc](bc/): 2049 laws added, changed or removed.
